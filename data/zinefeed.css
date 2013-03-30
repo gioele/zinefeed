@@ -1,0 +1,53 @@
+h1 {
+	font-size: 200%;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+
+/* Title page */
+
+.titlepage {
+	height: 100%;
+	width: 100%;
+	display: table;
+}
+
+.titlepage body {
+	height: 100%;
+	width: 100%;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.titlepage body * {
+	text-align: center;
+}
+
+.titlepage #title, .titlepage #date {
+	display: block;
+}
+
+.titlepage #title {
+	font-size: 200%;
+}
+
+.titlepage #date {
+	font-size: 80%;
+}
+
+
+/* TOC */
+
+.toc p.title {
+	font-size: 110%;
+	font-weight: bold;
+}
+
+.toc p.author {
+	font-style: italic;
+}
