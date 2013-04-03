@@ -1,4 +1,4 @@
-source :rubygems
+source "https://rubygems.org"
 
 gem "feedzirra"
 gem "ruby-readability", :require => "readability"
