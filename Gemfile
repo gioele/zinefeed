@@ -5,4 +5,5 @@ gem "ruby-readability", :require => "readability"
 gem "fastimage"
 gem "eeepub"
 
-gem "rspec"
+gem "rspec", :group => ':development'
+gem "fakeweb", :group => ':development'
