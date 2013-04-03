@@ -1,0 +1,2757 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:57:40 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:57:40 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 187288
+Accept-Ranges: bytes
+X-Varnish: 557702816
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Kollateralschaden ǀ Geschäftsmodell Schneeballsystem — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Zypern zeigt, systemrelevant in der Eurozone sind nicht nur Banken. Systemrelevant ist auch die Furcht des Normalbürgers um die Sicherheit seines Sparguthabens" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364997459" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364997459" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364997459" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364997459" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364997459" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364997459" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364997459" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=ausland">ausland</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=zypern">zypern</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=bankenkrise">bankenkrise</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=spareinlagen">spareinlagen</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=bankenpanik">bankenpanik</a>
+          
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Lutz Herden</span>
+        <div class="additional-info">
+          <span class="date">29.03.2013</span> |
+          <span class="time">11:40</span>
+          <span class="comment-count" title=" 55 mal kommentiert">55</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Geschäftsmodell Schneeballsystem</h1>
+
+        <p class="description">
+          <span class="catchword">Kollateralschaden</span>
+          Zypern zeigt, systemrelevant in der Eurozone sind nicht nur Banken. Systemrelevant ist auch die Furcht des Normalbürgers um die Sicherheit seines Sparguthabens
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem/@@images/6002b179-8319-4cbb-abdc-101a2f589277.jpeg" alt="Geschäftsmodell Schneeballsystem" title="Geschäftsmodell Schneeballsystem" height="282" width="445" /><p class="caption">Jeroen René Victor Anton Dijsselbloem</p>
+            <p class="credit">Foto: Georges Gobet / AFP / Getty</p>
+          </div>
+        
+
+        <div class="text"><p><span>Der Zypern-Rettung hat einen psychologischen Kollateralschaden produziert, dessen bahnbrechende Wirkung unbestreitbar ist. Er besteht in der Erfahrung, dass die willkürliche Enteignung des Normalbürgers ein legitimes Mittel des Euro-Krisenmanagements sein kann. Folglich muss die Definition von Systemrelevanz – eigentlich schon immer, aber nun erst recht – ergänzt werden: Systemrelevant für das Wirtschaftssystem der Eurozone sind nicht allein Banken und Staaten. Systemrelevant ist mindestens ebenso die Erkenntnis, dass alles andere als überdurchschnittlich hohe Sparguthaben und damit die monetären Bilanzen individueller Lebensleistungen nicht mehr sicher sind.</span></p>
+<h2><span>So alt wie das Geld </span></h2>
+<p><span>Zypern zeigt die Krise des Geldsystems, dem wir uns ausliefern. Wenn die Zypern-Erfahrung Panik an den Bankschaltern der Euroraumes heckt, bricht dieses System zusammen. Will heißen, wenn morgen alle Sparer in Deutschland mit Einlagen um die 100.000 Euro diesen Betrag abheben wollen, ist die Einlagengarantie der Bundesregierung für eben diese 100.000 Euro nichts mehr wert. Es würde dann schnell klar, Sparguthaben sind nur virtuelle Buchgelder, die nicht ohne weiteres abrufbar – sprich: realisierbar – sind, weil Banken eben keine Geldbewahr-Anstalten, sondern Akteure eines Finanzmarktes sind und mit dem Geld ihrer Kunden ein mehr oder weniger gelungenes Geschäftsleben bestreiten. Wir haben es genau genommen mit einer Art Schneeballsystem zu tun, bei dem um Gotteswillen nie alle Anspruchsberechtigten ihre Ansprüche auf einmal geltend machen dürfen. <br /></span></p>
+<p><span>Kein Staat der Welt kann garantieren oder im Zweifelsfall gar ersetzen, was sie dabei unter Umständen verloren geht oder verspielt wird. Diese Einsicht ist so alt wie das Geld. Nur hat eben die Zypern-Krise das Bewusstsein dafür geschärft, wie leicht dieses System erschüttert werden kann, dass sich der Vergleich mit einen Kartenhaus aufdrängt, wäre er nicht allzu abgegriffen.</span></p>
+<h2><span>Man sollte Dijsselbloem glauben!</span></h2>
+<p><span>Insofern fällt es schwer, den gebetsmühlenartig wiederholten Beteuerungen zu glauben, bei Zypern handle es sich um einen Einzelfall ohne grenzüberschreitende Folgen. Schon die Fakten widerlegen das. Solange wie auf der Mittelmeerinsel blieben in einem Euro-Staat die Banken noch nie geschlossen. So rigoros wurde noch nie seit Ausbruch der Eurokrise auf Guthaben von Bankenkunden zugriffen. Dabei geht es nicht allein um den 40-Prozent-Haircut bei Einlagen von mehr als 100.000 Euro, sondern die ganze Klaviatur der momentanen Reglementierung. </span></p>
+<p><span>Bis auf weiteres können auf Zypern nur 300 Euro täglich in bar abgehoben und keine Barschecks mehr eingelöst werden. Überweisungen oder Geldtransfers sind verboten, es sei denn, sie sind für Handelsgeschäfte unerlässlich. Zahlungen zwischen 5.001 und 200.000 Euro müssen von der Zentralbank in Nikosia genehmigt werden. Transfers zur Begleichung von Lebenshaltungskosten sind auf 5.000 Euro pro Quartal (!) limitiert und so weiter. </span></p>
+<p><span>Wie lange diese Maßnahmen auch immer gelten – sie widersprechen dem ansonsten im europäischen Kapitalismus als sakrosankt geltenden Grundsatz der Kapitalverkehrsfreiheit. Sie widerlegen das Gebot, dass jeder über sein Geld verfügen können muss. Zyprioten werden wie Kleinkriminelle behandelt, die im Geruch stehen, bei zwielichtigen Geschäften gut verdient zu haben und es daher hinnehmen müssen, diszipliniert zu werden. </span></p>
+<p><span>Was ist angesichts eines derart verriegelten Zugangs zu privaten Bankkonten die Einlagensicherungs-Garantie in der Eurozone noch wert? Über dieser schönen neuen Bankenwelt schwebt die Aussage von Jeroen Dijsselbloem, des niederländischen Chefs der Eurogruppe</span>:<span> Das Muster der Zypern-Rettung sei „eine Vorlage“, wie künftig in vergleichbaren Fällen verfahren werden könne. </span></p>
+<p><span>Auch wenn diese Aussage der unglaubliche taktische Schnitzer eines Politikers ist, der maßgeblich für das Euro-Krisenmanagement verantwortlich zeichnet – man sollte Dijsselbloem glauben! Es dürfte sich seit Ausbruch der Weltfinanzkrise im Herbst 2008 herumgesprochen haben, dass die Finanzgeschäfte aller Bankhäuser auf dem internationalen Kapitalmarkt vom finanziellen Volumen her bei weitem das übertreffen, was der Normalklient diesen Instituten als Einlage anvertraut. Und es ist ebenso bekannt, dass es bei Verlusten im Kapitalinvestment um die Solvenz manches Bankhauses schnell geschehen sein kann. Und Kleinsparer haben im Insolvenzfall als letzte Ansprüche anzumelden. </span></p>
+<h2><span>Bankenrettung in Deutschland</span></h2>
+<p><span>Vielleicht sollte man auch deshalb in Deutschland nicht allzu großspurig und selbstgefällig auf Zypern schauen. Im Herbst 2008 wurde jäh erkennbar, wie sehr sich gerade hiesige Geldhäuser verspekulieren können. Die Commerzbank zum Beispiel. Sie musste mit 8,2 Milliarden Euro aus dem Sonderfonds </span><span><span>Finanzmarktstabilisierung (SoFFin) gestützt werden und wurde teilverstaatlicht, was ihr noch einmal 8,2 Milliarden an stillen Einlagen zu den gleichen Konditionen aus der gleichen Quelle brachte. Stammkapital aufpumpen und durchhalten, hieß die Devise. </span></span></p>
+<p><span><span>Die Münchner Investmentbank Hypo Real Estate Holding (HRE), die Ende 2008 vor der Pleite stand, brauchte 6,3 Milliarden Euro aus dem SoFFin – und bekam sie. Oder man denke an den bemitleidenswerten Zustand etlicher Landesbanken wie der BayernLB, der HSH Nordbank oder der WestLB, denen der SoFFin bis Anfang Mai 2009 mit Stabilisierungshilfen von 152 Milliarden Euro ein gefälliger Lebensspender war. Woraus speiste sich der SoFFin? Aus Sondervermögen des Bundes, hieß es offiziell. Aber die gab es nur, weil der Staat über öffentliches Eigentum und Rücklagen verfügte, in die Steuergelder geflossen waren. </span></span></p>
+<p><span>All den genannten Geldhäuser wurde wieder Leben eingehaucht, weil sie als „systemrelevant“ eingestuft waren, allerdings den Beweis, es tatsächlich zu sein, nie antreten mussten. </span></p>
+<p><span>Die normalen Bankkunden sind das auf jeden Fall. Sollten sie gezwungen sein, das zu beweisen, wird es zu spät und eine Rückkehr in das Jahr 1929 unausweichlich sein.</span></p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (55)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364557719104267" name="1364557719104267"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mcmac">
+                
+                  <img src="http://www.freitag.de/autoren/mcmac/@@images/0e5a2044-77b2-4420-a4e0-0a8f0e3beee7.jpeg" alt="mcmac" title="mcmac" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mcmac" class="author ">mcmac</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364557719104267">
+                  29.03.2013 |
+                  12:48</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><span>Vielen Dank, Lutz Herden, für dieses Osterei :) -Folgendes erinnert stark an die System-Bewahrungsversuche, wie man sie bei sogeannter 'Bankenrettung' und 'Eurostabilsierung' beobachten kann..</span></p>
+<p><iframe src="http://www.youtube.com/embed/MjcrfzSZQc8" width="380" height="285" frameborder="0"></iframe></p>
+<p> </p>
+<p><em>"[...]Will heißen, wenn morgen alle Sparer in Deutschland mit Einlagen um die 100.000 Euro diesen Betrag abheben wollen, ist die Einlagengarantie der Bundesregierung für eben diese 100.000 Euro nichts mehr wert.[...] Wir haben es genau genommen mit einer Art Schneeballsystem zu tun, bei dem um Gotteswillen nie alle Anspruchsberechtigten ihre Ansprüche auf einmal geltend machen dürfen.[...]"</em></p>
+<p><span>Guter Plan. Sollten wir eventuell mal in die Tat umsetzen. Richtet vielleicht insgesamt auch weniger Schäden an, als oben bezeichnete &amp; beschriebene, derzeit praktizierte kapitalistische Chaoten-Politik.<br /></span></p>
+<p><span>lg-mcmac</span></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364557719104267">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364558581506420" name="1364558581506420"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/fahrwax">
+                
+                  <img src="http://www.freitag.de/autoren/fahrwax/@@images/97c54edd-e553-4297-8eae-d46fe816d34d.jpeg" alt="fahrwax" title="fahrwax" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/fahrwax" class="author ">fahrwax</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364558581506420">
+                  29.03.2013 |
+                  13:03</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Allen Sprachrohren des untergehenden Geldsystems eigen ist die zunehmende Dissonanz zwischen emphatisch vorgetragenen Bekenntnissen, inhaltlichen Siegesmeldungen und den unvermeidlich unsicheren Zwischentönen.</p>
+<p>Asselblom und Junker, Schäuble und Merkel versuchen die Trümmer ihrer Geschäftsmodelle schön zu reden und entlarven sie dabei –ganz gegen ihre Absichten - Stück für Stück.</p>
+<p>Ihre Präsentationen von Systemschädlingen wie den faulen Griechen, den „über ihre Verhältnissen lebenden“ Spaniern &amp; Portugiesen geraten zunehmend zu erkennbaren Selbstbezichtigungen.</p>
+<p>Absicht ist das nicht, aber Hilflosigkeit.</p>
+<p>"1929" – nun aber als 2.0 Version - steht vor der Tür, der Schönfärberei geht die Farbe aus.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364558581506420">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364561557304833" name="1364561557304833"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ed2murrow">
+                
+                  <img src="http://www.freitag.de/autoren/ed2murrow/@@images/dee710d1-ae8a-40ba-b8cc-33f10b1d5759.jpeg" alt="ed2murrow" title="ed2murrow" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ed2murrow" class="author ">ed2murrow</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364561557304833">
+                  29.03.2013 |
+                  13:52</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dem Artikel kann ich nur bedingt zustimmen. Was Zypern erstmalig exerziert, ist in Italien altbekannt: Dort hieß und heißt das "una tantum" und ist eine einmalige, als zweckgebunden deklarierte Abgabe in einer bestimmten oder (per %-Rechnung) bestimmbaren Höhe. Auch die damit korrespondierende Kapitalflucht bzw. das Misstrauen der Bevölkerung haben dem kein Abbruch getan. Erst als die Steuerlast <em>insgesamt</em> zu hoch geworden ist, ohne den systemischen Staatsverlust abzumildern, haben sich die Italiener im Februar anders entschieden.</p>
+<p>Den Dammbruch könnte ich also derzeit bestenfalls dort sehen, wo man mit derartigen Problemen bislang nicht konfrontiert war: In Deutschland.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364561557304833">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364562146130304" name="1364562146130304"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/davidjordan">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/davidjordan" class="author ">davidjordan</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364562146130304">
+                  29.03.2013 |
+                  14:02</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Frage, die sich nach der 'Rettung' von Zypern aufdrängt, lautet zunächst nicht, wann haben wir wieder ein neues 1929, sondern erst einmal recht schlicht: "Who's next?" Es hat sich ein Mechanismus ergeben, nach dem der Markt sich nach der 'Rettung' eines finanziell angeschlagenen Staates das nächstschwächere Glied in der Kette vornimmt und sein Spiel mit ihm treibt. War nicht erst vor wenigen Tagen in der FAZ zu lesen, dass nach Zypern nun Slowenien (?) in den Fokus der Aufmerksamkeit gerät? So nimmt sich der Markt einen Kandiaten nach dem anderen vor - bis keiner mehr übrig ist. Und wenn dem dann so ist, dann stellt sich auch die Frage nach einem neuen 1929 nicht mehr, denn dann haben wir ein wirkliches Problem, aus dem uns keine New-Deal-USA und auch kein China heraushauen könnten.    </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364562146130304">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364564007037389" name="1364564007037389"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/helmut-eckert">
+                
+                  <img src="http://www.freitag.de/autoren/helmut-eckert/@@images/3dedd9c0-8c83-4f78-81ea-13e7ff400097.jpeg" alt="Helmut Eckert" title="Helmut Eckert" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/helmut-eckert" class="author ">Helmut Eckert</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364564007037389">
+                  29.03.2013 |
+                  14:33</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Garantie der Spareinlagen bis 100 000 Euro ist ein Witz. Das Wahlvolk glaubt der Frau Dr. A. Merkel, im kommenden Sommer gibt es in Deutschland keine Regentage.  Diese Aussage hat den gleichen Wert. Damals stand Steinbrück direkt hinter Merkel. Grüßt Dich ein Politiker mit dem Morgengruß, schaue lieber auf Deine Uhr. Sonst erlebst Du, es ist weit nach 12 Uhr.  </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364564007037389">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364571828609376" name="1364571828609376"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mife">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mife" class="author ">mife</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364571828609376">
+                  29.03.2013 |
+                  16:43</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Enttäuschend in dem Zusammenhang die <a href="http://daserste.ndr.de/annewill/annewill3731.html">letzte Sendung von Anne Will.</a> Unwidersprochen wurde argumentiert die 40% die man ab 100.000 abgreift, wären gerecht, da die Betroffenen ja vorher auch die entsprechenden Zinsen eingesackt hätten. Damit werden alle verhöhnt, die ihre Altersvorsorge auf dem Konto haben oder das Geld fürs zu bauende Eigenheim. </p>
+<p>Die Oligarchen und Millionäre wurden ja bereits aus Regierungskreisen vorgewarnt, damit sie in Ruhe ihre Milliarden rausholen konnten.</p>
+<p>Nun retten unsere und deren Volksverräter Zypern in den vollständigen Ruin.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364571828609376">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364572332043631" name="1364572332043631"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364572332043631">
+                  29.03.2013 |
+                  16:52</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Lieber Lutz, Dank für Deinen richtigen Beitrag. Dieser, und natürlich die Politik des "Offiziellen Europas" der wirtschaftlichen und politischen Oligarchien müssten eigentlich die Bürger, die Zivilgesellschaften ganz Europas vom Hocker reissen mit einem einzigen Aufschrei:"So nicht! Nicht mit uns!" Aber das, was Du beschreibst, trifft auf die europäische Hammelherde, die willig weiter zieht, trefflich zu, wobei die jeweils schwächsten Glieder sukzessive auf der Schlachtbank landen. Das, was mich an der offiziellen Politik der Unmenschlichkeit frappiert, ist die "verdammte" Leidensfähigkeit des Untertan-Bürgers. Wie wäre es mit: "Es ist Wahl und keiner geht hin."?</p>
+<p>Trotzdem, schöne Ostertage und hoffentliche ein baldiger klimatischer und politischer Frühling!</p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364572332043631">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364573582165045" name="1364573582165045"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mylai68x">
+                
+                  <img src="http://www.freitag.de/autoren/mylai68x/@@images/45535d33-6452-4890-b58b-e1a86a621471.jpeg" alt="Mylai68x" title="Mylai68x" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mylai68x" class="author ">Mylai68x</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364573582165045">
+                  29.03.2013 |
+                  17:13</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das heutige Banken- und Finanzsystem ist so alt wie die Rothschilds. Vorsicht Antisemitismus! Andere nahmen daran Teil oder haben es übernommen und in wilder Raserei so weit aufgebläht, dass die Blase wohl bald wieder platzt. Die Sommerfrischestaaten der EU haben es besonders übertrieben. Was mich an meine NATO Zeit erinnert: da wurde es erlaubt steuerfrei über die Rationskarte hinaus bei den Kanadiern eine 3 L Flasche Alkohol zu kaufen. War zwar nicht legal, aber niemand hatte einen großen Schaden. Natürlich gab es dann Spezialisten, die dann gleich 10 Flaschen kauften und vorbei war es. Vielleicht sollten wir wieder mehr religiös werden. Gier ist eine der 7 Todsünden.</p>
+<p>Mir fällt da noch folgendes von US Präsident Andrew Jackson ein...Nach dem Erfolg seiner zweiten Amtszein befragt antwortete er: <em>„Ich tötete die Bank.“</em> Damit ist die private <a href="/wiki/Second_Bank_of_the_United_States" title="Second Bank of the United States">US-Notenbank</a> gemeint. Dies sei auch die Inschrift auf seinem Grabstein. Er befreite das Volk von der Schuldenknechtschaft und der Zinseszinspolitik. Er starb vermutlich an Bleivergiftung durch eine Kugel im Bauch.</p>
+<p>Woodrow Wilson gründete mit gleichgesinnten Verbrechern 1913 in einer Nacht- und Nebelaktion wieder eine Notenbank, die FED.</p>
+<p>Unterschätzen sie nie die Achse Washington-New York-London-Tel Aviv! Paris, Wien, Neapel ist seit Hitler zweitranging.</p>
+<p>Die Alliierten des 2.Wk. wollten nie die Völker befreien (das war die Propaganda für das Kanonenfutter), Juden retten oder nur die Demokratie bringen. Ein Gebiet vom Ural bis zu den Pyrenäen außerhalb des Wallstreet Finanzsystems - ein Alptraum.</p>
+<p>Das sind Fakten auch wenn sie von Rechtspopulisten missbraucht werden.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364573582165045">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364573851126240" name="1364573851126240"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/aqua-jedi">
+                
+                  <img src="http://www.freitag.de/autoren/aqua-jedi/@@images/983abd7c-bb32-4bd6-9828-9bd84fbd5472.jpeg" alt="Aqua-Jedi" title="Aqua-Jedi" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/aqua-jedi" class="author ">Aqua-Jedi</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364573851126240">
+                  29.03.2013 |
+                  17:17</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><strong>Alle Wirkungen sind beabsichtig!</strong></p>
+<p><em>"Die Zypern-Rettung hat einen psychologischen Kollateralschaden produziert, dessen bahnbrechende Wirkung unbestreitbar ist."</em></p>
+<p>Naomi Klein nennt das Schockstrategie. Daher muss man die Bürger ängstigen, bedrohen und einschüchtern. So unterwirft man sie.</p>
+<p><em>"Er besteht in der Erfahrung, dass die willkürliche Enteignung des Normalbürgers ein legitimes Mittel des Euro Arbeitslosen-Krisenmanagements. ... ,<span>dass alles andere als überdurchschnittlich hohe Sparguthaben und damit die monetären Bilanzen individueller Lebensleistungen nicht mehr sicher sind. ... Deutsche <span>werden wie Kleinkriminelle behandelt, die im Geruch stehen, selbst die Dauerarbeitslosigkeit verursacht zu haben und es daher hinnehmen müssen, diszipliniert zu werden.</span></span>"</em></p>
+<p><strong>Das kennen die Deutschen seit 2004 als Agenda 2010 und SGB II (Hartz-IV).</strong></p>
+<p>Die Aussage Dijsselbloems bezüglich der "<em>Zypern-Regelung"</em> als Vorlage zukünftiger vergleichbarer Fälle ist somit lediglich Teil der oben genannten Schockstrategie und sicherlich nicht unabsichtlich. Und genau so wie 1929 werden die Bürger seit 2008 ausgeraubt und ausgeplündert. Mit tatkräftiger, eilfertiger und willfähriger Hilfe von SPD-Grünen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364573851126240">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364574470366937" name="1364574470366937"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mylai68x">
+                
+                  <img src="http://www.freitag.de/autoren/mylai68x/@@images/45535d33-6452-4890-b58b-e1a86a621471.jpeg" alt="Mylai68x" title="Mylai68x" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mylai68x" class="author ">Mylai68x</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364574470366937">
+                  29.03.2013 |
+                  17:27</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364572332043631">
+                    <span data-in_reply_to="1364572332043631" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>"Wie wäre es mit: "Es ist Wahl und keiner geht hin."?</em></p>
+<p>Die würden einfach die Wahlbeteiligung nicht veröffentlichen.</p>
+<p>Ich sah einen Beitrag über die Mafia in fast ganz Italien (65 Milliarden Barvermögen), Korruption, Bestechung, kriminelle Geschäfte, Mitglieder und Handlanger bis in die Regierung. Was mich am meisten beeindruckt hat, war die Prognose am Schluß: "Italien ist nur noch durch eine Diktatur zu retten!"</p>
+<p>Eine demokratische Regierung ist nicht mehr in der Lage Änderungen/Verbesserungen herbei zuführen.</p>
+<p>Teile der Bevölkerung verehren wieder den DUCE: "Er war garnicht so schlecht. Es wurde erst schlimm als er Hitler traf."</p>
+<p>Berlusconi hat viele Anhänger, die sich nicht abbringen lassen.</p>
+<p>Frohe Ostern!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364574470366937">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364576591243738" name="1364576591243738"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/aqua-jedi">
+                
+                  <img src="http://www.freitag.de/autoren/aqua-jedi/@@images/983abd7c-bb32-4bd6-9828-9bd84fbd5472.jpeg" alt="Aqua-Jedi" title="Aqua-Jedi" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/aqua-jedi" class="author ">Aqua-Jedi</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364576591243738">
+                  29.03.2013 |
+                  18:03</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Zypern zeigt die Krise eines deregulierten und vorwiegend privaten Bankensystems , das seit seiner Entstehung im Italien des 16. Jh. (Medici) in allen Gesellschaftsformen Europas seit dem existierte und das als als solcher Anachronismus bei der Gründung von Nationalstaaten in diese hinübergerettet wurde. Denn spätestens mit einem nationalstaatlichen Münz- und Geldwesen wären diese systembedingt größer werdenden privaten Banken strengstens zu regulieren und unter Kontrolle der Bürger zu stellen gewesen, wie es die Volksbanken und in geringerem Maße die Sparkassen bei uns sind und bedingt auch die Landesbanken, wenn man sie der Einflußnahme unfähiger und größenwahnsinniger Politiker entzieht. Hohe Eigenkapitalanteile und eine Begrenzung des Geschäftsvolumens gemessen an den Eigenkapitalanteilen hätten ein übriges getan. Hätten. Wenn z.B. in Deutschland des Jahres 1918 die SPDler wenigstens für ein paar Pfennige etwas begriffn hätten, oder dann spätestens 1945. Haben sie beides mal nicht und auch bis heute nicht. </p>
+<p>Interessant dazu: <span>The Ascent of Money: A Financial History of The World by Niall Ferguson</span> </p>
+<p><a href="http://www.youtube.com/watch?v=4Xx_5PuLIzc">http://www.youtube.com/watch?v=4Xx_5PuLIzc</a></p>
+<p>Zypern ist ein innerhalb kürzester Zeit gebildeter Offshore-Finanzplatz gewesen, der höhere Risiken barg, als es die anderen europäischen Offshore-Finanzplätze ohnehin tun. (Schweiz, Luxemburg, Isle of Man, Dublin, Guernsey, Jersey; Monaco, Andorra, Gibraltar, Malta; Liechtenstein).</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364576591243738">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364578052403729" name="1364578052403729"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/gustlik">
+                
+                  <img src="http://www.freitag.de/autoren/gustlik/@@images/6c03dfe3-d9a1-4a5b-b982-22dd7be82a26.jpeg" alt="Gustlik" title="Gustlik" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/gustlik" class="author ">Gustlik</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364578052403729">
+                  29.03.2013 |
+                  18:27</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Des Deutschen Besonnenheit würde an die Einführung der DeMark im Beimischgebiet erinnern...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364578052403729">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364580899498169" name="1364580899498169"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/balsamico">
+                
+                  <img src="http://www.freitag.de/autoren/balsamico/@@images/539bd84f-4434-4b24-8aeb-0167a59de941.jpeg" alt="balsamico" title="balsamico" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/balsamico" class="author ">balsamico</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364580899498169">
+                  29.03.2013 |
+                  19:14</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>Zypern zeigt, systemrelevant in der Eurozone sind nicht nur Banken. Systemrelevant ist auch die Furcht des Normalbürgers um die Sicherheit seines Sparguthabens.</em></p>
+<p>Und systemrelavant ist auch, was solche Nieten wie Herr Dijsselbloem dafür halten. Wenn man bedenkt, was da für ein eingebildeter jämmerlicher Dilettant agiert, könnte man verrückt werden. J.C. Juncker wäre so ein Satz wie der von Dijselbloem niemals über die Lippen gegangen. Wenn er in Bezug auf Italien oder Spanien eine Fehlleistung gleicher Art und Güte hinlegt, ist alles aus.</p>
+<p>Der Topos der "Systemrelevanz" ist so dringend wie verbindlich konkretisierungsbedürftig. Es kann nicht sein, dass darunter jeder etwas anderes versteht und es letztlich nur von der Person des/derjenigen abhängt, der/die so so saudümmlich daherredet wie Dijsselbloem, was auf den Märkten passiert.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364580899498169">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364592741976496" name="1364592741976496"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ninoschneider">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ninoschneider" class="author ">NinoSchneider</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364592741976496">
+                  29.03.2013 |
+                  22:32</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Kompliziert? Realität ist die, einige wenige Superreiche die Weltweit geheim gehalten werden ruhen sich auf der Arbeitsleistung und der Gutmütigkeit der positiven Weltmehrheit aus mithilfe eines billigen Betrugssystems das sich Geld und Finanzsystem nennt. Darüber hinaus verpackt man alles in eine Pseudowissenschaft die sich Ökonomie nennt um mit Abermillionen Seiten pseudotheoretischer Möchtegernwissenschaft Verwirrung zu stiften, dann gibt’s noch ein wenig Religion und einen religiös anmutenden Kult mit sinnlosen täglichen Aktienkursgequatsche was letztendlich dazu führen wird das sich der gesellschaftliche Zusammenhalt auflösen wird weil die MöchtegernIlluminati glauben sie seien Götter(krankhafte Selbstüberschätzung nichts weiter) und können nun die Menschen mithilfe moderner Überwachungsmethoden und Lobbyismus subversiveren und endgültig kontrollieren das ist der einzige offensichtliche Hintergrund zu dieser sich in Richtung Gewalttätigkeit und Totalitarismus entwickelnden Finanzsystems einiger weniger für mich kranke Menschen. Auch dieses Gerede von dem Plündern der Spareinlagen der Zyprioten oder Griechen ist für mich unverständlich  und soll nur die Menschen gegeneinander aufbringen.  Selbst in Deutschland wird eine Absicherung der Spareinlagen so bis ca. 30000 Euro höchstens garantiert. Ist das leben etwa sicher oder war es das je? Das einzige was mittlerweile sicher ist sind die Milliardengewinne der Superreichen welche diese durch Korruption also Lobbyismus erreicht haben und dem fördern von Diktaturen Krieg, Mord, Tod und Vergewaltigung in einem ewig grüßt das Murmeltier Prinzip. Es liegt an den Menschen selbst diesen Typen mal die Grenzen aufzuzeigen. Wenn man das Paradies wieder haben will muss man etwas dafür tun!! Die Welt war ein Paradies bevor diese Macht- Und Gewaltgeilen aufgetaucht sind. Nicht Gott hat die Menschen vertrieben sondern diese Machtverführer die aus der Welt mehr und mehr eine Kloake machen.</p>
+<p> </p>
+<p>Zuletzt sollten sich die Griechen und Zyprioten mal realistisch sehen anstatt auf Deutschland als Nazis zu schimpfen es ist nicht hilfreich <em>und führt letztendlich </em>nur dazu den Superreichen den Gewaltboden zu bestellen damit die wieder zuschauen können wenn sich die Normalos die Köpfe einschlagen wollen wir das? Ich nicht!! So doof kann doch kein Schwein sein!! Griechenland war bis in die 70er eine Diktatur also Nazis und ist in den Euro gekommen mithilfe einer Bilanzfälschung u. a. mithilfe von Goldmann Sachs die nach dem gesetzt der Marktwirtschaft haften müssten sowie alle anderen Banken die sich Verspekuliert haben.  Insolvenzabwicklung wäre hier das Pflichtprogramm und auch kein Systemproblem!!! Die Arbeit wird eh von den Normalos gemacht diese Leute brauchen wir nicht alles andere ist Ablenkung nichts weiter. In diesen Ländern wird nicht viel produziert die Menschen wären im Grunde und waren vor der EU bettelarm und haben sich durch die Finanzverführer vor den Karren spannen lassen indem diese die EU als melkende Kuh für sich instrumentalisiert haben und ein Pseudoschlaraffenland geschaffen haben den die Griechen und Zyprioten aber auch andere Völker nicht erwirtschaftet haben und auch nicht können. Eine einfache Milchmädchenrechnung und wer hier so tut als wenn den Griechen oder Zyprioten etwas genommen wird erzählt quatsch und betreibt eine Propaganda für Superreiche indem die Menschen nur gegeneinander aufgehetzt werden.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364592741976496">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364606612734971" name="1364606612734971"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364606612734971">
+                  30.03.2013 |
+                  02:23</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364574470366937">
+                    <span data-in_reply_to="1364574470366937" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>ML68, die Krux liegt im Versagen der Zivilgesellschaft. Unser Sozialkapital ist gleich Null: Keine Solidarität zwischen Arbeitenden und Arbeitslosen, Alten und Jungen, Mittelschicht und Niedrigverdienern, Menschen mit höherer Ausbildung und anderen mit handwerklicher Ausbildung, Deutschstämmige und Andersstämmige, zwischen religiösen und nicht-religiösen Menschen, schlicht: Die Herrschenden bitten diese fragmentierte Zivilgesellschaft zur Wahl und lassen sich das Machtmonopol alle vier Jahre wieder bestätigen. Es ist zum "Kotzen"! </p>
+<p>Kleine Utopie: Gesetzt den Fall, bei der nächsten BT-Wahl würden ein paar Unabhängige zu einem Parallelparlament aufrufen und mit einer kleinen Gruppe von sagen wir 50 Unabhängigen, oder weniger, beginnen, in einem virtuellen Parlament, deren Diskussionen von allen interessierten Bürgern mitverfolgt werden könnten. Dieses Parlament nimmt sich nur die wichtigsten Themen vor, diskutiert sie zusammen mit einer immer grösseren Bloggergemeinde, und stimmt nach einem Monat ab. Dann würde das Ergebnis an die grosse Glocke gehängt, d. h. dem BT und der Regierung aufgedrückt, mit der Drohung, wenn offizielle Politik gegensätzlich entscheidet, würden Demos veranstaltet. Ich glaube, so eine demokratische Einübung der Zivilgesellschaft in der Wahrnehmung ihrer Interessen unter Umgehung von politischen Parteien, könnte eine wichtige Erfahrung bedeuten. Interessierte, vor allem Jugendliche, würden dem virtuellen Alternativ-Parlament mit viel grösserer Aufmerksamkeit als dem BT folgen.</p>
+<p>In diesem Falle könnten wir eine Alternative gegenüber der Schein-Wahl eröffnen und den Menschen sagen: Geht nicht zur "Offiziellen Wahl", geht zur "Alternativ-Wahl". Das könnt Ihr vom Heimcomputer aus machen.</p>
+<p>Kleine Utopie, aber die muss auch sein. Schöne Ostertage, LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364606612734971">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364608179157660" name="1364608179157660"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/fro">
+                
+                  <img src="http://www.freitag.de/autoren/fro/@@images/6c48ff7b-e8c4-46b9-8a5e-09f9f1c722f5.jpeg" alt="Fro" title="Fro" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/fro" class="author ">Fro</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364608179157660">
+                  30.03.2013 |
+                  02:49</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364606612734971">
+                    <span data-in_reply_to="1364606612734971" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>„Geht nicht zur "Offiziellen Wahl", geht zur "Alternativ-Wahl"“</em></p>
+<p><em> </em></p>
+<p>Krasser Denkfehler. Warum sollten die 'Schlauen' nicht an der offiziellen Wahl teilnehmen?</p>
+<p>Es ginge darum, das parteiliche Denken aufzugeben und die wahren qualifizierten bürgerfreundlichen Kandidaten zu wählen – egal welcher Partei sie angehören. Allerdings müssten die Bürger den Kandidaten auch Bedingungen stellen, die schriftlich zugesagt werden müssten, um sie für wählbar zu erklären. Die Bürger müssen den künftigen Abgeordneten sagen, was sie tun sollen und ihnen eine verbindliche Zusage abfordern – das ist der Schlüssel ….<br />Und sollte es keine geeigneten Kandidaten im Angebot geben, so müssten die Bürger selber aktiv werden ....</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364608179157660">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364613218040607" name="1364613218040607"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364613218040607">
+                  30.03.2013 |
+                  04:13</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364608179157660">
+                    <span data-in_reply_to="1364608179157660" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>FRO, gerade hatte ich Dir ausführlich geantwortet, da verschwand die Antwort. Jetzt nur dieses: Mitglieder von BT-Parteien, auch wenn sie noch so fähig sein sollten, sind immer erst einmal loyal der Partei gegenüber, sonst wären sie unabhängige Direktkandidaten, was ja auch möglich ist. Da haben sie aber keine Chancen, da die BT-Parteien das Machtmonopol über die drei Gewalten haben und damit als einzige Zugang zu Steuergeldern, aus denen sie sich reichlich bedienen. Die 98,5% Nicht-Parteien-Mitglieder haben dieses Privileg nicht (in 2013 gingen etwa 3 Mrd Euro an alle BT-Parteien, davon mindestens jeweils 1 Mrd an die beiden "Volksparteien", in Form von Parteienfinanzierung, parteinahe Stiftungen und BT-Parteien-Mitglieder als Entscheider im Staatsapparat - insgesamt etwa 20.000 mit Jahresgehältern über 100.000 Euro). Unsere BT-Parteien-Diktatur hat vorgesorgt, dass auch nicht ein Unabhängiger, selbst wenn er der beste Repräsentant der Zivilbevölkerung wäre, in die geheiligten BT-Hallen aufgenommen wird. Und die Oppositionsparteien sind die gewünschen Feigenblätter, damit der Untertanen-Bürger eine angebliche Alternative hat (sie stauben die Staatsknete ebenso schamlos ab). Hat er aber nicht. Die BT-Parteien bilden mit der Wirtschaft die nationale politische und wirtschaftliche Oligarchie und da bist Du aussen vor, wenn Du ihre Musik nicht magst.</p>
+<p>LG, CE</p>
+<p>PS: Laut GG sollten die Parteien nur einen Teil der Politik ausmachen, nicht aber den gesamten und den Steuer-Kuchen tagaus tagein als Monopolist verwalten und verschlingen. Aber das Wesen von Parteien ist ihr Eigeninteresse, nicht das Interesse des Volkes. Das könnten höchstens Bewegungen vertreten. Und die Geschichte lehrt uns, dass grundlegende gesellschaftliche Veränderungen immer von Bewegungen ausgingen, nicht von Parteien. Die springen immer im letzten Moment auf den Zug, um ihre Felle zu sichern und den Bürger zum Narren zu halten, nachdem er durch eine Massenbewegung etwas verändert hat. Sei misstrauisch gegenüber jedem noch so sympathischen und scheinbar unabhängigen Parteikandidaten. In letzter Instanz zählt nur sein Eigeninteresse und das Interesse der Partei. Frage diese "tollen" Kandidaten einmal, worum sie nicht als Unabhängige kandidieren und mit dem Mandat ihrer Wähler in den BT gehen wollen. Sie werden Dir glasklar sagen, dass sie als Unabhängige keine Chance hätten. Sie wollen aber die Knete und die Macht, und da suchen sie sich eine Partei aus, der sie sich entsprechend verkaufen müssen. Die Alternative wäre, dass der "mündige Bürger" tatsächlich seinen Mund und Geist gebraucht und die politischen Parteien kontrolliert und sie auf die Strasse wirft, wenn sie die mehrheitlichen Bürgerinteressen nicht vertreten. Und ich behaupte, dass vor allem seit Schröder/Fischer und Bildung der Euro-Zone und Soziale-Kälte-Politik à la Merkelsches TOTSPARDIKTAT einseitig die Interessen des deutschen Kapitals Vorrang haben, nicht die Interessen des Volkes. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364613218040607">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364624274855686" name="1364624274855686"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/lutz-herden">
+                
+                  <img src="http://www.freitag.de/autoren/lutz-herden/@@images/acd5b1c7-0be0-4c63-8162-f721c86d650c.jpeg" alt="Lutz Herden" title="Lutz Herden" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/lutz-herden" class="author group-authors">Lutz Herden</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364624274855686">
+                  30.03.2013 |
+                  07:17</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364613218040607">
+                    <span data-in_reply_to="1364613218040607" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dem kann man nur zustimmen, zumal entscheidende Gesetze zur Liberalisierung des Kapitalmarktes unter Rot-Grün auf den Weg gebracht wurden.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364624274855686">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364627149955666" name="1364627149955666"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/wulewuu">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/wulewuu" class="author ">Frank Linnhoff</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364627149955666">
+                  30.03.2013 |
+                  08:05</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die allermeisten Bürger der Eurozone wissen nicht, wie unser Geld- und Bankensystem funktioniert. Dies gilt für die meisten Politiker, die meisten Wirtschaftswissenschaftler und Journalisten. Selbstverständlich haben wir es mit einem Schneeballsystem zu tun.Wie sollte es auch anders sein, wenn der Mindestreservesatz in der Eurozone gerade einmal 1% beträgt. Gerade einmal 1% des Giralgeldes muss durch Vollgeld (Banknoten, Münzen) gedeckt sein. Dieses System öffnet in euphorischen Phasen der überbordenden Geldschöpfung durch Bilanzausweitung Tür und Tor, es führt zwangsläufig zur Ausbildung von Spekulationsblasen, die zwangsläufig platzen müssen, dann zwangsläufig zur Überschuldung aller Beteiligten, zur Kreditverknappung, zur Rezession und dann Depression führen muss. Selbstverständlich sind in diesem äußerst labilen System die Einlagen nicht sicher, wenn das Banksystem eines Währungsraumes insgesamt zusammenkracht. Anders wäre dies in einem Vollgeldsystem, wie es bedeutende Wirtschaftswissenschaftler auf der ganzen Welt und die Initiative "Monetative" in Deutschland fordern. Die derzeitige Geld- und Bankordnung ist nicht alternativlos. Schade, dass auch im Freitag kaum darüber berichtet wird.  </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364627149955666">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364632302975689" name="1364632302975689"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364632302975689">
+                  30.03.2013 |
+                  09:31</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Mitunter kommt es mir vor, als ob die Euro-Retter in Wirklichkeit selbst nicht mehr hinter dem Euro stehen, es sich aber nicht zu sagen getrauen.</p>
+<p>Die Alternative ist noch unangenehmer: diese Leute sind genauso hoffnungslose Dilletanten, wie sie aus unserer Perspektive ohnehin wirken...</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364632302975689">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364639196659172" name="1364639196659172"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/verwendungszweck">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/verwendungszweck" class="author ">Verwendungszweck</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364639196659172">
+                  30.03.2013 |
+                  11:26</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Zu den Zahlen und Fakten des Artikels.</p>
+<p>1) Bei der Zwangsbeteiligung der zyprischen Sparer handelt es sich nicht um einen "Haircut", eine Umschuldung, bei der das anteilige Geld unwiderruflich weg ist, sondern um einen Bail-In, einen Einkauf. Das heißt, dass die Sparer Aussicht haben, dass sie Teile ihrer Zwangsbeteiligung auch wieder ausbezahlt bekommen.</p>
+<p>2) Die Bad Bank der HRE brauchte nicht 6,3 Mrd Euro sondern, der Staat kaufte der HRE schlechte Papiere in der Gesamthöhe von 173 Mrd Euro ab. Auch diese Papiere können - wie die schlechten Papiere der zyprischen Banken - noch etwas Geld einspielen. Die Bad Bank schreibt aber seit einiger Zeit pro Bilanz jeweils einige Milliarden Euro ab, die endgültig verloren sind. Wie die zyprischen Banken hat auch die FSM griechische Papiere, die definitiv umgeschuldet sind (Haircut) und nicht wieder kommen. http://de.wikipedia.org/wiki/FMS_Wertmanagement</p>
+<p>3) Es war mir nicht möglich zu recherchiere wie BayernLB, HSH Nordbank oder der WestLB bis Anfang Mai 2009 Stabilisierungshilfen von 152 Mrd Euro bekommen haben sollen.</p>
+<p>Rechercheergebnis:</p>
+<p>BayernLB: Landeshilfe 10 Mrd. Euro Eigenkapitalzufuhr (Bund 15 Mrd Garantie). http://de.wikipedia.org/wiki/BayernLB#Auswirkungen_der_Immobilien-_und_Finanzmarktkrise</p>
+<p>HSH Nordbank: Schleswig-Holstein und Hamburg Kapital 3 Mrd Euro (Garantie 10 Mrd). http://de.wikipedia.org/wiki/HSH_Nordbank#Auswirkungen_der_Finanzkrise</p>
+<p>WestLB: Risikopapiere für 23 Mrd in Zweckgesellschaft. Zweckgeselllschaft hat für 5 Mrd Euro Garantien der Eigentümer (inkl. NRW)</p>
+<p>Zusammen sind das an direkten Hilfen 10 + 3 = 13 Mrd Euro</p>
+<p>und Garantien von Bund und Land für 15 + 10 + 5 = 30 Mrd Euro.</p>
+<p>Diese Geldgeschäfte lassen sich so schlecht diskutieren, wenn die Zahlen irritieren.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364639196659172">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364640886503713" name="1364640886503713"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tlacuache">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tlacuache" class="author ">tlacuache</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364640886503713">
+                  30.03.2013 |
+                  11:54</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Gebt mal bitte 99 999 € her, ich hatte keine Vorfahren, die mit einer Steinaxt Grossgrundbesitzer geworden sind:</p>
+<p><strong>;-)</strong></p>
+<p>Was sagt eigentlich unser lieber <a href="/autoren/michael-jaeger/100-2-geld-und-zeit-forts">Michael Jäger</a> (Umbau des Geldes und so?) dazu?</p>
+<p>Als ich mal so 8000 € auf dem Konto hatte, bekam ich Schweissausbrüche, "Was, wenn Morgen die Bank Pleite ist?", sofort lieber in einem Ha im Ausland investiert, bei der ich mir zur Not noch Tomaten und Zwiebeln selber anpflanzen kann, die kann ich wenigstens essen, Papiergeld und digitales Kapital leider eben nicht. Damit werde ich zwar nicht reich, aber sicher satt...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364640886503713">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364646512163708" name="1364646512163708"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/lebowski">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/lebowski" class="author ">lebowski</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364646512163708">
+                  30.03.2013 |
+                  13:28</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@Frank Linnhoff</p>
+<p>Yep, der Kreditgeldwahnsinn kann eigentlich immer nur in einer großen Inflation oder in einem Krieg münden.</p>
+<p>Finanzkrisen sind in diesem System unausweislich und wer sich darüber aufregt, sollte sich auch darüber aufregen, dass man beim Schwimmen nass wird.</p>
+<p> </p>
+<p>Ob das Vollgeldsystem die Lösung ist oder nur eine vorübergehende Linderung der Probleme, muss diskutiert werden. Da der Kapitalismus auf das exzessive Schuldenmachen angewiesen ist, weil er sonst unter einem Gebirge unverkäuflicher Waren erstickt,  ist  er ebenfalls auf die substanzlose Kreditgeldschöpfung angewiesen.</p>
+<p>Mir jedenfalls scheint es konsequenter, das Geld als Ganzes in Frage zu stellen, wie es der Demonatisierungsdiskurs tut.</p>
+<p>http://www.streifzuege.org/2013/demonetarisierung-der-diskurs-ueber-die-abschaffung-des-geldes-2</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364646512163708">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364653756638636" name="1364653756638636"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/fro">
+                
+                  <img src="http://www.freitag.de/autoren/fro/@@images/6c48ff7b-e8c4-46b9-8a5e-09f9f1c722f5.jpeg" alt="Fro" title="Fro" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/fro" class="author ">Fro</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364653756638636">
+                  30.03.2013 |
+                  15:29</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364613218040607">
+                    <span data-in_reply_to="1364613218040607" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Hallo CE, Deiner Kritik am Parteiensystem kann ich voll und ganz zustimmen. Und der 'Hammer' ist ja, dass die Politik der Parteien in der Regel allein von den Parteiführungen bestimmt wird und Parteienführungen von CDU/SPD/FDP wiederum von Großlobbyisten – Grüne scheinen auch mehr und mehr fremdbestimmt zu sein. <br />Die Frage ist aber, was die Bürger (der Souverän, nach GG der eigentliche Chef im Lande) aktuell tun könnten um ihr politisches Personal bzw ihre Vertreter im Parlament auf Trab zu bringen und sich zur anstehenden Wahl die richtigen Leute ins Parlament zu wählen. Da habe ich oben drei Sätze zu geschrieben. Abgeordnete und die, die es werden wollen müssen in den Wahlkreisen vor den Bürgern Farbe bekennen und verbindliche Zusagen machen, wie sie sich in bestimmten Fragen verhalten ...</p>
+<p><br />Es wäre fatal den Bürgern den Rat zu geben nicht an der Wahl teilzunehmen. Damit überließe man das Parlament freiwillig denen, die es missbrauchen. <br /><br />Klar, es braucht eine lebendige und konstruktive Bürgerbewegung - aber eine, die es auch in die Parlamente drängt  und die sich verlässliche Bündnispartner in ihnen sucht ...<br /><br /></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364653756638636">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364659455614599" name="1364659455614599"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mylai68x">
+                
+                  <img src="http://www.freitag.de/autoren/mylai68x/@@images/45535d33-6452-4890-b58b-e1a86a621471.jpeg" alt="Mylai68x" title="Mylai68x" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mylai68x" class="author ">Mylai68x</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364659455614599">
+                  30.03.2013 |
+                  17:04</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364606612734971">
+                    <span data-in_reply_to="1364606612734971" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>So will man uns doch haben. Meinen sie die Eliten haben Interesse daran, dass wir uns solidarisieren.  Man wird uns auf jeden Fall versuchen zu diskriminieren: Rechts, Links, Neo, Ultra, kommunistisch.</p>
+<p>Sollte das noch nicht reichen werden schwerere Geschütze aufgefahren. Sollte die ganze BRD aus der Reihe tanzen, wird die Elite sich für uns was ausdenken, wie wir wieder auf Linie gebracht werden können. Die Solidarisierung sollte dann wohl EU weit erfolgen.</p>
+<p>Frohe Ostern!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364659455614599">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364661628168568" name="1364661628168568"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mboettcher">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mboettcher" class="author ">M. Boettcher</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364661628168568">
+                  30.03.2013 |
+                  17:40</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>Wie wäre es mit: "Es ist Wahl und keiner geht hin."?</em></p>
+<p>Ein oft geäußerter, dummer Vorschlag. wesentlich besser wäre es, alle gingen zur Wahl. Dann käme es kaum noch einem Politiker in den Sinn darauf zz setzzen, dass die Unzufriedenen eh zu Hause bleiben und bei sinkender Wahlbeteiligung auch mit weniger Stimmen als vorher wiedergewählt zu werden. Vielmehr müsste jeder Politiker damit rechnen, dass er für schlechte Politik abgestraft würde und die Latte zur Wiederwahl extrem hoch liegt. 2009 waren 62,2 Mio Bürger wahlberechtigt. Da müsste man mehr als 3 Mio Wähler überzeugen, dass das politische Konzept stimmt und man nicht nur Politik für Banken, Versicherungen, Konzerne, Hoteliers etc. machen wird.</p>
+<p>M. Boettcher</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364661628168568">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364663535877823" name="1364663535877823"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364663535877823">
+                  30.03.2013 |
+                  18:12</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich entnehme dem Artikel, Hartz IV-Empfänger und arme Menschen sind nicht Systemrelevant! Hauptsache die Mittelschicht, zu der auch die meisten Journalisten gehören, ist vielleicht noch Systemrelevant. Tja, es könnte an euer Erspartes gehen - und das mögt ihr nicht. Da hört dann die Solidarität auf!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364663535877823">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364664211660170" name="1364664211660170"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664211660170">
+                  30.03.2013 |
+                  18:23</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364661628168568">
+                    <span data-in_reply_to="1364661628168568" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>MB, warum nicht zur Wahl gehen? Es wird nicht einen einzigen Kandidaten, Direkt- oder Landeslistenkandidaten geben, der nicht von einer politischen Partei aufgestellt ist. Diese vertreten aber nur maximal 1,5% der Wahlberechtigten. Sie repräsentieren nicht die 100% der Wahlberechtigten. Was passiert mit den 98,5%, die m. E. Persönlichkeiten in ihren Reihen haben, die nicht nur ihr Eigeninteresse im Blick haben und bestimmt kompetenter sind als die derzeitige Berliner Riege. Wenn ich einen Partei-Kandidaten wähle oder eine ganze Liste, bin ich dazu verdonnert, die BT-Parteien-Diktatur abzusegnen. In unserem gesamten Staatsapparat (alle drei Gewalten zusammengenommen) gibt es vielleicht, wenn es hoch kommt, 1% Unabhängige in Entscheider-Stellen, das heisst Menschen, die nicht über Parteiseilschaften in der Hierarchie aufgerückt sind. Ich kenne jedoch niemanden. Es wäre von Nutzen, wenn Du mir auch nur einen einzigen Unabhängigen in unserem Staatsapparat, der miteintscheiden kann, nennen könntest.</p>
+<p>Was hätte eine grosse Stimmenthaltung für einen Sinn? Einen gewaltigen! Wir würden erstens sehen, wieviele Menschen die Parteien-Diktatur ablehnen. Die Nichtwähler würden sich aktiver als bisher Gedanken machen, was zu tun sei und wie man von der repräsentativen Demokratie zu einer mehr direkten kommen könnte. Das würde die Bereitschaft zu erhöhter Kommunikation und zur Bildung einer Bewegung gegen die Parteien-Diktatur beitragen. Ausserdem wären sich auch die BT-Parteien mehr und mehr bewusst, dass sie nur noch sich selbst und ihre Interessen vertreten, faktisch Volkssouveränität ausüben, ohne das Mandat dazu erhalten zu haben (vor allem, wenn die Wahlenthaltung mehr als 50% beträgt). Das Argument, es wäre immer noch besser, einige "gute" Parteikandidaten zu unterstützen, gibt den Parteien nur ein Alibi für ihre Machtausübung.</p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664211660170">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364664215288011" name="1364664215288011"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664215288011">
+                  30.03.2013 |
+                  18:23</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364661628168568">
+                    <span data-in_reply_to="1364661628168568" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>MB, warum nicht zur Wahl gehen? Es wird nicht einen einzigen Kandidaten, Direkt- oder Landeslistenkandidaten geben, der nicht von einer politischen Partei aufgestellt ist. Diese vertreten aber nur maximal 1,5% der Wahlberechtigten. Sie repräsentieren nicht die 100% der Wahlberechtigten. Was passiert mit den 98,5%, die m. E. Persönlichkeiten in ihren Reihen haben, die nicht nur ihr Eigeninteresse im Blick haben und bestimmt kompetenter sind als die derzeitige Berliner Riege. Wenn ich einen Partei-Kandidaten wähle oder eine ganze Liste, bin ich dazu verdonnert, die BT-Parteien-Diktatur abzusegnen. In unserem gesamten Staatsapparat (alle drei Gewalten zusammengenommen) gibt es vielleicht, wenn es hoch kommt, 1% Unabhängige in Entscheider-Stellen, das heisst Menschen, die nicht über Parteiseilschaften in der Hierarchie aufgerückt sind. Ich kenne jedoch niemanden. Es wäre von Nutzen, wenn Du mir auch nur einen einzigen Unabhängigen in unserem Staatsapparat, der miteintscheiden kann, nennen könntest.</p>
+<p>Was hätte eine grosse Stimmenthaltung für einen Sinn? Einen gewaltigen! Wir würden erstens sehen, wieviele Menschen die Parteien-Diktatur ablehnen. Die Nichtwähler würden sich aktiver als bisher Gedanken machen, was zu tun sei und wie man von der repräsentativen Demokratie zu einer mehr direkten kommen könnte. Das würde die Bereitschaft zu erhöhter Kommunikation und zur Bildung einer Bewegung gegen die Parteien-Diktatur beitragen. Ausserdem wären sich auch die BT-Parteien mehr und mehr bewusst, dass sie nur noch sich selbst und ihre Interessen vertreten, faktisch Volkssouveränität ausüben, ohne das Mandat dazu erhalten zu haben (vor allem, wenn die Wahlenthaltung mehr als 50% beträgt). Das Argument, es wäre immer noch besser, einige "gute" Parteikandidaten zu unterstützen, gibt den Parteien nur ein Alibi für ihre Machtausübung.</p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664215288011">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364664399867023" name="1364664399867023"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664399867023">
+                  30.03.2013 |
+                  18:26</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364664215288011">
+                    <span data-in_reply_to="1364664215288011" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Verdoppelung meines Kommentares tut mir leid, weiss nicht, wie es dazu kommen konnte.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664399867023">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364664750376251" name="1364664750376251"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664750376251">
+                  30.03.2013 |
+                  18:32</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364663535877823">
+                    <span data-in_reply_to="1364663535877823" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>P.S.: Arme Leute dürfen dann froh sein, wenn sie überhaupt noch 100,-€ abholen dürfen! Egal, wie ihre Rechnungen aussehen und ob sie vielleicht aus ihrer Wohnung fliegen!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664750376251">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364664902184305" name="1364664902184305"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664902184305">
+                  30.03.2013 |
+                  18:35</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364659455614599">
+                    <span data-in_reply_to="1364659455614599" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>ML68, man sollte nie den Mut und vor allem die Hoffnung verlieren. Ich weiss, Solidarität ist, m. E., eine menschliche Grundeigenschaft, die allerdings bei zunehmendem Konsumniveau, besonders, wenn die Grundbedürfnisse einmal abgedeckt sind, ganz rasch zum Teufel geht und der Raffgier Platz macht. Deutschland ist ja ein gutes Beispiel dafür, dass mehrheitlich Soliarität immer erst nach Katastrophen aufkommt. Aber warum versuchen wir das wenigstens nicht einmal vor der Katastrophe. Gerade wir Deutschen sollten das doch aus unserer Geschichte gelernt haben.</p>
+<p>LG, CE</p>
+<p>Frohe Ostern und einen baldigen Frühling, in jeder Beziehung!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364664902184305">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364665637643996" name="1364665637643996"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364665637643996">
+                  30.03.2013 |
+                  18:47</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364653756638636">
+                    <span data-in_reply_to="1364653756638636" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Fro, siehe auch meine Bemerkung zu M. Böttcher. Ich könnte mir vorstellen, dass eine Stimmenthaltung von über 50% die Nichtwähler beflügeln könnte, an die eigentliche Macht der Volkssouveränität zu glauben und sich zu einer mächtigen Bürgerbewegung zusammenzufinden, die bei einer künftigen BT-Wahl eine ganze Menge unabhängiger Direktkandidaten ins Parlament schicken könnte und damit auch sich selbst über diese Unabhängigen in den Reichstag hievt. Jeder Unabhängige dort würde mit all seinen Wählern im täglichen Kontakt dort repräsentiert sein und vor jeder wichtigen Entscheidung seine Wählerschaft befragen. Internet machts möglich. Wie gesagt, eine Stimmenthaltung von mehr als 50% würde die Legitimität des Parlamentes und auch einer zukünftigen Regierung infrage stellen. Es würde zu einer Krise in der Gesellschaft führen und zu baldigen Neuwahlen, bei denen die Zivilgesellschaft aufgerufen wäre, Verantwortung zu übernehmen.</p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364665637643996">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364665801769983" name="1364665801769983"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364665801769983">
+                  30.03.2013 |
+                  18:50</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364639196659172">
+                    <span data-in_reply_to="1364639196659172" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dank für die Zahlen! LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364665801769983">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364665956709329" name="1364665956709329"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364665956709329">
+                  30.03.2013 |
+                  18:52</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364627149955666">
+                    <span data-in_reply_to="1364627149955666" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Lieber Frank, kannst Du dazu nicht einmal einen Beitrag einstellen. Diese Überlegungen sind zu wichtig, um sie aussen vor zu lassen.</p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364665956709329">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364666091964939" name="1364666091964939"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364666091964939">
+                  30.03.2013 |
+                  18:54</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364624274855686">
+                    <span data-in_reply_to="1364624274855686" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Lutz, noch einmal Dank für den Beitrag und die daraus entstehende Diskussion.</p>
+<p>Schöne Ostern, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364666091964939">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364669754392015" name="1364669754392015"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mboettcher">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mboettcher" class="author ">M. Boettcher</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364669754392015">
+                  30.03.2013 |
+                  19:55</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Macht der Wahlabstinenz wird m. E. maßlos überschätzt. Wir sind längst bei Wahlbeteiligungen von unter 60% in den Landtagen. Hat das die Politik in den Ländern tatsächlich verändert? Würden nochmal 10 oder 20% weniger etwas ändern? Dafür gibt es keinen Beleg. Werden andere Parteien als CDU/CSU/FDP/SPD/Bündnis90-DieGurken gewählt, gegründet, unterstützt? Vom kurzen Höhenflug der Piraten einmal abgesehen: nada. Ebenso wenig, wie man sich von den Kandidaten der Parteien die "Erlösung" erwarten darf, kann man hoffen, dass massive Wahlenthaltung bei Parteien und Medien mehr als Betroffenheitsgelaber zum Thema "Politik(er)verdrossenheit" nach sich ziehen würde. Danach geht man zur Tagesordnung über. Es gibt m. W. keine definierte Untergrenze der Beteiligung, die eine Wahl ungültig macht. d. h., selbst wenn sich weniger als 1% der Wahlberechtigten an der Wahl beteiligen, ist so eine Wahl gültig.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364669754392015">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364677777602693" name="1364677777602693"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/lutz-herden">
+                
+                  <img src="http://www.freitag.de/autoren/lutz-herden/@@images/acd5b1c7-0be0-4c63-8162-f721c86d650c.jpeg" alt="Lutz Herden" title="Lutz Herden" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/lutz-herden" class="author group-authors">Lutz Herden</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364677777602693">
+                  30.03.2013 |
+                  22:09</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364669754392015">
+                    <span data-in_reply_to="1364669754392015" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><span>Inzwischen hat <span>Klaas Knot</span>, der Präsident der <br />Niederländischen Zentralbank, der zugleich Mitglied des EZB Rates ist,  mitgeteilt, die Aussagen von Finanzminister Dijsselbloem seien kein <br />Ausrutscher gewesen. Man will in allen künftigen Fällen sämtliche <br />Bankkontoinhaber mit Guthaben über 100.000 Euro heranziehen.</span></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364677777602693">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364732873934422" name="1364732873934422"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/fro">
+                
+                  <img src="http://www.freitag.de/autoren/fro/@@images/6c48ff7b-e8c4-46b9-8a5e-09f9f1c722f5.jpeg" alt="Fro" title="Fro" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/fro" class="author ">Fro</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364732873934422">
+                  31.03.2013 |
+                  14:27</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364677777602693">
+                    <span data-in_reply_to="1364677777602693" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><span><span style="text-decoration: none;"><span>Diese eindeutige Ansage führt ja dann wahrscheinlich dazu, dass sich die „Über-100000€-Anleger„ sehr genau ansehen werden, welche Risiken in ihrer Bank schlummern - „Ach, da gehe ich doch lieber gleich zu Goldman-Sachs und Anhang... die sind groß,mächtig, daher solide ...oder zur Deutschen Bank... “ Wird sich vielleicht manch einer sagen... und sie werden wahrscheinlich ein noch stärkeres Interesse am derzeitigen bürgerfinanzierten Bankenrettungssystem entwickeln...</span></span></span></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364732873934422">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364754011611368" name="1364754011611368"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/enidanh">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/enidanh" class="author ">EnidanH</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364754011611368">
+                  31.03.2013 |
+                  20:20</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364665637643996">
+                    <span data-in_reply_to="1364665637643996" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><strong>Sie sollten erstmal unser Wahlrecht lesen,</strong></p>
+<p> </p>
+<p>bevor Sie solche unklugen Dinge von sich geben.</p>
+<p>Nichtwähler stützen nämlich das etablierte System und Ungültigwähler fallen lediglich in eine Statistik.</p>
+<p>Selten so einen Unsinn wie den Ihren gelesen.</p>
+<p>Jede Stimme für eine andere Partei - davon gibt es reichlich in Deutschland, der Michel wählt sie nur nicht - trifft die Etablierten. Eine Stimmenthaltung dagegen bringt überhaupt nichts.</p>
+<p>Man muss schon sehr naiv sein zu glauben, dass man bei der nächsten Bundestagswahl sich mal wie ein schmollendes Kind verhält und nicht wählt...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364754011611368">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364762394502856" name="1364762394502856"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364762394502856">
+                  31.03.2013 |
+                  22:39</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364754011611368">
+                    <span data-in_reply_to="1364754011611368" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>E, ich danke für Ihren "klugen" Hinweis. Jeder hat seine Meinung und begründet sie auf die eine oder andere Weise. Nur eine Frage: Wenn ein Wähler in der Republik meint, dass alle BT-Parteien unfähig zur Lösung von heutigen politischen und wirtschaftlichen Krisen in Deutschland und Europa sind, sollte er dann trotzdem eine von diesen Parteien wählen, damit sie sich legitimiert fühlen, so weiterzuwirtschaften? Wenn sie mir weismachen wollen, es gäbe ja auch kleine Parteien zur Auswahl, die man in den BT hieven könnte, kann ich ihnen nur antworten: Diese werden wegen der "noch" nicht vorhandenen Selbstbedienung aus dem Staatshaushalt mit den BT-Parteien schwerlich konkurrieren können. Sollten sie es dennoch schaffen, wie einst die Grünen, heute vielleicht die Piraten, dann blüht ihnen das gleiche Schicksal wie allen politischen Parteien: Anfangs "hü!", um den "Etablierten" den Marsch zu blasen, dann aber ganz schnell "hott!" und ab in die Knete-Jagd. Das Staatssäckel muss auf Kosten der Steuerzahler geschröpft werden, die "Neuen" wollen wie die "Alten" abstauben. Wenn Sie mir nur eine politische Partei nennen könnten, die mittel- und langfristig das "Volks-Interesse" über das "Eigen-Interesse" gestellt hätte, dann wäre ich genauso froh wie Sie. Nein, bei politischen Parteien, auch bei "Neuparteien" fehlt mir der Glaube, allein aus dem Grund, dass sie, einmal im BT, nicht von der Zivilgesellschaft kontrolliert werden. Und ein vierjähriges Abnicken ist keine Kontrolle und hat auch absolut nichts mit Volkssouveränität zu tun. </p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364762394502856">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364766595754010" name="1364766595754010"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/herrbecker">
+                
+                  <img src="http://www.freitag.de/autoren/herrbecker/@@images/dd0d44cb-cdcc-410c-964b-68d565f96b35.jpeg" alt="herrbecker" title="herrbecker" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/herrbecker" class="author ">herrbecker</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364766595754010">
+                  31.03.2013 |
+                  23:49</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364762394502856">
+                    <span data-in_reply_to="1364762394502856" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Lieber CE,Ihr häufig bewundernswertes Engagement in allen Ehren, doch hier springen Sie zu kurz!</p>
+<p>Jeder Ihrer Einwände trifft auch Ihre ominöse "Bürgerbewegung" genauso. Was macht denn diese Bewegung so besonders, dass sie vor allen Fallstricken gewappnet sein soll, die unsere Gegenwart vor den Abgrund geführt haben? Sie ist doch ein Teil davon!</p>
+<p>Aber ich nehme Sie beim Wort: Ich habe selber auch keine bessere Idee, als allgemein zum Engagement zu blasen. Nur: Für was? Ich brauche ja Konzepte, Ansätze, Theorien, praktisches Wissen und so weiter. Und wenn Sie diese Dinge aufbauen, verstetigen, beisammenhalten, wo landen Sie dann? Bei einer Partei. Siehe ADAV/SPD, Zentrum/CDU, Liberaldemokraten/FDP, Friedensbewegung/Grüne und schließlich web2.0-pauperodigerati-neuemitte-generationpraktikum/piraten.</p>
+<p>Vergessen Sie Ihren idealistischen Vorgriff auf eine "bessere" Bewegung / Generation / Rasse / Nation, die der Welt das Heil bringen muss. Da sind schon andere dran gescheitert.</p>
+<p>Leider ist mein Gegenentwurf um keinen Deut intelligenter, er ist abgegriffen und stinkt schon ein bisschen. Sie wissen schon was. Die Linken haben es ziemlich frech bei Bloch geklaut und zum Slogan versemmelt.</p>
+<p>Schönes Restostern!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364766595754010">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364771940602849" name="1364771940602849"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/fro">
+                
+                  <img src="http://www.freitag.de/autoren/fro/@@images/6c48ff7b-e8c4-46b9-8a5e-09f9f1c722f5.jpeg" alt="Fro" title="Fro" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/fro" class="author ">Fro</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364771940602849">
+                  01.04.2013 |
+                  01:19</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364665637643996">
+                    <span data-in_reply_to="1364665637643996" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ja, sorry CE, eine bewusste Wahlenthaltung als politische Demonstration ist Ausdruck von Hilf-und Ideenlosigkeit. Und sie ist eine Stimme gegen den Parlamentarismus.</p>
+<p>Das Problem ist nicht das Parlamentarische System, sondern die vielen Akteure, die es sich da gemütlich machen und sich bereitwillig in den Dienst kleiner Interessengruppen mit großem Geld stellen. <br />Daraus kann man nur die Konsequenz ziehen, diese Leute abzuwählen – sie durch Fähigere zu ersetzen.</p>
+<p><span>Eine demonstrative Wahlenthaltung wäre so, als würde ein Firmeneigentümer seinem leitenden Angestellten, der sich ungefragt aus seinen Betriebs-Kassen bedient, ohne Absprache betriebsgefährdende Geschäfte tätigt, der in seinem Namen – natürlich auch ohne vorher eine Genehmigung eingeholt zu haben – Riesenkredite aufnimmt, um damit seine Freunde zu beschenken, sagte: „Das ist ja eine Sauerei, ich werde Sie demonstrativ nicht entlassen... machen Sie doch mit meinem Laden was Sie wollen…. wir sehen uns in vier Jahren wieder...“ <br /></span></p>
+<p><span>Es geht um einen von den Bürgern formulierten Anspruch an ihre künftigen Abgeordneten und die Prüfung der Kandidaten, ob sie diesen Ansprüchen genügen.</span></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364771940602849">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364794421929900" name="1364794421929900"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/wulewuu">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/wulewuu" class="author ">Frank Linnhoff</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364794421929900">
+                  01.04.2013 |
+                  07:33</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wir sollten den Herrn Dijsselbloem und Knot aus den Niederlanden dankbar sein für ihre ehrlichen Worte. Warum auch sollten Banken nicht Konkurs machen dürfen? Warum auch sollten die Gläubiger der Banken anders behandelt werden, als Gläubiger anderer Firmen, Institutionen oder Personen? Die meisten Bürger sind himmelsschreiend naiv und gutgläubig, wenn es um ihr Geld geht. Leider Gottes haben unsere Politiker aller Parteien dafür gesorgt, dass in der Eurozone die Staaten keine Oberhoheit mehr über ihre Währung haben, die Geldschöpfung und -zerstörung in der Hand von wenigen kurzfristig profitorentierten Großbanken liegt, welche ihr Geldschöpfungsprivileg insbesonders dazu mißbrauchen, ihre Spekulationsexzesse zu hebeln. Jede politische Entscheidung wird deswegen im Hinblick auf die Reaktion der "Märkte" gefällt. Dieser Spuk und insbesonders die "Staatsschuldenkrise" lassen sich sofort beenden, wenn das Privileg der Giralgeldschöpfung (immerhin ca. 90% unserer Umlaufgeldmenge) allein in die Hände der EZB gegeben würde, ganz genau so wie dies mit den Zettelnoten der Banken vor etwa 150 Jahren geschah, als das Privileg des Herstellens und in Umlaufbringens von Banknoten in die Hände der Nationalbanken gegeben wurde. Auf der Website <a href="http://www.monetative.de">www.monetative.de</a> kann sich jeder Interessierte sehr genau informieren. Warum, um Gottes Willen, nicht mehr wählen? Nein, unsere Aufgabe als Bürger besteht darin, zu verstehen, wie unsere Gesellschaft funktioniert, uns eine Meinung zu bilden und diese klar und deutlich kundzutun. Da Geld in unserer arbeitsteiligen und kapitalintensiven Gesellschaft solch eine immens wichtige Rolle spielt, müssen wir verstehen, wie unser Geldsystem funktioniert und wie es reformiert werden kann, damit es unserem Wohle dienen kann. Eine Geldreform ist nicht die Lösung aller Probleme, dessen müssen wir uns bewußt sein, aber sie wäre zumindest ein Schritt in die richtige Richtung. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364794421929900">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364817930780469" name="1364817930780469"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/balsamico">
+                
+                  <img src="http://www.freitag.de/autoren/balsamico/@@images/539bd84f-4434-4b24-8aeb-0167a59de941.jpeg" alt="balsamico" title="balsamico" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/balsamico" class="author ">balsamico</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364817930780469">
+                  01.04.2013 |
+                  14:05</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364664211660170">
+                    <span data-in_reply_to="1364664211660170" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>Was hätte eine grosse Stimmenthaltung für einen Sinn? Einen gewaltigen!</em></p>
+<p>Auch ich liebäugele heftig mit dem Gedanken, nicht zu wählen, da meine Verdrossenheit an der gegenwärtigen Partei-Oligarchie und an dem unteren Mittelmaß, das sie hervorgebracht hat, schwerlich noch zu steigern ist. Tatsächlich ist es aber so, dass die Nichtwähler den Profiteuren des gegenwärtigen Systems allenfalls am Wahlamt für ein paar Minuten eine, notaben eine einzige, zur Schau gestellte Sorgenfalte wert sind. Danach sind ihnen die Nichtwähler vollkommen schnurz, weil sie für den Wahlerfolg der Gewählten völlig belanglos sind.  Die Parteien und ihre Parteigänger sind längst so verkommen, dass sie selbst dann von einem glanzvollen Wahlerfolg schwadronieren würden, wenn sie bei, sagen wir 30% Wahlbeteiligung ein paar Prozenpunkt mehr Stimmen bekämen als bei der letzten Wahl, wohlwissend, dass die sogenannte "breite Masse" überhaupt nicht begreift, was los ist.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364817930780469">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364818008184639" name="1364818008184639"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/balsamico">
+                
+                  <img src="http://www.freitag.de/autoren/balsamico/@@images/539bd84f-4434-4b24-8aeb-0167a59de941.jpeg" alt="balsamico" title="balsamico" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/balsamico" class="author ">balsamico</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364818008184639">
+                  01.04.2013 |
+                  14:06</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364817930780469">
+                    <span data-in_reply_to="1364817930780469" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wahlamt = Wahlabend.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364818008184639">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364824168035983" name="1364824168035983"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364824168035983">
+                  01.04.2013 |
+                  15:49</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364771940602849">
+                    <span data-in_reply_to="1364771940602849" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Fro, eine demonstrative Wahlenthaltung nur solange, bis es unabhängige Direkt-Kandidaten gibt, die ihr Programm unter Beteiligung von uns allen ausarbeiten und auch während der Legislaturperiode mit Unterstützung der Zivilgesellschaft im Parlament Politik machen. Bei allen wichtigen Entscheidungen, sagen wir zwischen 4 und 8 pro Legislaturperiode, könnte das Votum der Zivilgesellschaft eingeholt werden. Das Internet macht das heute möglich. Ich behaupte, dass die Euro-Krise unter Beteiligung der Zivilgesellschaft so nicht gekommen wäre, und dass bereits seit Beginn der Euro-Zone die Bürger darangegangen wären, die strukturellen Schwächen eines jeden Landes zu diskutiern und Lösungen dafür auszuarbeiten. Parteien und Regierungen haben daran kein Interesse, weil das deutsche Kapital daran kein Interesse hat. Sicher ist der Ansatz erst einmal theoretisch, aber es lohnte sich, heute neue Formen von direkter Demokratie auszuprobieren. Und Abgeordnete von Parteien taugen nun einmal nicht dazu, die Demokratie und Volkssouveränität auch nur im Ansatz anzugehen. Es sei denn, Parteien wie die SPD brüsten sich damit, dass sie nach mehr als jahrhundertelanger Geschichte zum ersten Mal 300 Bürger einluden (sicher SPD-Wähler), um am Programm mitzudiskutieren. Das zeigt doch, wie pervers und krank unsere Demokratie ist.</p>
+<p>LG, CE</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364824168035983">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364825455348196" name="1364825455348196"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364825455348196">
+                  01.04.2013 |
+                  16:10</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364817930780469">
+                    <span data-in_reply_to="1364817930780469" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>B, sicher würden die Sorgenfalten am Wahlabend bei grosser Stimmenthaltung anschwellen. Es würde diese Sorgen bei wichtigen Entscheidungen im BT noch entschieden steigern, wenn sie mit einem sozialen Marketing von unabhängiger Presse, Befragungen von Meinungsforschungsinstituten und Demos begleitet würden. Aber der Effekt wäre vor allem wichtig für die Zivilgesellschaft selbst, die sich immer stärker bewusst würde, dass die Mehrheit ja gar nicht mehr hinter den Regierenden steht. Ich meine, dass eine solche Situation, von mehr als 50% Enthaltung, zu einer sehr instabilen politischen Lage in Deutschland führen würde und auch zu mehr Engagement vonseiten der Unabhängigen, die sich bisher nicht aus ihren Löchern trauen, obwohl sie doch eine mehr als kompetente Alternative sein könnten, vor allem mit der Meinung und dem Votum des Bürgers im Rücken. Das müsste einfach einmal ausprobiert werden. Wäre ich in Deutschland und würde 200 Unterstützerstimmen zusammenkriegen, würde ich zumindest in einem Wahlkreis eine demokratische Diskussion um unser derzeitiges System herbeiführen. Selbst bei Nicht-Wahl ist es wichtig, Alternativen aufzuzeigen. Ich hatte weiter oben ein Beispiel angeführt, dass man vor der BT-Wahl eine virtuelle Parlamentswahl von Unabhängigen machen könnte. Und wenn sich am Anfang nur Wenige engagieren würden, es könnte ein Gruppe von 30 bis 40 Unabhängigen die gesamte Legislaturperiode hindurch die wichtigsten Themen aufgreifen und mit den interessierten Bürgern diskutieren und Entscheidungen herbeiführen. Das würde in Deutschland zeigen, dass die Zivilgesellschaft fähig wäre, alternative Politikansätze zu diskutieren und Lösungen aufzuzeigen. Das öffentliche Interesse daran würde mit der Zeit steigen, und auch die Presse würde immer mehr darauf eingehen und im BT würden diese Themen und Entscheidungen nicht mehr links liegen gelassen werden können. Wir sollten einfach mal solche Experimente starten. Nicht nur Technologie schreitet voran, die Bürger-Republik sollte sich auch auf die Beine machen. </p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364825455348196">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364825870919924" name="1364825870919924"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364825870919924">
+                  01.04.2013 |
+                  16:17</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364825455348196">
+                    <span data-in_reply_to="1364825455348196" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>B, Zusatz: Das Beispiel der Piraten zeigt, dass das Internet in Zukunft ein wichtiges Demokratieförderungs-Instrument darstellt. Dass Negative an dem Experiment ist der Versuch, eine Partei klassischen Musters auf die Beine zu stellen, die ganz rasch nach Posten und Knete schreit wie die Altparteien, die uns alle längst aus dem Halse hängen, und die nur noch sich selber repräsentieren.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364825870919924">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364827396035434" name="1364827396035434"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364827396035434">
+                  01.04.2013 |
+                  16:43</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364766595754010">
+                    <span data-in_reply_to="1364766595754010" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Lieber H, Du stellst eine "philosophische" Frage: Was nützt unser Engagement, wenn die "condición humana" so ist, wie sie ist. Ich habe mich das auch seit meinem Engagement in der 68er-Bewegung immer wieder gefragt. In den ersten 10 Jahren danach verschwand durch die eigene Praxis der Optimismus nach schnellen gesellschaftlichen Veränderungen und die Einsicht, das gesellschaftlicher Fortschritt nur in Generationen-Schritten, wenn überhaupt, verläuft. Z.B. kann ich mich sehr gut an den Beginn der Gender-Offensive in "Dritte Welt"-Ländern erinnern, in die ich selbst involviert war. Auch die Offensive im Erziehungs- und Gesundheitsbereich. Und da sind die eigentlichen gesellschaftlichen Revolutionen erfolgt, nicht von heute auf morgen, aber stetig, Schritt für Schritt, und mit Ausdauer. Die "sozialistischen" Revolutionen können da nur blass vor Neid werden. Ihr "Neuer Mensch" war, aus Menschen Marionetten zu machen, die einer Nomenklatura zu gehorchen haben. Aber der eigentliche "Neue Mensch" kristallisiert sich langsam weltweit heraus als allseits gebildete/r und gesunde/r Frau und Mann mit einer um 30 Jahre verlängerten Lebenserwartung, usw. usf. Leider geht dieser "Neue Mensch" auch unverantwortlicher mit der Natur um, ist egoistischer als früher und kennt Solidarität nur vom Hörensagen.</p>
+<p>Was ich damit sagen will: Don Quichotte sein, bringt tatsächlich nur immer wiederkehrenden Frust. Aber Cervantes wusste in seiner Zeit nicht, nehme ich einmal an, dass stetige kleine Anstrengungen aus Don Quichottes Dasein ein nützliches Dasein hätte werden können.</p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364827396035434">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364828175750852" name="1364828175750852"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/fro">
+                
+                  <img src="http://www.freitag.de/autoren/fro/@@images/6c48ff7b-e8c4-46b9-8a5e-09f9f1c722f5.jpeg" alt="Fro" title="Fro" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/fro" class="author ">Fro</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364828175750852">
+                  01.04.2013 |
+                  16:56</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364824168035983">
+                    <span data-in_reply_to="1364824168035983" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das sehe ich auch so: In einem bürgerfreundlichen Parlament müsste das Votum der Bürger bei allen wichtigen Entscheidungen eingeholt werden. Und der Souverän müsste sich natürlich auch jederzeit in die Entscheidungsfindung einbringen können. Internet macht's möglich. Aber warum sollte man nicht die BT-Kandidaten daraufhin abklopfen, ob sie als Abgeordnete bereit wären die klugen mehrheitlichen Bürgerwünsche ins Parlament zu tragen und für ihre Verwirklichung zu arbeiten? Und wer sich zierte, bekäme kein 'Wählbarkeitszertifikat'.<br />Ich bin übrigens froh, dass es solche Leute wie Gisy, Wagenknecht, Ströbele, Bülow, demnächst hoffentlich wieder Lafontaine, und andere, im Parlament gibt. Ohne sie würde die derzeitige Politik in der Öffentlichkeit noch alternativloser erscheinen. Lass mal stecken den Wahlboykott – und ich glaube nicht, dass Du da nennenswert viele Mitstreiter gewinnen wirst.:)</p>
+<p> </p>
+<p>Beste Grüße</p>
+<p>Fro</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364828175750852">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364836690832104" name="1364836690832104"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364836690832104">
+                  01.04.2013 |
+                  19:18</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364828175750852">
+                    <span data-in_reply_to="1364828175750852" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Fro, wir sind ja gar nicht weit auseinander mit unserer Meinung. Nur mit einem gehe ich nicht konform. Gerade die sogenannten Linken, Progressiven, oder wie Du sie nennen willst, sind gerade das Feigenblatt für die "offenen" Kapitalvertreter. Du wirst nicht einen von ihnen bei einer Demo um Abschiebung, Rausschmiss von unbequemen Arbeitnehmerinnen/er sehen. Sie haben das Privileg, zu meckern und trotzdem die Knete aus öffentlichen Haushalten einzustreichen, um sich und ihre Freunde bestens zu versorgen. Wenn Du Dir mal die Parteienfinanzierung und die Finanzierung von parteinahen Stiftungen anguckst, kommt Dir das Grausen. Wenn es um die reale Solidarität mit den Bedürftigen geht, dann ist ihre eigene Knete immer das Wichtigste. Es ist ja so schön, nach aussen hin sich dem Bürger anzubiedern, aber hintenrum die gleiche Chose abzuziehen wie die Kapitalvertreter.</p>
+<p>Nun gut, lassen wir diese Diskussion. Ich habe selbst mit angesehen, wie die gesamte 68er Generation vom Kapital korrumpiert wurde, auch die Wenigen, die heute noch verbal um sich schlagen, aber nur noch verbal. Und sie werden nicht von uns kontrolliert und von ihrer Partei noch viel weniger.</p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364836690832104">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364854723037720" name="1364854723037720"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ludwig-hasselberg">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ludwig-hasselberg" class="author ">Ludwig Hasselberg</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364854723037720">
+                  02.04.2013 |
+                  00:18</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Nur 300 Euro pro Tag, das ist natürlich bitter. Das sind nicht mal 10000 pro Monat!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364854723037720">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364917046403794" name="1364917046403794"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/herrbecker">
+                
+                  <img src="http://www.freitag.de/autoren/herrbecker/@@images/dd0d44cb-cdcc-410c-964b-68d565f96b35.jpeg" alt="herrbecker" title="herrbecker" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/herrbecker" class="author ">herrbecker</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364917046403794">
+                  02.04.2013 |
+                  17:37</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364827396035434">
+                    <span data-in_reply_to="1364827396035434" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich würde ungern den "real existierenden Sozialismus" mit dem gleichsetzen, was eine Menge kluger Leute, etwa Karl Marx, Rosa Luxemburg und John Rawls (schöne Mischung, ich könnte jetzt natürlich noch mehr Namen dazuschreiben, Benjamin und den oben bereits genannten Bloch bspw., aber auch Popper) sich als erstrebenswerte Gesellschaftsform ausgemalt haben.</p>
+<p>Na klar, grau ist alle Theorie. Doch ich habe wirklich Hoffnung und ich teile Ihre pessimistische Gegenwartsanalyse nicht. Da geht noch was! Und selbst wenn bestimmte Werte gegenwärtig bei uns Jüngeren nicht mehr die Rolle spielen wie etwa vor vierzig, fünfzig Jahren, dann ist das der Preis für den von Ihnen genannten Fortschritt. Und hey: Eine CDU-Kanzlerin beschließt den endgültigen Atomausstieg. Ein Liberaler als schwuler Außenminister. Ein Wirtschaftsminister mit eindeutigem Migrationshintergrund. Vätermonate. Bio beim Aldi.</p>
+<p>Man muss das nicht alles toll finden, v.a. nicht diese Politikerriege. Ein bisschen was bewegt hat sich jedoch schon. Wir dürfen nur nicht aufhören, weiter zu schieben. Von alleine fährt der Wagen je leider noch nicht. Dafür brauche ich aber Leute die mitmachen, und nicht nur nette Absichtsbekundungen "in voller Solidarität".</p>
+<p>Lieben Gruß aus dem kalten D in D.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364917046403794">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364919816666778" name="1364919816666778"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364919816666778">
+                  02.04.2013 |
+                  18:23</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364917046403794">
+                    <span data-in_reply_to="1364917046403794" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Lieber HB, Marx hätte ich mir im "real existierenden Sozialismus" gut vorstellen können. Trotz aller intellektueller Brillanz war er ein autoritärer, arroganter Knüppel, ein äusserst schwieriger Mensch. Viele "Helden" der Vergangenheit waren menschlich gesehen absolut keine Vorbilder. Anders ist es mit den anderen von Dir aufgezeigten Persönlichkeiten.</p>
+<p>Dass es einige kleine Korrekturen an unserem "demokratischen" Modell gibt, ist unzweifelhaft und dem Laufe der Zeit geschuldet. Sonst wäre es auch nicht wettbewerbsfähig. Aber es genügt, Deutschland von aussen zu betrachten. Da blättert von der Fassade so manches ab und vor allem fällt Eines auf: Ähnlich wie Individuen mit zunehmendem Wohlstand eigensüchtiger werden und nach immer mehr Knete gieren, geschieht es auch mit Nationen. Das deutsche Kapital und die deutsche Politik haben den Blick für ein gemeinsames solidarisches Europa längst aus dem Blickfeld verloren. Nicht umsonst wird Merkel (und damit Deutschland) mit A.H. und Nazi-Deutschland verglichen. Auch wenn der Vergleich in Vielem hinkt, ist doch unzweifelhaft die deutsche Arroganz und wirtschaftliche Hegemonie auszumachen, die die anderen Nationen an der Kandare zu führen bestrebt ist. Deutschland und auch Europa können dergestalt nicht erfolgreich sein. Deshalb ist auch eine wachsame, kritische Bürgerschaft in allen europäischen Ländern ein Muss ebenso wie "Gegenmacht" gegenüber dem "Offiziellen Europa". Siehe auch meinen heutigen Beitrag über "Hambacher Fest".</p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem#1364919816666778">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/lutz-herden">Lutz Herden</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/lutz-herden">
+          <img src="http://www.freitag.de/autoren/lutz-herden/@@images/c408b136-61b1-414c-a7c8-1f5513877729.jpeg" alt="Lutz Herden" title="Lutz Herden" height="65" width="65" /></a>
+        
+      </div>
+      <div class="box">
+        Redakteur Politik
+      </div>
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">05.02.2009</span>
+      </div>
+      <div class="last_login">
+        Letzter Login:
+        <span class="detail">03.04.2013</span>
+      </div>
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/lutz-herden">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/lutz-herden">503</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/lutz-herden/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/lutz-herden/@@kommentare">702</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/lutz-herden/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/lutz-herden/@@leser">21</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/lutz-herden/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Lutz Herden</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/lutz-herden/passend-zur-karwoche">
+              <span class="catchword">Zypern</span>
+              Passend zur Karwoche</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/lutz-herden/passend-zur-karwoche">
+              <span class="comment-count" title=" 31 mal kommentiert">31</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/lutz-herden/kleines-boot-auf-hoher-see">
+              <span class="catchword">Existenzkampf</span>
+              Kleines Boot auf hoher See</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/lutz-herden/kleines-boot-auf-hoher-see">
+              <span class="comment-count" title=" 43 mal kommentiert">43</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/lutz-herden/helfer-oder-helfershelfer">
+              <span class="catchword">Irak-Krieg</span>
+              Helfer oder Helfershelfer?</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/lutz-herden/helfer-oder-helfershelfer">
+              <span class="comment-count" title=" 10 mal kommentiert">10</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364997459" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364997459" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364997459" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="catchword">1963</span>
+              Das Kuckucksei </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="author group-authors">Georg Fülberth</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="catchword">Finanzkrise</span>
+              Der Rubel rollt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="author group-authors">Dierk Hirschel</span>
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364997459" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364997459" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364997459" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    img: "http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem/@@images/fadaebc8-e679-4d86-9042-1566af821df5.jpeg",
+    objectid: "c59dfa6e872c4c45922b9ab27cd0761a",
+    title: "Geschäftsmodell Schneeballsystem",
+    url: "http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem",
+    text: "Zypern zeigt, systemrelevant in der Eurozone sind nicht nur Banken. Systemrelevant ist auch die Furcht des Normalbürgers um die Sicherheit seines Sparguthabens",
+    created_at: "1364553600"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

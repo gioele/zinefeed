@@ -1,0 +1,792 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:55:36 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:55:10 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 44875
+Accept-Ranges: bytes
+X-Varnish: 557698871 557698032
+Via: 1.1 varnish
+X-Varnish-Age: 26
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>1963 ǀ Das Kuckucksei  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Vor 50 Jahren geht das ZDF auf Sendung. Zuvor ist Kanzler Adenauer damit gescheitert, ein Staatsfernsehen zu gründen, das der öffentlich-rechtlichen ARD Paroli bietet" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364997310" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364997310" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364997310" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364997310" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364997310" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364997310" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364997310" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=zeitgeschichte">zeitgeschichte</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=adenauer">adenauer</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=fernsehen">fernsehen</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=zdf">zdf</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=verfassungsgericht">verfassungsgericht</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p>Georg Fülberth schrieb hier zuletzt über das Ende der Kanzlerschaft Helmut Schmidts 1982</p>
+<p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 13/13</strong> vom 27.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Georg Fülberth</span>
+        <div class="additional-info">
+          <span class="date">03.04.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 3 mal kommentiert">3</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Das Kuckucksei </h1>
+
+        <p class="description">
+          <span class="catchword">1963</span>
+          Vor 50 Jahren geht das ZDF auf Sendung. Zuvor ist Kanzler Adenauer damit gescheitert, ein Staatsfernsehen zu gründen, das der öffentlich-rechtlichen ARD Paroli bietet
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/der-freitag/das-kuckucksei/@@images/e7a196e2-97b7-41a9-ae3f-498612f2624b.jpeg" alt="Das Kuckucksei " title="Das Kuckucksei " height="282" width="445" /><p class="credit">Foto: Imago</p>
+          </div>
+        
+
+        <div class="text"><p>Im September 1957 hatte Konrad Adenauer seinen größten Wahlerfolg feiern können: 50,2 Prozent der Stimmen, absolute Mehrheit der Sitze im Bundestag. Damit begann sein Abstieg: Seine Stellung innerhalb der Union wurde nicht gestärkt, sondern geschwächt. Solange die Christdemokraten auf Koalitionen angewiesen waren, konnte er sie mit dem Hinweis disziplinieren, es sei nur zu realisieren, was er mit der FDP oder anderen Fraktionen vereinbart hatte. Jetzt musste sich Adenauer nur noch mit CDU und CSU herumschlagen, die ihm gegenüber mehr Selbstbewusstsein entfalteten. Auch sonst meinte er, Anlass zur Panik zu haben.</p>
+<p>„Die Lage war nie so ernst!“ – dieser viel verspottete Ausruf war keine Demagogie, sondern drückte ebenso Besorgnis aus wie seine rhetorische Frage: „Mein Gott, was soll aus Deutschland werden?“ Seit 1957 gab es das atomare Patt zwischen den Blöcken, 1960 wurde Kennedy Präsident, dem der Kanzler nicht über den Weg traute. Hinzu kam die lästige Nachfolgefrage. Die Union wollte Ludwig Erhard als nächsten Kanzler. Adenauer hielt ihn für ungeeignet. Einige Zeit überlegte er, sich zum Bundespräsidenten wählen zu lassen, um von dieser Position aus noch Einfluss auf die Politik zu nehmen. Nachdem er feststellte, dass die Befugnisse dieses Amtes sich nicht so dehnen ließen, wie er hoffte, gab er den Plan auf und hatte sich blamiert. Was war los? Erstmals seit 1949 musste Adenauer wieder ernstlich um die Macht kämpfen. Hierher gehört sein Plan eines regierungsamtlichen Fernsehens, der ihm die nächste Niederlage eintragen sollte.</p>
+<h2>Standuhr in Rhöndorf</h2>
+<p>Adenauer hatte immer ein scharfes Auge auf die Presse. Er veranstaltete „Teegespräche“, in denen er ausgewählte Journalisten instruierte. 1955 musste Paul Sethe, einer der Gründungs-Herausgeber der <em>Frankfurter Allgemeinen Zeitung,</em> gehen, weil er zu einem Kritiker von Adenauers Außenpolitik geworden war. Der <em>Spiegel</em> berichtete vom Hintergrund: „Bei einem Empfang im Palais Schaumburg fragte der Bundeskanzler beispielsweise Vertreter der Industrie, warum die Industriellen der FAZ eigentlich so viele Todesanzeigen-Aufträge geben.“ Von Franklin D. Roosevelt hatte sich Adenauer eine Variante von dessen <em>fireside chats</em> abgeguckt: Kaminplaudereien, mit denen sich der US-Präsident per Radio an das Volk wandte. So meldete sich in Krisenzeiten auch der bundesdeutsche Kanzler per Rundfunk zu Wort. Während er redete, war zwischendurch Glockenschlag zu hören. Man konnte sich dann eine ehrwürdige Standuhr in Adenauers Rhöndorfer Privathaus vorstellen.</p>
+<p>Seit 1952 gab es in beiden deutschen Staaten Fernsehen, und dies wurde dem Kanzler allmählich unheimlich. Sein Biograf Hans-Peter Schwarz berichtet, Adenauer sei 1957 klar geworden, dass dieser Wahlkampf der letzte gewesen sei, in dem er auf dieses Medium noch keine besondere Rücksicht nehmen musste. Das Fernsehen wurde von der Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD) getragen. Und hier argwöhnte der Kanzler und CDU-Vorsitzende zunehmenden sozialdemokratischen Einfluss. Jedenfalls konnte er damit nicht einfach Wahlkampf machen.</p>
+<p>Abhilfe erhoffte er sich von der Gründung eines Zweiten Fernsehprogramms, auf das die Bundesregierung unmittelbaren Einfluss haben sollte. Allerdings musste er sich zu diesem Zweck mit den Ländern ins Benehmen setzen, denn sie waren für den Rundfunk zuständig. So schloss Adenauer 1960 mit den CDU-Ministerpräsidenten ein Verwaltungsabkommen zur Gründung einer Deutschland-Fernsehen GmbH – privatrechtlich verfasst, wenngleich zu 100 Prozent in öffentlicher Hand. Die Bundesregierung sollte ein Drittel der Anteile halten, auf die Länder entfielen zwei Drittel. Dieses Zugeständnis an den Föderalismus war nötig, behagte dem Kanzler aber nicht. Die Art, wie das Abkommen formal besiegelt werden sollte, erschien Adenauer-typisch trickreich, war aber wohl einer der Fehler, die ihm in dieser Spätphase unterliefen: zur Unterzeichnung des Gesellschaftervertrags waren die Vertreter der Länder nicht rechtzeitig eingeladen und deshalb nicht erschienen. Justizminister Fritz Schäffer (CSU) unterschrieb treuhänderisch für sie, danach konnten sie sich ihre Anteile übertragen lassen.</p>
+<p>Doch jetzt wurden die Kritiker besonders wach. Sie fanden sich nicht nur bei den sozialdemokratischen, sondern auch bei den christdemokratischen Regierungschefs, allen voran der Ministerpräsident von Rheinland-Pfalz, Peter Altmeier. Ein Bundes-Fernsehen war ein Eingriff in ihre Rechte. Die Länder übernahmen ihre Anteile nicht, und Schäffer übergab diese der Regierung, formell weiterhin „treuhänderisch“. Das ging nun überhaupt nicht, alle schlafenden Hunde waren geweckt. Schließlich waren es die Nazis, die einst den Rundfunk reichseinheitlich zentralisiert hatten. Bremen, Hamburg, Hessen und Niedersachsen – alle SPD-regiert – riefen das Bundesverfassungsgericht an, und dieses erklärte am 28. Januar 1961 die Gründung einer Deutschland-Fernsehen GmbH für grundgesetzwidrig, da mit der Kulturhoheit der Länder unvereinbar. Zudem weise die geplante Konstruktion – anders als die Organisation der ARD-Sender als Anstalten Öffentlichen Rechts – nicht genügend Staatsferne auf.</p>
+<p>Allerdings wurde das Kuckucksei, welches Adenauer den Ländern ins Nest gelegt hatte, zu guter Letzt doch ausgebrütet. Die Ministerpräsidenten hatten inzwischen nämlich selber Geschmack an der Sache gefunden und unterzeichneten am 6. Juni 1961 einen Staatsvertrag für ein Zweites Deutsches Fernsehen (ZDF), das wie die ARD als Anstalt Öffentlichen Rechts organisiert war. Am 1. April 1963 nahm es in Mainz den Sendebetrieb auf. Was als Anschlag auf den Föderalismus begonnen hatte, endete mit dessen Stärkung. Dabei war Adenauers Argument – es müsse mehr Pluralität geben – nicht völlig verpufft, sondern hatte mitgeholfen, dass die ARD ihr Monopol verlor. Parteipolitisch konnte der Kanzler sogar zufrieden sein, denn Karl Holzamer, der erste und langjährige ZDF-Intendant, war CDU-Mitglied. Auch wirkte das Zweite Deutsche Fernsehen stets staatsnäher als die ARD. Was politische Einflussnahme bedeutet, hat nicht zuletzt 2010 der Chefredakteur Nikolaus Brender zu spüren bekommen: Er verlor seinen Posten nach einer Intervention des hessischen Ministerpräsidenten Roland Koch, der sich seine CDU/CSU-Kollegen angeschlossen hatten.</p>
+<h2>SAT.1 und RTL</h2>
+<p>Ohnehin hatte sich Adenauers Initiative nicht vorrangig gegen die ARD gerichtet, sondern gegen ihm missliebige Printmedien, denen er etwas Eigenes entgegensetzen wollte. Zunehmend machte ihm der <em>Spiegel</em> zu schaffen. Wie hart es da zuging, zeigte 1962 die Polizei-Aktion gegen Rudolf Augsteins Magazin. Über diese Affäre stürzte nicht nur der Verteidigungsminister Strauß – sie war auch das Vorspiel zum Ende der Ära Adenauer 1963.</p>
+<p>Dessen Vorstoß vor gut einem halben Jahrhundert erwies sich dennoch als zukunftsträchtig. Die Deutschland-Fernsehen GmbH sollte ja eine private Rechtsform erhalten. Seit 1952 erschien Axel Springers <em>Bild-Zeitung</em> und griff ständig das öffentlich-rechtliche Fernsehen an. Und dann gab es da Gerd Bucerius, bis 1962 Bundestagsabgeordneter der CDU, vor allem aber alleiniger Gesellschafter der <em>Zeit</em>, Mehrheitseigentümer des Nannen-Verlags und Verleger der Illustrierten <em>stern</em>.</p>
+<p>Zusammen mit einigen Kollegen setzte er sich für ein „Freies Fernsehen“ ein. Was zunächst wie Zukunftsmusik klang, wurde 1984 Wirklichkeit: Das staatliche Rundfunk-Monopol fiel. Angesichts von SAT.1 und RTL kann seither darüber philosophiert werden, was das Bundesverfassungsgericht 1961 gemeint haben mag, als es forderte, es müsse dafür gesorgt werden, „dass der Rundfunk weder dem Staat noch einer gesellschaftlichen Gruppe ausgeliefert wird“. Der Einfluss privater wirtschaftlicher Macht auf das Fernsehen lag da wohl noch außerhalb des Vorstellbaren.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (3)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364973783885973" name="1364973783885973"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tlacuache">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tlacuache" class="author ">tlacuache</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei#1364973783885973">
+                  03.04.2013 |
+                  09:23</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die letzten 7 Zeilen sind immer meine Rede, zu dem vorherigen Text kann ich nur Beglückwünschen.</p>
+<p>Mehr davon</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/das-kuckucksei#1364973783885973">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364975265870423" name="1364975265870423"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/aqua-jedi">
+                
+                  <img src="http://www.freitag.de/autoren/aqua-jedi/@@images/983abd7c-bb32-4bd6-9828-9bd84fbd5472.jpeg" alt="Aqua-Jedi" title="Aqua-Jedi" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/aqua-jedi" class="author ">Aqua-Jedi</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei#1364975265870423">
+                  03.04.2013 |
+                  09:47</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>"Der Einfluss privater wirtschaftlicher Macht auf das Fernsehen lag da wohl noch außerhalb des Vorstellbaren [des Bundesverfassungsgerichts]."</em></p>
+<p>Das glaube ich eher nicht, denn <a href="http://de.wikipedia.org/wiki/Bertelsmann" title="Bertelsmann">Bertelsmann</a> und <a href="http://de.wikipedia.org/wiki/Axel_Springer_AG" title="Axel Springer">Axel Springer</a> waren auch 1961 schon recht einflussreich. Privates Radio kannte man auch schon in Form von <a href="http://de.wikipedia.org/wiki/Radio_Luxemburg" title="Radio Luxemburg">Radio Luxemburg</a>. Und richtig böse Erfahrung hatte man ja bereits mit <a href="http://de.wikipedia.org/wiki/Alfred_Hugenberg" title="Hugenberg">Hugenberg</a> gesammelt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/das-kuckucksei#1364975265870423">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364989436969898" name="1364989436969898"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rotkehlchen123">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rotkehlchen123" class="author ">Rotkehlchen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei#1364989436969898">
+                  03.04.2013 |
+                  13:43</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>An den privaten Sendern wurde ja seit langem mit allen Mitteln gearbeitet. Selbst prüde und konservative Politiker_innen nahmen zu dem Zweck ja meist nicht einmal an den Sexsendungen der ersten privaten Sender Anstoß. Der Aufschrei, bei einer Freigabe des TV-Bereichs für Privatsender werde es massenweise Sexsendungen geben, klag ja in den Ohren der Jugendlichen wie Werbung und das war kalkuliert.</p>
+<p>Heute können sich das Jugenliche nicht mehr vorstellen, die zu jeder Uhrzeit im Internet frei Pornos runterladen können. Mit dem Internet war es bis hinein in die 90er Jahre aber noch nicht so weit. Geschweige denn, dass es da kostenlos Pornos zu sehen gegeben hätte.</p>
+<p>Heute bietet die Fernsehlandschaft aber geistig nichts mehr. Sinnlose Seriengewalt, zahlreiche Kochsendungen, die niveaulose Suche nach Superstars oder gar pausenlose Werbung auf einigen Sendern prägen das Bild. Wenige gute Filme sind über zahlreiche Sender gestreut. Hätte das die damalige Jugend gewusst, hätte sie wohl kaum Begeisterung für die private Medienlandschaft empfunden.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/das-kuckucksei#1364989436969898">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/der-freitag/das-kuckucksei/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/der-freitag">der Freitag</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/der-freitag">
+          <img src="http://www.freitag.de/autoren/der-freitag/@@images/50c1cea0-2a14-47a6-8687-3435f86755e3.png" alt="der Freitag" title="der Freitag" height="65" width="65" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2012</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">24295</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">103</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/der-freitag/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Georg Fülberth</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/mit-uns-zieht-die-neue-zeit">
+              <span class="catchword">Postdemokratie</span>
+              Mit uns zieht  die neue Zeit </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/mit-uns-zieht-die-neue-zeit">
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/im-nebel-des-wahlkampfs">
+              <span class="catchword">Fehlstart</span>
+              Im Nebel des Wahlkampfs </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/im-nebel-des-wahlkampfs">
+              <span class="comment-count" title=" 19 mal kommentiert">19</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nur-einer-wird-gewinnen">
+              <span class="catchword">SPD-Bewerber</span>
+              Nur einer wird  gewinnen </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nur-einer-wird-gewinnen">
+              <span class="comment-count" title=" 16 mal kommentiert">16</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364997310" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364997310" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364997310" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="catchword">Finanzkrise</span>
+              Der Rubel rollt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="author group-authors">Dierk Hirschel</span>
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut">
+              <span class="catchword">Rassismus</span>
+              Der Geruch der Armut  </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut">
+              <span class="author group-authors">Norbert Mappes-Niediek</span>
+              <span class="comment-count" title=" 29 mal kommentiert">29</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364997310" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364997310" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364997310" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    img: "http://www.freitag.de/autoren/der-freitag/das-kuckucksei/@@images/eb9b87dd-348c-45d0-a686-d48901533ee0.jpeg",
+    objectid: "79bc84fe61c64b628cf85a0b5dc8f77c",
+    title: "Das Kuckucksei ",
+    url: "http://www.freitag.de/autoren/der-freitag/das-kuckucksei",
+    text: "Vor 50 Jahren geht das ZDF auf Sendung. Zuvor ist Kanzler Adenauer damit gescheitert, ein Staatsfernsehen zu gründen, das der öffentlich-rechtlichen ARD Paroli bietet",
+    created_at: "1364972400"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

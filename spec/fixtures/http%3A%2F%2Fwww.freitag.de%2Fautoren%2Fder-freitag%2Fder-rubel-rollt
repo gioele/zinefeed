@@ -1,0 +1,1092 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:56:53 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:48:05 GMT
+Vary: X-Anonymous
+ETag: "||3360527|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 66537
+Accept-Ranges: bytes
+X-Varnish: 557701431 557686174
+Via: 1.1 varnish
+X-Varnish-Age: 528
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Finanzkrise ǀ Der Rubel rollt — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Bislang war die Regulierung der Finanzmärkte bloße Makulatur – eine wirkliche Neuordnung steht noch aus" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364996884" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364996884" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364996884" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364996884" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364996884" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364996884" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364996884" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=finanzkrise">finanzkrise</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=casino">casino</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=finanzkapitalismus">finanzkapitalismus</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=schattenwirtschaft">schattenwirtschaft</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=finanzmarktregulierung">finanzmarktregulierung</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=bankenregulierung">bankenregulierung</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=hedgefonds">hedgefonds</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=kapitalanleger">kapitalanleger</a>
+          
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Dierk Hirschel</span>
+        <div class="additional-info">
+          <span class="date">02.04.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 11 mal kommentiert">11</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Der Rubel rollt</h1>
+
+        <p class="description">
+          <span class="catchword">Finanzkrise</span>
+          Bislang war die Regulierung der Finanzmärkte bloße Makulatur – eine wirkliche Neuordnung steht noch aus
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt/@@images/58f5f13f-b245-431e-8e20-9643830c9387.jpeg" alt="Der Rubel rollt" title="Der Rubel rollt" height="282" width="445" /><p class="caption">Urlaubsidylle in Almeria, Spanien. Not</p>
+            <p class="credit">Foto: Jasper Juinen/ AFP/ Getty Images</p>
+          </div>
+        
+
+        <div class="text"><p>Vor sechs Jahren stieg schwarzer Rauch aus den Glaspalästen. Die größte <a href="/autoren/der-freitag/einer-nach-dem-anderen-holt-die-leichen-aus-dem-keller">Finanzmarktkrise</a> der letzten 80 Jahre hatte begonnen. Sie erwuchs aus entfesselten Kapitalmärkten und ökonomischer Ungleichheit. Die angebliche Effizienz der Finanzmärkte entpuppte sich als Mythos. Auf freien Kapitalmärkten gibt es unvollständige Informationen, Unsicherheit und Herdenverhalten. Marktversagen ist nicht die Ausnahme, sondern die Regel. Die laxe Regulierung des Hypothekenmarktes, das Verbriefungsgeschäft, Schattenbanken, das Geschäftsmodell der Rating-Agenturen, mangelhafte Vergütungssysteme, zu geringe Eigenkapitalanforderungen, sowie implizite Staatsgarantien für Megabanken führten zu einem Hochbetrieb im Casino. Die einhergehende Fehlallokation von milliardenschweren Kapitalströmen lässt sich heute in den Geisterstädten der Costa del Sol besichtigen.</p>
+<p>Auf dem Höhepunkt der Krise verkündete Angela Merkel, sie wolle politische Lehren ziehen. Kein Finanzinstitut, kein Finanzmarkt und kein Finanzprodukt sollten zukünftig unbeaufsichtigt bleiben. Erklärtes Ziel war ein krisenfestes und stabiles Finanzsystem. Eine neue Ordnung der Finanzmärkte sollte dafür sorgen, dass die Glaspaläste wieder der Realwirtschaft dienen. Im sechsten Jahr der Krise ist es Zeit eine erste Bilanz zu ziehen. Was folgte den Worten der Kanzlerin?</p>
+<h2>Das Casino läuft weiter</h2>
+<p>Nach Ausbruch der Krise startete und unterstützte die Regierung Merkel zahlreiche nationale und internationale Initiativen für ein neues Regelwerk der Finanzmärkte.</p>
+<p>Im Herbst 2008 beschlossen die Regierungschefs der 20 größten Industrieländer (G20) erste Reformen. Mit dem Finanzstabilitätsrat wurde ein globales Frühwarnsystem geschaffen. Zudem verschärften die Regulierer die Eigenkapital- und Liquiditätsanforderungen für Banken (Basel III). Die Bankenlobby konnte jedoch die neuen Eigenkapitalvorschriften verwässern. Und die Umsetzung der Regeln wurde bis 2019 hinausgezögert.</p>
+<p>Auf dem alten Kontinent hoben die europäischen Staatenlenker eine neue grenzüberschreitende Finanzaufsicht aus der Taufe. Die neuen europäischen Aufsichtsgremien haben jedoch geringe Kompetenzen. Außerdem soll der europäische Derivatehandel zukünftig über zentrale Plattformen abgewickelt werden. Manager von Hedgefonds, Private-Equity-Fonds und geschlossenen Fonds benötigen heute eine Zulassung. Auch Rating-Agenturen müssen sich registrieren lassen. Die Geschäftsmodelle ändern sich aber dadurch nicht. Verbriefungsrisiken müssen zwar mit mehr – aber nicht mit ausreichend - Eigenkapital unterlegt werden. Darüber hinaus führt eine Koalition der Willigen eine europaweite Finanztransaktionssteuer ein. Das ist gut so. Aktuell versucht die Europäische Kommission mit einer Bankenunion auf die systemische Krise der Währungsunion zu antworten. Hier besteht die Gefahr, dass ein großes Programm zur Stützung von Europas überdimensioniertem Finanzsektor beschlossen wird.</p>
+<p>Im eigenen Land ging die Regierung Merkel gegen Leerverkäufe und Hochfrequenzhandel vor. Wann bestimmte Finanzpraktiken künftig verboten werden und wie der Hochfrequenzhandel beschränkt wird, darüber entscheidet aber die Geschäftsführung der Börsen und nicht die Finanzaufsicht. Zudem sollen kriselnde Finanzinstitute mit einem Restrukturierungsgesetz abgewickelt werden. Dieses Gesetz läuft aber ins Leere, da der Restrukturierungsfonds erst in 100 Jahren über die nötigen Mittel verfügen wird. Der nationale Verbraucherschutz wurde verbessert. Allerdings mit einem Anlegerschutzgesetz, der bei Falschberatung die Beschäftigten sanktioniert und die betrieblichen Vergütungssysteme nicht antastet.</p>
+<p>Durch diese vielen einzelnen Regulierungsschritte konterte die schwarz-gelbe Regierung den Vorwurf der Untätigkeit. Fast immer ist es jedoch der Finanzmarktlobby gelungen, den unterschiedlichen Regulierungsmaßnahmen die Spitze zu nehmen. Kurzum: Merkel simulierte politisches Handeln.</p>
+<p>Das ursprüngliche Ziel einer lückenlosen Regulierung wurde klar verfehlt. Die weißen Flecken der Regulierung sind riesig. So ist das Problem systemrelevanter Banken weiterhin ungelöst – auch wenn die Bundesregierung im Wahlkampf auf diesem Feld jetzt aktiv geworden ist. Darüber hinaus ist der Sumpf der Schattenbanken und Steueroasen noch immer nicht trockengelegt. Und Finanzmarktprodukte werden bis heute nicht auf ihren volkswirtschaftlichen Nutzen hin geprüft.</p>
+<h2>Es geht um eine Systemfrage</h2>
+<p>Der Finanzsektor ist noch immer überdimensioniert. Die Megabanken haben nach Krise weiter Fett angesetzt. Die Bilanzsumme der weltweit 25 größten Banken ist heute größer als vor der Krise. Finanzinstitute, die sehr groß oder stark vernetzt sind, bedrohen ganze Volkswirtschaften. Solange Banken zu groß zum Scheitern sind, haften die Steuerzahler für deren Verluste. Diese Staatshaftung muss beendet werden.</p>
+<p>Deswegen muss die Politik sich jetzt um die Großbanken kümmern. Aktuell liegen unterschiedliche <a href="/autoren/lutz-herden/eine-landschaft-fluten">Regulierungsvorschläge</a> auf dem Tisch. Einerseits geht es um die Abtrennung des Investmentbankings vom klassischen Einlagen- und Kreditgeschäft (Trennbankensystem). Andererseits um eine stärkere Eigenkapitalhaftung bis hin zu Größenbeschränkungen, zum Beispiel durch Bilanzsummen- und Großkreditobergrenzen.</p>
+<p>Für die deutschen Banken geht es dabei um eine Systemfrage. Unsere Bankenlandschaft ist durch Finanzinstitute geprägt, die alle Geschäfte unter einem Dach organisieren. Diese Universalbanken bewegen drei Viertel der Bilanzsumme des deutschen Finanzsektors. Mehrheitlich handelt es sich dabei um Sparkassen und Genossenschaftsbanken. Nach Auffassung von Wolfgang Schäuble und Peer Steinbrück produziert diese Struktur systemische Risiken. Erfolglos spekulierende Investmentbanker können die gesamte Bank ruinieren. Eine Abspaltung des Investmentbankings soll künftig verhindern, dass Banker mit den Spareinlagen ihrer Kunden ins Casino gehen. Das traditionelle Einlagen- und Kreditgeschäft soll vor den Zockern geschützt werden.</p>
+<p>Die zähmende Wirkung von Trennbanken wird aber überschätzt. Ein <a href="/autoren/lukasz-szopa/peanuts-gegen-die-banken">Trennbankensystem</a> schließt nicht das Casino. Riskante Geschäfte werden nur ausgelagert. Spekulativer Handel mit Geld, Wertpapieren, Devisen und Derivaten auf eigene Rechnung ist weiter möglich. Lediglich die indirekte staatliche Subventionierung der Wetten entfällt. Das reicht aber nicht aus. Gerät eine große Investmentbank ins Schleudern, droht noch immer der Systeminfarkt. Zielführender als ein Systemwechsel von der Universal- zur Trennbank ist die Schließung des Casinos.</p>
+<h2>Schattenbanken muss man schließen </h2>
+<p>Risiken sollten immer dort angegangen werden, wo sie entstehen. Deswegen sollte der nicht kundenbezogene spekulative Handel der Großbanken begrenzt werden. Dafür bedarf es einer Höchstgrenze.</p>
+<p>Zudem müssen die Eigenkapitalvorschriften für Finanzinstitute verschärft werden. So kann man systemrelevante Banken davon abhalten, exzessive Risiken einzugehen. Das Baseler Regelwerk (Basel III) reicht hierfür nicht aus. Der deutsche Sachverständigenrat schlägt vor, die Eigenkapitalanforderungen für systemrelevante Banken auf bis zu 20 Prozent der risikogewichteten Aktiva zu erhöhen. In der Schweiz liegen die Kapitalanforderungen für systemrelevante Banken bei 25 Prozent. Außerdem müsste mit Hilfe einer hohen Verschuldungsquote – Leverage-Ratio – die Widerstandsfähigkeit der Banken gestärkt werden. All diese Maßnahmen setzen die Megabanken auf Diät.</p>
+<p>Darüber hinaus sollten künftig Finanzpraktiken wie Leerverkäufe oder der Handel mit ungedeckten Kreditausfallversicherungen reguliert werden. In der Finanzmarktkrise wurden viele Derivate, denen keine realwirtschaftlichen Transaktionen zugrunde lagen, zu „finanziellen Massenvernichtungswaffen“. Finanzprodukte, die keinen realwirtschaftlichen Nutzen haben, sind überflüssig. Ein „Finanz-TÜV“ sollte künftig den Nutzen neuer Finanzprodukte prüfen und über deren Zulassung entscheiden. Die Beweislast sollte bei der Finanzwirtschaft liegen.</p>
+<p>Das reicht aber nicht aus. Eine striktere Regulierung funktioniert nur, wenn es keine regulierungsfreien Zonen mehr gibt. Sonst könnten unerwünschte Geschäfte in eine Grauzone abwandern. Dort können Schattenbanken – Hedgefonds, Private-Equity-Fonds, Zweckgesellschaften und Geldmarktfonds – bankähnliche Geschäfte ohne strikte Eigenkapitalvorschriften, Aufsicht und Kontrolle durchführen. Das weltweite Anlagevermögen der Schattenbanken beläuft sich nach Schätzungen des Finanzstabilitätdrats auf gigantische 67 Billionen Dollar. Jede vierte Finanztransaktion läuft über eine Schattenbank.</p>
+<p>Um diesen Sumpf trocken zu legen, müssen die Regulierer grenzüberschreitend zusammenarbeiten. Die G20 haben den Finanzstabilitätsrat beauftragt, Regulierungsvorschläge für den Schattenbanksektor auszuarbeiten. Die Regulierung der Schattenbanken hätte jedoch zeitgleich mit der neuen Eigenkapitalregulierung für Banken erfolgen müssen. Die Grundprinzipien liegen auf der Hand. Alle Finanzmarktakteure müssen den gleichen Regeln in Sachen Transparenz, Risikomanagement, Liquidität und Eigenkapital unterworfen werden. Außerbilanzielle Zweckgesellschaften sollten schlicht verboten werden. Steuer- und Regulierungsoasen müssen ausgetrocknet werden.</p>
+<h2>Es fehlt nur der politische Wille </h2>
+<p>Die Folgen der Finanzmarktkrise sind noch immer allgegenwärtig. Solange die Krisenursachen <a href="/autoren/der-freitag/vollig-unbeeindruckt">nicht behandelt werden,</a> kann sich die Krise jederzeit wiederholen. Nach Ausbruch der Krise wollte die Politik eine neue Ordnung der Finanzmärkte entwerfen. Die hat sie aber bis heute nicht geliefert.</p>
+<p>Woran liegt das? Nicht an fehlender Erkenntnis. Die Ursachen der Krise wurden hinreichend untersucht. Die Konzepte für eine neue Ordnung liegen in der Schublade. Schärfere Eigenkapitalanforderungen für systemrelevante Banken, die Austrocknung der Schattenbanken und Steueroasen, ein Finanz-TÜV sowie die Einführung der Finanztransaktionssteuer sind wesentliche Elemente einer neuen Ordnung der Finanzmärkte. Darüber hinaus würde ein Ausbau der betrieblichen- und der Unternehmensmitbestimmung die Finanzwirtschaft demokratisieren. So kann die Finanzwirtschaft der Realwirtschaft dienen.</p>
+<p>Dafür gäbe es gesellschaftlichen Rückhalt. Die Mehrheit der Bevölkerung befürwortet eine strikte Regulierung der Kapitalmärkte. Trotzdem folgen den Worten keine Taten. Die Diskrepanz zwischen politischer Rhetorik und Praxis zeigt die Ohnmacht der Politik und die Macht der Finanzmärkte. Die politische Ohnmacht erklärt sich nur zum Teil aus dem begrenzten Handlungsspielraum nationalstaatlicher Politik. Schließlich war es in anderen politischen Fragen – erinnert sei an den europäischen Fiskalpakt – nicht schwierig, innerhalb kürzester Zeit zu handeln. Was fehlt ist der politische Wille, eine neue Ordnung durchzusetzen.</p>
+<p>Ein neues Regelwerk für die Finanzmärkte ist aber kein Allheilmittel. Eine neue Ordnung beseitigt nicht die ökonomische Ungleichheit. Die beste Finanzmarktregulierung stößt an ihre Grenzen, wenn die Ungleichheit weiter zunimmt. Solange die Einkommens-und Vermögenskonzentration steigt, gibt es auch immer mehr Kapital, das angelegt werden will. Dadurch steigt die Nachfrage nach spekulativen Anlageformen. Zumal realwirtschaftliche Investitionen weiterhin geringe Renditen abwerfen. Das liegt an der anhaltenden Einkommens- und Konsumschwäche. Hier sind die Gewerkschaften und ihre gesellschaftlichen Bündnispartner gefordert.  </p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (11)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364888359628250" name="1364888359628250"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tlacuache">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tlacuache" class="author ">tlacuache</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364888359628250">
+                  02.04.2013 |
+                  09:39</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Endlich mal was gescheites zum Thema, *****, ich hätte da noch das eine oder andere zu bekritteln, aber was man sonst so in den Mainstreammedien liest, ist das schon ein echtes Highlight und sehr gut Zusammengefasst.</p>
+<p>Glückwunsch, Herr Hirschel</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364888359628250">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364893716799213" name="1364893716799213"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/fahrwax">
+                
+                  <img src="http://www.freitag.de/autoren/fahrwax/@@images/97c54edd-e553-4297-8eae-d46fe816d34d.jpeg" alt="fahrwax" title="fahrwax" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/fahrwax" class="author ">fahrwax</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364893716799213">
+                  02.04.2013 |
+                  11:08</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Danke für die umfassende Analyse der Sumpflandschaften.</p>
+<p>Die zur Alternativlosikeit verklärte Politik rein symbolischer Handlungen, mit der unübersehbaren Erhaltung und beständigen Verstärkung struktureller Probleme, verschiebt Lösungen auf ein - immer unwahrscheinlicher werdendes - Morgen.</p>
+<p>Politik erschöpft sich in der Pose,  Handlungen zum Abtrag der aufgetürmten Problemberge sind nicht zu erwarten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364893716799213">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364907738258349" name="1364907738258349"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/claudia-kaessner">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/claudia-kaessner" class="author ">Claudia Käßner</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364907738258349">
+                  02.04.2013 |
+                  15:02</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>In welchen Schubladen liegen welche Konzepte? Man kann nicht hinter jeden Bank- oder Finanzdienstleistungsmitarbeiter einen Aufseher/Regulierer stellen. Die Systemkrise ist auch eine Strukturkrise der Lehre bzw. Wissenschaft der Ökonomie und BWL sowie Bilanz- und Bewertungsvorschriften und Analysemethoden zur Erfassung von Risiken. Von diesen müssten vorrangig Reformvorschläge kommen. Eine "neue Ordnung der Finanzmärkte" kann nur mit ihnen, nicht gegen sie entworfen und durchgesetzt werden. Hier müssen Denkstrukturen überprüft werden. Kapital sucht sich oft den einfachsten Weg der kurzfristig höchsten Rendite. Hedgefonds- und Private Equity Gesellschaften sowie das Schattenbankensystem haben auch Vorteile. Diese müssten in das "traditionelle System" übernommen werden, wenn man positive Anreize für eine gesunde Entwicklung setzen will.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364907738258349">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364908661214354" name="1364908661214354"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/anne-monen">
+                
+                  <img src="http://www.freitag.de/autoren/anne-monen/@@images/4794e42c-3beb-4905-a8cc-c7dc386ff7a7.jpeg" alt="anne mohnen" title="anne mohnen" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/anne-monen" class="author ">anne mohnen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364908661214354">
+                  02.04.2013 |
+                  15:17</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Probleme auf den Punkt gebracht: *****</p>
+<p>Vollmundig kündigt Schäuble &amp; Co Steueroasen den Kampf an. Mal ist es Lichtenstein, mal flankiert durch den Kavelleristen Steinbrück –halbherzig- die Schweiz, mal Panama.</p>
+<p> </p>
+<p><a href="http://www.offshore-firma.com/offshore-firma/de/offshore-firmengruendung.php">http://www.offshore-firma.com/offshore-firma/de/offshore-firmengruendung.php</a></p>
+<p> </p>
+<p>Doch „besetzt“ und endlich befriedet werden die Steuerfluchtburgen nicht. Dabei hätte man in der Nacht des langen Messers mal gründlich in Europa aufräumen können.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364908661214354">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364911208471439" name="1364911208471439"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/wulewuu">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/wulewuu" class="author ">Frank Linnhoff</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364911208471439">
+                  02.04.2013 |
+                  16:00</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Eine effiziente Regulierung unseres Bankensystems ist nicht möglich ohne eine grundsätzliche Reform unserer Geldordnung. Nur etwa 10% unserer Umlauf-Geldmenge besteht aus vollwertigen, staatlichen Zahlungsmitteln, nämlich Banknoten und Münzen. Ca. 90% sind Giralgeld, ein Geldsurrogat, nichts anderes als das Versprechen der Banken, uns die Zahlen auf unserem Girokonto auf Anforderung in Banknoten und Münzen auszuzahlen. Was dies Versprechen in einer allgemeinen Bankenkrise wert ist, erfahren gerade die Bürger von Zypern.  In der Eurozone muss eine Bank gerade einmal 1% des von ihr geschaffenen Giralgeldes als Zentralbankgeld vorhalten.    Großbanken -z.B. die Deutsche Bank- können aus dem Stand durch einen einfachen Schreibvorgang in einen Computer Giralgeld in quasi unbegrenzter Höhe zaubern und dies z.B. einem Spekulationsfonds kreditieren, welcher damit seine Wetten aufhebelt. Weil dies möglich ist, wird es getan. Und weil damit viel Geld gemacht werden kann, führt dies zu Euphorie, welche -wie wir wissen- blind macht. Das Privileg der Giralgeldschöpfung muss den Banken genommen werden und in die Hände einer staatlich kontrollierten Instanz, der EZB für die Eurozone. Wir müssen Besitzer unseres Giralgeldes sein, eines vollwertigen, staatlichen Zahlungsmittels. Unser Giralgeld muss auf einem Konto bei der Zentralbank oder einer anderen treuhänderischen staatlichen Institution hinterlegt sein, wobei Geschäftsbanken die Überweisungsvorgänge für uns abschließen. Unser Giralgeld darf nicht mehr Teil der Bankenbilanz sein. Es darf erst dann in die Bankbilanz Eingang finden, wenn wir es einer Bank gegen Zinsen für eine gewisse Dauer wissentlich überlassen.   Eminente Wirtschaftswissenschaftler wie Irving Fisher, Maurice Allais und andere haben dies gefordert. Viele Geldreformbewegungen fordern dies in der ganzen Welt, in Deutschland unter anderem der Verein "Monetative" (siehe <a href="http://www.monetative.de">www.monetative.de</a>). Ohne geordnete Geldbasis keine geordnete Finanzwirtschaft und keine geordnete realwirtschaftliche Entwicklung. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364911208471439">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364911659564445" name="1364911659564445"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rotkehlchen123">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rotkehlchen123" class="author ">Rotkehlchen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364911659564445">
+                  02.04.2013 |
+                  16:07</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Allerdings rollt der Rubel. Wer die Schuldner sind, denen die Luft ausgeht, lässt sich ja schnell und leicht erkennen. Aber wollen nicht mindestens die Schuldner mal die Gläubiger verraten?</p>
+<p>Na gut. Es sind nur die verschwiegenen Treuhänder der Schuldner, die wir zu Gesicht bekommen und die schweigen doch hartnäckig über die Gläubiger. Fast scheint es ein Staatsgeheimnis, wer so viel Geld eingeheimst hat, dass das wirtschaftliche Gleichgewicht kaputt ist.</p>
+<p>Aber ich tippe einfach mal auf das Land der Exportüberschussweltmeister. Die haben freilich mehr Ansprüche erworben, als Zahlungen zu leisten. Eben Überschüsse. Die großen Exportfirmen und international tätigen Finanzsinstitute und Versicherungen in Deutschland dürften einige offene Forderungen haben. Wer Forderungen gegen den deutschen Staat als Schuldner hat? Vermutlich die gleichen, die hier keine Steuern zahlen wollen.</p>
+<p>Am Ende bürgt doch der deutsche Steuerzahler mit höchstem Risiko. Die Party geht weiter, während die Titanic schon im Sinken begriffen ist. Das ist die verwöhnte deutsche "Elite".</p>
+<p>Für die Katastrophe freilich wurden Feindbilder je nach Geschmack von reichen Russen bis armen Bulgaren und Rumänen bereit gestellt. Die Medien preisen diese Venitel für Wut bereits heftig an. Niemals aber soll sich die Empörung gegen die Schuldigen oder mit ihnen befreundeten Politiker richten.</p>
+<p>Und Vermögenssteuer außerhalb von Zypern ist ja der absolute Weltuntergang. Bei 37,5 % Vermögenssteuer bei einem Freibetag von nur 100.000 € würden doch in Deutschland einige Wirtschaftsbosse schon Killer anheuern. Beim geltenden australischen Mindestlohn von 11,50 € in 2012 ebenfalls. Warum geht das in Deutschland (noch) nicht?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364911659564445">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364911724290498" name="1364911724290498"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rotkehlchen123">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rotkehlchen123" class="author ">Rotkehlchen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364911724290498">
+                  02.04.2013 |
+                  16:08</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Was ich noch sagen wollte: Wir haben einen wirklcihen Reformrückstau bei Vermögenssteuer und Mindestlöhnen. Wir müssen mal Anschluss an Zypern und Australien finden.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364911724290498">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364917190125225" name="1364917190125225"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/paulchenundich">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/paulchenundich" class="author ">paulchenundich</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364917190125225">
+                  02.04.2013 |
+                  17:39</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364911208471439">
+                    <span data-in_reply_to="1364911208471439" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich glaube, die "Monetative", die ich sehr schätze, sollte erst einmal klären, wie groß die Vermögen sein sollen, die von der Zentralbank geschütz werden .</p>
+<p>Der Zypern-Deal ist eine mögliche Blaupause!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364917190125225">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364917490994983" name="1364917490994983"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/paulchenundich">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/paulchenundich" class="author ">paulchenundich</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364917490994983">
+                  02.04.2013 |
+                  17:44</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vielen Dank Dierck Hirschel,</p>
+<p>da Du ja Mitglied einer grossen Gewerkschaft bist, bitte ich Dich, diesen Beitrag direkt an Michael Sommer zu senden, damit er die anderen Einzelgewerkschaften auf Deinen Weg einschwört.</p>
+<p> </p>
+<p>Der ganzen Gesellschaft wäre geholfen!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364917490994983">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364943283422920" name="1364943283422920"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/wladimirgerin">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/wladimirgerin" class="author ">ln(e)</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364943283422920">
+                  03.04.2013 |
+                  00:54</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Investmentbanker sind (fast) überflüssig.</p>
+<p>Einige Geschäfte müsste dann der Staat übernehmen.</p>
+<p>WIchtigstes: Garantie des Wechselkurses zu einem Zeitpunkt in der Zukunft. Ohne das ist Export kaum möglich.</p>
+<p>Aber selbst wenn der Staat dabei Miese macht - immer noch viel billiger als "systemische" Banken mit Steuergeldern retten.</p>
+<p>Nachdenkenswert ist auch eine Staatsversicherung für alles.</p>
+<p>Denn auch die Versicherungen sind nur Parasiten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364943283422920">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364943287747042" name="1364943287747042"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/wladimirgerin">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/wladimirgerin" class="author ">ln(e)</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364943287747042">
+                  03.04.2013 |
+                  00:54</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Investmentbanker sind (fast) überflüssig.</p>
+<p>Einige Geschäfte müsste dann der Staat übernehmen.</p>
+<p>WIchtigstes: Garantie des Wechselkurses zu einem Zeitpunkt in der Zukunft. Ohne das ist Export kaum möglich.</p>
+<p>Aber selbst wenn der Staat dabei Miese macht - immer noch viel billiger als "systemische" Banken mit Steuergeldern retten.</p>
+<p>Nachdenkenswert ist auch eine Staatsversicherung für alles.</p>
+<p>Denn auch die Versicherungen sind nur Parasiten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-rubel-rollt#1364943287747042">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/der-freitag/der-rubel-rollt/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/der-freitag">der Freitag</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/der-freitag">
+          <img src="http://www.freitag.de/autoren/der-freitag/@@images/50c1cea0-2a14-47a6-8687-3435f86755e3.png" alt="der Freitag" title="der Freitag" height="65" width="65" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2012</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">24295</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">103</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/der-freitag/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Dierk Hirschel</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/perversion-einer-idee">
+              <span class="catchword">Europa</span>
+              Perversion einer Idee</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/perversion-einer-idee">
+              <span class="comment-count" title=" 10 mal kommentiert">10</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/trube-aussichten">
+              <span class="catchword">Sparpolitik</span>
+              Trübe Aussichten</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/trube-aussichten">
+              <span class="comment-count" title=" 9 mal kommentiert">9</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/falsche-freunde-1">
+              <span class="catchword">Gastkommentar</span>
+              Falsche Freunde</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/falsche-freunde-1">
+              
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364996884" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364996884" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364996884" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="catchword">1963</span>
+              Das Kuckucksei </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="author group-authors">Georg Fülberth</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut">
+              <span class="catchword">Rassismus</span>
+              Der Geruch der Armut  </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut">
+              <span class="author group-authors">Norbert Mappes-Niediek</span>
+              <span class="comment-count" title=" 29 mal kommentiert">29</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364996884" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364996884" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364996884" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    img: "http://www.freitag.de/autoren/der-freitag/der-rubel-rollt/@@images/5ae70992-4f37-4029-b157-155a03edd2b3.jpeg",
+    objectid: "a11497b250da47e1b20c62701f93da14",
+    title: "Der Rubel rollt",
+    url: "http://www.freitag.de/autoren/der-freitag/der-rubel-rollt",
+    text: "Bislang war die Regulierung der Finanzmärkte bloße Makulatur – eine wirkliche Neuordnung steht noch aus",
+    created_at: "1364886000"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

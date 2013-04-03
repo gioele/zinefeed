@@ -1,0 +1,756 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:56:37 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:46:39 GMT
+Vary: X-Anonymous
+ETag: "||3360521|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 35607
+Accept-Ranges: bytes
+X-Varnish: 557700902 557683089
+Via: 1.1 varnish
+X-Varnish-Age: 598
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Mitgehört ǀ "Das ist eine Frage des Stils" — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="In Café, Bus oder Bahn: Das Leben hat die besten Dialoge zu bieten. Immer montags gibt es die Ausbeute der vergangenen Woche. Heute: Geschlechterunterschiede" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1734&amp;ord=1364996798" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1734&amp;ord=1364996798" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1734&amp;ord=1364996798" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1739&amp;ord=1364996798" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1739&amp;ord=1364996798" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1739&amp;ord=1364996798" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1735&amp;ord=1364996798" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Alltag</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=mitgehört">mitgehört</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=alltagsdialoge">alltagsdialoge</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=geschlechterunterschiede">geschlechterunterschiede</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=körperfunktionen">körperfunktionen</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p>Die Protokolle der besten, real existierenden Dialoge finden Sie immer montags im Alltag. Vergangene Woche:<a href="/autoren/gina-bucher/habt-ihr-immer-noch-schnee"> "Habt ihr immer noch Schnee?"</a></p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Gina Bucher</span>
+        <div class="additional-info">
+          <span class="date">02.04.2013</span> |
+          <span class="time">11:41</span>
+          <span class="comment-count" title=" 2 mal kommentiert">2</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>"Das ist eine Frage des Stils"</h1>
+
+        <p class="description">
+          <span class="catchword">Mitgehört</span>
+          In Café, Bus oder Bahn: Das Leben hat die besten Dialoge zu bieten. Immer montags gibt es die Ausbeute der vergangenen Woche. Heute: Geschlechterunterschiede
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils/@@images/9adcef72-669d-41ed-95d1-29206da8632f.jpeg" alt="&quot;Das ist eine Frage des Stils&quot;" title="&quot;Das ist eine Frage des Stils&quot;" height="282" width="445" /><p class="caption">Hört vieles mit, auch wenn das manchmal schmerzt: das menschliche Ohr</p>
+            <p class="credit">Illustration: Otto</p>
+          </div>
+        
+
+        <div class="text"><p><strong>Szene 1</strong><br /><em>Ort</em>: Auf einem Spielplatz<br /><em>Anwesend</em>: Ein Vater und sein etwa zweijähriger Sohn<br /><br /><strong>Mitgehört</strong><br />Der Vater furzt laut.<br />Der Sohn: "<em>Papa, was war das?</em>"<br />Der Vater, lapidar: "<em>Ich habe gefurzt</em>."<br />Der Sohn: "<em>Mach noch mal.</em>"<br />Der Vater, lachend: "<em>Das geht nicht.</em>"<br /><br /><strong>Szene 2</strong><br /><em>Ort</em>: In einer Kneipe<br /><em>Anwesend</em>: Ein Mann, zwei Frauen<br /><br /><strong>Mitgehört</strong><br />Der Mann zu Frau A: "<em>Wusstest du, dass Frau B nicht furzt?</em>"<br />Frau B grinst verlegen: "<em>Na ja</em>."<br />Frau A, schlau: "<em>Woher weißt du das?</em>"<br />Der Mann: "<em>Ich habe noch nie gehört, dass sie furzt.</em>"<br />Frau A: "<em>Was ja nicht heißt, dass sie es nicht tut.</em>"<br />Der Mann überlegt: "<em>Hm</em>."<br />Frau B: "<em>Das ist eine Frage des Stils, weißt du.</em>"<br />Der Mann: "<em>Verstehe ich nicht</em>."<br />Frau A: "<em>Frauen sind nicht so stolz aufs Furzen wie Männer</em>."<br />Der Mann: "<em>Warum eigentlich nicht?</em>"<br />Frau B: "<em>Müssen wir über alles reden?</em>"</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (2)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364905530102128" name="1364905530102128"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/justizverfolgung">
+                
+                  <img src="http://www.freitag.de/autoren/justizverfolgung/@@images/9368516c-177d-437c-8044-0083834ab3c5.jpeg" alt="justizverfolgung" title="justizverfolgung" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/justizverfolgung" class="author ">justizverfolgung</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils#1364905530102128">
+                  02.04.2013 |
+                  14:25</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>aus der Schmunzelecke der "Bunten" abgeschrieben?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils#1364905530102128">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364938054360046" name="1364938054360046"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/christian-g">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/christian-g" class="author ">Christian G.</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils#1364938054360046">
+                  02.04.2013 |
+                  23:27</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364905530102128">
+                    <span data-in_reply_to="1364905530102128" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wer hat mehr Stil?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils#1364938054360046">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/gina-bucher">Gina Bucher</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/gina-bucher">
+          <img src="http://www.freitag.de/portal_url/++theme++freitag.theme/images/avatar_tile.png" width="50" height="50" alt="Avatar" /></a>
+        
+      </div>
+      <div class="box">
+        Redakteurin
+      </div>
+    </header><div class="details">
+      <div class="location">
+        Ort:
+        <span class="detail">Berlin</span>
+      </div>
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">07.04.2010</span>
+      </div>
+      <div class="last_login">
+        Letzter Login:
+        <span class="detail">23.12.2012</span>
+      </div>
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/gina-bucher">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/gina-bucher">194</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/gina-bucher/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/gina-bucher/@@kommentare">31</a>
+      </div>
+      <div class="homepage">
+        Homepage:
+          <a class="detail" href="http://www.bucci-publishing.com">http://www.bucci-publishing.com</a>
+      </div>
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/gina-bucher/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/gina-bucher/@@leser">3</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/gina-bucher/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Gina Bucher</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/gina-bucher/habt-ihr-immer-noch-schnee">
+              <span class="catchword">Mitgehört</span>
+              "Habt ihr immer noch Schnee?"</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/gina-bucher/habt-ihr-immer-noch-schnee">
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/gina-bucher/wegen-ihm-natuerlich">
+              <span class="catchword">Mitgehört</span>
+              "Wegen ihm natürlich!"</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/gina-bucher/wegen-ihm-natuerlich">
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/gina-bucher/es-kann-immer-was-passieren">
+              <span class="catchword">Mitgehört</span>
+              "Es kann immer was passieren"</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/gina-bucher/es-kann-immer-was-passieren">
+              <span class="comment-count" title=" 2 mal kommentiert">2</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1737&amp;ord=1364996799" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1737&amp;ord=1364996799" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1737&amp;ord=1364996799" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="catchword">Alltagskommentar</span>
+              Sunderlands Eigentor</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="author group-syndication">Matthew Goodwin</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="catchword">Promenadenkunst</span>
+              Auf der Spur der Steine </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="author group-authors">Kathrin Schrader</span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="catchword">Frankreich</span>
+              „Kompetenzen bedeuten für mich Würde“ </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="author group-authors">Maxi Leinkauf</span>
+              
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1738&amp;ord=1364996799" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1738&amp;ord=1364996799" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1738&amp;ord=1364996799" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Alltag";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Alltag",
+    img: "http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils/@@images/3028f8be-b277-4c70-9493-ba9535abdea4.jpeg",
+    objectid: "03eed35b35694896b1f089ba6e24d8ba",
+    title: "\"Das ist eine Frage des Stils\"",
+    url: "http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils",
+    text: "In Café, Bus oder Bahn: Das Leben hat die besten Dialoge zu bieten. Immer montags gibt es die Ausbeute der vergangenen Woche. Heute: Geschlechterunterschiede",
+    created_at: "1364895660"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

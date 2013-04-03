@@ -1,0 +1,1023 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:59:48 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:59:48 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 58661
+Accept-Ranges: bytes
+X-Varnish: 557706255
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Widerstand ǀ Jenseits der gläsernen Decke  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Facebook-Managerin Sheryl Sandberg will Frauen Karrieretipps geben. Warum wird sie dafür so angefeindet?" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1734&amp;ord=1364997587" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1734&amp;ord=1364997587" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1734&amp;ord=1364997587" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1739&amp;ord=1364997587" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1739&amp;ord=1364997587" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1739&amp;ord=1364997587" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1735&amp;ord=1364997587" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Alltag</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=gender">gender</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=feminismus">feminismus</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=sheryl sandberg">sheryl sandberg</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=karriere">karriere</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=frauen">frauen</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=betty friedan">betty friedan</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p><strong>Hadley Freeman</strong> schreibt als Kolumnistin und Reporterin für den <em>Guardian</em> regelmäßig über Genderthemen </p>
+<p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 12/13</strong> vom 21.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Hadley Freeman</span>
+        <div class="additional-info">
+          <span class="date">26.03.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 9 mal kommentiert">9</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Jenseits der gläsernen Decke </h1>
+
+        <p class="description">
+          <span class="catchword">Widerstand</span>
+          Facebook-Managerin Sheryl Sandberg will Frauen Karrieretipps geben. Warum wird sie dafür so angefeindet?
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke/@@images/a11a5540-8e1d-40d9-a484-9a87be4c9989.jpeg" alt="Jenseits der gläsernen Decke " title="Jenseits der gläsernen Decke " height="282" width="445" /><p class="credit">Foto: Picture Alliance / Landov</p>
+          </div>
+        
+
+        <div class="text"><p>Beginnen wir mit einem Witz: Wie gelingt es einer linksliberalen Feministin am einfachsten, andere linksliberale Feministinnen gegen sich aufzubringen? Die Antwort: Sie schreibt ein Buch über Feminismus für Frauen. Ha, ha. Okay, das ist vielleicht nicht besonders lustig, aber doch immerhin aktuell.</p>
+<p>Nehmen wir Sheryl Sandberg. Sie hat schon viele eindrucksvolle und hochrangige Jobs gehabt: Sie war Stabschefin im US-Finanzministerium, hatte bei Google eine Position mit einem ellenlangen Titel inne und ist heute Geschäftsführerin bei Facebook. Ganz egal, welchen Maßstab man anlegt: Sie ist ziemlich beeindruckend. Das Lustige ist aber – und ich verspreche, dass es lustiger ist als der obige Witz –, dass sie die meiste Kritik und wahrscheinlich auch die größte Aufmerksamkeit nun für eine Position erhält, die sie nie für sich beansprucht hat: jene der feministischen Wortführerin.</p>
+<p>Sandberg schreibt im Vorwort ihres kürzlich veröffentlichten Buchs <em>Lean In: Women, Work and the Will to Lead</em> ausdrücklich, es handele sich nicht um ein „feministisches Manifest“, sondern lediglich um „so etwas Ähnliches wie ein feministisches Manifest“. Sie vermischt in dem Buch Geschichten aus ihrem Leben mit Lektionen, die sie gelernt hat, und gibt anderen Frauen, die so werden wollen wie sie, Ratschläge, was sie tun sollten, um ihre Karrieren und die der Frauen nach ihnen voranzutreiben. Der Modus Operandi ihres Buchs ist folgender: Hier ist meine Geschichte. Hier ist das, von dem ich glaube, dass ihr daraus etwas lernen könnt. Nun lasst uns die Dinge voranbringen! Die Lektüre ist unterhaltsam und anregend. Und es war abzusehen, dass Sandberg dafür ordnungsgemäß heruntergemacht würde.</p>
+<h2>Powerpoint-Powerfrau</h2>
+<p>„Warum Sheryl Sandberg keine Betty Friedan ist“, schrieb etwa <em>The New Republic</em> (hatte ich bereits erwähnt, dass Sandberg ziemlich deutlich macht, dass sie kein feministisches Manifest geschrieben hat?). Friedan, die mit ihrem Bestseller <em>Der Weiblichkeitswahn </em>in den sechziger Jahren ein feministisches Standardwerk verfasst hat, habe nämlich nicht aus der Perspektive von Vorstandsetagen geschrieben. In der gleichen Zeitschrift kritisierte ein weiterer Artikel über Sandbergs Buch den „Mythos und Wahnwitz des Davos-Feminismus“.</p>
+<p>Die <em>New-York-Times</em>-Kolumnistin Maureen Dowd äußerste sich ähnlich abfällig über Sandberg und behauptete, diese habe „einen großartigen Plan, wie man zur Powerpoint-Powerfrau in Prada-Stiefeletten wird“ – wobei sich Designerschuhe und Feminismus natürlich per se ausschließen! Andere Kritikerinnen – von denen viele das Buch nicht mal gelesen haben – verhöhnten es als Sandbergs „Eitelkeitsprojekt“. Ginge es Sandberg wirklich um die Befriedigung ihrer persönlichen Eitelkeit, würde sie dies aber nur in größere Nähe zu Friedan rücken, die ihren Promi-Status bekanntlich sehr genossen hat.</p>
+<p>Diese und viele weitere Artikel unterstellen, Sandbergs Vermögen und ihr sozialer Status ließen ihr Interesse am Feminismus zweifelhaft erscheinen und machten sie blind für die Tatsache, dass ihr Rat für die meisten Frauen keine Bedeutung habe. All diese Kritiken lassen sich zu einem großen Vorwurf zusammenfassen: „Denk über deine Privilegien nach, Sandberg!“ Dabei betont Sandberg ja nicht nur gleich zu Beginn, dass ihr Buch kein Manifest sei, sondern weist auch darauf hin, dass „die allermeisten Frauen sich erheblich strecken müssen, um überhaupt über die Runden zu kommen“, und dass „Teile dieses Buches vor allem für die Frauen relevant sein werden, die in der glücklichen Lage sind, die Wahl zu haben“. Aber warum sollte man sich bei seinem Spott von Tatsachen stören lassen?</p>
+<p>Die Tendenz, eine Frau, die sich mit Feminismus auseinandersetzt, aufgrund ihres Hintergrundes zu diskreditieren, ist nicht ganz neu. Bereits seit den achtziger Jahren gibt es im Feminismus den intersektionellen Ansatz, der argumentiert, dass feministische Theorie stets die verschiedenen, sich überlagernden Formen von Unterdrückung gegenüber Minderheiten wie beispielweise schwarzen oder lesbischen Frauen berücksichtigen müsse – und es ist ja richtig, mehr Menschen mit unterschiedlichem sozialem und kulturellem Hintergrund vertreten zu wollen. Hatte doch die zweite Frauenbewegung in ihren Anfängen nicht besonders weit über den Tellerrand der weißen Mittelschicht hinausgeblickt.</p>
+<h2>Kein feministischer Wälzer</h2>
+<p>Doch es gibt den Punkt, an dem jeder gut gemeinte Schritt hin zu mehr Inklusion als Vorwand missbraucht wird, andere mit Absolutheitsansprüchen zu terrorisieren und sich gegenseitig den Mund zu verbieten. Wenn Donald Trump ein Buch über beruflichen Erfolg schreibt – worum es in Sandbergs Buch, auch wenn sie sich auf Frauen konzentriert, letztlich genauso geht –, wird ihm nicht von anderen Männern vorgeworfen, er sei elitär. Vielleicht wird ihm vorgeworfen, er sei ein Idiot, aber das ist eine andere Geschichte. Nein, Trump versucht nicht, für alle Männer zu sprechen. Ebenso wenig versucht Sandberg, dies für alle Frauen zu tun.</p>
+<p>Wenn ein Buch über Feminismus und Frauen großen Erfolg hat oder viel Aufmerksamkeit erregt, so wird es oft automatisch als feministischer Wälzer mit Allgemeingültigkeitsanspruch betrachtet. Diejenigen, deren Perspektive in dem Buch nicht berücksichtigt wird, fühlen sich dann angegriffen oder ignoriert. Doch niemand kann für alle Frauen sprechen, denn Frauen – wie der Intersektionalitätsansatz ja betont – sind keine homogene Gruppe. Mir ist noch kein Buch über Frauen oder Feminismus untergekommen, das für sich den Anspruch erhoben hätte, dies zu tun.</p>
+<p>Gewiss, es ist irritierend und wenig hilfreich, wenn Autoren Ratschläge erteilen und dabei ihre persönlichen Privilegien als universell zugrunde legen. Auf Sandberg trifft dies jedoch nicht zu. Ihr Buch mag Mängel aufweisen, doch allein deshalb sollte man ihm nicht seine Bedeutung absprechen. Es ist wichtig, dass Frauen in den Führungsetagen von Unternehmen und in Regierungen stärker vertreten sind. Dies betrifft alle Frauen. Nur weil eine Geschichte für einige keine persönliche Bedeutung hat, bedeutet dies noch lange nicht, dass die Geschichte an sich nicht relevant ist.</p></div>
+
+        <div id="credits">
+          Übersetzung: Holger Hutt
+        </div>
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (9)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364288465591734" name="1364288465591734"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/lethe">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/lethe" class="author ">Lethe</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364288465591734">
+                  26.03.2013 |
+                  10:01</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das Lächeln der Haie bekommt sie ja wirklich schon gut hin, dem Foto nach zu urteilen.</p>
+<p>Möglicherweise ist das auch schon der wichtigste Einwand: Feminismus ist kein Verbindungsmechanismus über soziale Schicht-Grenzen hinweg. Mag sein, dass es für das Lebensgefühl entschiedener Feministinnen wichtig ist, dass reiche und priviligierte Frauen feministische Themen aufgreifen und wenigstens die Slogans bedienen - die Mehrheit der Frauen wird in der Sandberg und anderen Frauen in entsprechenden Positionen vermutlich nur die die aufgrund ihrer Privilegien und Macht in bezug auf das Allerweltsleben ahnungslose Arroganz sehen. Im Prinzip also die gleiche Haltung, die die meisten Männer männlichen Managertypen gegenüber auch einnehmen. Slogans, Ratschläge, Sprache, geeignet für Karriereseminare für ManagerInnen, Bullshit-Sprache, Dumm-Talk auf Grundlage elaborierter Ausdrucksweise. Aber keine Relevanz für das normale Leben normal-, also nichtprivilegierter Frauen (bzw. Männer).</p>
+<p>Ein Hai eben. Was hätte sie den Heringen großartig zu sagen, außer dass  Heringe leckere Speisefische sind? Das spüren die aber schon selbst.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364288465591734">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364301012771254" name="1364301012771254"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364301012771254">
+                  26.03.2013 |
+                  13:30</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Es gibt keine gläserne Decke, bzw. für Männer gibt es sie genauso wie für Frauen. Es ist Alltag, dass ein Mann nicht mehr weiter aufsteigt, trotz Bemühungen, aber noch sehen kann, was weiter oben gespielt wird, er also an die "gläserne Decke" stößt. Ein Versager eben, Frauen hingegen sind niemals Versagerinnen sondern werden immer nur diskriminiert. Durch Versager, die selbst nicht mehr aufsteigen aber dem anderen Kollegen bei einem Bier auf dem Männerklo den Chefposten zuschieben, oder so ähnlich die feministische Theorie hierzu. Außerhalb der feministischen <span style="text-decoration: line-through;">Pseudo</span>Wissenschaft konnte die Existenz der gläsernen Decke nie belegt werden.</p>
+<p>Beispiel Norwegen: Dort wurde die Frauenquote für die Aufsichtsräte der börsennotierten Unternehmen eingeführt, unter massiver Drohung: Wer nicht mitspielt, wird dichtgemacht! Nachdem man dem weiblichen Geschlecht exklusiv nicht wenige Posten freigeräumt hat, blieb aber der Ansturm derjenigen, die sich vorher den Kopf an der gläsernen Decke wundgestoßen hatten, aus. Man schickte Headhunter los, um willige und qualifizierte Frauen zu finden. Mit mäßigen Erfolg. Man schickte willige aber unqualifizierte Frauen in Crashkurse, wo man Dinge wie "Bilanzen lesen" lernen konnte. Mit mäßigen Erfolg. Am Ende vereinten einige wenige gleich mehrere der Pöstchen auf sich. Eigentlich hätte sich laut der feministischen <span style="text-decoration: line-through;">Pseudo</span>Wissenschaft die Performance der quotierten Unternehmen verbessern müssen, was aber wundersamer Weise ausblieb.</p>
+<p>Obige Topmanagerin hat wohl alles richtig gemacht. Warum fühlen sich FeministInnen angepisst? Der Artikel gibt dazu nicht viel her, ich spekuliere mal: Nicht feministisch genug. Wahrscheinlich bauen ihre Ratschläge nicht auf Erfahrungen auf, wo sie immer nur gegen Patriarchen und sexuelle Belästiger gekämpft hat. Die Message an Frauen wird vielleicht lauten: "Du kannst, wenn Du willst" (und man die richtigen Ausgangsbedingungen hat) und das ist nicht in Übereinstimmung mit der feministischen Weltanschauung, in der frau eben nicht kann, wegen dem Patriarchat. Und einem Ideologen ist seine Wahrheit wichtiger, als praktische Ratschläge, die zwar funktionieren, aufgrund ihrer Wirksamkeit aber zugleich die Weltanschauung des Ideologen widerlegen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364301012771254">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364317539139544" name="1364317539139544"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ninoschneider">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ninoschneider" class="author ">NinoSchneider</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364317539139544">
+                  26.03.2013 |
+                  18:05</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Ideen dieser durchschnittlichen mit goldenen Löffelchen geborenen Frau fern ab vom Leben und der eigenen Realität braucht kein Mensch genauso wenig wie Facebook.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364317539139544">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364393760358727" name="1364393760358727"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364393760358727">
+                  27.03.2013 |
+                  15:16</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364317539139544">
+                    <span data-in_reply_to="1364317539139544" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ja, das ist auch so eine Sache: Mit dem Feminismus geht der Blick für den hihi kleinen Mann verloren. Dann führt man plötzlich elitäre Diskussionen über Luxusweibchen, die in abgehobenen Spähren jenseits von Sorgen um die Zukunft schweben. Durch den Feminismus zerlegt sich die Linke selbst.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364393760358727">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364407338128851" name="1364407338128851"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364407338128851">
+                  27.03.2013 |
+                  19:02</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vielleicht ist das so ein weiblicher Wesenszug.</p>
+<p>Wenn Frauen harmonieren wollen, dann tun sie das, wer kennt nicht die Gespräche in denen sich beide Gesprächspartnerinnen ständig gegenseitig bestätigen und ja nicht offen widersprechen? Und auch Äußerungen wie "keine Frau würde dies oder jenes tun" habe ich schon aus weiblichen Mund vernommen.</p>
+<p>Ebenso konsequent sind sie dann aber mit Abweichlerinnen, wozu offenbar auch Frauen zählen die gar zuviel Erfolg haben und damit offenbar den Dauer-Opferstatus, den manche Weibchen lustvoll für sich beanspruchen, gefährden.</p>
+<p>Es hat schon seine Gründe, warum Frauenrechte weltweit erst später erkämpft wurden, die Frauen stehen sich allzu oft selbst im Weg und aggressive Abweichlerinnen (die es aber braucht um solche Rechte durchzusetzen) werden schnell gemobbt und ausgeschlossen.</p>
+<p>Nur so eine Theorie, bitte widersprecht mir ;-)</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364407338128851">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364407539749783" name="1364407539749783"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364407539749783">
+                  27.03.2013 |
+                  19:05</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364393760358727">
+                    <span data-in_reply_to="1364393760358727" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dazu brauchen Linke den Feminismus nicht, das haben die bisher auch immer so geschafft ;-)</p>
+<p>Ist in den anderen politischen Spektren aber nicht viel anders, nur fällt es da nicht so auf, da idR weniger demokratisch und mehr hierarchisch organisiert...</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364407539749783">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364598937114008" name="1364598937114008"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ninoschneider">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ninoschneider" class="author ">NinoSchneider</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364598937114008">
+                  30.03.2013 |
+                  00:15</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364393760358727">
+                    <span data-in_reply_to="1364393760358727" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Hi, sehe ich nicht so weil die Frau auch gerne den kleinen Mann mag aber die Mächtigen mögen es nicht wenn sich Frau und Mann die von Natur aus eine Einheit darstellen verstehen weil dann die Menschen glücklich und stark wären. Machtmenschen die nichts tun wollen sehen darin einen Nachteil weil man glücklichen Menschen nichts verkaufen und starke Menschen nicht als Arbeitssklaven missbrauchen kann. Daher eine ablenkende Genderpropaganda die mit der Realität nichts zu tun hat und was bitte ist eine Karriere? Da kann ich nur drüber lachen wenn ich son mist höre wie von dieser komischen Reichlöffelchenfrau!!!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364598937114008">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364831361001569" name="1364831361001569"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tst">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tst" class="author ">TST</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364831361001569">
+                  01.04.2013 |
+                  17:49</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das lächerliche ist, dass dieses Buch offensichtlich für die Frauen gedacht ist, welche das Potential für eine Topposition haben. Dies scheint Feministinnen aber garnicht recht zu sein, weil die lieber eine Quotenfrau ohne jedes Talent auf den Spitzenjobs hätten.</p>
+<p>Es gibt halt nur 1% der Frauen welche Potential haben, genauso wie es nur 1% der Männer sind. Aber komischerweise denken 100% aller Frauen, dass sie nur deshalb nicht Vorstandsvorsitzende sind, weil sie von bösen Männern diskriminiert wurden...</p>
+<p>Und da nur wenige das Potential für die Spitze haben, deshalb wirkt es sich selbstverständlich sofort extrem aus, wenn diese wenige andere Interessen haben als nun unbedingt 80h/w von einem Termin zum nächsten zu hetzen. Aber genau dies ist das Problem der wenigen Frauen in Toppositionen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364831361001569">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364837691427788" name="1364837691427788"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364837691427788">
+                  01.04.2013 |
+                  19:34</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364598937114008">
+                    <span data-in_reply_to="1364598937114008" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Aufgrund fehlender Satzzeichen fällt er mir schwer, deinem Text zu entnehmen, was Du meinst. Wenn Du der Meinung sein solltest, dass der Geschlechterkrieg (wie z.B. der Klimawandel) ein gigantisches Ablenkungsmanöver ist (von der Frage, wie die gesellschaftlichen Ressourcen verteilt werden), bin ich jedenfalls bei dir.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke#1364837691427788">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-syndication"><h1>
+    <a href="http://www.freitag.de/autoren/the-guardian">The Guardian</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/the-guardian">
+          <img src="http://www.freitag.de/autoren/the-guardian/@@images/7ba54558-e7a2-4fbe-a48c-308e92f574a7.png" alt="The Guardian" title="The Guardian" height="65" width="65" /></a>
+        
+      </div>
+      <div class="box">
+        Der Freitag ist Syndication-Partner der britischen Tageszeitung The Guardian
+      </div>
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2011</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/the-guardian">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/the-guardian">2052</a>
+      </div>
+      
+      <div class="homepage">
+        Homepage:
+          <a class="detail" href="http://www.guardian.co.uk/">http://www.guardian.co.uk/</a>
+      </div>
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/the-guardian/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/the-guardian/@@leser">6</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/the-guardian/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Hadley Freeman</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/helfen-unterwaeschefotos-dem-feminismus">
+              <span class="catchword">Frauensache</span>
+              Helfen Unterwäschefotos dem Feminismus?</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/helfen-unterwaeschefotos-dem-feminismus">
+              <span class="comment-count" title=" 5 mal kommentiert">5</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/zopf-am-ball">
+              <span class="catchword">EM-Mode</span>
+              Zopf am Ball</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/zopf-am-ball">
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/hande-waschen-bitte">
+              <span class="catchword">Sesamstraße</span>
+              Hände waschen, bitte!</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/hande-waschen-bitte">
+              
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1737&amp;ord=1364997587" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1737&amp;ord=1364997587" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1737&amp;ord=1364997587" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="catchword">Alltagskommentar</span>
+              Sunderlands Eigentor</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="author group-syndication">Matthew Goodwin</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="catchword">Promenadenkunst</span>
+              Auf der Spur der Steine </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="author group-authors">Kathrin Schrader</span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="catchword">Frankreich</span>
+              „Kompetenzen bedeuten für mich Würde“ </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="author group-authors">Maxi Leinkauf</span>
+              
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1738&amp;ord=1364997587" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1738&amp;ord=1364997587" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1738&amp;ord=1364997587" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Alltag";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Alltag",
+    img: "http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke/@@images/5da05ee1-9662-4b5f-ad6c-4a66d00f377d.jpeg",
+    objectid: "c57a29fff09a4f7ea212b41daf0e9083",
+    title: "Jenseits der gläsernen Decke ",
+    url: "http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke",
+    text: "Facebook-Managerin Sheryl Sandberg will Frauen Karrieretipps geben. Warum wird sie dafür so angefeindet?",
+    created_at: "1364284800"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

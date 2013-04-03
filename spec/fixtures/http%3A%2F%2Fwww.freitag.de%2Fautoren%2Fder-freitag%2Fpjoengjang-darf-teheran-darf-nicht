@@ -1,0 +1,825 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:59:31 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:59:31 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 47410
+Accept-Ranges: bytes
+X-Varnish: 557705993
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Aufrüstung ǀ Pjöngjang darf, Teheran darf nicht  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Sowohl im Iran als auch in Nordkorea gibt es Atomprogramme. Warum aber wird das eine Land dabei härter sanktioniert als das andere?" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364997570" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364997570" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364997570" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364997570" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364997570" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364997570" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364997570" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=ausland">ausland</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=nordkorea">nordkorea</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=iran">iran</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=atomprogramm">atomprogramm</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=sanktionen">sanktionen</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p>Jochen Hippler ist Friedensforscher an der Universität Duisburg-Essen</p>
+<p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 11/13</strong> vom 14.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Jochen Hippler</span>
+        <div class="additional-info">
+          <span class="date">28.03.2013</span> |
+          <span class="time">01:00</span>
+          <span class="comment-count" title=" 4 mal kommentiert">4</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Pjöngjang darf, Teheran darf nicht </h1>
+
+        <p class="description">
+          <span class="catchword">Aufrüstung</span>
+          Sowohl im Iran als auch in Nordkorea gibt es Atomprogramme. Warum aber wird das eine Land dabei härter sanktioniert als das andere?
+        </p>
+
+        
+
+        <div class="text"><p>Nordkorea hat Mitte Februar erneut einen Atomsprengkopf getestet und nun auch den Nichtangriffspakt mit dem Süden aufgekündigt. Die EU, die USA, selbst Russland und China, haben dagegen protestiert, der Sicherheitsrat verurteilte dieses Verhalten und verschärfte seine Sanktionen. Bemerkenswert daran ist zweierlei: Einmal der Umstand, dass Nordkorea nachweislich über Kernwaffen und die nötigen Trägersysteme verfügt, aber niemand militärische Maßnahmen gegen das Land verlangt. Die werden beim Problemfall Iran ständig öffentlich diskutiert, obwohl der militärische Charakter seines Atomprogramms zwar wahrscheinlich, aber nicht erwiesen ist. Zweitens wäre zu fragen, warum manche Länder überhaupt an derartigen Arsenalen interessiert sind, wenn dieses Streben ökonomisch, politisch und vielleicht gar militärisch so hohe Kosten verursacht.</p>
+<p>Halten wir fest: Der Atomwaffensperrvertrag (NPT) – den Nordkorea 2003 kündigte – bestand im Kern aus der Abmachung, dass keine weiteren Staaten Nuklearwaffen bauen oder besitzen, und dafür einerseits bei der friedlichen Nutzung der Atomenergie unterstützt werden, während andererseits die fünf offiziellen Atommächte langfristig auf ihre Depots verzichten. Darauf bezieht sich der Iran, wenn er sein Recht betont, die Atomenergie für zivile Zwecke zu nutzen, und zugleich den Nuklearmächten vorwirft, ihr Waffenmonopol nicht aufzugeben. Beides ist zutreffend, wenn auch keine Rechtfertigung dafür, selbst Nuklearwaffen anzustreben. Im Unterschied zu Pjöngjang hat Teheran den Vertrag zur Nichtweiterverbreitung von Atomwaffen nicht gekündigt.</p>
+<h2>Konziliant bei Pakistan</h2>
+<p>Der Grund für die härtere Behandlung des Iran liegt nicht in der Atompolitik allein, sondern den Rahmenbedingungen. Indien, Israel, Pakistan und Nordkorea sind bereits bekannte Atommächte – alle außerhalb des NPT. In manchen Fällen – bei Israel, aber auch bei Indien – gibt es wegen der Atomwaffen keinen Konflikt mit dem Westen. Es bestehen zum Teil ausgesprochen herzliche Beziehungen. Auch im Umgang mit den pakistanischen Beständen hat sich die westliche Politik als höchst flexibel erwiesen: Vor dem 11. September 2001 gab es Sanktionen, doch seit man das Land im Krieg gegen die Taliban braucht, ist Kritik verstummt. In keinem Fall, auch nicht gegenüber dem Außenseiter Nordkorea, gab es die Drohung, mit kriegerischen Mitteln gegen die jeweiligen Atomprogramme vorzugehen. Und das, obwohl Nordkorea Südkorea sogar die „Vernichtung“ androhte.</p>
+<p>Im Nahen Osten stellt sich das anders dar: der Atomwaffenstaat Israel bombardierte bereits Nuklearanlagen im Irak und Syrien, die Nuklearmacht USA führte unter Präsident George W. Bush Krieg gegen den Irak, um vorgebliche irakische Massenvernichtungswaffen zu zerstören, die es nicht gab. In diesem Kontext fügt sich die westliche Iranpolitik ein. Syrien, der Irak und Iran liegen im Gegensatz zu Nordkorea in einer geostrategisch zentralen Region – sie waren oder sind ideologisch und politisch vom Westen nicht zu kontrollieren bzw. streng anti-westlich ausgerichtet. Dazu kommt im Falle Irans der religiöse Extremismus der politischen Führung, der jedoch nur ein ergänzendes Element ist, denn Syrien und der Irak wurden als säkulare Staaten trotzdem zum Ziel militärischer Gewalt, um ihnen Atomwaffen vorzuenthalten.</p>
+<p>Anders ausgedrückt: Die potenziellen iranischen Nuklearwaffen werden im Westen nicht primär als Problem betrachtet, weil sie den Kreis der Atommächte ausdehnen würden, sondern weil es sich um den Iran handelt, ein Land mit einem explizit anti-westlichen Regime. Nuklearwaffen von pro-westlichen Ländern scheinen gar nicht (Israel) oder weniger problematisch (Indien, Pakistan) zu sein. Selbst anti-westliche Regime mit Atomwaffen in für den Westen strategisch weniger relevanten Gegenden (Nordkorea) werden nicht militärisch bedroht – nur eingedämmt. Pjöngjang wurde gar das Zuckerbrot Wirtschaftshilfe offeriert, um Konzessionen zu bewirken.</p>
+<p>Wie aber stellt sich das Interesse nicht- oder anti-westlicher Länder am Erwerb von Atomwaffen dar, wenn dieses Streben hohe ökonomische Kosten verursacht und zugleich ernste militärische Risiken heraufbeschwört? Dabei geht es einerseits um den tatsächlichen Besitz nuklearer Waffensysteme, aber auch um eine Politik der Mehrdeutigkeit, in diesem Kontext häufig <em>Ambiguität</em> genannt. Als die USA 2003 Saddam Hussein stürzten, besaß dieser keine Atomwaffen und hatte ein Programm zu deren Bau längst aufgegeben – zugleich aber diese Tatsache verheimlicht. Auch der Iran bestreitet, Atomwaffen anzustreben, weckt aber durch sein Verhalten und offene technische Fragen den Anschein, dies doch zu tun. Eine andere Variante dieser Politik der Widersprüchlichkeit wurde auch lange von Israel verfolgt, als das Land bereits über Atomwaffen verfügte, dies aber weder bestätigte noch dementierte.</p>
+<h2>Den Anschein erwecken</h2>
+<p>Insgesamt scheinen Staaten aus zumindest drei Gründen am Erwerb von Atomwaffen – oder zumindest dem Anschein des Besitzes – interessiert zu sein: Einmal bedeuten solche Waffen nicht nur eine maßgebliche Stärkung des eigenen Militärpotenzials, sondern begründen politisches Gewicht. Das kann zur Voraussetzung <em>offensiver</em> oder <em>hegemonialer Politik</em> werden – so die indischen Kernwaffen in Südasien in den siebziger bis neunziger Jahren. Zweitens können Atomwaffen eine <em>defensive Dimension</em> haben – etwa die indischen gegenüber China, das bereits zuvor atomar bewaffnet war. Ähnlich verhält es sich beim pakistanischen Potenzial, das den indischen Vorsprung ausgleichen sollte. Und drittens darf nicht übersehen werden, dass eine reale oder vorgebliche Verfügung über Atomwaffen auch etwas mit nationalem Prestige zu tun hat. Gerade in Nordkorea deutet vieles darauf hin, dass sich das dortige Regime auch deshalb nuklear ausrüstet, weil es international als relevanter Akteur wahrgenommen werden und im Inneren Stärke simulieren will. Ohne diese Ambitionen würde das Land im Ausland wohl mehr als historische Kuriosität wahrgenommen – jetzt aber kann es Südkorea und Japan bedrohen. In vielen Fällen werden sich diese unterschiedlichen Momente ergänzen oder überlappen, wie der Iran zeigt. Einmal ist nicht zu bestreiten, dass die Islamische Republik von außen massiv bedroht ist. Sie ist von US-Militär förmlich umzingelt: in Afghanistan, der Türkei, in Bahrain und Katar, durch die US-Marine im Persischen Golf.</p>
+<p>Unter Präsident Bush jun. galt ein Krieg gegen Iran unter Neo-Konservativen als logische Option. Da wäre es plausibel, wollte Teheran – auch durch Massenvernichtungsmittel – etwas für seine Sicherheit tun, um Gegner besser abschrecken zu können. Für das Mullah-Regime dürfte eine Lehre aus dem Sturz Saddam Husseins lauten: Die USA hätten vermutlich keinen Krieg gegen ihn begonnen, wäre er im Besitz von Kernwaffen gewesen. Und: Es wäre aussichtslos, die eigenen konventionellen Streitkräfte so weit zu stärken, dass sie Angriffe der USA und Israels abwehren können.</p>
+<p>Darüber hinaus aber – wenn man ein defensives Interesse an nuklearer Bewaffnung unterstellen darf – verfolgt der Iran auch eine regionale Machtpolitik, um Konkurrenten wie Saudi-Arabien gewachsen zu sein. Auch in diesem Rahmen würden Atomwaffen – oder die Option des Besitzes – die iranische Position stärken. Ebenfalls eine Frage des Prestiges: Wie könnte ein Land mit dem Selbstverständnis des Iran akzeptieren, dass ihm westliche Mächte das mit dem Kernwaffensperrvertrag verbriefte Recht auf einen friedlichen Gebrauch der Atomenergie verweigern?</p>
+<p>Daraus ergibt sich für den Westen eine komplizierte Lage. Ginge es ihm vor allem um die Nichtweiterverbreitung von Atomwaffen, wäre eine Lösung durchaus denkbar: Eine glaubwürdige Sicherheitsgarantie für den Iran, die äußere Bedrohungen beendet, und eine gesichtswahrende Möglichkeit, sein Nuklearprogramm auf den zivilen Zweck zu begrenzen. Dies aber würde andere Ziele des Westens beeinträchtigen. Eine solche Lösung würde kurzfristig als Zurückweichen vor Teheran verstanden – und bedeuten, den Iran informell als Regionalmacht zu tolerieren. Beides gilt in den USA und Israel als kaum hinnehmbar, was einen Ausweg aus dem Atomstreit erschwert. Umgekehrt hat auch der Iran so viel Prestige investiert, dass eine Umkehr Gesichtsverlust bedeutet. Darüber hinaus ist sein politisches System nicht nur von äußerer Aggression bedroht, sondern auch durch wirtschaftlichen Niedergang und den Unmut der eigenen Leute – eine Konstellation, bei der sich politische Positionen verhärten. Schließlich sind auch die Machtkämpfe innerhalb der Führung einem Kompromiss nicht förderlich. Eine Lösung des Atomstreits wird es also in den nächsten Monaten nicht geben. Beide Seiten verfolgen Ambitionen, die über Atompolitik weit hinausreichen.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (4)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364434138572825" name="1364434138572825"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mymind">
+                
+                  <img src="http://www.freitag.de/autoren/mymind/@@images/e2cc585e-6ce3-4fc1-8fb9-8af2f26e3e0e.jpeg" alt="mymind" title="mymind" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mymind" class="author ">mymind</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht#1364434138572825">
+                  28.03.2013 |
+                  02:28</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Also Pjöngjang darf selbstredend geanusowenig wie Teherean, ein bisserl weniger hart wird reagiert, weil im Grunde Nordkorea keine so immense bedrohung für den Weltfrieden darstellt, so sehen es zumindest Bigdaddy &amp; CO.</p>
+<p>Im Grunde haben Sie ja die die irrwitzigen Konstellationen dargelegt. Es fehlt einzig eine vernünftige Schlussfolgerung. Wenn Politiker dazu nicht fähig sind, dann sollten Journalisten ihre Kenntnis wirksam unters Volk verbreiten. Haben Sie eine Idee wie das funktionieren kann?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht#1364434138572825">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364478268322978" name="1364478268322978"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/lazy-harry">
+                
+                  <img src="http://www.freitag.de/autoren/lazy-harry/@@images/261c0c71-0113-406b-9a5b-5b5acdbf9333.jpeg" alt="Lazy Harry" title="Lazy Harry" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/lazy-harry" class="author ">Lazy Harry</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht#1364478268322978">
+                  28.03.2013 |
+                  14:44</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <h2>China - USA</h2>
+<p>Ich denke, dass man mit Nordkorea nicht machen kann, was man mit Irak gemacht hat, weil man dann an der Grenze zu China steht.</p>
+<p>Die Chinesen haben es bestimmt deutlich gemacht, dass sie keinen weiteren Westlichen Einfluss im Pazifik wollen. Fragt sich nur ob das Protektorat Nord-Korea nicht ein bischen schwierig zu handhaben wird. </p>
+<p>Die Umwaelzung in Pjöngjang muss wohl von innen her erfolgen.</p>
+<p>Bei Teheran gibt es diesen Konflikt der Supermaechte USA und China nicht, schaetze ich.</p>
+<p><a href="http://www.computeranswers.com.au" title="Computer Repairs Carrum Downs">Lazy Larry</a></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht#1364478268322978">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364479098293102" name="1364479098293102"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/lethe">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/lethe" class="author ">Lethe</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht#1364479098293102">
+                  28.03.2013 |
+                  14:58</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>ich denke, der wesentliche Unterschied ergibt sich daraus, das Nordkorea die Bombe schon hat, während im Fall Iran noch gar nicht klar ist, ob ihr Besitz überhaupt angestrebt wird. Das hat zur Folge, dass man bei Nordkorea schon aufpassen muss, was man tut, weil die richtig beißen können und mit Südkorea und Japan zwei Verbündete der USA in Geiselhaft haben, während man gegenüber Iran in dem Bewusstsein, dass die (noch) nicht so fest beißen können, schärfer auftreten kann.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht#1364479098293102">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364489264722348" name="1364489264722348"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/alalue">
+                
+                  <img src="http://www.freitag.de/autoren/alalue/@@images/aefabfc4-53ab-4216-a8bf-6e36487735ed.jpeg" alt="alalue" title="alalue" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/alalue" class="author ">alalue</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht#1364489264722348">
+                  28.03.2013 |
+                  17:47</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Im Iran herrscht ein menschenverachtendes Regime, das die eigenen Leute wie Dreck behandelt. In Nordkorea auch. Weil die die Atombombe haben, müssen die anderen sie auch bekommen ?</p>
+<p>Versuchen Sie es mal mit ein paar Gehirnzellen !</p>
+<p>Die bösen Amis hatten im 2. Weltkrieg die Atombombe, also hätte man die Stalin und Hitler auch zugestehen müssen.</p>
+<p>Es gibt überhaupt noch viele Staaten ohne Atombomben, die Palästinenser haben auch noch keine. Im  Rahmen der Gleichbereichtigung muß das unbedingt abgestellt werden.</p>
+<p>Ach ja, Nordkorea ist ja leider noch viel zu schwach. Die brauchen auch unbedingt so viele Flugzeugträger, sonstige Kriegsschiffe und Gerät wie die Amis. Das ist ja sonst so unfair !</p>
+<p>Atombomben für Assad !</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht#1364489264722348">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/der-freitag">der Freitag</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/der-freitag">
+          <img src="http://www.freitag.de/autoren/der-freitag/@@images/50c1cea0-2a14-47a6-8687-3435f86755e3.png" alt="der Freitag" title="der Freitag" height="65" width="65" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2012</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">24295</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">103</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/der-freitag/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Jochen Hippler</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/aller-gefahr-zum-trotz">
+              <span class="catchword">Iran</span>
+              Aller Gefahr zum Trotz</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/aller-gefahr-zum-trotz">
+              <span class="comment-count" title=" 6 mal kommentiert">6</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-politische-pferdefuss">
+              <span class="catchword">Petersberg II</span>
+              Der politische Pferdefuß</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-politische-pferdefuss">
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/abziehen-aber-nicht-kapitulieren">
+              <span class="catchword">Afghanistan</span>
+              Abziehen, aber nicht kapitulieren</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/abziehen-aber-nicht-kapitulieren">
+              
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364997570" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364997570" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364997570" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="catchword">1963</span>
+              Das Kuckucksei </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="author group-authors">Georg Fülberth</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="catchword">Finanzkrise</span>
+              Der Rubel rollt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="author group-authors">Dierk Hirschel</span>
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364997570" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364997570" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364997570" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    objectid: "393242727d7244ccbfeba7d98fbab774",
+    title: "Pjöngjang darf, Teheran darf nicht ",
+    url: "http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht",
+    text: "Sowohl im Iran als auch in Nordkorea gibt es Atomprogramme. Warum aber wird das eine Land dabei härter sanktioniert als das andere?",
+    created_at: "1364428800"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

@@ -1,0 +1,1474 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:57:03 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:49:22 GMT
+Vary: X-Anonymous
+ETag: "||3360527|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 84604
+Accept-Ranges: bytes
+X-Varnish: 557701579 557688180
+Via: 1.1 varnish
+X-Varnish-Age: 461
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Tatort ǀ Wir wären auch lieber im Bett — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Higher Level, aber nicht unproblematisch: In &quot;Macht und Ohnmacht&quot; kehrt Carlo für ein Gastspiel nach München zurück, wo zwischen den ganz großen Fragen ermittelt wird " /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1676&amp;ord=1364996961" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1676&amp;ord=1364996961" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1676&amp;ord=1364996961" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1681&amp;ord=1364996961" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1681&amp;ord=1364996961" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1681&amp;ord=1364996961" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1677&amp;ord=1364996961" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Kultur</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=medien">medien</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=ard">ard</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=tatort">tatort</a>
+          
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Matthias Dell</span>
+        <div class="additional-info">
+          <span class="date">01.04.2013</span> |
+          <span class="time">21:45</span>
+          <span class="comment-count" title=" 22 mal kommentiert">22</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Wir wären auch lieber im Bett</h1>
+
+        <p class="description">
+          <span class="catchword">Tatort</span>
+          Higher Level, aber nicht unproblematisch: In "Macht und Ohnmacht" kehrt Carlo für ein Gastspiel nach München zurück, wo zwischen den ganz großen Fragen ermittelt wird 
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett/@@images/0c2fcfbb-148b-4e35-be0f-c7a0e8b33887.jpeg" alt="Wir wären auch lieber im Bett" title="Wir wären auch lieber im Bett" height="282" width="445" /><p class="caption">The boy is back in town: Carlo Menzinger (Michael Fitz) melancholisch vor Münchner Polizeiauto </p>
+            <p class="credit">Foto: BR/Hagen Keller</p>
+          </div>
+        
+
+        <div class="text"><p>Oops, he did it again: Carlo is back in good, ol' Mjunik, der Dauer- und Lieblingsassistent von 1991 bis 2007. Nach dem fulminanten <a href="http://www.freitag.de/autoren/mdell/schon-ne-schoene-stadt-muenchen">Hinrichs-<em>Tatort</em></a> vom Ende letzten Jahres macht die Rückkehr von Michael Fitz auf seinen angestammten Platz zwischen den lässig hängenden Spitzen Ivo (Miroslav Nemec) und Franz (Udo Wachtveitl) eventuelle Befürchtungen vorerst zunichte, daraus solle doch wieder ein Dauerengagement erwachsen – dafür ist der Auftritt zu nebenher, auch wenn im Fußball und im Fernsehfilm alles möglich ist.</p>
+<p>Nebenher ist eine recht treffende Vokabel für den Münchner Fall mit dem für unseren Geschmack etwas großkalibrigen Titel <em>Macht und Ohnmacht</em>. Beim Trauerfeierexzess für den toten Streifenpolizisten Bressinger (Lasse Myhr), dem Höhepunkt der Folge, kann man fast vergessen, dass da draußen noch irgendwo der Ivo und der Franz rumrennen. In diesem Vergessen liegt, gerade mit Blick auf die lange Vita von dem Ivo und dem Franz, die Stärke des <em>Tatort;</em> dass es auch Filme geben kann, die sich emanzipieren vom kommissarschrulligen Aufklärungsaktionismus. In solchen Momenten erinnert die Folge an den <a href="/autoren/mdell/alkohol-rauchen-pommes">Dominik-Graf-<em>Polizeiruf</em> zum Meuffels-Auftakt</a>, und auch wenn <em>Macht und Ohnmacht</em> die Intensität und Größe dieses Films nicht erreicht – man hat es hier mit higher level of <em>Tatort</em>-Fernsehfilm zu tun.</p>
+<p>Das ist am besten zu sehen an der Figur des Matteo Lechner (Emilio De Marchi), der durch sein ungewöhnliches Bartkunstwerk auffällt und der sich in der Befragung durch le Franz in die Rolle einer Romanfigur steigert – eines Kulturpessimisten, dessen Lamento für sich einnimmt, weil es nach eigenem Sprechen und eigener Sprache sucht: "Ich kann das nicht mehr ertragen, die großen Worte, Phrasen, die uns einlullen sollen, das mach ich nicht mehr mit." Zimmermann (Sascha Alexander Gersak) und dessen Iris (die <a href="http://www.criterion.com/films/2954-the-last-days-of-disco">Whit-Stillman</a>-Darstellerin Sonsee Neu) sind zwar ebenfalls interessant besetzt, bleiben aber doch Typen.</p>
+<h2>Treppe runterfallen</h2>
+<p>Man kann in <em>Macht und Ohnmacht</em> gut sehen, was die Standards des Erzählens sind, weil es dem Film (Regie: Thomas Stiller) immer wieder gelingt, diese Standards zu variieren, den Rahmen des Vorgegebenen ein wenig zu verlassen. Vielleicht nicht so sehr in den Carlo-Szenen, wenn der schwört, dass sein Freund Matteo unmöglich ein Mörder sein könnte, was, mit diesem Einsatz an Schwur (der kommt da extra aus Thailand, um sich dessen sicher zu sein/der Matteo ist schon am Arsch genug), unmöglich hintergehbar wäre. Und auch nicht in der Szene, in der Carlo auf Privatjustiz machen will, weil er nicht mehr im Dienst ist.</p>
+<p>Sondern eher in der Inszenierung dieses Bentele-Paares, bei dem sie (Alma Leiberg) sich ritzt und die Treppe runterfällt, und er (Torben Liebrecht) Anwalt ist und sehr, äh, emotional. Bei dem bleibt tatsächlich bis zum Schluss offen, ob der Mann nun ein Schläger ist, dessen Fiesheit gerade darin besteht, so jammerlappig zu sein in Gegenwart von Polizei, oder nicht. Oder vielleicht ist offenbleiben das falsche Wort: Der in dieser Beziehung hausende Konflikt ist so unscharf entworfen, dass er gerade dadurch auf sich aufmerksam macht. Some might say, das ist mir zu konstruiert oder so was, wie auch das Arrangement der Kriminalgeschichte sehr lange so unklar bleibt, dass man sich auf abwenden könnte wegen zu großer Erratik. Aber wir würden sagen, dass diese Losheit der Dinge was hat.</p>
+<p>Sie führt zu philosophischen Fragen, vielleicht auch in anderer als intendierter Richtung. Denn wenn man über die Standards des Erzählens nachdenkt, zu denen auch die Opposition von corpsgeisthafter Streifenpolizistenkorruption vs. rechtstaatsanwaltlichem Krimikommissarüberbau gehört, dann fragt man sich, wozu die Krassheit des behaupteten Polizistenlebens gut ist. Was es über eine Gesellschaft sagt, wenn die sich Geschichten vom Sodom und Gomorrha des täglichen Lebens reinzieht, in denen die letztlich rechtschaffenden Streifenpolizisten derart derangiert sind, dass sie sich nur noch mit privatem Law-and-Order-Mackertum zu rechtfertigen wissen. An diesen Punkt zu kommen, ist irgendwie interessant: Pfeift die nahende Apokalypse da ihre Erkennungsmelodie oder ist nicht, da würden wir zu tendieren, gerade dieses Spiel mit dem endkrassen Schauder (Buch: Dinah Marte Golch, Bearbeitung: Edward Berger) der Sozialporno, den sich die Mittelschichte erzählt, damit sie wieder weiß, worin sie es sich gemütlich machen und wogegen sie sich abgrenzen soll?</p>
+<p>Kriminalität ist in <em>Macht und Ohnmacht</em>, was über den Tellerrand des Schichtengrusels hinaus gedacht würde (was darin aber wohl exemplarisch ist für die Welt, in der wir leben). Das ist, bei allem, was der Film an Fragen aufwirft, ein wenig schlicht. Es wird allerdings sehr schön und ausdauernd gerannt.</p>
+<p><strong>Ein Gedanke aus trunkener Nacht, der den Kater am Morgen danach nicht überlebte:</strong> "Wenn doch alle einfach nur die Wahrheit sagen würden"</p>
+<p><strong>Eine Berufsangabe, die Eindruck macht:</strong> "Ich bin das Gesetz" </p>
+<p><strong>Eine Berufsangabe, die keinen Eindruck macht:</strong> "Ich bin Lehrer, kein Sozialarbeiter"</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (22)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364847011744042" name="1364847011744042"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ceebee">
+                
+                  <img src="http://www.freitag.de/autoren/ceebee/@@images/4d1164c5-21b6-4e91-a153-2a822f0fe2f4.jpeg" alt="ceebee" title="ceebee" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ceebee" class="author ">ceebee</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364847011744042">
+                  01.04.2013 |
+                  22:10</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wow, die Besprechung ist auch higher level. </p>
+<p>Zur vermeindlich offenen Frage: Die Frau Alma Leiberg (hach, seufz) sagt zweimal dieses: "er hat mir einfach nicht gut getan."  Um es im Beisein ihres Mannes sagen zu können, sagt sie es über einen anderen. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364847011744042">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364848800695504" name="1364848800695504"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/magda">
+                
+                  <img src="http://www.freitag.de/autoren/magda/@@images/4c9e967f-abee-4303-a639-53baed89a11e.jpeg" alt="Magda" title="Magda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/magda" class="author ">Magda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364848800695504">
+                  01.04.2013 |
+                  22:40</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em> Carlo is back in good, ol' Mjunik,</em></p>
+<p><span>Monaco Carlo. Is doch schön.  </span></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364848800695504">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364849602561002" name="1364849602561002"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/achimradelt">
+                
+                  <img src="http://www.freitag.de/autoren/achimradelt/@@images/baacf45a-aa17-4aac-b3fc-3eb37df47a76.jpeg" alt="achimradelt" title="achimradelt" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/achimradelt" class="author ">achimradelt</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364849602561002">
+                  01.04.2013 |
+                  22:53</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Erst- und vielleicht auch nicht letztmalig muss ich mich hier in die Tatort-Auswerte einschalten. </p>
+<p>Das war wohl die<em> The Wire</em> Edition von Good Old Tatort.  Drehbuchbearbeiter und Regisseur haben, wie mir scheint, ordentlich zur Serie gelinst. Harte Polizeiarbeit auf der Straße, die so Kriminaler, die immer erst kommen, wenn´s zu spät ist, eh nicht schnallen. Natürlich alles runtergebrochen auf hiesige Verhältnisse, die nun mal gottlob dem Vergleich mit Baltimore nicht standhalten. </p>
+<p>Dazu noch die Tatort-Sequenz mit einem Hauch von Elroys Night Owl Massaker aus L.A. Confidential incl. interner Ermittlungen. </p>
+<p>Also, ich fand´s für Tatort-Verhältnisse heut großes Kino. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364849602561002">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364851535934566" name="1364851535934566"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/koslowski">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/koslowski" class="author ">koslowski</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364851535934566">
+                  01.04.2013 |
+                  23:25</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich fand diesen Tatort gut. Nicht wegen der Wonnen der „Apokalypse“ oder aus Lust am „Sozialporno“, sondern weil er seine Geschichte ziemlich spannend erzählt, seine Kommissare nicht als Comedians, sondern als müde Männer zeigt, die ihren Job machen, und weil er keinen Zweifel daran lässt, dass die Aufklärung des Falls die Welt nicht besser macht. Und Carlo? Den brauchte man wegen der Dramaturgie und dafür, dass die Rezensenten etwas zu schreiben hatten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364851535934566">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364852837249579" name="1364852837249579"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/miauxx">
+                
+                  <img src="http://www.freitag.de/autoren/miauxx/@@images/680732b9-9df5-4d38-9728-193089b4a6db.png" alt="miauxx" title="miauxx" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/miauxx" class="author ">miauxx</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364852837249579">
+                  01.04.2013 |
+                  23:47</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich fand diese überpushte Männergesellschafts-Harte-Bullen-Athmosphäre der ersten Szenen, besonders eben im Duschraum, interessant - wenngleich mir die Überdosis nackter Männer auch ein bisschen unangenehm war. Und dann auch nochmal der Zimmermann in voller Pracht pissend vor der Hütte mit folgender Fronttotale ...</p>
+<p>War auf jeden Fall ein ziemlich guter "Tatort". Bezüge zu aktuellem Geschehen scheinen in der Reihe zuzunehmen. Hier nun wohl einer auf die nicht wenigen Fälle von Polizeiwillkür und -gewalt in München.</p>
+<p>Dass so viel unaufgelöst blieb, was aber recht bedeutungsschwanger in Szene gesetzt wurde, wäre ein Kritikpunkt: Der so wenig glücklich wirkende Millionär Carlo (tatsächlich allein, weil er sich um Matteo sorgte?) oder eben wie es sich denn nun mit dem Anwalt und seiner Frau wirklich verhält. Also gerade letzteres hätte man ja nicht so verwickelt machen müssen, wenn es ohnehin nur Hintergrundstaffage für das die Polizeigewalt entlarvende Video sein sollte?!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364852837249579">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364853364016997" name="1364853364016997"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/miauxx">
+                
+                  <img src="http://www.freitag.de/autoren/miauxx/@@images/680732b9-9df5-4d38-9728-193089b4a6db.png" alt="miauxx" title="miauxx" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/miauxx" class="author ">miauxx</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364853364016997">
+                  01.04.2013 |
+                  23:56</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ach ja:</p>
+<p><em>"Matteo Lechner (...) der sich in der Befragung durch le Franz in die Rolle einer Romanfigur steigert – eines Kulturpessimisten, dessen Lamento für sich einnimmt, weil es nach eigenem Sprechen und eigener Sprache sucht: "Ich kann das nicht mehr ertragen, die großen Worte, Phrasen, die uns einlullen sollen, das mach ich nicht mehr mit."</em></p>
+<p>Das ist ja das, was uns der amerikanische Polizeifilm immer als den Ende ja wirklich "Gerechten" verkaufen will. Hat im "Tatort"/"Polizeiruf" aber auch schon einige Male seine Szene gehabt  (Nur dass hier bei uns im deutschen Fernsehen natürlich immer das Rechtsstaatsargument siegt). Insofern jetzt auch nicht <em>die</em> tolle Idee für den Charakter des Matteo - haben wir eben schon gesehen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364853364016997">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364860298452852" name="1364860298452852"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rene-artois">
+                
+                  <img src="http://www.freitag.de/autoren/rene-artois/@@images/6038046b-a7c9-4862-85e8-c3885aec2944.jpeg" alt="Rene Artois" title="Rene Artois" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rene-artois" class="author ">Rene Artois</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364860298452852">
+                  02.04.2013 |
+                  01:51</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Was soll diese ganze Philosophiererei, oh Dell? Es war ein Krimi-Krimi. Als solcher nicht gänzlich mißlungen und keinen Anlaß für das erste Substantiv dieses Posts gebend. Einfach nur ein "Taxi nach Leipzig"-Kontrapunkt zu den "Verkaufter Großvater"-Albernheiten aus u. a. Münster. Ein eher gelungener dazu. Kein Anlaß, auch noch den letzten Steg zwischen den einzelnen Filmbildern (ach, wie altenmodisch ...) einer psychologischen Anneliese zu unterziehen. Armer Rezensent ...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364860298452852">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364863545073747" name="1364863545073747"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364863545073747">
+                  02.04.2013 |
+                  02:45</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ein sehr spannend erzählter Tatort.</p>
+<p>Eine PolizistInnen-Gang in einem rabiater werdenden Milieu, in dem sie laut per Gesetz verliehenen Befugnissen Dienst tut. Eine Polizeidienststelle, deren Mitarbeiter schließlich die Brutalität (hier:)der Jugendlichen auch für sich in Anspruch nimmt. Sie sogar steigert, dabei irgendwie den Staat hinter sich wissend, man ist ja selbst Teil der Staatsmacht, sich stets auf der richtigen Seite wähnend, bis zur Selbstjustiz.</p>
+<p>Kennen wir alles aus amerikanischen Krimis, klar, die USA sind uns auch in dieser Hinsicht gesellschaftlich schon ein wenig voraus.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364863545073747">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364871130893222" name="1364871130893222"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/linkshandballyriker">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/linkshandballyriker" class="author ">linkshandballyriker</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364871130893222">
+                  02.04.2013 |
+                  04:52</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364863545073747">
+                    <span data-in_reply_to="1364863545073747" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Nette Zusammenfassung für den Dreizeiler in der Senderspalte einer Fernsehillustrierten, aber den Nachsatz verstehe ich nicht: "...<em>klar, die USA sind uns auch in dieser Hinsicht gesellschaftlich schon ein wenig voraus."  </em>Inwiefern sollten die USA irgendwem in irgendeiner Hinsicht gesellschaftlich voraus sein (können)? Wer ist "uns"? Warum "<em><strong>auch</strong></em> in dieser Hinsicht"? Was hat Law-and-Order-Fiction mit Voraussein (und dann gleich einer ganzen Gesellschaft) zu tun?</p>
+<p>P.S. Die grauen Eminenzen Ivo und Franz bewahren irgendwie Stil in den Momenten, in denen sie für Treppenhausrennereien und Runter-vom-Dach-Sprünge zu alt (zu langsam, zu ängstlich) sind. Auch das ein Distinguierungsmerkmal zwischen den selbstgerechten Draufgängern der polizistischen Basis und ihres kommissarischen Überbaus...</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364871130893222">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364888934816468" name="1364888934816468"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/magda">
+                
+                  <img src="http://www.freitag.de/autoren/magda/@@images/4c9e967f-abee-4303-a639-53baed89a11e.jpeg" alt="Magda" title="Magda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/magda" class="author ">Magda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364888934816468">
+                  02.04.2013 |
+                  09:48</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><span>Es gibt einen hübsch sarkastisches Lied von Georg Kreisler.</span></p>
+<p><a href="http://www.youtube.com/watch?v=evIhyiEv7Rw" title="Schützen wir die Polizei">Schützen wir die Polizei, heißt es</a> </p>
+<p><span>Jaja, das waren andere Zeiten, da waren die Menschen noch nicht so böse und das Ganze spielt ja auch in Österreich. Aber, ich musste trotzdem dran denken, als ich diesen Polizistenschmonz gesehen habe. Es ist völlig unbestritten, dass die es manchmal nicht leicht haben und dass die frustriert sind, wenn sie jemand wieder laufen lassen müssen , aber das sollte man nicht so textbeladen-wehleidig erzählen. </span></p>
+<p><span>In Berlin hat sich vor einiger Zeit eine Richterin erhängt, die als sehr "hart" und kompromisslos galt. Man sagt, diese Kirsten Heisig sei aus Frust in den Tod geflüchtet. </span></p>
+<p><span>Der Tatort ging schon gerade noch,  weil wirklich gute Schauspieler da zugange waren. Aber sonst...halten zu Gnaden, was ist denn anderswo los? </span></p>
+<p><em>"Bei dem bleibt tatsächlich bis zum Schluss offen, ob der Mann nun ein Schläger ist, dessen Fiesheit gerade darin besteht, so jammerlappig zu sein in Gegenwart von Polizei, oder nicht. Oder vielleicht ist offenbleiben das falsche Wort: Der in dieser Beziehung hausende Konflikt ist so unscharf entworfen, dass er gerade dadurch auf sich aufmerksam macht."</em></p>
+<p>Offen bleibt da gar nichts. Da wird aber gerade  ein Ton mit eingebaut, der schwer in Mode ist. Fakt ist, eine Frau kann sich nicht selbst beide Schlüsselbeine brechen. Das ist nicht glaubhaft. Aber, was jetzt gern "genommen" wird, ist, der Frau so eine Art eigene Komplizenschaft an zu definieren oder - am Ende - doch etwas, das den Mann "zwingt", in Gewalt zu flüchten. Oder Dinge psychologisch zu verrätseln, die meist recht simpel und eindeutig sind.</p>
+<p>Dass es eine Frau ist, die - am Schluss - diesen Wahnsinn beendet, wird die hier gerade herumschleichenden schwer verwundeten Männerrechtler nicht gerade beglücken. Das hat mir aber gefallen. Das Drehbuch stammt ja auch von einer Frau, vielleicht kommts daher.</p>
+<p> <span>Vor ziemlich vielen Jahren hat sich eine junge Polizistin in München das Leben genommen. Sie wurde gemobbt und verspottet und gedemütigt. Von den Kollegen. Auch von daher ist das Ende eher gut gemeint. Denn die Polizisten treiben eben nicht Gesellschaftskritik, sondern lassen den Frust aneinander aus. Ich weiß nicht, ob sich da viel geändert hat seit 1999.</span></p>
+<p><a href="http://www.zeit.de/1999/09/199909.polizistinnen_.xml">http://www.zeit.de/1999/09/199909.polizistinnen_.xml</a></p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364888934816468">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364892261793905" name="1364892261793905"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/klonkifanko">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/klonkifanko" class="author ">klonkifanko</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364892261793905">
+                  02.04.2013 |
+                  10:44</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>München mausert sich auf die alten Tage zu meinem Lieblingsschauplatz. Und das, wo ich mit der Stadt so gar nichts anfangen kann. Es zeigt mir: Das Lob ist berechtigt - Carlo aber hättenichmgar nicht gebraucht dabei.</p>
+<p>Er hatte doch im kriminalistischen Kontext auch nur eine Funktion: Almut anrufen und nach dem Passwort fragen. Oder täusche ich mich?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364892261793905">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364892347417599" name="1364892347417599"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/klonkifanko">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/klonkifanko" class="author ">klonkifanko</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364892347417599">
+                  02.04.2013 |
+                  10:45</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364892261793905">
+                    <span data-in_reply_to="1364892261793905" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich muss mich für "hättenichmgar" entschuldigen. Ich versuche, eine dieser Patschscreentastaturen zu bedienen...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364892347417599">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364896988006330" name="1364896988006330"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mdell">
+                
+                  <img src="http://www.freitag.de/autoren/mdell/@@images/7784519f-c74f-462a-a7f2-1b2abbaba24e.jpeg" alt="Matthias Dell" title="Matthias Dell" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mdell" class="author group-authors">Matthias Dell</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364896988006330">
+                  02.04.2013 |
+                  12:03</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364892261793905">
+                    <span data-in_reply_to="1364892261793905" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>auch @koslowski und teilweise miauxx</p>
+<p>carlo war für die geschichte wohl nicht nötig, diese nummer mit almut ist ja auch nicht zwingend (so "alte freundschaften" sind ja immer behauptungen, man könnte sie auch lassen). carlos rolle erklärt sich wohl eher durch mögliche pr und das spiel mit dem assistenten, das münchen jetzt ja schon ne weile treibt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364896988006330">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364897562577894" name="1364897562577894"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/bananenflanke">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/bananenflanke" class="author ">bananenflanke</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364897562577894">
+                  02.04.2013 |
+                  12:12</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Folge war gut. Es fällt aber auf, dass es eine Häufung von Folgen gibt, in denen interne Ermittlungen im Tatort/Polizeitruf eingebaut werden. Angefangen hat es mit Bukoff und König in Rostock, oder?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364897562577894">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364914024207312" name="1364914024207312"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ceebee">
+                
+                  <img src="http://www.freitag.de/autoren/ceebee/@@images/4d1164c5-21b6-4e91-a153-2a822f0fe2f4.jpeg" alt="ceebee" title="ceebee" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ceebee" class="author ">ceebee</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364914024207312">
+                  02.04.2013 |
+                  16:47</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Unverzeihlich: der Missbrauch von 'Polizisten' (Extrabreit) durch unvollständiges Abspielen. </p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364914024207312">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364944652306886" name="1364944652306886"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364944652306886">
+                  03.04.2013 |
+                  01:17</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364871130893222">
+                    <span data-in_reply_to="1364871130893222" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Es ist doch völlig klar, wie ich das meinte.</p>
+<p>Vielleicht lesen Sie sich meinen Kommentar laut vor, in einem Stück, von Anfang bis Ende. Machen Sie daraus ein Video und stellen es hier ein. Titelvorschlag: WEINSZTEIN - gelesen vom Linkshandballlyriker.</p>
+<p>Ich würde mich sehr freuen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364944652306886">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364944899937544" name="1364944899937544"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/andreasw">
+                
+                  <img src="http://www.freitag.de/autoren/andreasw/@@images/f7c7f73e-bb54-4060-a6f5-229920092baf.jpeg" alt="Wiesengrund" title="Wiesengrund" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/andreasw" class="author ">Wiesengrund</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364944899937544">
+                  03.04.2013 |
+                  01:21</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>In der Tat ein sehr guter Tatort. Der richtige Schnitt und die ehrliche Kamera, sorgten für einen souveränen Film, der aus der Distanz ganz nah heran kommt. In der Fiktion erzählt sich die Realität am besten: Gewalt ist ein Zusammenhang, an dessen Ende meistens eine Leiche liegt... Der Titel war der Folge durchaus angemessen. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364944899937544">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364974816741100" name="1364974816741100"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mdell">
+                
+                  <img src="http://www.freitag.de/autoren/mdell/@@images/7784519f-c74f-462a-a7f2-1b2abbaba24e.jpeg" alt="Matthias Dell" title="Matthias Dell" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mdell" class="author group-authors">Matthias Dell</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364974816741100">
+                  03.04.2013 |
+                  09:40</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364849602561002">
+                    <span data-in_reply_to="1364849602561002" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>the wire ist ein interessanter hinweis, auch wenn ich immer vorsichtig bin, zitat zu sehen, wo nur motive sich gleichen: dass es ein guter tatort war, darüber herrscht ja einigkeit. gelitten hat er aber ein wenig unter der falschen form, als fernsehfilm kriegt man die widersprüche nicht erzählt, da wäre, the wire, die serie das geeignetere format. bestes beispiel: die duschszene am anfang, atmosphärisch schön, dann umkleide, carlo-einführung, und hinten erschießt sich der bressinger, wie am rande, damit die geschichte fahrt aufnimmt. um zu verstehen, was den bressinger gepresst hat (wie ja auch den matteo), bräuchte es aber ein bisschen mehr erfahrung mit ihm, kurz: zeit</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364974816741100">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364975058939182" name="1364975058939182"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mdell">
+                
+                  <img src="http://www.freitag.de/autoren/mdell/@@images/7784519f-c74f-462a-a7f2-1b2abbaba24e.jpeg" alt="Matthias Dell" title="Matthias Dell" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mdell" class="author group-authors">Matthias Dell</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364975058939182">
+                  03.04.2013 |
+                  09:44</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364852837249579">
+                    <span data-in_reply_to="1364852837249579" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Dass so viel unaufgelöst blieb, was aber recht bedeutungsschwanger in Szene gesetzt wurde, wäre ein Kritikpunkt: Der so wenig glücklich wirkende Millionär Carlo (tatsächlich allein, weil er sich um Matteo sorgte?) oder eben wie es sich denn nun mit dem Anwalt und seiner Frau wirklich verhält. "</p>
+<p>das ist in der tat auf der kippe, und wenn man's gut/nicht doof fand, dann hat das sicher was mit dem umfeld zu tun, weil die tonlage, atmosphäre in der geschichte doch meistens stimmt, weiß, was sie will. der fall selbst war für mein empfinden eigentlich auch lange zeit zu unscharf, funktioniert aber, weil man durch so öffnungen wie den lechner-charakter bei der stange bleibt </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364975058939182">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364975120713230" name="1364975120713230"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mdell">
+                
+                  <img src="http://www.freitag.de/autoren/mdell/@@images/7784519f-c74f-462a-a7f2-1b2abbaba24e.jpeg" alt="Matthias Dell" title="Matthias Dell" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mdell" class="author group-authors">Matthias Dell</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364975120713230">
+                  03.04.2013 |
+                  09:45</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364944652306886">
+                    <span data-in_reply_to="1364944652306886" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>ich mich auch! "WEINSZTEIN - gelesen vom Linkshandballlyriker." das klingt nach einem must, einem erfolgsformat, der neuerfindung von allem. man könnte memoiren so nennen</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364975120713230">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364975273292739" name="1364975273292739"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mdell">
+                
+                  <img src="http://www.freitag.de/autoren/mdell/@@images/7784519f-c74f-462a-a7f2-1b2abbaba24e.jpeg" alt="Matthias Dell" title="Matthias Dell" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mdell" class="author group-authors">Matthias Dell</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364975273292739">
+                  03.04.2013 |
+                  09:47</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364944899937544">
+                    <span data-in_reply_to="1364944899937544" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Der Titel war der Folge durchaus angemessen."</p>
+<p>ja und nein. "macht und ohnmacht" fällt für meinen geschmack in den bereich des eben großkalibrigen, so können bücher von martin heidegger heißen. mir ist das etwas zu abstrakt, nicht viel, aber doch: zu abstrakt. der film will schon was systematisches, großesganzes, deswegen kann man die wahl des titels auch verstehen. vielleicht wäre die lösung gewesen, nur mit einem dieser großraumbegriffe zu arbeiten</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364975273292739">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364987351959062" name="1364987351959062"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/linkshandballyriker">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/linkshandballyriker" class="author ">linkshandballyriker</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364987351959062">
+                  03.04.2013 |
+                  13:09</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364944652306886">
+                    <span data-in_reply_to="1364944652306886" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sind Sie etwa Lehrer/in? Auf keine der gestellten Fragen eingehen (darauf beharren, dass doch KLAR ist, wie SIE das gemeint haben) und sich dann auch noch hinter einer produktionsorientierten Hausaufgabe verstecken... Nunja, mit dem Video überleg ich mir, aber lohnenswerter dafür scheinen mir die anglizistischen Dschungel-Texte aus dem Hause Dell!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett#1364987351959062">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/mdell">Matthias Dell</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/mdell">
+          <img src="http://www.freitag.de/autoren/mdell/@@images/d1a565c1-ee32-4265-9d0e-f6e1a93b9a96.jpeg" alt="Matthias Dell" title="Matthias Dell" height="65" width="65" /></a>
+        
+      </div>
+      <div class="box">
+        Kulturredakteur
+      </div>
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">29.01.2009</span>
+      </div>
+      <div class="last_login">
+        Letzter Login:
+        <span class="detail">03.04.2013</span>
+      </div>
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/mdell">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/mdell">362</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/mdell/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/mdell/@@kommentare">1794</a>
+      </div>
+      
+      <div class="connections-writers">
+        <a title="Schreiber" href="http://www.freitag.de/autoren/mdell/@@schreiber">Schreiber</a>:
+        <a class="detail" title="Schreiber" href="http://www.freitag.de/autoren/mdell/@@schreiber">9</a>
+      </div>
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/mdell/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/mdell/@@leser">25</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/mdell/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Matthias Dell</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="catchword">Im Gespräch</span>
+              Mutter, Täter, Kamerad </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="comment-count" title=" 8 mal kommentiert">8</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/sascha-hehn-als-problem">
+              <span class="catchword">Fernsehen</span>
+              Sascha Hehn als Problem</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/sascha-hehn-als-problem">
+              <span class="comment-count" title=" 6 mal kommentiert">6</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/raststaette-muensterland-ost">
+              <span class="catchword">Tatort</span>
+              Raststätte Münsterland-Ost</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/raststaette-muensterland-ost">
+              <span class="comment-count" title=" 59 mal kommentiert">59</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1679&amp;ord=1364996962" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1679&amp;ord=1364996962" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1679&amp;ord=1364996962" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="catchword">Umbrüche </span>
+              Die Zukunft der Proteste </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="author group-authors">Florian Schmid</span>
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="catchword">Im Gespräch</span>
+              Mutter, Täter, Kamerad </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="author group-authors">Matthias Dell</span>
+              <span class="comment-count" title=" 8 mal kommentiert">8</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer">
+              <span class="catchword">Offener Brief</span>
+              Lieber Harald Welzer!  </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer">
+              <span class="author group-authors">Franz Viohl</span>
+              <span class="comment-count" title=" 19 mal kommentiert">19</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1680&amp;ord=1364996962" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1680&amp;ord=1364996962" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1680&amp;ord=1364996962" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Kultur";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Kultur",
+    img: "http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett/@@images/544f8247-dc3d-4ab5-a7e5-48be36ed9c01.jpeg",
+    objectid: "f834327c1308494ca1fb6b8659d01696",
+    title: "Wir wären auch lieber im Bett",
+    url: "http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett",
+    text: "Higher Level, aber nicht unproblematisch: In \"Macht und Ohnmacht\" kehrt Carlo für ein Gastspiel nach München zurück, wo zwischen den ganz großen Fragen ermittelt wird ",
+    created_at: "1364845500"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

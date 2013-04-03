@@ -1,0 +1,728 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:59:24 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:59:24 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 41053
+Accept-Ranges: bytes
+X-Varnish: 557705773
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Porträt ǀ About Schmidt  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/katharina-schmitz/about-schmidt" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="„Schneckenmühle“ ist ein Roman über Kindheit in der DDR, aber mit Ostalgie soll man Jochen Schmidt nicht kommen" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/katharina-schmitz/about-schmidt/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1676&amp;ord=1364997564" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1676&amp;ord=1364997564" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1676&amp;ord=1364997564" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1681&amp;ord=1364997564" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1681&amp;ord=1364997564" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1681&amp;ord=1364997564" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1677&amp;ord=1364997564" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Kultur</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=literatur">literatur</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=porträt">porträt</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=jochen schmidt">jochen schmidt</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=schneckenmühle">schneckenmühle</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p>Schneckenmühle Jochen Schmidt C.H Beck 2013, 220 S., 17,95 €</p>
+<p>Katharina Schmitz ist freie Literaturkritikerin</p>
+<p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 11/13</strong> vom 14.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Katharina Schmitz</span>
+        <div class="additional-info">
+          <span class="date">28.03.2013</span> |
+          <span class="time">01:00</span>
+          <span class="comment-count" title=" 1 mal kommentiert">1</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>About Schmidt </h1>
+
+        <p class="description">
+          <span class="catchword">Porträt</span>
+          „Schneckenmühle“ ist ein Roman über Kindheit in der DDR, aber mit Ostalgie soll man Jochen Schmidt nicht kommen
+        </p>
+
+        
+
+        <div class="text"><p>Der an sich, wie ich vorgewarnt wurde, nicht sehr gesprächige Schriftsteller und Journalist Jochen Schmidt spricht viel und wir halten mittendrin kurz fest: Über seine Eltern müsste unbedingt geschrieben werden, alte Ostberliner Intellektuelle, heute um die 80 Jahre alt, ein Leben lang beschäftigten sich Mutter und Vater mit der Neubearbeitung des Grimmschen Wörterbuchs, das in Zukunft nur noch digital existiert. Der Vater sei heute noch in der Kommission und hadere sehr mit der Abwicklung, „großes Unrecht“ sei das.</p>
+<p>Allein über das Wort „Unrecht“ und wie es verwendet werden darf, könnte jetzt lange gesprochen werden, nur dafür ist keine Zeit. Es leuchtet aber sofort ein, dass man als Kind von passionierten Germanisten sich der Liebe zu den Worten fast nicht erwehren kann, in einem Zuhause, das inspirierend und enervierend gewesen sein muss: Einmal eine Frage gestellt, dauerte die Antwort eine gefühlte halbe Stunde lang. Aber vielleicht ist das geniale Projekt <em>Schmidt liest Proust </em>aus dem Jahr 2006 ja dieser Geduldsprobe zu verdanken? Schmidt las täglich, monatelang, immer genau 20 Seiten. Und seine erst als Blog, dann als Buch veröffentlichte Lektüre der <em>Suche nach der verlorenen Zeit </em>bewies nicht nur, dass der Proust-Kosmos überraschend alltagstauglich ist, sondern auch, wie schön es sein kann, sich ganz altmodisch, mittels Reflexion die Zeit zu rauben.</p>
+<h2>Ein später Russischkurs</h2>
+<p>„Ich hasse Jugendliteratur.“ Noch so ein Fluch aus der Kindheit. Der 1970 geborene Schmidt fängt erst mit 20 Jahren an, Bücher zu lesen. Nach der Wende studiert er zuerst Mathematik, dann Germanistik und Romanistik, bleibt aber unfähig, sich im akademischen Sinn zu spezialisieren. Wie auch, wenn alles humanistische Bildung ist, also zum Beispiel auch Alexander Kluge, der sich stundenlang mit einem Astrophysiker unterhält?</p>
+<p>Als in Westdeutschland aufgewachsener Mensch hat man ja immer noch ein wenig Angst, die falschen Fragen nach dem Aufwachsen in der DDR zu stellen. Und die kommen natürlich auch passgenau: „Ihr habt tatsächlich die gleichen Vorabendserien wie wir geschaut?“ („Natürlich! Es war <em>das </em>Gesprächsthema vor der Schule!“) – „Ihr hattet Französisch?“ (Wieso denn nicht?). Gerne wäre er als Au-pair nach Frankreich gegangen, aber das ging kurz nach der Wende noch nicht. Damals sei man ja reflexhaft gegen alles Ostmäßige gewesen. Auch gegen Russisch, gegen das verordnete „ich schreibe einen Brief an meinen sozialistischen Freund“. Doch 1999 absolvierte Schmidt einen Russischkurs in Moskau, und dort begegnete ihm die DDR dann wieder, weil „ja alles da so aussah“.</p>
+<p>Pünktlich zur Leipziger Buchmesse hat er nun den Roman <em>Schneckenmühle </em>veröffentlicht. Eigentlich ist es sein zweiter, aber es gab Kritiker, die sich 2002 fragten, ob <em>Müller haut uns raus</em> nun sein Roman-Debüt sei oder einfach lesenswerte Anekdoten eines zwischen Liebe und Alltag stolpernden Antihelden im neuen Berlin. Es war jedenfalls wirklich witzige Prosa. Sein erster Erzählband <em>Triumphgemüse</em> war zwei Jahre davor erschienen, die erste Erzählung darin der Monolog eines alten Mannes vom Oderbruch. Man erkannte, dass Schmidt zwar sehr witzig war, aber nicht Popliteratur, und empfand das als wohltuend. Schmidt gewann den Open-Mike-Preis, den einzigen Preis überhaupt, den er jemals gewonnen hat, so eine Art Mini-Klagenfurt.</p>
+<p><em>Schneckenmühle</em> nun ist ein wunderbarer, natürlich abermals sehr witziger <em>Fänger-im-Roggen</em>-Roman über das Erwachsenwerden. Jens ist 14 und geht zum letzten Mal auf DDR-Klassenfahrt. Die Jungs verhalten sich wie Jungs sich in diesem Alter verhalten: hochgradig pubertär. Im Ferienlager gehen die Uhren anders. So als müsse das Leben immer so weiter gehen. Skat spielen, von Mädchen träumen, zotige Witze reißen. Und mindestens einmal am Tag rüttelt einer sinnlos am Pfosten des Doppelstockbetts – diese Energie! Schmidts Roman erzählt von der ungelenken Sentimentalität dieser Kinder, vom Glück, vom Abschied, von Freundschaft und vom Ende der DDR, das in diesem Sommer an vielen Stellen durchschimmert. In seinem Buch sei „das Politische anwesend und abwesend“, sagt Schmidt, und offen bleibt, ob Jens am Ende befreit oder entwurzelt ist.</p>
+<p>Bei vielen leuchteten ja heute noch die Augen, wenn sie ans Ferienlager dächten, sagt Schmidt weiter. Trotzdem sei der Roman nicht ost-nostalgisch, was überhaupt das Schlimmste aller Aushängeschilder sei, das ihm das Feuilleton seit Jahren umhänge. Wenn einer aus dem Westen einen 800-Seiten-Roman über die westdeutsche Kindheit der Achtziger Jahre veröffentliche, würde doch auch keiner schreiben, schon wieder ein Buch über die westdeutsche Jugend der Achtziger. Nur Literatur, die im Osten spiele, bekomme dieses Etikett. Für ihn sei die Sozialisation jedoch unideologisch, einfach ein dankbarer Stoff.</p>
+<p>Unideologisch? Wie hält er es mit der Politik? Sie ist anwesend und abwesend, könnte man sagen: Eine leichte Aversion gegen politische Aktionen, gegen Demonstrationen hat er wohl, das ist dann schon ein Erbe seiner DDR-Wurzeln. Er habe auch nie diesen sinnlosen Polizeihass verstanden und meint Kreuzberg. Aus Überforderung, aber allein schon aus Stilfragen fühlt er sich keiner Partei zugehörig. Ist das denn kein Strickpulli, den er da trägt? „Das ist doch kein Strickpulli!“ Die Grünen, die man hier assoziieren könnte, seien einfach nicht urban. Vorbehalte gegen die Linke, SED-Erbe und all das, wie sie in der Familie vorherrschten, teilt er hingegen nicht.</p>
+<h2>Die Zeitung lesen</h2>
+<p>Sein großes Leiden besteht darin, dass sich die Dinge fortwährend verändern, das sei doch auch eine politische Haltung. „Man muss das dokumentieren“, sagt Schmidt, der ein großer Fan des Chronisten Walter Kempowski ist und von Christa Wolfs Tagebuchaufzeichnungen. Er selbst macht ständig Notizen, auch wegen der eigenen Vergesslichkeit. Lange Jahre ging er dafür aufs Klo, die Leute sind ja misstrauisch, wenn einer etwas aufschreibt. Und letztlich: Literatur zu lesen sei doch an sich politisch. Und Zeitung natürlich. Gedruckte. „Es braucht doch die Kleinigkeiten, die Leserbriefe. Das Internet wird nie eine natürliche Art zu lesen sein.“ Dass er trotzdem stundenlang darin versackt, ist dann der Widerspruch, in dem wir alle stecken.</p>
+<p>Wir sitzen in diesem Urberlinerlokal Bornholmer Hütte am Prenzlauer Berg, das vermutlich auch schon bald eingenommen sein wird von den Hipsters, Fussball wird ja schon übertragen. Die dunkelbraunen Wände stünden unter Denkmalschutz, sagt Schmidt, habe der Wirt gesagt. Aber Schmidt lästert nicht über die Gentrifizierung. Statt bürgerlicher Kleinfamilie könnte ja auch ein Alkoholiker unter Dir wohnen. Er geht sowieso nur noch selten aus, keine Zeit, die humanistische Bildung! Schmidt ist einer, der einen Kurs Altgriechisch an der Uni belegt und findet, das sei das Beste, was er in seinem Leben gemacht hat. Es sind etymologische Kurz-Exkurse für die <em>FAZ </em>daraus geworden, illustriert von Line Hoven. Im Herbst erscheint <em>Schmydtologie</em> als Buch.</p>
+<h2>Poesie in Rumänien</h2>
+<p>Natürlich ist Schmidt auch ein Berlinologe. „Früher waren am Einkaufszentrum Schönhauser Allee einmal Pferdeställe“, erzählt er. Aber das klänge gleich so nach Jammer-Ossi. Seine Klage gilt dem Verschwinden der Ästhetik des Improvisierten, in Berlin, im Umland, überall, eine Heizung, die einmal ein Zaun war, zum Beispiel. Irgendwie sei ja auch die sozialistische Moderne reizvoll gewesen, der Blick aus dem Plattenbau auf eine stark befahrene Autobahn....Und dann ist Schmidt auch ein Komplexologe, einer, der vermeintlich Einfaches schwierig macht und daran leidet; seine Komik resultiert aus diesem Mechanismus, etwa in den Neurosenbewältigungsgeschichten von <em>Meine wichtigsten Körperfunktionen</em>. Mit Wichtigmachen hat das aber nichts zu tun, Schmidt ist ein bescheidener Mensch: „Man kann sich auch mit einem Waschlappen waschen. Mit Kohle heizen.“</p>
+<p>In Deutschland fühlt er sich ein wenig unwohl, anders im Ausland. Er hat Osteuropa für sich entdeckt, durch Zufall, ein Sprachkurs in Rumänien, einfach nur Reisen, das kann er nicht. Rumänien ist so ein Land, von dem die meisten Leute nichts oder nichts Gutes wissen. Schmidt dagegen hat ein widersprüchliches Land kennen gelernt, voller Poesie, die in den Brüchen liegt: Bauernhäuser neben monströsen Villen von Leuten, die zu Geld gekommen sind. „Es ist wie immer, die Menschen brechen ganz unsentimental mit der Vergangenheit.“ Steht alles in seiner <em>Gebrauchsanweisung für Rumänien</em>, die bald als Neubearbeitung erscheint. „Es gibt Straßen, die rumpeln wie auf dem Mond. Bald wird eine Autobahn gebaut.“ Mir blutet das Herz. „Schon viertel neun“, sagt Schmidt, „jetzt habe fast nur ich gesprochen, das war jetzt in Ihrem Sinn, hoffe ich?“</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (1)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364456493904195" name="1364456493904195"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/anne-monen">
+                
+                  <img src="http://www.freitag.de/autoren/anne-monen/@@images/4794e42c-3beb-4905-a8cc-c7dc386ff7a7.jpeg" alt="anne mohnen" title="anne mohnen" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/anne-monen" class="author ">anne mohnen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/katharina-schmitz/about-schmidt#1364456493904195">
+                  28.03.2013 |
+                  08:41</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>***** Frau Schmitz trifft Herrn K ;)</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/katharina-schmitz/about-schmidt#1364456493904195">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/katharina-schmitz/about-schmidt/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/katharina-schmitz">Katharina Schmitz</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/katharina-schmitz">
+          <img src="http://www.freitag.de/autoren/katharina-schmitz/@@images/eab56234-156a-4262-91ff-37069426cdd1.jpeg" alt="Katharina Schmitz" title="Katharina Schmitz" height="65" width="65" /></a>
+        
+      </div>
+      <div class="box">
+        Autorenkollektiv Humannplatz
+      </div>
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">04.08.2009</span>
+      </div>
+      <div class="last_login">
+        Letzter Login:
+        <span class="detail">02.04.2013</span>
+      </div>
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/katharina-schmitz">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/katharina-schmitz">37</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/katharina-schmitz/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/katharina-schmitz/@@kommentare">214</a>
+      </div>
+      
+      <div class="connections-writers">
+        <a title="Schreiber" href="http://www.freitag.de/autoren/katharina-schmitz/@@schreiber">Schreiber</a>:
+        <a class="detail" title="Schreiber" href="http://www.freitag.de/autoren/katharina-schmitz/@@schreiber">3</a>
+      </div>
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/katharina-schmitz/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/katharina-schmitz/@@leser">6</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/katharina-schmitz/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Katharina Schmitz</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/katharina-schmitz/so-einfach-geht-das">
+              <span class="catchword">Alltagskommentar</span>
+              So einfach geht das</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/katharina-schmitz/so-einfach-geht-das">
+              <span class="comment-count" title=" 13 mal kommentiert">13</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/katharina-schmitz/ohne-opfer-abo-nach-oben">
+              <span class="catchword">Journalismus</span>
+              Ohne Opfer-Abo nach oben </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/katharina-schmitz/ohne-opfer-abo-nach-oben">
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/katharina-schmitz/wie-ich-die-kiezbuchhandlung-hassen-lernte">
+              <span class="catchword">Glosse</span>
+              Wie ich die Kiezbuchhandlung hassen lernte</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/katharina-schmitz/wie-ich-die-kiezbuchhandlung-hassen-lernte">
+              <span class="comment-count" title=" 14 mal kommentiert">14</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1679&amp;ord=1364997564" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1679&amp;ord=1364997564" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1679&amp;ord=1364997564" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="catchword">Umbrüche </span>
+              Die Zukunft der Proteste </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="author group-authors">Florian Schmid</span>
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett">
+              <span class="catchword">Tatort</span>
+              Wir wären auch lieber im Bett</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett">
+              <span class="author group-authors">Matthias Dell</span>
+              <span class="comment-count" title=" 22 mal kommentiert">22</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="catchword">Im Gespräch</span>
+              Mutter, Täter, Kamerad </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="author group-authors">Matthias Dell</span>
+              <span class="comment-count" title=" 8 mal kommentiert">8</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1680&amp;ord=1364997564" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1680&amp;ord=1364997564" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1680&amp;ord=1364997564" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Kultur";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Kultur",
+    objectid: "9ca64f6d26574cf5ac40cabd384ddfdf",
+    title: "About Schmidt ",
+    url: "http://www.freitag.de/autoren/katharina-schmitz/about-schmidt",
+    text: "„Schneckenmühle“ ist ein Roman über Kindheit in der DDR, aber mit Ostalgie soll man Jochen Schmidt nicht kommen",
+    created_at: "1364428800"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

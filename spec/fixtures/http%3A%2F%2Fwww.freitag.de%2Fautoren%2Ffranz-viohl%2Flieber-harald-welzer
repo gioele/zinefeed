@@ -1,0 +1,1361 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:57:07 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:56:18 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 80273
+Accept-Ranges: bytes
+X-Varnish: 557701769 557700245
+Via: 1.1 varnish
+X-Varnish-Age: 49
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Offener Brief ǀ Lieber Harald Welzer!   — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Der Sozialpsychologe Harald Welzer ruft in seinem neuen Buch „Selbst denken“ zum Widerstand auf und wirbt für eine Strategie kleiner Schritte. Eine Antwort" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1676&amp;ord=1364997378" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1676&amp;ord=1364997378" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1676&amp;ord=1364997378" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1681&amp;ord=1364997378" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1681&amp;ord=1364997378" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1681&amp;ord=1364997378" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1677&amp;ord=1364997378" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Kultur</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  
+
+
+
+
+  <aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p><strong>Franz Viohl</strong> fragte sich nach der Lektüre von Harald Welzers Kapitalismuskritik, ob Karl Marx heute auch Öko-Ratgeber schreiben würde</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Franz Viohl</span>
+        <div class="additional-info">
+          <span class="date">30.03.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 19 mal kommentiert">19</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Lieber Harald Welzer!  </h1>
+
+        <p class="description">
+          <span class="catchword">Offener Brief</span>
+          Der Sozialpsychologe Harald Welzer ruft in seinem neuen Buch „Selbst denken“ zum Widerstand auf und wirbt für eine Strategie kleiner Schritte. Eine Antwort
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer/@@images/c40ee5ff-b482-442f-87cd-727364885842.jpeg" alt="Lieber Harald Welzer!  " title="Lieber Harald Welzer!  " height="282" width="445" /><p class="credit">Foto: Julian Röder / Ostkreuz</p>
+          </div>
+        
+
+        <div class="text"><p>Lieber Harald Welzer,</p>
+<p>Sie haben einen Nerv getroffen. Selbst denken haben Sie Ihr neues Buch genannt. Es soll eine „Anleitung zum Widerstand“ sein. Was könnte besser in eine Zeit passen, in der die Rettung einer Währung wichtiger als das Schicksal der Menschen scheint? In der unser Lieblingswort Krise heißt. Und in der sich bei immer mehr Bürgern das Gefühl festsetzt, dass es so nicht weiter geht.</p>
+<p>Ihr Buch hat mich an meinen ersten eigenen Akt des Widerstands erinnert. Das war vor zehn Jahren, ich war gerade 15 geworden. Die USA kündigten an, in den Irak einzumarschieren. In Berlin kamen 500.000 Demonstranten zusammen und riefen: „Kein Blut für Öl.“ Ich lief mit einer kubanischen Fahne mit, darauf das Konterfei Che Guevaras. Vor der amerikanischen Botschaft schwenkte ich sie besonders lang. Das fühlte sich gut an, aber dieses Gefühl war nicht von Dauer. Ich merkte später, dass die Welt nicht so schwarz-weiß ist, wie ich sie damals sehen wollte. Sie ist sogar ziemlich unübersichtlich – und das macht es mit dem Widerstand nicht einfacher.</p>
+<p>Lieber Herr Welzer, Sie haben Recht, wenn Sie sagen, die ideologischen Kämpfe von einst hätten sich überlebt. Bei den Occupy-Protesten war von Che Guevara nichts mehr zu sehen. Aber im Wort Ideologie steckt auch „Ideal“ und „Idee“. Gute Ideen brauchen wir mehr denn je. Die Glücksversprechen von Kommunismus und Kapitalismus sind überholt. Sie schlagen daher vor, dass wir uns eine „neue Geschichte“ erzählen. Wir sollten von der „Zukunft her denken“. Das klingt gut – und doch haben Sie mich damit nicht überzeugt.</p>
+<p>Widerstand scheint heute zu bedeuten, nicht für, sondern gegen etwas zu sein. Aber selbst das ist nicht so einfach, wie ein Beispiel von Ihnen erzählt: Laut einer Umfrage glauben nur 13 Prozent der US-amerikanischen Eltern, dass es ihren Kindern einmal besser gehen wird als ihnen selbst. Da fragen Sie: „Woher nehmen die restlichen 87 Prozent die entspannte Haltung, dagegen nichts zu tun?“ Die Frage ist rhetorisch, zeigt aber das Hauptproblem. Obwohl wir wissen, dass so viele Dinge – vom Klimawandel bis zur Finanzkrise – unsere Zukunft bedrohen, unternehmen wir nichts dagegen. Das führen Sie auf zwei Ursachen zurück: Zum einen sei das verfügbare Wissen unüberschaubar geworden. Sich im Denken zu orientieren, sagen Sie mit Kant, sei immer schwieriger geworden. Zum anderen unterlägen wir einer „kognitiven Dissonanz“ – wir neigen dazu, eine erkannte Gefahr herunter zu spielen. Es sei immer bequemer, die Wirklichkeit der Vorstellung anzupassen als umgekehrt.</p>
+<h2>Geländewagen und Biomarkt</h2>
+<p>Wegen solcher Analysen habe ich Ihr Buch gern gelesen. Aber wenn Sie doch zum Selbstdenken aufrufen, warum wenden Sie sich an einen Leser, den man an der Hand nehmen muss? Den man in die Untiefen einer krisenhaften Zeit führen muss, um ihm dann zu zeigen, welche kleinen Schritte er hin zu einer rosigen Zukunft machen kann? Sie beschreiben den Widersinn, mit einem Geländewagen zum Bio-Supermarkt zu fahren. Oder Kaffee aus Plastikkapseln zu trinken. Aber dann schreiben Sie Sätze wie: „Wahrscheinlich haben Sie jetzt das Gefühl, dass Sie längst etwas tun, was Sie nie beabsichtigt haben.“ Wenn Ihnen der Leser bis zur Hälfte des Buchs gefolgt ist, ist er „reif“, um zu handeln. Wenn er Ihre Warnung beachtet: „Seien Sie vorsichtig, Sie bewegen sich hinaus aus der Komfortzone.“</p>
+<p>Aber es geht nicht nur um Geländewägen und Biosupermärkte. Ich habe gar kein Auto. Nur auch wenn ich das ganze Jahr lang Fahrrad und U-Bahn fahre: Mit einer einzigen Flugreise im Sommer ist meine Ökobilanz dahin. Selbst wenn ich den Zug nehme, ganz ohne CO2-Ausstoß geht es nicht. Aber ist das überhaupt der Punkt?</p>
+<p>Lieber Herr Welzer, Sie schreiben, der Kapitalismus sei in die Krise geraten. Mit der Wachstumsmaxime sei eine Kultur des „Alles immer“ entstanden: „Mehr Wissen, mehr Erfahrung, mehr Erkenntnisse“. Das war auch eine Losung der Aufklärung, aber die „stößt an eine Grenze dort, wo sie den kognitiven Teil unserer Orientierung überschreitet“. Sie sagen das als Sozialpsychologe und ergänzen, unser Handeln sei vor allem durch Gewohnheit bestimmt. Das Wissen sei keine hinreichende Voraussetzung für Veränderung.</p>
+<p>Damit aber kommen wir zum Ausgangspunkt zurück. Wie steht es nun um die „bessere Welt“? Auf der Website Ihrer Stiftung Futurzwei heißt es: „Eine zukunftsfähige Kultur des Lebens und Wirtschaftens entsteht nicht durch wissenschaftliche Erkenntnisse oder moralische Appelle. Sie wird in unterschiedlichen Laboren der Zivilgesellschaft vorgelebt und ausprobiert.“ Nur als Veränderung im Kleinen könne Widerstand heute funktionieren. Sein Ziel sei: die „nachhaltige Moderne“.</p>
+<p>Sie sind einer der bekanntesten Vertreter dieser Idee und sehen überall neue Initiativen heranwachsen. Mikrogenossenschaften von Nachbarn, die sich gegenseitig Werkzeuge leihen, statt immer alles neu zu kaufen; Lokalwährungen, mit denen Bürger ihre Wirtschaft vor Ort stärken; Banken, die auf soziale Projekte und nicht auf Finanzgeschäfte setzen. In solchen communities of practice erblicken Sie die Alternative zur „abgestandenen Geschichte der Moderne“. Sie fordern Eigenverantwortung, Sparsamkeit und „Kulturtechniken des Erhaltens“. Gerne würde ich sagen: Natürlich, wenn jeder einzelne ein paar Dinge in seinem Leben ändert, dann ändert sich auch die Gesellschaft. Dann fahren wir nicht mehr allein mit dem Auto, sondern zu fünft. Dann kaufen wir das Gemüse vom Bauern aus der Region, und nicht aus Marokko. Aber soll das Widerstand sein? Und vor allem: Retten wir so unsere Zukunft?</p>
+<h2>Für Kant zählte die Haltung</h2>
+<p>Die Zukunft kann nicht der alleinige Adressat unserer Handlungen sein. Immanuel Kant, der auch von Ihnen immer wieder bemüht wird, war überzeugt: Es komme darauf an, welche Haltung hinter einer Handlung stehe und nicht, was ihre Folgen in der Zukunft sind. Die aufklärerische Forderung des Selbstdenkens reduzierte das Denken nie auf ein bloßes Instrument zum Handeln. Ein Gedanke ist nicht nur deshalb gut, weil aus ihm eine Tat folgt.</p>
+<p>Das heißt aber nicht, auf Widerstand zu verzichten. Aber kann man für das Weltklima kämpfen? Sie zweifeln selbst daran, denn die Folgen der Umweltzerstörung spüren wir kaum am eigenen Leib. Trotzdem glauben Sie, dass uns bedrohliche Zukunftsszenarien zum Umdenken, und das heißt für Sie: zum Handeln, zwingen können. Doch die meisten Menschen sind von anderen Dingen betroffen. Von Krieg und Vertreibung in Syrien. Von Angst vor Drogenkartellen in Mexiko. Von sexueller Gewalt in Indien. Von den Zumutungen des Jobcenters in Deutschland.</p>
+<p>Hier geht es um die Existenz, nicht um grünes Bewusstsein. Hier hat Widerstand seine volle Bedeutung. Diejenige werden ihn leisten, die nichts zu verlieren haben. Dafür brauchen sie keine Anleitung. Eine Nachhaltigkeitsdebatte greift zu kurz, wenn sie so tut, als ob bewusster Konsum diese Probleme lösen könne. Das sagen Sie auch nicht, sondern: Was uns zumindest in den reichen Ländern wichtig sein sollte, ist „Gemeinwohl statt Eigennutz, Zeitwohlstand statt materiellem Wohlstand, Erhaltung statt Zerstörung“. Das ist bedenkenswert. Dann aber schreiben Sie, Widerstand bedeute letztlich, „dass drei bis fünf Prozent der Avantgarden eine neue Geschichte erzählen“. Avantgarden? Eine neue Geschichte? Glauben Sie wirklich, mit einem neuen Diskurs ist es getan?</p>
+<p>Lieber Herr Welzer, Sie haben kein Manifest geschrieben und auch keine Grundlegung einer Post-Postmoderne. Dafür sind Sie selbst zu engagiert, und das ist gut so. Aber eine „Anleitung zum Widerstand“ ist Ihr Buch für mich nicht. Vielmehr ein Sammelsurium von Ansätzen, die zum Nachdenken anregen. Ein Nachdenken, das sich nicht auf die Zukunft, sondern – es steckt im Wort – auf das Vergangene richtet. Wenn in Griechenland verarmte Bürger schutzlose Migranten angreifen, dann zeigt das, dass wir nichts aus den alten Fehlern gelernt haben. Dieses Lernen wäre aber dringlicher, als uns „neu zu erfinden“.</p>
+<p>Sicher können kleine Änderungen etwas bewegen, jeder dort, wo er kann. Und ja, wir müssen uns eine neue Geschichte über uns erzählen. Das reicht aber nicht. Adornos Satz, den Sie umdrehen, bleibt im Original richtig: „Es gibt kein richtiges Leben im falschen.“ Es gibt auch kein Urteil ohne Analyse. Und keinen Ratgeber fürs große Ganze.</p>
+<p>Die Lösung für Kriege, Krisen und Klimazerstörung wird so einfach nicht sein. Aber eines wurde mir damals, vor der amerikanischen Botschaft, doch bewusst: Widerstand heißt auch, Ideale zu haben. Daran glaube ich noch heute.</p>
+<p>Mit solidarischem Gruß</p>
+<p>Ihr Franz Viohl</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (19)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364638101183834" name="1364638101183834"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/sim-cha-chi">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/sim-cha-chi" class="author ">Sim Cha Chi</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364638101183834">
+                  30.03.2013 |
+                  11:08</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>ja</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364638101183834">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364638106372244" name="1364638106372244"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/sim-cha-chi">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/sim-cha-chi" class="author ">Sim Cha Chi</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364638106372244">
+                  30.03.2013 |
+                  11:08</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>ja</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364638106372244">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364640197362955" name="1364640197362955"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/nilnilnil">
+                
+                  <img src="http://www.freitag.de/autoren/nilnilnil/@@images/aa9cd0dc-d52c-4126-96b7-9e7afba1b328.jpeg" alt="Nil" title="Nil" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/nilnilnil" class="author ">Nil</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364640197362955">
+                  30.03.2013 |
+                  11:43</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>ja</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364640197362955">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364648575044754" name="1364648575044754"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/heinz-lambarth">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/heinz-lambarth" class="author ">Heinz Lambarth</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364648575044754">
+                  30.03.2013 |
+                  14:02</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Na Ja; leider ist die wirklichkeit selbst für die widerstandswilligen jedoch sehr viel ernüchternder: Längst sind wesentliche elemente unseres zukünftigen lebens schier unlösbar mit dem system, das überwunden werden muss, verknüpft - die renten sind via Riester-Rente dem finanzmarkt überantwortet; all unsere zukunft basierd auf der "werthaltigkeit" des geldes (weil persönliche verpflichtungen zwischen personen und generationen monetarisiert wurden); die lohnzwangsarbeit einstellen ist daher kein realistisches thema; daraus folgt der zwang zur mobilität und dieser wiederum zerstört alle hoffungen auf zeitsouveränität usw. usf.</p>
+<p>Selbst wenn einige sich (unter grossen qualen) aus diesen verstrickungen zu lösen vermögen, für die kritische masse bleibt dies eine illusion. Ergo, der punkt zur umkehr wurde verpasst (vielleicht wäre ja 1917 vieles noch möglich gewesen, jetzt jedoch ist auch diese chance längst passé). Die konsequenz ist das vorhersehbare ende, ohne alternative...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364648575044754">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364660835690213" name="1364660835690213"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/navigant">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/navigant" class="author ">navigant</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364660835690213">
+                  30.03.2013 |
+                  17:27</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dieses System zu überwinden, darin liegt der Schlüssel. Wenn man allerdings bei Kant "hängen bleibt" dürfte diese Erkenntnis wohl kaum reifen. Freidrich Engels: "Die Dialektik der Natur" und "Ludwig Feuerbach und der Ausgang der klassischen deutschen Philososphie" sind einige Werke der konsequente Weiterentwicklung der kantschen Lehre, vom dialektischen Materialismus hin zum historischen und dialektischen Materialismus.</p>
+<p>Dass die Chance von 1917 passé ist, das sehe ich nicht ganz so, den nach Kant macht die Natur keine Sprünge, sonder sie entwickelt sich kontinuierlich in eine Richtung, auch wenn es dabei scheinbare Rückwärtsentwicklungen gibt. Wir releben gerade eine solche Phase. Als Beispiel sei der Übergang von der feudalen Ordnung in Europa bis hin zur vollen Entfaltung der kapitalistischen Produktionsverhältnisse angeführt. Das hat mehrer Jahrhunderte gebraucht und zwischendurch gab es Phasen wo eine Rückkehr zu den alten Verhältnissen als sehr wahrscheinlich galt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364660835690213">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364661946055516" name="1364661946055516"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/altstadtlegende">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/altstadtlegende" class="author ">altstadtlegende</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364661946055516">
+                  30.03.2013 |
+                  17:45</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Irgenwie erinnert mich Ihre Replik auf Harald Welzers neus Buch an viele neunmalkluge junge Studenten/innen, die wenig erlebt haben, aber in Seminaren immer schön daher reden.</p>
+<p>Haben Sie denn überhaupt mal Harald Welzers ältere Werke gelesen?<br />Welzer, H. 2011. Mentale Infrastrukturen. Wie das Wachstum in die Welt und in die Seelen kam. Schriften zur Ökologie Bd. 14. Berlin: Heinrich-Böll-Stiftung.</p>
+<p>Leggewie, C., Welzer, H.: Das Ende der Welt, wie wir sie kannten. Klima, Zukunft und die Chancen der Demokratie. S. Fischer, Frankfurt 2009</p>
+<p>oder vielleicht mal:</p>
+<p>Jackson, Tim. 2009. Prosperity without growth? The transition to a sustainable economy. Sustainable Development Commission.</p>
+<p>oder schauen Die doch mal auf <a href="http://www.real-world-economics.de,">www.real-world-economics.de,</a> um sich mit dem ganzen Themenkomplex ein wenig differenzierter auseinander zu setzen, als Sie das hier in Ihrer Replik machen. Trotzdem Frohe Ostern!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364661946055516">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364673730661966" name="1364673730661966"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/chrislow">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/chrislow" class="author ">chrislow</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364673730661966">
+                  30.03.2013 |
+                  21:02</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>In "Ideologie" steckt nicht "ideal" drin. Sondern nur " Idee".  Die Endung "logie" scheint hier etwas Ideales zu suggerieren,  das nicht vorhanden ist.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364673730661966">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364674904383327" name="1364674904383327"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/chrislow">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/chrislow" class="author ">chrislow</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364674904383327">
+                  30.03.2013 |
+                  21:21</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Tja, .... ja!? Nein...!?</p>
+<p> </p>
+<p>Ist es wichtig Ideale zuhaben? Womöglich, dass ja.  Aber wie realistisch ist es,wenn man ein Ideal ha,  das diametral dem Mainstream entgegen steht? Der Mob ist leider eine große Masse und Massen haben eine physikalisch beschreibbare Dynamik.  Und die kann man in dieser virtuelle Situation auch etwa anwenden. und feststellen, dass die Masse für Revolution doch zu groß sei.</p>
+<p>---</p>
+<p>Was den Klimawandel angeht:</p>
+<p>Es ist mit höchster Wahrscheinlichkeitso, dass der MEnsch auf der Welt alle Recourcen aufbrauchen wird. Das heisst, dass die unerwünschten CO2 Ausstöße noch langenicht enden werden - geschweige denn auch nur verringert, was nur eine zeitliche Verzögerung des Ausstoßes zur Folge hätte, weil ja doch weiterhin fossile Energieträger genutzt/verbrannt werden (müssen).</p>
+<p> </p>
+<p>Das wir  in Europa langsam damit anfangen, uns neue Energieerzeugungsstrategien einfallen zu lassen, ist ein Rennen gegen windmühlen. Aber immerhin.</p>
+<p>Ich plädiere dazu, es natürlich weiterhin zu machen, aber ich keiner Illusionen hinzugeben, das uns das jemand nachmacht und  das auch noch idealerweise die intendierten  100 % erfüllen würde.  So weit wird es nie kommen - außer, es gibt irgendwann tatsächlich keine Kohle oder Öl mehr.Und dann istes keine "Wende" aus besserem Wissen, sondern eine aus Notwendigkeit. Und die ist dann 100 %ig. Was auch sonst!?</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364674904383327">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364690717602567" name="1364690717602567"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364690717602567">
+                  31.03.2013 |
+                  01:45</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364661946055516">
+                    <span data-in_reply_to="1364661946055516" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>AL, ihre Replik erinnert mich an das arrogante Gehabe der K-Gruppen und der SDS-Diskussionen: Lies erst einmal dieses, dann jenes, wurde den "Neuhinzugestossenen" an den Kopf geworfen. Dann darfst Du mitreden, vielleicht auch ein erstes Flugblatt entwerfen, nachdem Du Jahre beim Verteilen zugebracht hast. Meine Güte, gehen wir Deutschen immer noch so miteinander um? Ist Jugend ein Nachteil? Ab wann darf mitgeredet werden? Nach dem Studium von wieviel Zentnern Lektüre? Ab wann ist man Autorität? Jede Auseinandersetzung mit dem Thema Widerstand ist wichtig, alle Generationen müssen einbezogen werden und ihre Sicht der Dinge beitragen. Widerstand reift aus Notsituationen, Empathie mit denjenigen, die von autoritärer Herrschaft ausgegrenzt wurden, und/oder reift aus Erkenntnis gepaart mit Erfahrung. Und: Widerstand ist historisch mehrheitlich durch die Jugend und seit Beginn der Frauenbewegungen zunehmend von Frauen geleistet. Ältere Semester sind meist "gross" im Wort aber "klein" in der Tat, obwohl sie doch so unendlich viele Schwarten verschlungen haben, die Erkenntnis mit sich bringen sollten, bis der Kopf platzt. Warum sind diese "Besserwisser" nie, bzw. fast nie, an der Spitze sozialer Bewegungen zu finden?</p>
+<p>Warum leiern die ex-68er mit ihren zentnerschweren und erkenntnisvermittelnden Studien und Wälzern auf dem Buckel keine Widerstandsbewegung gegen die Parteien-Diktatur und den menschenverachtenden Kapitalismus an? Fürchten sie um ihre Knete, die sie in jahrzentelangem Konformismus und Strampelei in den Hierarchien des Establisments jetzt am Lebensabend geniessen wollen, bei gutem Wein, Käse, Trauben und klugen Salongesprächen am Kamin oder in der Provence oder in einem Schnieke-Lokal in Berlin? </p>
+<p>Ich habe in Übersee leider nicht den Luxus einer Welzer-Lektüre. Aber Widerstand muss her! Und zwar schnell. Und bevor die Katastrophe losgeht. Endlich einmal vor der Katastrophe, die in Südeuropa, in der "Dritten Welt" sowieso, am Beginn steht. Jedes zukünftige Parlament unter Ausschluss der Zivilgesellschaft und ihrer Einmischung in die öffentlichen Angelegenheiten ist ein Parlament zuviel. Dagegen wäre Widerstand in grossem Stil angesagt. Daneben ist der Widerstand im Kleinen ebenso wichtig und modellhaft für die Zukunft.</p>
+<p>LG, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364690717602567">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364780388003650" name="1364780388003650"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364780388003650">
+                  01.04.2013 |
+                  03:39</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><strong>"</strong>Franz Viohl fragte sich nach der Lektüre von Harald Welzers Kapitalismuskritik, ob Karl Marx heute auch Öko-Ratgeber schreiben würde" (siehe oben).</p>
+<p>Hier zeigt er sich hier enttäuscht, dass Harald Welzer gar nicht Karl Marx ist. </p>
+<p> </p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364780388003650">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364781090394372" name="1364781090394372"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364781090394372">
+                  01.04.2013 |
+                  03:51</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Erfreulich wiederum - die SPD entsendet Vorwärts-Autoren in die Freitag-Community:</p>
+<p><a href="http://www.vorwaerts.de/67876/franz-viohl.html">http://www.vorwaerts.de/67876/franz-viohl.html</a> </p>
+<p>Herr Viohl, wie bewerten Sie den aktuellen Beitrag Christoph Butterwegges zum SPD-Kanzlerkandidaten Steinbrück?</p>
+<p>Darf ich hoffen, dass Sie sich an Diskussionen in diesem Forum beteiligen werden?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364781090394372">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364809649828938" name="1364809649828938"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/hadie">
+                
+                  <img src="http://www.freitag.de/autoren/hadie/@@images/15f38b93-9671-4661-9389-97263ef62819.jpeg" alt="hadie" title="hadie" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/hadie" class="author ">hadie</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364809649828938">
+                  01.04.2013 |
+                  11:47</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364781090394372">
+                    <span data-in_reply_to="1364781090394372" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das ist ja praktisch und aufschlussreich, dass man dort gleich den ganzen "Vorwärts" lesen kann:</p>
+<p><img src="http://666kb.com/i/ccumimwmv2gjk1gdj.jpg" alt="" title="hosted by 666kb.com" /></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364809649828938">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364836560562699" name="1364836560562699"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/claudia-kaessner">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/claudia-kaessner" class="author ">Claudia Käßner</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364836560562699">
+                  01.04.2013 |
+                  19:16</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wenn ein Sozialpsychologe als eine der wichtigsten Stimmen in der deutschen Nachhaltigkeitsdebatte ein Buch schreibt mit dem Titel "Selber Denken", darin meint, das verfügbare Wissen sei unüberschaubar geworden und den Leser damit tröstet, er stoße eben an den kognitiven Teil seiner Orientierung, schließlich eine zukunftsfähige Kultur des Lebens und der Wirtschaft nicht auf wissenschaftlicher Erkenntnis sondern unterschiedlichen Laboren der Zivilgesellschaft zuschreibt, um dann 3 bis 5 Prozent einer avantgardistischen Elite die Deutungshoheit einer neuen Geschichte zuzuweisen, ist in der Tat der Widerstand der restlichen 97 bis 95 Prozent der Bevölkerung gefragt, sich nicht als Versuchskaninchen mißbrauchen zu lassen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364836560562699">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364844246825075" name="1364844246825075"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/alasdair">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/alasdair" class="author ">Alasdair</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364844246825075">
+                  01.04.2013 |
+                  21:24</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364690717602567">
+                    <span data-in_reply_to="1364690717602567" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Absolut richtig dieses autoritäre denken führt unweigerlich zur Erstickung revolutionärer Gedanken vieleicht sollten sich Generationen Ebenbürtig gegenüberstehen um die fragen unserer zeit in angrif zu nehmen. Revolutionäre ideen kommen auch oder vermehrt Menschen die sich nicht Asimiliert haben in diese Gesellschaft.</p>
+<p>Ihr kommentar hat mir da sehr gefallen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364844246825075">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364849571405292" name="1364849571405292"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/costa-esmeralda">
+                
+                  <img src="http://www.freitag.de/autoren/costa-esmeralda/@@images/889b8adb-143c-4819-ac1f-544038212925.jpeg" alt="Costa Esmeralda" title="Costa Esmeralda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/costa-esmeralda" class="author ">Costa Esmeralda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364849571405292">
+                  01.04.2013 |
+                  22:52</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364844246825075">
+                    <span data-in_reply_to="1364844246825075" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dear Alasdair, greetings from Panamá to Scotland!</p>
+<p>Was macht der schottische Widerstand zugunsten grösserer Autonomie? Is there a special link for independent information?</p>
+<p>Grüsse, CE</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364849571405292">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364921705614469" name="1364921705614469"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/christian-g">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/christian-g" class="author ">Christian G.</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364921705614469">
+                  02.04.2013 |
+                  18:55</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Selberdenken. Das ist der Punkt, an dem ich mich im Gesellschaftlichen mit am meisten reibe. Viel zu viele Menschen haben ihr Gehirn brach liegen, quer durch alle Schichten. Ich kann es mir nur damit erklären, dass von Kleinauf Mitdenken nicht erwünscht war. Militär ist das beste Beispiel: Nicht hinterfragen, sondern Stillgestanden! Befehle ausführen.</p>
+<p>Die gute Nachricht: Die jüngeren Generationen scheinen in einem freierem Umfeld aufzuwachsen und sind entsprechend kritischer. Meines Erachtens geht es auch nicht darum, Massen zu mobilisieren. Viel entscheidener ist, was der Einzelne in seinem Leben, angepasst an die augenblickliche Situation, verändern kann.</p>
+<p>Der kleinste gemeinsame Nenner: Alles ist erlaubt, solange niemand anderes Schaden nimmt. Unser Leben hätte nahezu paradiesische Zustände, wenn sich <em>jeder</em> daran halten würde.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364921705614469">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364984048410247" name="1364984048410247"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/martin-franz">
+                
+                  <img src="http://www.freitag.de/autoren/martin-franz/@@images/c8f02a42-5d58-401b-9312-791479374255.jpeg" alt="Martin Franz" title="Martin Franz" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/martin-franz" class="author ">Martin Franz</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364984048410247">
+                  03.04.2013 |
+                  12:14</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364648575044754">
+                    <span data-in_reply_to="1364648575044754" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>...ein äußerst zutreffender Kommentar....insbesondere der letzte....auslaufende Satz.....hierzu habe ich in der Community aus eigener, zwingender, "dienstlicher" Erfahrung als Polizeibeamter dieses "Systems".....die Artikel "Diktatur der Angst und Einschüchterung"..... "Gesellschaftliche Selbst-HINRICHTUNG!!!"....sowie "Würde, Gesicht und Zukunft, verloren???!!!?" verfasst.......</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364984048410247">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364986210938198" name="1364986210938198"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/peter-nowak">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/peter-nowak" class="author group-authors">Peter Nowak</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364986210938198">
+                  03.04.2013 |
+                  12:50</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich habe ein Interview von Harald Welzer in der Taz gelesen und hatte dort schon den Eindruck, der sich mir hier in der Debatte bestätigt. Welzer mag einige gute Beobachtungen über den aktuellen Spätkapitalismus liefern, doch eine nichtkapitalisitsche Gesellschaft steht außerhalb seines Horizonts. </p>
+<p>Leider ist auch in dem offenen Brief genau diese Leerstelle nicht benannt, das Projekt einer auf Räten basierenden weltweit geplanten Ökonomie, die nicht nach dem Profit, sondern den menschlichen Bedürfnissen ausgeht.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364986210938198">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364989842135495" name="1364989842135495"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/nilnilnil">
+                
+                  <img src="http://www.freitag.de/autoren/nilnilnil/@@images/aa9cd0dc-d52c-4126-96b7-9e7afba1b328.jpeg" alt="Nil" title="Nil" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/nilnilnil" class="author ">Nil</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364989842135495">
+                  03.04.2013 |
+                  13:50</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vorschläge wie eine integrale Wirtschaft aussehen könnte finden Sie hier:</p>
+<p><a href="http://www.integrale-politik.ch/images/stories/documents/ip-informieren/kurzfassungen/kurzfassung-integrale-wirtschaft.pdf">http://www.integrale-politik.ch/images/stories/documents/ip-informieren/kurzfassungen/kurzfassung-integrale-wirtschaft.pdf</a></p>
+<p><a href="http://www.integrale-politik.ch/"></a></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer#1364989842135495">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/franz-viohl/lieber-harald-welzer/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/franz-viohl">Franz Viohl</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/franz-viohl">
+          <img src="http://www.freitag.de/portal_url/++theme++freitag.theme/images/avatar_tile.png" width="50" height="50" alt="Avatar" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      <div class="location">
+        Ort:
+        <span class="detail">Berlin</span>
+      </div>
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">28.02.2013</span>
+      </div>
+      <div class="last_login">
+        Letzter Login:
+        <span class="detail">26.03.2013</span>
+      </div>
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/franz-viohl">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/franz-viohl">4</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/franz-viohl/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/franz-viohl/@@kommentare">1</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/franz-viohl/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/franz-viohl/@@leser">2</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/franz-viohl/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Franz Viohl</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/franz-viohl/wir-bleiben">
+              <span class="catchword">Asylprotest</span>
+              Wir bleiben</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/franz-viohl/wir-bleiben">
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/franz-viohl/erst-die-dann-wir">
+              <span class="catchword">Agenda 2010</span>
+              Erst die, dann wir</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/franz-viohl/erst-die-dann-wir">
+              <span class="comment-count" title=" 8 mal kommentiert">8</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/franz-viohl/weggelaechelt">
+              <span class="catchword">Armut</span>
+              Weggelächelt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/franz-viohl/weggelaechelt">
+              <span class="comment-count" title=" 24 mal kommentiert">24</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1679&amp;ord=1364997378" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1679&amp;ord=1364997378" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1679&amp;ord=1364997378" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="catchword">Umbrüche </span>
+              Die Zukunft der Proteste </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="author group-authors">Florian Schmid</span>
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett">
+              <span class="catchword">Tatort</span>
+              Wir wären auch lieber im Bett</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett">
+              <span class="author group-authors">Matthias Dell</span>
+              <span class="comment-count" title=" 22 mal kommentiert">22</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="catchword">Im Gespräch</span>
+              Mutter, Täter, Kamerad </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="author group-authors">Matthias Dell</span>
+              <span class="comment-count" title=" 8 mal kommentiert">8</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1680&amp;ord=1364997378" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1680&amp;ord=1364997378" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1680&amp;ord=1364997378" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Kultur";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Kultur",
+    img: "http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer/@@images/dad814f2-c82b-41e4-9e21-cb4d38abb3d8.jpeg",
+    objectid: "0dcfcf3303be403bb932e6c28c7e44ff",
+    title: "Lieber Harald Welzer!  ",
+    url: "http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer",
+    text: "Der Sozialpsychologe Harald Welzer ruft in seinem neuen Buch „Selbst denken“ zum Widerstand auf und wirbt für eine Strategie kleiner Schritte. Eine Antwort",
+    created_at: "1364630400"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

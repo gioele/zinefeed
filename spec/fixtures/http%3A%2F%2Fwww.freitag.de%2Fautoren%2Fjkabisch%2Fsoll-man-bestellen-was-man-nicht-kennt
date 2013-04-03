@@ -1,0 +1,1239 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:57:07 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:52:26 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 68853
+Accept-Ranges: bytes
+X-Varnish: 557701762 557693538
+Via: 1.1 varnish
+X-Varnish-Age: 281
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Der Koch ǀ Soll man bestellen, was man nicht kennt? — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Unbekanntes auf der Speisekarte zieht unseren Koch magisch an – sehr zum Vergnügen seiner Mitmenschen" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1734&amp;ord=1364997146" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1734&amp;ord=1364997146" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1734&amp;ord=1364997146" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1739&amp;ord=1364997146" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1739&amp;ord=1364997146" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1739&amp;ord=1364997146" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1735&amp;ord=1364997146" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Alltag</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=koch">koch</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=küche">küche</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=fisch">fisch</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=essig">essig</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=brathering">brathering</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=escabeche">escabeche</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p>Haben Sie eine Frage an den Koch? Dann stellen Sie sie <a href="http://www.freitag.de/alltag/kueche-und-garten">auf freitag.de/koch</a></p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Jörn Kabisch</span>
+        <div class="additional-info">
+          <span class="date">30.03.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 14 mal kommentiert">14</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Soll man bestellen, was man nicht kennt?</h1>
+
+        <p class="description">
+          <span class="catchword">Der Koch</span>
+          Unbekanntes auf der Speisekarte zieht unseren Koch magisch an – sehr zum Vergnügen seiner Mitmenschen
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt/@@images/a6f98bf7-193d-4223-90a0-d6c30f560a6f.jpeg" alt="Soll man bestellen, was man nicht kennt?" title="Soll man bestellen, was man nicht kennt?" height="282" width="445" /><p class="credit">Illustration: Otto</p>
+          </div>
+        
+
+        <div class="text"><p>"Ich weiß schon, was Du nimmst", sagt meine Liebste neulich im Restaurant, wir haben eben die Speisekarte in die Hände genommen. "Glaubst Du? Ich hab noch gar nicht durchgeschaut." Sagt sie: "Na, dann lies mal."<br /><br />Nach so einer Ansage ist es natürlich schwer, sich richtig zu entscheiden. Bin ich so einfach auszurechnen? Soll ich nehmen, was ich nie bestelle, mit den Worten: "Doch, heute hatte ich einfach mal Lust auf einen kleinen Salat mit Putenstreifen"? Nein, das wäre zu offensichtlich. Und ein viel zu kleiner Triumph. Auch der Risotto fällt deswegen aus, Risotto esse ich außer Haus ganz selten. Das Ossobuco wäre eigentlich keine schlechte Idee, aber das gehört bekanntermaßen zu meinen Favoriten. Kommt also auch nicht in die engere Wahl. Das gilt auch für die Lammsteaks. Habe ich die nicht schon beim letzten Mal hier gegessen? Das sind so die Gedanken, mit denen ich mich durch die Speisekarte hangele, immer unentschiedener, immer ratloser. Ich bin schon kurz davor, mir die Haare zu raufen. Dann fällt mir ein Gericht ins Auge. Und ich weiß, sie weiß es. Soll sie nur Recht bekommen, dieses Experiment ist es mir wert.</p>
+<h2>Mediterrane Antwort auf den Brathering</h2>
+<p>Als ich hochblicke, sagt sie lächelnd: "Das war leicht." Ich frage "Warum?" "Weil ich keinen Schimmer habe, was das sein könnte", antwortet sie, "Und ich glaube, Du auch nicht. Also." Und dann winkt sie der Kellnerin.<br /><br />Wie recht sie hat. In dem Punkt bin ich wirklich leicht auszurechnen. Ich greife gern zu Unbekanntem. Wenn Kalbsbries, Puntarelle oder Salat von rohen Artischocken auf der Karte stehen, bin ich dabei. Heute ist es "Schwertfisch-Escabeche". Ich habe keine Ahnung, was das sein könnte, und die Kellnerin weiß es auch nicht: "Das ist ganz neu. Sie sind der Erste, der das bestellt", sagt sie. Was nicht unbedingt für das Lokal spricht, aber für meine Wahl. Nun bin ich gespannt. "Können wir die Vorspeise überspringen", frage ich. Wir können. Meine Liebste kennt mich ja …<br /><br />Platzen Sie nun auch fast vor Neugier? Das war der Sinn dieser Einleitung. Also lasse ich schnell mal die Luft aus dem Ballon, und zwar karacho: Bei Escabeche handelt es sich um so etwas Ähnliches wie den guten alten deutschen Brathering – pfuuuuhh – und auch wieder nicht. Denn ehrlich gesagt war ich ziemlich  erstaunt, dass man mit so einer Zubereitungsweise so etwas Schmackhaftes auf den Teller bringen kann.<br /><br />Bisher dachte ich, Brathering sei ein Singularität der deutschen Küche. Und das ganz zurecht, so sehr wie es mir oft den Mund zusammenzieht, wenn ich das aufgetischt bekomme habe. Aber die Singularität bezieht sich offenbar nur auf den Essigverbrauch. Inzwischen weiß ich, einen Fisch aus der Pfanne und in eine Essig-Marinade zu heben, hat nicht nur an der Küste Deutschlands Tradition, sondern auch am Mittelmeer und in der Karibik. In Italien sagt man auch "Scapece" dazu, in Griechenland "Savoro". Es handelt sich natürlich ursprünglich um eine Methode, um den Fisch haltbar zu machen, und beim Hering sollen sich dabei auch noch die Gräten auflösen, was den eifrigen Gebrauch von Essig erklärt, aber nicht entschuldigt.</p>
+<h2>Die Marinade wird mitgelöffelt</h2>
+<p>Die Escabeche-Variante, die ich gegessen habe und seitdem auch oft gerne koche, erinnert nur noch leicht an die Konservierungsmethode. Man braucht dafür eine Marinade, die gerade so sauer ist, dass man sie auch gerne so löffeln möchte. Dafür koche ich Fischfond, Weißwein, Weißweinessig, Lorbeer, Piment und angebratene Zwiebeln auf, lasse die Marinade wieder etwas abkühlen und lege darin Fischfilets für etwa 45 Minuten ein. Dann heize ich den Ofen auf kleinster Stufe (50 Grad) vor und stelle eine Pfanne bei größter Hitze auf die Herdplatte. Die Filets werden abgetupft, leicht bemehlt und in etwas Öl zwei Minuten auf der Hautseite braun angebraten. Dann nehme ich die Pfanne vom Herd und lagere die Filets auf Küchenpapier. Ich gieße nun etwas Marinade in die Pfanne, warte, bis sie nicht mehr kocht, lege den Fisch mit der Hautseite nach oben hinein und gieße weiter Marinade nach, bis der Fisch darin schwimmt, die Hautseite aber trocken bleibt. Nun kommt die Pfanne in den Ofen.<br /><br />Klingt kompliziert, erspart einem nun in der Küche aber viel Stress, denn der Fisch kann nun im Ofen bleiben, so lange man will, mindestens jedoch zwanzig Minuten. Ich habe nun viel Zeit, um in Ruhe ein Kartoffel-Knoblauch-Püree zuzubereiten und  Fenchel-Schnitze sowie Zucchini anzudünsten. Am Ende werden die Fischfilets in einem Suppenteller auf das Püree gesetzt, das Gemüse drum herum dekoriert. Am Schluss gieße ich noch etwas von der Marinade in den Teller.<br /><br />Für das Rezept eignen sich nicht nur Meeresfische wie Wolfsbarsch oder Makrelen, sondern auch Flussbewohner. Besonders gern bereite ich so Felchen beziehungsweise Renke zu, wenn ich sie bekomme. Aber es funktioniert auch mit Forelle und Saibling. Die Säure spielt dem erdigen Geschmack dieser Fische etwas entgegen.</p>
+<p>Noch einmal zurück zum Restaurant: Das Gerichte-Raten haben wir inzwischen schon einige Male wiederholt. Ich verliere sehr oft. Ich esse einfach zu gerne Neues.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (14)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364638275393755" name="1364638275393755"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/dame-von-welt">
+                
+                  <img src="http://www.freitag.de/autoren/dame-von-welt/@@images/1d3d379d-950a-4f59-a560-2d9f87d02734.jpeg" alt="dame.von.welt" title="dame.von.welt" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/dame-von-welt" class="author ">dame.von.welt</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364638275393755">
+                  30.03.2013 |
+                  11:11</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das erste Mal gegessen habe ich escabeschierte Fischchen nur wegen des schönen Worts, nach einer unendlichen Zugreise in Portugal. Erwartet hatte ich eigentlich ein Trostessen in milder weißer Sauce - so klang S-K-Bäääsche für meine Ohren. </p>
+<p>Zur Ehrenrettung des Bratherings: man muß den nicht eingekerkert in Glas oder Dose kaufen, sondern kann auch den bestens selbermachen. Hering hat genug Fett und Eigengeschmack, daß sich Experimente mit der Essigsorte und dem Rest der Escabeche förmlich aufdrängen, das gilt auch für Makrele. Zu beiden Fischen finde ich auch Rotweinessig immens lecker, Schnittlauch wird so zu einem völlig neuen Kraut und trockener kühler Lambrusco dazu zur Offenbarung. Eine Leidenschaft habe ich auch für Sherry und Sherryessig. </p>
+<p>Etwas Schönes an säuerlichem Fisch ist auch: der schmeckt heiß, lauwarm und kalt, was zu zusätzlicher Entspannung in der Küche und zum Variantenreichtum an Gerichten beiträgt.</p>
+<p>Escabeche-Ähnliches habe ich in Ostafrika mit Zitrone (und reichlich Chili) statt Essig gegessen und vermute fast, Marinier-Brat-Varianten gibt's an jeder Küste. Vielen Dank für die Idee mit säuerlichem Süßwasserfisch - auf die wäre ich abseits von blauem Fisch (bäh!) nicht gekommen, wird ausprobiert. </p>
+<p>Escabeche-Anwendung beschränkt sich nicht auf Fisch, in Spanien wird auch Huhn, Schwein, Karnickel, Kuh en Escabeche mariniert. Vielleicht sind auch die asiatischen Süß-Sauers oder die italienischen Agrodolces am Ende Escabeches, ebenso x Gemüsevorspeisen, wie z.B. die Zwiebelchen in Balsamico. Ich möchte fast wetten, daß die südeuropäischen Varianten eigentlich arabische Beutekameraden sind - weiß das jemand?</p>
+<p>Eine Frage habe ich zu Ihrer Fisch-Marinade: gar kein Öl? Ich habe immer (unhinterfragt aus dem Rezept einer spanischen Matriarchin übernommen) einen guten Schluck Olivenöl mitaufgekocht, was aber dem Marinieren vielleicht sogar im Wege steht? </p>
+<p> </p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364638275393755">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364655853806592" name="1364655853806592"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mife">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mife" class="author ">mife</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364655853806592">
+                  30.03.2013 |
+                  16:04</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Gerade die Kochkunst ist ein hervorragendes Beispiel für den unreflektierten Einfluß der überkommenen Herschaftsverhältnisse auf unser Selbstverständnis.</p>
+<p>Ist es nicht wunderbar entlarvend wie manche Linke Gerichte des politisch zutiefst verhassten französischen Absolutismus goutieren, die nur aufgrund wirtschaftlicher Ausbeutung möglich waren?</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364655853806592">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364658800655080" name="1364658800655080"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/georg-von-grote">
+                
+                  <img src="http://www.freitag.de/autoren/georg-von-grote/@@images/891e8599-64dd-4dd5-8ba7-e3f360f62388.jpeg" alt="Georg von Grote" title="Georg von Grote" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/georg-von-grote" class="author ">Georg von Grote</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364658800655080">
+                  30.03.2013 |
+                  16:53</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364655853806592">
+                    <span data-in_reply_to="1364655853806592" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Na, dann klären Sie uns mal auf, was man als "Linker" essen darf und nicht essen darf, oder wahrscheinlich auch muss, um noch als ein solcher akzeptiert zu werden :-)</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364658800655080">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364659549895254" name="1364659549895254"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ed2murrow">
+                
+                  <img src="http://www.freitag.de/autoren/ed2murrow/@@images/dee710d1-ae8a-40ba-b8cc-33f10b1d5759.jpeg" alt="ed2murrow" title="ed2murrow" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ed2murrow" class="author ">ed2murrow</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364659549895254">
+                  30.03.2013 |
+                  17:05</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Lieber Jörn Kabisch,</p>
+<p>nicht um ihre Zähne nach heimatlichen Gefielden in die Länge zu ziehen, aber trotzdem: Noch viel besser eignen sich Schrazenfilets, also diese an sich von den Fischern verschmähten kleinen Barsche, die sich regelmäßig unter Stegen in Seen in Horden tummeln. Eine richtige Fieselei, die sauber zu machen, weil nicht nur klein, sondern mit gemein viel Gräten. Aber ein festes Fleisch, aromatisch weil vom Beute- und nicht vom meist schlammwühlenden Friedfisch. Berufsfischer hier haben das mittlerweile entdeckt und verkaufen die Filets auch tiefgefroren als Aufrundung in der Schonzeit der sog. Edelfische.</p>
+<p>Best e2m</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364659549895254">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364668909850420" name="1364668909850420"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/dame-von-welt">
+                
+                  <img src="http://www.freitag.de/autoren/dame-von-welt/@@images/1d3d379d-950a-4f59-a560-2d9f87d02734.jpeg" alt="dame.von.welt" title="dame.von.welt" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/dame-von-welt" class="author ">dame.von.welt</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364668909850420">
+                  30.03.2013 |
+                  19:41</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364659549895254">
+                    <span data-in_reply_to="1364659549895254" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Und ich dachte immer, <em>Schrazen</em> seien bairische Kinder...;-)...</p>
+<p>Das käme der Aussage einer Kinder (eigentlich: Eltern) verabscheuenden Freundin gleich: <em>Kinder? Mag ich sehr. Besonders mit viel Zwiebel und Lorbeer in Rotwein mariniert.</em> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364668909850420">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364670333941968" name="1364670333941968"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ed2murrow">
+                
+                  <img src="http://www.freitag.de/autoren/ed2murrow/@@images/dee710d1-ae8a-40ba-b8cc-33f10b1d5759.jpeg" alt="ed2murrow" title="ed2murrow" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ed2murrow" class="author ">ed2murrow</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364670333941968">
+                  30.03.2013 |
+                  20:05</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364668909850420">
+                    <span data-in_reply_to="1364668909850420" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>k.A. warum die gleich heißen; vllt. weil die Fischlis auch so klein und widerborstig sind ... oder die Bayern einfach maulfaul - Schraz steht auch für Waldschrat ;)</p>
+<p><img src="http://bilder.trax.de/b/58/41/18/46/id_58411846/380/tid_da/ein-barsch-ist-ein-schoener-fang-.jpg" alt="" /></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364670333941968">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364721000307472" name="1364721000307472"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/jkabisch">
+                
+                  <img src="http://www.freitag.de/autoren/jkabisch/@@images/a9d77318-f18e-494e-b000-f7f88523f55d.jpeg" alt="Jörn Kabisch" title="Jörn Kabisch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/jkabisch" class="author group-authors">Jörn Kabisch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364721000307472">
+                  31.03.2013 |
+                  11:10</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364638275393755">
+                    <span data-in_reply_to="1364638275393755" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Gute Frage, liebe Dame, auf die ich leider keine abschließende Antwort habe. Die Marinade für meine Escabeche enthält durch den Fischfond etwas Fett. Aber ich vermeide es eigentlich, Öl in Marinaden zu geben. Ich bilde mir ein, das verhindert, dass die Aromen in Fleisch/Fisch gelangen. Nudeln, die in Salzwasser ohne Öl gekocht wurden, nehmen auch besser den Sugo auf. Das ist meine Analogie.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364721000307472">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364774424413080" name="1364774424413080"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364774424413080">
+                  01.04.2013 |
+                  02:00</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364721000307472">
+                    <span data-in_reply_to="1364721000307472" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ist es nicht so, dass ein Teil des fischeigenen Fettes und des den Fisch umhüllenden Bratfetts sich binnen Minuten mit der Marinade vermählen?</p>
+<p>Wenig spricht dagegen, vor dem Anrichten diese Köstlichkeit mit ein paar Spritzern eines Öls nach Wahl zu verfeinern. Ich hätte Oliven- oder (leider teures) Haselnussöl zu bieten.</p>
+<p>Tipp für ein prima Haselnussöl-Fake: 2 Handvoll Haselnusskerne in einer hohen Pfanne kurz und trocken anrösten, ohne dass sie Farbe annehmen. Es muss nach den Röstaromen der Nüsse duften.  1 Liter Sonnenblumen- oder Rapsöl dazu geben, leicht erwärmen. Dann mit den Nüssen in Flaschen füllen, diese verschließen und zwei Wochen warten. (Zu beachten: Öl scheut das Tageslicht.)</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364774424413080">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364776361396965" name="1364776361396965"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364776361396965">
+                  01.04.2013 |
+                  02:32</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364721000307472">
+                    <span data-in_reply_to="1364721000307472" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Nachtrag:</p>
+<p><em>"Nudeln, die in Salzwasser ohne Öl gekocht wurden, nehmen auch besser den Sugo auf. Das ist meine Analogie."</em></p>
+<p>Die Fische für die Escabeche wurden allerdings in Öl gebraten und weisen damit einen feinen Fettfilm auf wie Spaghetti, deren Kochwasser etwas Öl beigefügt wurde.</p>
+<p>Ich vermute, dass die Marinade durchaus von einer kräftigeren Säure durchdrungen sein sollte als in einem Ihrer Kommentare weiter oben beschrieben. Also mehr Säure, damit die Ölbarriere von auf der Haut gebratener Fische überwunden werden kann. Dass also die Marinade eins wird mit dem Fett im und am Fisch.</p>
+<p>Im Prinzip wie bei einer Vinaigrette, die nach einem Emulgator verlangt. Ich rate zu ein wenig Senf oder hartgekochtem Eigelb in der gut verquirlten Marinade, bevor die gebratenen Fische dieses letzte Aromabad genießen dürfen.</p>
+<p>Danke für Ihre Anregungen und Betrachtungen, lieber Jörn Kabisch, auch für den Hinweis auf die Escabeche.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364776361396965">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364805828200714" name="1364805828200714"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/jkabisch">
+                
+                  <img src="http://www.freitag.de/autoren/jkabisch/@@images/a9d77318-f18e-494e-b000-f7f88523f55d.jpeg" alt="Jörn Kabisch" title="Jörn Kabisch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/jkabisch" class="author group-authors">Jörn Kabisch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364805828200714">
+                  01.04.2013 |
+                  10:43</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364776361396965">
+                    <span data-in_reply_to="1364776361396965" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dame, hören Sie auf weinsztein.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364805828200714">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364834648650488" name="1364834648650488"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/dame-von-welt">
+                
+                  <img src="http://www.freitag.de/autoren/dame-von-welt/@@images/1d3d379d-950a-4f59-a560-2d9f87d02734.jpeg" alt="dame.von.welt" title="dame.von.welt" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/dame-von-welt" class="author ">dame.von.welt</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364834648650488">
+                  01.04.2013 |
+                  18:44</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364805828200714">
+                    <span data-in_reply_to="1364805828200714" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich hör auf alle...;-)...</p>
+<p>Auf die Matriarchin, die den Fisch für mehrere Stunden einlegt, auf Sie, wenn ich das mal für nur 45 Minuten tun will, auf ed2m, um in vielerlei Hinsicht nicht dumm zu sterben, auf den weinsztein und seine schlüssige Erklärung und auf mich, die ich Olivenöl in der Escabeche lecker finde.</p>
+<p>Wie gut, daß Kochen keine SO exakte Wissenschaft ist!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364834648650488">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364864719095345" name="1364864719095345"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364864719095345">
+                  02.04.2013 |
+                  03:05</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364834648650488">
+                    <span data-in_reply_to="1364834648650488" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>So ist es recht, Dame. Olivenöl bereichert so viele Speisen.</p>
+<p>Vielleicht werde ich die Marinade meiner ersten Escabeche um einige grüne Oliven verfeinern.</p>
+<p>Nicht die Kocherei aber die Wissenschaft von der Ernährung dürfte zur Zeit eine der dynamischsten sein. Vor fünf Jahren galten Eier noch als gefährliche Cholesteringeschosse, heute sollen sie den Cholesterinhaushalt harmonisieren helfen und vier Stück am Tag seien kein Problem.</p>
+<p>Nachösterliche Grüße!</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364864719095345">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364921957502370" name="1364921957502370"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rene-artois">
+                
+                  <img src="http://www.freitag.de/autoren/rene-artois/@@images/6038046b-a7c9-4862-85e8-c3885aec2944.jpeg" alt="Rene Artois" title="Rene Artois" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rene-artois" class="author ">Rene Artois</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364921957502370">
+                  02.04.2013 |
+                  18:59</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364864719095345">
+                    <span data-in_reply_to="1364864719095345" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ha! Eier! Das Stichwort. Ich habe noch drei 12er-Päckchen Wachteleier im Regal. Morgen gibt's Echten Falschen Hasen! Danke, Backpülverchen!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364921957502370">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364943846896312" name="1364943846896312"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364943846896312">
+                  03.04.2013 |
+                  01:04</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364921957502370">
+                    <span data-in_reply_to="1364921957502370" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Zwölf Wachteleier pro Tag dürften auch kein Problem sein. Probieren Sie's aus und berichten hier von Ihren Erfahrungen!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt#1364943846896312">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/jkabisch">Jörn Kabisch</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/jkabisch">
+          <img src="http://www.freitag.de/autoren/jkabisch/@@images/9509dd69-1ed5-43ed-bf98-b00a0dd465d6.jpeg" alt="Jörn Kabisch" title="Jörn Kabisch" height="65" width="65" /></a>
+        
+      </div>
+      <div class="box">
+        Küchenjunge
+      </div>
+    </header><div class="details">
+      <div class="location">
+        Ort:
+        <span class="detail">Berlin</span>
+      </div>
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">21.01.2009</span>
+      </div>
+      <div class="last_login">
+        Letzter Login:
+        <span class="detail">02.04.2013</span>
+      </div>
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/jkabisch">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/jkabisch">189</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/jkabisch/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/jkabisch/@@kommentare">301</a>
+      </div>
+      <div class="homepage">
+        Homepage:
+          <a class="detail" href="http://tabldoot.de">http://tabldoot.de</a>
+      </div>
+      <div class="connections-writers">
+        <a title="Schreiber" href="http://www.freitag.de/autoren/jkabisch/@@schreiber">Schreiber</a>:
+        <a class="detail" title="Schreiber" href="http://www.freitag.de/autoren/jkabisch/@@schreiber">33</a>
+      </div>
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/jkabisch/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/jkabisch/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/jkabisch/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Jörn Kabisch</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/jkabisch/welche-zutaten-sollte-man-horten">
+              <span class="catchword">Der Koch</span>
+              Welche Zutaten sollte man horten?</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/jkabisch/welche-zutaten-sollte-man-horten">
+              <span class="comment-count" title=" 10 mal kommentiert">10</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/jkabisch/wann-hilft-ein-kaiserschmarrn">
+              <span class="catchword">Der Koch</span>
+              Wann hilft ein Kaiserschmarrn?</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/jkabisch/wann-hilft-ein-kaiserschmarrn">
+              <span class="comment-count" title=" 10 mal kommentiert">10</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/jkabisch/was-macht-man-mit-mangold">
+              <span class="catchword">Der Koch</span>
+              Was macht man mit Mangold?</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/jkabisch/was-macht-man-mit-mangold">
+              <span class="comment-count" title=" 14 mal kommentiert">14</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1737&amp;ord=1364997146" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1737&amp;ord=1364997146" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1737&amp;ord=1364997146" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="catchword">Alltagskommentar</span>
+              Sunderlands Eigentor</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="author group-syndication">Matthew Goodwin</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="catchword">Promenadenkunst</span>
+              Auf der Spur der Steine </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="author group-authors">Kathrin Schrader</span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="catchword">Frankreich</span>
+              „Kompetenzen bedeuten für mich Würde“ </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="author group-authors">Maxi Leinkauf</span>
+              
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1738&amp;ord=1364997146" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1738&amp;ord=1364997146" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1738&amp;ord=1364997146" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Alltag";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Alltag",
+    img: "http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt/@@images/8794eb1a-cf37-4464-b0a7-49560ebd8b31.jpeg",
+    objectid: "f67a9b0d645e45be8f4557824578dcdf",
+    title: "Soll man bestellen, was man nicht kennt?",
+    url: "http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt",
+    text: "Unbekanntes auf der Speisekarte zieht unseren Koch magisch an – sehr zum Vergnügen seiner Mitmenschen",
+    created_at: "1364630400"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

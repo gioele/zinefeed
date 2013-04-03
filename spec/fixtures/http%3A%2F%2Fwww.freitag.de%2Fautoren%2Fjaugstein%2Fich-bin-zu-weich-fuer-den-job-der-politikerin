@@ -1,0 +1,1341 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:58:55 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:58:55 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 90949
+Accept-Ranges: bytes
+X-Varnish: 557704639
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Porträt ǀ „Ich bin zu weich für den Job“  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Marina Weisband ist lieber Philosophin als Politikerin. Sie glaubt nicht an den Mythos ideologiefreier Zeiten, sondern an Beteiligung" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1734&amp;ord=1364997534" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1734&amp;ord=1364997534" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1734&amp;ord=1364997534" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1739&amp;ord=1364997534" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1739&amp;ord=1364997534" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1739&amp;ord=1364997534" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1735&amp;ord=1364997534" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Alltag</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=marina weisband">marina weisband</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=piraten">piraten</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=demokratie">demokratie</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=partizipation">partizipation</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=utopie">utopie</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=politik">politik</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=im gespräch">im gespräch</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p><strong>Marina Weisband</strong>, geb. 1987 in Kiew, siedelte im Alter von sieben Jahren mit ihren Eltern nach Deutschland um. Die Familie lebt in Wuppertal. Weisband machte dort Abitur und studiert seit 2006 Psychologie an der Westfälischen Wilhelms-Universität Münster. Nebenbei betätigt sie sich als freischaffende Malerin.</p>
+<p>2009 trat sie den Uni-Piraten in Münster bei und vertrat diese von 2010 bis 2011 im Studierendenparlament. Im gleichen Jahr wurde sie auf dem Bundesparteitag in Heidenheim an der Brenz zur politischen Geschäftsführerin der Bundespartei gewählt und löste damit Christoph Lauer ab. Rasch stand sie im Fokus der Medien, die sie als Star der Partei stilisierten. Nach nur einem Jahr legte sie im April 2012 ihr Amt nieder. Sie begründete diesen Schritt mit gesundheitlichen Problemen. Weisband kam nur ein Jahr nach der Reaktorkatastrophe  in der Nähe von Tschernobyl auf die Welt – als chronisch krankes Kind.<br /><br />Als weiteren Grund für ihren Rückzug aus der Parteispitze nannte Weisband ihr Studium. Sie wolle die Diplom­arbeit bis 2013 beenden. Wie sie nachträglich bekannt machte, sah sie sich während ihrer Amtszeit antisemitischen Angriffen ausgesetzt.  Weisband bekennt sich öffentlich zur jüdischen Religion. Die Piratin engagiert sich weiter in der Partei, momentan als Mitglied im Kreisverband Münster. <br /><br />Am 14. März erscheint Weisbands erstes Buch mit dem Titel <em>Wir nennen </em><br /><em>es Politik</em>. Darin beschreibt sie ihr Konzept für eine Erneuerung des politischen Systems. Sie setzt vor allem auf echte Bürgerbeteiligung und Transparenz. Zwei Wochen vor Erscheinen des Buches kursierte eine un­­re­-<br />digierte Fassung des Buchs im Netz. Der Verlag schritt nicht dagegen ein. <em>SL</em></p>
+<p>Das Gespräch führte <strong>Jakob Augstein</strong></p>
+<p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 11/13</strong> vom 14.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Jakob Augstein</span>
+        <div class="additional-info">
+          <span class="date">28.03.2013</span> |
+          <span class="time">01:00</span>
+          <span class="comment-count" title=" 16 mal kommentiert">16</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>„Ich bin zu weich für den Job“ </h1>
+
+        <p class="description">
+          <span class="catchword">Porträt</span>
+          Marina Weisband ist lieber Philosophin als Politikerin. Sie glaubt nicht an den Mythos ideologiefreier Zeiten, sondern an Beteiligung
+        </p>
+
+        
+
+        <div class="text"><p class="interview-question"> </p>
+<p>Diese tragischen Piraten: So viele Hoffnungen waren in sie gesetzt worden und so wenige konnten sie bislang erfüllen. Jeder gegen jeden – das ist ein gutes Rezept, wenn man Karriere als Freibeuter machen will. Für die Politik ist es verheerend. Um so schlimmer, dass ausgerechnet Marina Weisband, die Einzige, die das Zeug zur echten Piratenkönigin gehabt hätte, der Poltik den Rücken gekehrt hat. Jetzt hat sie ein Buch geschrieben, ist noch einmal in den Zeitungen und Talkshows. Jakob Augstein hat Marina Weisband in Berlin getroffen, zwischen den vielen Terminen und Auftritten, die sie sich noch einmal zumutet. Segelt sie dann ab ins Privatleben? Hoffentlich nicht.</p>
+<p class="interview-question"> </p>
+<p class="interview-question">Der Freitag: Was ist die Aufgabe von Politik?</p>
+<p class="interview-answer"><strong>Marina Weisband:</strong> Politik ist nur das Miteinander von Menschen, die einen Weg suchen, wie sie vernünftig leben können. Wir nennen es Politik. Das Miteinander der Menschen hat die Aufgabe, Menschen glücklich zu machen.</p>
+<p class="interview-question">Also soll Politik Menschen glücklich machen?</p>
+<p class="interview-answer">Ja.</p>
+<p class="interview-question">Warum interessieren Sie sich für Politik?</p>
+<p class="interview-answer">Ich interessiere mich nicht nur für Politik. Ich interessiere mich für die Gestaltung der Gesellschaft. Politik ist der rechtsstaatliche Weg dorthin.</p>
+<p class="interview-question">Das mit dem Rechtsstaat ist wichtig?</p>
+<p class="interview-answer">Ja, ich stehe total auf Rechtsstaat.</p>
+<p class="interview-question">Warum?</p>
+<p class="interview-answer">Ich bin oft in der Ukraine und weiß, wie es sich anfühlt, wenn man erst überfallen wird und dann auch noch Angst hat, die Polizei</p>
+<p class="interview-answer">zu rufen, weil die einen zusätzlich verprügelt. Ich fühle mich gerne sicher.</p>
+<p class="interview-question">Gewalt als Mittel politischer Auseinandersetzung ...</p>
+<p class="interview-answer">... lehne ich ab. Das bevorteilt immer die, die das besser können. Politische Auseinandersetzung sollte aber immer plattformneutral sein.</p>
+<p class="interview-question">Das ist ein hübscher Begriff. Erklären Sie mal.</p>
+<p class="interview-answer">Für uns ist das ein zentraler Begriff. Er stammt vom Blogger und Netzdenker Michael Seemann. Jeder Mensch soll die gleichen Chancen auf Freiheit, Verantwortung und Teilhabe haben. Politik muss ihn dazu befähigen.</p>
+<p class="interview-question">Haben wir in Deutschland „Plattformneutralität“?</p>
+<p class="interview-answer">Nein – wer über mehr Ressourcen verfügt, kann mehr zum Diskurs beitragen. Das ist nicht gerecht.</p>
+<p class="interview-question">Derjenige, der sich an die Regeln hält, bevorteilt also die Stärkeren ...</p>
+<p class="interview-answer">Die Regeln ändern sich gerade – und zwar zu Ungunsten der Stärkeren. Und gerade die begreifen das als Letzte. Heute können wir Gegenöffentlichkeiten aufbauen.</p>
+<p class="interview-question">Haben Sie mal ein Beispiel für eine wirksame Gegenöffentlichkeit?</p>
+<p class="interview-answer">Am Anfang meiner politischen Arbeit habe ich sehr viel Sexismus erlebt. Ich wollte über politische Themen reden – aber die Journalisten haben über meine Haare und meinen Lippenstift geschrieben. Irgendwann habe ich dann einen Blog darüber veröffentlicht. Das hatte einen krassen Effekt, danach war das Thema so gut wie erledigt.</p>
+<p class="interview-question">Klingt für mich wie ein normaler medialer Vorgang.</p>
+<p class="interview-answer">War es aber nicht. Ich hatte keinerlei Ressourcen und Zugänge, ich war damals völlig unbekannt – aber ich hatte Wirkung.</p>
+<p class="interview-question">Interessieren sich die Leute auf eine andere Weise für Politik als früher?</p>
+<p class="interview-answer">Die Schüler und Studenten, mit denen ich rede, sind unfassbar gut informiert und kritisch. Mit denen führe ich oft viel interessantere Gespräche als mit Journalisten. Sie denken viel visionärer, und sie fühlen eine ganz starke Verantwortung, die Gesellschaft zu formen.</p>
+<p class="interview-question">Was bedeuten Utopien?</p>
+<p class="interview-answer">Es gibt nur Ziele, auf die man hinarbeiten kann. Manchmal halten wir Ziele fälschlich für Utopien – also für nicht erreichbare Orte. Man muss den Menschen helfen, ihre Fähigkeiten zu befreien. Wenn Schüler in hierarchisch organisierten Schulen lernen, kann ich ihnen viel von Demokratie erzählen – sie werden das nicht glauben. Wenn ich ihnen aber die Freiheit gebe, sich selber zu orga-nisieren, dann werden sie lernen, mit dieser Freiheit umzugehen.</p>
+<p class="interview-question">Die freien, nicht hierarchischen Diskurse im Netz sind keine Bestätigung Ihrer These.</p>
+<p class="interview-answer">Das stimmt. Das Netz ist noch nicht in einer Verfassung, dass wir dort sinnvoll Demokratie betreiben können. Wenn ich von jedem Menschen verlange, dass er zu allem seine Meinung sagt, gibt es ein Chaos. Wenn ich aber Strukturen schaffe, zum Beispiel das Prinzip der Stimmdelegation, dann entsteht ein sinnvoller Diskurs.</p>
+<p class="interview-question">Was halten Sie denn von Hierarchien?</p>
+<p class="interview-answer">Ich halte viel von Netzwerken. Eine Hierarchie unterscheidet sich von einem Netzwerk im Grad der Flüssigkeit. Eine Hierarchie ist fester. Einer ist oben, einer in der Mitte, einer unten. Ein Netzwerk hat ähnliche Eigenschaften. Es gibt starke Knotenpunkte, die haben viel Einfluss, es gibt mittlere, und es gibt kleine. Wenn dieses Netzwerk frei ist, wenn also jeder Knotenpunkt selbst entscheiden kann, wo er andockt, dann ändern sich die Machtverhältnisse ständig. Dabei kommt es auf die Plattformneutralität an: Jeder Knoten muss die gleichen Chancen haben, zu wachsen.</p>
+<p class="interview-question">Warum funktioniert das bei den Piraten nicht?</p>
+<p class="interview-answer">Eigentlich sind die Piraten noch in einer Phase, in der sie nach der optimalen Organisationsform suchen müssten. Aber sie lassen sich treiben. Von Journalisten, die sie nach den alten Regeln bewerten, von anderen Politikern, von Vorstellungen, wie Wahlkampf auszusehen hat, wie Parteien funktionieren. Sie schaffen es nicht, ihre Autonomie zu bewahren.</p>
+<p class="interview-question">Warum ist das so?</p>
+<p class="interview-answer">Weil wir jetzt etwas zu verlieren haben. Da wird man vorsichtig. Da fällt es schwerer, was ganz Neues auszuprobieren.</p>
+<p class="interview-question">Ist es nicht eher so, dass sich bei Ihnen jeder immer zu allem äußert? Und die Medien greifen das dankbar auf, weil sich Personalisierung und Streit gut verkaufen?</p>
+<p class="interview-answer">Ja, das ist das Schicksal einer nicht durchorganisierten Bewegung. Wir sind alles ehrenamtliche Leute. Wir streiten, weil wir gleichzeitig stark ausgelastet und emotional bei der Sache sind.</p>
+<p class="interview-question">Sie haben mal gesagt, die Piraten seien der politische Arm einer globalen Bewegung. Occupy, Stuttgart 21, teilweise der Arabische Frühling. Das ist hochgegriffen, oder?</p>
+<p class="interview-answer">Wir sind nicht identisch mit denen, aber ähnlich. Diese Bewegungen wollen ihre Angelegenheiten selber in die Hand nehmen. Es ist gut, wenn Leute auf die Straße gehen – aber das können nicht alle machen, manche arbeiten, haben Familie, sind krank ... Wir brauchen eine moderne, institutionalisierte Form der Beteiligung. Damit jeder jederzeit bequem von zu Hause aus mitmachen kann.</p>
+<p class="interview-question">Demokratie soll etwas sein, das jeder Bürger nachmittags am Computer in zehn Minuten erledigen kann?</p>
+<p class="interview-answer">Ja, das habe ich gesagt, das ist dann der minimalste Aufwand, den Bürger sich machen müssten. Dafür brauchen wir Liquid Democracy. Ich kann oder will mir vielleicht nicht selber eine Meinung zu allen Sachen bilden. Aber ich muss mir wenigstens darüber klar werden, wem ich das zutraue. An den delegiere ich meine Stimme. Es kann auch Delegierte geben, die Hunderte von Stimmen auf sich vereinen. Das sind dann mächtige Leute, weil viele wollen, dass sie mächtige Leute sind. Liquide Demokratie ist ja eine Mischform aus repräsentativer und Basisdemokratie.</p>
+<p class="interview-question">Erzeugt das nicht die Illusion, alle könnten mitreden? Aber in Wahrheit bringt das gar nichts. Und sobald die Leute das merken, wenden sie sich enttäuscht ab.</p>
+<p class="interview-answer">Sie müssen da zwei Dinge trennen. Das eine ist Offenheit, und das andere ist Partizipation. Offenheit ist ein Politikstil. Der lässt sich nicht gesetzlich festschreiben. Das andere ist Partizipation. Wenn ich möchte, dass die Menschen einen offiziellen Rückkanal haben, über den sie Einfluss nehmen können, dann muss sich jeder ausrechnen können, wie viel seine Stimme wiegt und was er damit tatsächlich bewirken kann. Ein Bürgerdialog mit Angela Merkel ist keine Partizipation. Das ist bestenfalls Offenheit.</p>
+<p class="interview-question">Offenheit ist ein Anspruch, den Sie als Politikerin auch an sich selbst haben?</p>
+<p class="interview-answer">Ja.</p>
+<p class="interview-question">Und? Wie lief das?</p>
+<p class="interview-answer">Es hat mir die Arbeit erleichtert, weil ich mich immer auf eine Community verlassen konnte. Noch bevor ich die Wahl zur Geschäftsführerin angenommen hatte, habe ich gefragt: Helft ihr mir? Und sie haben mir geholfen. Ich habe auch jede Idee im Kern mit ihnen geteilt, und sie haben mir sofort gesagt, wenn meine Idee scheiße war. Manchmal war es anstrengend, mit der Flut von Feedback umzugehen, auch an nega-tivem Feedback. Also habe ich mir demokratische Filter installiert. Die Kommentare selbst werden von den Usern bewertet, und dann ging es wieder leichter. Dennoch war da immer eine Kluft zwischen meinem Anspruch an mich als Politikerin und der Erwartung der Gesellschaft.</p>
+<p class="interview-question">Welche Erwartung hat die Gesellschaft denn?</p>
+<p class="interview-answer">Dass Politiker perfekt sind, Anzug tragen und alles im Kopf haben. Wenn Sie nicht auswendig wissen, wie viele Schulden Berlin hat, gibt es Ärger.</p>
+<p class="interview-question">Erwarten die Bürger zu viel von Politikern?</p>
+<p class="interview-answer">Journalisten wissen, dass Politiker auch mal in die Mappe gucken oder etwas vorgesagt kriegen. Aber die Bürger wissen das nicht. Auf mich sind Erwartungen geprallt, die es so nicht gäbe, wenn jeder einen offenen Stil durchziehen würde.</p>
+<p class="interview-question">Sie haben in der Partei keine Funktion mehr?</p>
+<p class="interview-answer">Doch. Ich bin die Verlobte des Zweiten Vorsitzenden des Kreisverbands Münster.</p>
+<p class="interview-question">Sind Sie denn noch Politikerin?</p>
+<p class="interview-answer">Ich hatte schon immer Probleme damit, als Politikerin bezeichnet zu werden. Also Berufspolitikerin war ich nicht. Ich habe von der Partei für meine Arbeit kein Geld bekommen.</p>
+<p class="interview-question">Wäre das denn ein Beruf für Sie?</p>
+<p class="interview-answer">Nein. Ich bin vielleicht mehr Philosoph oder so etwas.</p>
+<p class="interview-question">Aber wer soll es denn sonst machen, wenn nicht Sie?</p>
+<p class="interview-answer">Jeder, der es möchte. Ich habe nicht die richtigen Charaktereigenschaften dafür, ich bin zu weich. Ich müsste mich total auf die Ziele meiner Partei einstellen, aber da bin ich nicht verbissen genug.</p>
+<p class="interview-question">Das ist schade, oder?</p>
+<p class="interview-answer">Es ist vielleicht schade, ja.</p>
+<p class="interview-question">Vielleicht brauchen wir Sie.</p>
+<p class="interview-answer">Brauchen Sie mich?</p>
+<p class="interview-question">Vielleicht brauchen wir alle Leute wie Sie. Ist Ihre Haltung nicht etwas luxuriös?</p>
+<p class="interview-answer">Ja, das stimmt. Aber ich kann nicht. Es ist mir unmöglich.</p>
+<p class="interview-question">Was glauben Sie denn, wie es mit den Piraten weitergeht?</p>
+<p class="interview-answer">Ich glaube, das hängt davon ab, wie wir uns in der Frage der ständigen Mitgliederversammlung entscheiden. Wenn wir die beschließen, dann haben wir die Möglichkeit in den Bundestag einzuziehen, dann können wir die Partei der Zukunft werden.</p>
+<p class="interview-question">Ist das im Moment gerade die Debatte?</p>
+<p class="interview-answer">Das ist das wichtigste Thema in der Partei. Wollen wir wirklich die Partei der Partizipation sein? Im Moment behaupten wir das, aber es ist eigentlich eine Lüge. Das Thema bewegt mich viel mehr als meine eigene politische Zukunft. Wir brauchen so eine partizipative Politik und nicht Marina im Bundestag, die da eh nichts machen kann.</p>
+<p class="interview-question">Das sehe ich anders. Ich glaube, Leute wie Sie, und Sie insbe-sondere, erfüllen eine wichtige Funktion in der Gestaltung unseres politischen Selbstverständnisses. Da geht es vielleicht auch gar nicht um die Frage links oder rechts. Sondern darum, wie widerständig, wie utopisch sind wir?</p>
+<p class="interview-answer">Das ist einfach Bullshit, dieses Gerede: Wir sind nicht links, nicht rechts, sondern vorne – das haben schon andere Parteien vor uns gesagt. Und es führt nur dazu, dass man die Maximalanzahl von Spinnern anzieht. Ganz einfach: Wir sind eine linksliberale Partei. Ideologiefreiheit ist ein Mythos. Die kann es nicht geben.</p>
+<p class="interview-question">Danke, dass Sie das sagen.</p>
+<p class="interview-answer">Bitte.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (16)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364430992396155" name="1364430992396155"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/joachim-petrick">
+                
+                  <img src="http://www.freitag.de/autoren/joachim-petrick/@@images/4fe8c8dc-d291-47e9-bd68-7123726ef0ff.jpeg" alt="Joachim Petrick" title="Joachim Petrick" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/joachim-petrick" class="author ">Joachim Petrick</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364430992396155">
+                  28.03.2013 |
+                  01:36</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wenn es Luxus ist, sich nicht in Parteien zu engagieren, könnte der Leser vermeinen, es gebe keine jahrzehntlang während, medial vorangetriebenen Traumatisierungsversuche der Bürger/innen, fern jeder wirklichen Partizipation in Alltag, Beruf, Stadtteil, Kultur, Antriebsarmut als massenhaftes „Nonplusultra“ Lebensgefühl zu verbreite</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364430992396155">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364456690294676" name="1364456690294676"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/meyko">
+                
+                  <img src="http://www.freitag.de/autoren/meyko/@@images/0598d076-b670-4af2-adb8-c2fb1d78c10e.jpeg" alt="Meyko" title="Meyko" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/meyko" class="author ">Meyko</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364456690294676">
+                  28.03.2013 |
+                  08:44</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Piraten könnten vermutlich jemanden wie Marina Weisband an der Spitze gebrauchen. Denn letztendlich erfahren wir Wähler ja beinahe ausschließlich durch die Medien, ob Politiker oder Parteien wählbar sind oder nicht. Ob es bei den Piraten Überlegungen gab oder gibt, diese Tatsache gezielter zu nutzen und eventuell auch enttäuschte Journalisten wieder für die Idee zu begeistern, ist zurzeit nicht zu erkennen. Vielleicht wird intern mehr Wert auf ein kontinuierliches Wachstum per "Netzdarstellung" gelegt. Frau Weisband wäre eine positive Werberin für die Piratenpartei.</p>
+<p>Mein persönlicher Berater meint, die Piratenpartei sei in der "veröffentlichten Öffentlichkeit" nach wie vor sehr stark mit dem Begriff der "Internetfreiheit" verknüpft. Und im Zuge der Debatte zum Leistungsschutzrecht, sei die diesbezügliche Position der sogenannten „Leitmedien“ ja noch einmal besonders deutlich sichtbar geworden. Nicht nur die anderen Parteien seien gegenwärtig politische Gegner, auch die Zeit der sympathisierenden Berichterstattung, über die noch vor kurzem als „erfrischend“ wahrgenommene Piratenpartei, hätte sich demnach fürs erste erledigt. Die derzeit eher kritische und fehlerherausstellende Herangehensweise beinahe aller Medien, gilt zumindest dem Anschein nach, übergreifend für beinah jedwede Piratenäußerung.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364456690294676">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364460172061667" name="1364460172061667"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/oi2503">
+                
+                  <img src="http://www.freitag.de/autoren/oi2503/@@images/4ad633e9-0041-4689-92f9-4713338fc630.jpeg" alt="oi2503" title="oi2503" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/oi2503" class="author ">oi2503</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364460172061667">
+                  28.03.2013 |
+                  09:42</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>"Jeder gegen jeden – das ist ein gutes Rezept, wenn man Karriere als Freibeuter machen will. Für die Politik ist es verheerend."</em></p>
+<p>Da scheint mir etwas durcheiandergerutscht. Die Freibeuter, Piraten im eigentlichen Sinne, Vitalienbrüder oder Likedeeler - die berühmtesten sind sicherlich Klaus Störtebeker, Gödeke Michels oder Magister Wigbold - teilten ihre Prisen gleich. Sie hatten ein soziale, selbstbestimmte und gleichteilende Organisation, die sich stark von den hierarchisch strukturierten Formen des Zusammenlebens der mittelalterlichen Gesellschaft unterschied. Bei Karrieren von Politikern scheint mir hingegen das Gegeneinander geradezu ein Muss zu sein, oder "Was ist die Steigerung von Feind? Parteifreund".</p>
+<p>Best, Oi</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364460172061667">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364487827650435" name="1364487827650435"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/georg-von-grote">
+                
+                  <img src="http://www.freitag.de/autoren/georg-von-grote/@@images/891e8599-64dd-4dd5-8ba7-e3f360f62388.jpeg" alt="Georg von Grote" title="Georg von Grote" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/georg-von-grote" class="author ">Georg von Grote</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364487827650435">
+                  28.03.2013 |
+                  17:23</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Schmunzel. Da mögen sich zwei. :-)</p>
+<p>Lieber Herr Augstein, laufen Sie einem Traum hinterher? Einem politischen Traum?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364487827650435">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364493771190495" name="1364493771190495"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/h-hesse">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/h-hesse" class="author ">H.Hesse</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364493771190495">
+                  28.03.2013 |
+                  19:02</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>An anderer Stelle in der FC schrieb jemand, er verstehe den hype um Marina Weisband nicht, sie sondere nur dünne Allgemeinplätze ab. </p>
+<p>Dem kann ich mich nur anschließen. Die offensichtliche Begeisterfung Jakob Augsteins, den ich sonst für einen kritischen, klugen Kopf halte, verstehe ich nicht.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364493771190495">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364557315453580" name="1364557315453580"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/fahrwax">
+                
+                  <img src="http://www.freitag.de/autoren/fahrwax/@@images/97c54edd-e553-4297-8eae-d46fe816d34d.jpeg" alt="fahrwax" title="fahrwax" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/fahrwax" class="author ">fahrwax</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364557315453580">
+                  29.03.2013 |
+                  12:41</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Imposant, das ist jemand nicht dazu bereit Illusionen zu verschachern. Auch nicht dazu bereit die eigenen Träume, oder die Anderer zu verkaufen: fein!!!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364557315453580">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364597280654551" name="1364597280654551"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/auerbach">
+                
+                  <img src="http://www.freitag.de/autoren/auerbach/@@images/857fb3ff-817d-4216-875f-632a519a9e8a.png" alt="silvio spottiswoode" title="silvio spottiswoode" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/auerbach" class="author ">silvio spottiswoode</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364597280654551">
+                  29.03.2013 |
+                  23:48</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ein wirklich grossartiges Interview. Sie sagt hier so viele wichtige Sätze:<br /><br /><em>"[...] – wer über mehr Ressourcen verfügt, kann mehr zum Diskurs beitragen. Das ist nicht gerecht."</em><br /><br /><em>"<strong>Gewalt als Mittel politischer Auseinandersetzung ...</strong></em><br /><em>... lehne ich ab. Das bevorteilt immer die, die das besser können. Politische Auseinandersetzung sollte aber immer plattformneutral sein."</em></p>
+<p><br />Interessant auch, wie klar sie sich gegen Ideologiefreiheit ausspricht. (Ob das an <em>Bundesbernd</em> gerichtet ist? :P)<br /><br />Überhaupt ist das gesamte Interview ungewöhnlich dicht und entschieden. Hier wird für mich wieder wunderbar deutlich, dass Marina Weisband ein sensibles Gespür für gesellschaftspolitische Zusammenhänge und Gewichtungen innerhalb der Machtverhältnisse besitzt. Alles Dinge, die einem keiner beibringen kann. Dann gefällt mir noch, dass sie immer "wir" sagt. Diese entgrenzte, breite Grosszuegigkeit. Und, dass sie in der Lage ist Menschen in ihre Gedankengaenge miteinzubeziehen, die sich in vollkommen anderen Lebensituationen befinden, als es die ihren sind. All dies sind ungeheuer wichtige Fähigkeiten. Im Idealfall besteht das Handwerkszeug der Politik genau daraus.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364597280654551">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364598396079351" name="1364598396079351"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/georg-von-grote">
+                
+                  <img src="http://www.freitag.de/autoren/georg-von-grote/@@images/891e8599-64dd-4dd5-8ba7-e3f360f62388.jpeg" alt="Georg von Grote" title="Georg von Grote" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/georg-von-grote" class="author ">Georg von Grote</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364598396079351">
+                  30.03.2013 |
+                  00:06</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>All das, was Weißband da sagt, spricht für sie als Mensch. Da sind Denkansätze darunter, die zum Nachdenken animieren.</p>
+<p>Nur kann man damit Politik betreiben? In absehbarer Zeit jedenfalls nicht. Das es so nicht funktioniert, haben die Piraten bewiesen und Grillo ist gerade dabei, mit seinen 5 Sternen es noch einmal deutlich zu machen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364598396079351">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364598782626974" name="1364598782626974"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/auerbach">
+                
+                  <img src="http://www.freitag.de/autoren/auerbach/@@images/857fb3ff-817d-4216-875f-632a519a9e8a.png" alt="silvio spottiswoode" title="silvio spottiswoode" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/auerbach" class="author ">silvio spottiswoode</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364598782626974">
+                  30.03.2013 |
+                  00:13</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Es faellt mir einfach schwer genau einzuordnen, was sie meint, wenn sie sagt sie sei "zu weich" für Politik: Das steht für mich ganz objektiv im Gegensatz zu der entschiedenen Art, in der sie sich in Podiumsdiskussionen verhält. Denn Weisband ist eine Meisterin darin, Diskussionen in immer genau die Richtungen zu lenken, die fuer ihre Argumentation schluessig sind. Konfliktpotential blendet sie – ohne mit der Wimper zu zucken – locker aus. So behält sie den Fokus. Das kann echt nicht jede/r, schon gar nicht in dem Alter. Gefaellt mir supergut. Auch gibt es bei ihr keine Berührungsängste, sondern sie geht ganz offen, unbelastet und vorurteilsfrei daran die Leerstellen zu füllen.<br /><br />Ich versuche die ganze Zeit zu verstehen, was sie sagen will. Wenn sie sagen wuerde, dass sie ihre Privatsphaere braucht, dass sie keine Lust auf Politik hat, weil sie keine Person des öffentlichen Lebens sein möchte, dass sie ihre Schlachten allein und im Verborgenen kämpfen muss. Ich würde das verstehen. Aber, das sagt sie ja nicht... Sie spielt bei öffentlichen Anlässen stets - wunderbar ungläubig - mit ihrer Wirkung und scheint die Aufmerksamkeit manchmal sogar zu geniessen. Ich frage mich, ob hier die eigene Verletzlichkeit als Mangel an Stärke missverstanden wird? Vielleicht sollten Politiker ihrer Meinung nach ein dickes Fell und einen unantastbaren Panzer haben? Nur, ist nicht eher das genaue Gegenteil der Fall? Ob Roosevelt, Kennedy, Brandt oder Rosa Luxemburg, die tollsten Politiker sind doch ganz zuverlässig immer gerade die Verwundeten.<br /><br /></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364598782626974">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364599531294008" name="1364599531294008"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/auerbach">
+                
+                  <img src="http://www.freitag.de/autoren/auerbach/@@images/857fb3ff-817d-4216-875f-632a519a9e8a.png" alt="silvio spottiswoode" title="silvio spottiswoode" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/auerbach" class="author ">silvio spottiswoode</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364599531294008">
+                  30.03.2013 |
+                  00:25</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364598396079351">
+                    <span data-in_reply_to="1364598396079351" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Du darfst nicht vergessen, dass sie echt noch recht jung ist, Goerg. Es ist nicht unrealistisch hier auf eine sehr steile Lernkurve zu hoffen, denn Talent ist mehr als genug da. Ich glaube ganz leidenschaftslos, dass, würde sie sich doch noch für Politik entscheiden, dann wäre das ein Glück für uns alle. Als Psychologin sehe ich sie auch überhaupt nicht, aber vielleicht täusche ich mich da. Dazu ist sie viel zu konkret, hat viel zuviel Tatendrang. Sie sollte ihre Dissertation über die Erneuerung der demokratischen Strukturen machen, in Politologie.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364599531294008">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364600489560635" name="1364600489560635"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/georg-von-grote">
+                
+                  <img src="http://www.freitag.de/autoren/georg-von-grote/@@images/891e8599-64dd-4dd5-8ba7-e3f360f62388.jpeg" alt="Georg von Grote" title="Georg von Grote" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/georg-von-grote" class="author ">Georg von Grote</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364600489560635">
+                  30.03.2013 |
+                  00:41</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364599531294008">
+                    <span data-in_reply_to="1364599531294008" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das vergesse ich auch gar nicht. Ich sagte ja schon, einiges von dem gefällt mir, was sie sagt und fordert. Anderes ist manchmal noch sehr unausgegoren, aber auch das gestehe ich ihr zu.</p>
+<p>Ich stemme mich nur dagegen, sie als neuen Politstar hochzujubeln, als retterin einer desaströsen Partei, wie die Piraten. Das ist sie nicht und das kann sie auch nicht. Zumindest noch nicht. Ich vermute mal, sie hat das auch selbst längst begriffen.</p>
+<p>Ich wünschte mir auch, es gäbe mehr solcher jungen Leute in der Politik, allerdings auch mit ein wenig mehr Biss, der mir bei Weisband einfach abgeht.</p>
+<p>Ich wüßte aber nicht, wo man sie im derzeitigen Parteiensystem unterbringen sollte. Bei den Piraten wäre sie sowas wie eine Perle vor die Säue und in den etablierten Parteien würde man sie blitzschnell verheizen und versuchen zu konditionieren.</p>
+<p>Ich könnte sie mir aber als wichtige Stimme außerhalb dieses Parteiensystems vorstellen. Da herrscht ja gewaltiger Mangel bei uns.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364600489560635">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364650429151702" name="1364650429151702"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/auerbach">
+                
+                  <img src="http://www.freitag.de/autoren/auerbach/@@images/857fb3ff-817d-4216-875f-632a519a9e8a.png" alt="silvio spottiswoode" title="silvio spottiswoode" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/auerbach" class="author ">silvio spottiswoode</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364650429151702">
+                  30.03.2013 |
+                  14:33</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364600489560635">
+                    <span data-in_reply_to="1364600489560635" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>"Desaströse Partei",</em> nö, gar nicht.  :-))<br />Let's agree to disagree on this one. Denn, komm schon, Idioten gibt es immer und in allen Parteien. Warum konzentrieren wir uns nicht auf das, was <a href="http://www.spiegel.de/netzwelt/netzpolitik/gamma-group-bka-kauft-schnueffelsoftware-a-877969.html">funktioniert</a>?<br /><br /><br />Denn, dass es ein Demokratie aushöhlendes, ernstes Problem mit den politischen Mehrheitsstrukturen gibt, so wie sie momentan – samt lobbyverseuchter EU-Politik betrieben werden, das ist uns allen doch sonnenklar. Die einzig interessante Frage ist: Wie gehen wir damit um, wie bekommen wir da wieder gerechtere Verfahrensweisen rein?</p>
+<p>Eine Mischform aus repräsentativer und Basisdemokratie finde ich persönlich sehr zivilisiert und zeitgemäß. Womit wir bei der Liquiden Demokratie der Piraten wären. Für mich persönlich funktioniert das großartig, denn es gibt Themen mit denen ich mich persönlich nicht bis ins letzte Detail auskenne – z.B. Arbeits- oder Datenschutzrecht. Dann delegiere ich meine Stimme an jemanden, von dem ich weiss, dass er/sie in diesen Bereichen meine Interessen vertritt. Dafür habe ich im Gegenzug die Entscheidungen im Kulturbereich zu verantworten, weil genau dort ich einfach immer mehr am Ball sein muss. Und swuppdiwupp haben wir ein stabiles <em>– plattformneutrales – demokratisches System, eine moderne, institutionalisierte Form der Beteiligung bei der jeder bequem von zuhause aus mitmachen kann. </em>Alles andere ergibt für mich einfach keinen Sinn mehr.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364650429151702">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364651633061515" name="1364651633061515"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/columbus">
+                
+                  <img src="http://www.freitag.de/autoren/columbus/@@images/39a8569d-3afc-49d1-8b2c-a7e04067f236.jpeg" alt="Columbus" title="Columbus" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/columbus" class="author ">Columbus</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364651633061515">
+                  30.03.2013 |
+                  14:53</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Warum regt es so auf, wenn in der bisher weitgehend eben gar nicht „plattformneutralen“ Medienwelt, -auch die Piraten bieten mit ihrer Partei-Plattform keineswegs auch nur einen Ansatz dieser Art Neutralität, schon weil das völlig apolitisch wäre-, eine Marina Weisband auftritt und von sich gibt: „Ich bin nicht auf dies und das vorbereitet, ich bin nicht informiert, mir fehlen gerade die Worte.“?</p>
+<p> Ist das nicht furchtbar sympathisch, wenn sie den Eindruck vermittelt, mag der stimmen oder täuschen, dass es ihr manches Mal, neben den allzu lauten Gesprächsteilnehmern, die Sprache verschlägt? - Sie ist nicht so abgebrüht, immer hart und ohne Skrupel eine Dummheit nach der anderen, den letzten Kappes und den größten Blödsinn zu Millionen hinzuschwätzen, wie das Menschen die glatt ihre Großeltern sein könnten, bomfortionös und ohne Unterlass, räusperten sich nicht ab und an die Moderatorinnen und Moderatoren und ein paar andere geladene Gäste, locker schaffen.</p>
+<p> Sie macht aus ihrem Herzen keine Mördergrube und mag dasselbe aber deshalb nicht auf der Zunge tragen. - Wiederum sehr sympathisch. - Sie wirkt dabei so normal, wie Jakob Augstein oder ich, der Kommentarist dieses Interviews, oder alle die lieben Mitforisten, mit Ausnahme einer leider ebenfalls vermehrungsfreudigen Spezies.</p>
+<p> Marina Weisband war und bleibt hoffentlich, in der medial wirkenden Politkbegleitung eine hörbare Stimme, die zumindest als Symbol dafür stehen kann, dass Jederfrau und Jedermann, wenn sie dies nur wollen, -das ist allerdings der speziellen Eigenart dieser digitalen „Fluidität“ geschuldet und damit eine, auch von Frau Weisband noch nicht ausreichend reflektierte, wichtige Randbedingung-, zur rechten Zeit, am rechten Ort, am passenden, multiplizierenden Informationskanal vorbei treibend, erweitert demokratisch mitreden darf.</p>
+<p> Was wohl aufregt ist, dass jemand, der genau so durchschnittlich und genau so eingeschränkt alltäglich denkt wie ich, wie wir, wie Jakob Augstein, ein Medienereignis wurde und es auch blieb.</p>
+<p> Bisher gibt es keine faktischen Ergebnisse der Piratenpartei, kein Gesetz mit materieller Auswirkung, nicht ein Bauwerk, nicht eine Erfindung, nicht ein Kulturprodukt, das von Piraten verantwortet oder angeregt wurde. - Halt das stimmt nicht! Ihre pure Existenz und die Reaktion der anderen Parteien, sowie die der Öffentlichkeit, stellen derzeit eine einzige Wirkung dar. Das ist völlig medienökonomisch und netzkonform, denn verkauft werden längst nicht mehr materielle Güter, sondern Meinungen, Ansichten und Aussagen, Statements, Testimonials und sichtbare medialae Verhaltensmuster, die vor allem glaubwürdig wirken müssen, z.B. als parteiische Pussy Riots für die alternde Republik, ohne freigelegte Haut selbstverständlich.</p>
+<p> Ein Programm ist, wie bei den Parteien, die immer noch glauben eine festgefügte Liste ihrer tieferen Absichten haben zu müssen, für eine medial organisierte, erweitert demokratische Öffentlichkeit gar nicht notwendig und sehr unzweckmäßig, medial eher ineffizient. Personen hingegen, als mediale Rollenbilder, sind völlig marktkonform.</p>
+<p> Es ist also nur ein klein wenig anders, als es sich einst mit den Personen der Grünen verhielt, die schon erfolgreich in den verschiedensten Anti-Bewegungen und was z.B. Wyhl angeht, auch mit Erfolg, außerparlamentarisch wirken konnten, aber eben doch sehr vergleichbar mit der Situation diese Partei, als sie noch zu Schmidts und Kohls Zeiten erstmals in Parlamente wollte und dort auch einzog. - Die Piraten sind ein Versprechen und in ihrer derzeitigen Rolle erst einmal immer noch Hoffnung, denn so weit wie die Grillisti, die entweder den italienischen Staat ins völlige Chaos kippen oder ihn, ihrer Selbsteinschätzung folgend, nun zum Reich der Freiheit abbauen, sind sie noch nicht.</p>
+<p> Gleiches gilt für die junge Psychologin Marina Weisband als Person, die sich derzeit jederzeit als „Marke“ medial verkaufen lassen könnte, denn ein Artikel mit diesem Namen läuft. Er ist am Markt ausreichend eingeführt, beliebt, medial vorzeigbar. So, wie "Gregor Gysi", so wie "Sahra Wagenknecht", so wie der ewige Gesundheitsminister in spe, "Karl Lauterbach".</p>
+<p>Auf den Talkbänken, diesen, von Publizisten erträumten „Erweiterungsräumen der Demokratie“, bestimmen derzeit allerdings noch die eingeschrumpelten Geschichtsquäler und die Freunde des Rauchkringels, wie Musik gemacht wird, so wie hier im Forum die Nerds manche Kommentare. Immer wenn eine neue Woche anfängt, denkt man doch, deren Quoten müssten endlich sinken. Nein, im Gegenteil, sie steigen!</p>
+<p> Bezüglich der derzeitigen Marktregeln ist das Produkt also so perfekt, wie mancher Dschungelcamp- Gewinner, wie ein Superstar von Raabs oder Bohlens Gnaden, wie einst eine schöne Miss-Europa von der FDP oder, es war einmal, es war einmal, die größte all´ dieser Hoffnungen für die Quote, jener Freiherr und Märchenprinz aus dem fränkischen Bayern.</p>
+<p> Aber Frau Weisband hat einen ganz eigenen Sinn. Das ist bewundernswert! Sie hält sich für zu weich, um mit dieser persönlichen Eigenschaft Politik unter den medialen Gestalten gestalten zu können. Das schließt nichts anderes in dieser weiten Welt aus. Das ist ein Geständnis. Das sie sehr sympathisch.</p>
+<p> Denn tatsächlich charakterisiert „Weichheit“, einmal übersetzt mit eher öffentlichkeitsscheu, eher an anderen Themen interessiert, eher nicht mit Pseudowissen angebend, eher nicht eine Diskussion an sich reißend, wie es regelmäßig bei den hofierten Tatterkreisen und den Profi-Experten der Medienkultur der Fall ist und einen einfachen Menschen daneben alt aussehen lässt, einen freien Menschen.</p>
+<p> Marina Weisband steht für einen gewissen Prozentsatz an Bürgern, die sich durchaus jeden Tag und manches Mal auch viel länger und nachhaltiger, wirklich Gedanken machen, aber schon aus Scheu und Scham, blöde daher zu reden, aus Überarbeitung und mit anderen Lebensschwerpunkten zufrieden, nicht aus ihrer Alltags- und Lebensweltblase heraus kommen können oder es nicht wollen, und schon gar nicht, um als häufig medialisiertes Objekt in einer Öffentlichkeit, die sich für demokratisch hält, aber nur die Oberfläche, das Außenbild der neuen Personen wirklich gebrauchen kann, in Erscheinung zu treten wünschen.</p>
+<p> Könnte sie diese Rolle medial spielen, -es ist eine Rolle, denn sie muss im Medium regelrecht aufgeführt werden, wie eine Kunst-, dann wäre schon was für uns gewonnen. Mehr wäre revolutionär und das würde dann medial nicht mehr ausgesendet.</p>
+<p> Beste Grüße</p>
+<p>Christoph Leusch</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364651633061515">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364911700354624" name="1364911700354624"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/karamasoff">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/karamasoff" class="author ">karamasoff</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364911700354624">
+                  02.04.2013 |
+                  16:08</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>seltsam die sache mit dem begriff weich</p>
+<p>als politiker muss man sogar extrem weich sein. das einzige was noch dazukommen sollte ist skrupellosigkeit und egomanie.</p>
+<p>das dürften dann so die eckpfeiler sein auf der die "kompromiß"maschine politiker steht. intelligenz schadet auch nicht, kommt aber eher selten vor. bildung ist zweitrangig, dafür hat man seine infozusammenträger, wenn man es dann geschafft hat bis in die mittlere courtage oder die oberste etat-ge ^^, um in medien</p>
+<p>möglichst weich rüberzukommen ohne dabei die medial aufgebaute aura von härte zu verbreiten.</p>
+<p>politiker und politik erinnert mich zusehends an "der dunkle schirm" von ph.k. dick.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364911700354624">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364916954272911" name="1364916954272911"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/anne-monen">
+                
+                  <img src="http://www.freitag.de/autoren/anne-monen/@@images/4794e42c-3beb-4905-a8cc-c7dc386ff7a7.jpeg" alt="anne mohnen" title="anne mohnen" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/anne-monen" class="author ">anne mohnen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364916954272911">
+                  02.04.2013 |
+                  17:35</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Kunst kennt DADA, die Popkultur GAGA und die Medienwelt LALA!</p>
+<p>Marina Weisband traf sich im letzten Jahr zum Salongespräch mit Jakob Augstein. Da fand ich Frau Weisband herrlich naiv und beherzt entwaffnend. Da kündigte sie aber auch an, sich aus der Politik zurückzuziehen, um ein Buch zu schreiben</p>
+<p>Nun, ist Weisband zurück. Warum man das assoziative Gerede für geistreicher, gar visionär, philosophisch halten soll, besser als das von Bernd Schlömer, verstehe, wer will: Vielleicht sortiert das mal einer für mich:</p>
+<p>„Ich glaube, Leute wie Sie, und Sie insbesondere, erfüllen eine wichtige Funktion in der Gestaltung unseres politischen Selbstverständnisses. Da geht es vielleicht auch gar nicht um die Frage links oder rechts. Sondern darum, wie widerständig, wie utopisch sind wir?</p>
+<p>Das ist einfach Bullshit, dieses Gerede: Wir sind nicht links, nicht rechts, sondern vorne – das haben schon andere Parteien vor uns gesagt. Und es führt nur dazu, dass man die Maximalanzahl von Spinnern anzieht. Ganz einfach: Wir sind eine linksliberale Partei. Ideologiefreiheit ist ein Mythos. Die kann es nicht geben.“</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364916954272911">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364942504676041" name="1364942504676041"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/auerbach">
+                
+                  <img src="http://www.freitag.de/autoren/auerbach/@@images/857fb3ff-817d-4216-875f-632a519a9e8a.png" alt="silvio spottiswoode" title="silvio spottiswoode" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/auerbach" class="author ">silvio spottiswoode</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364942504676041">
+                  03.04.2013 |
+                  00:41</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364916954272911">
+                    <span data-in_reply_to="1364916954272911" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>uiuiui, das klingt bitter. Der Vergleich mit <em>Bundesbernd</em> ist fies, meine Liebe. Das Interview ist doch echt toll!</p>
+<p>Gibt es eine Kunstrichtung, die provokanter und schonungsloser ist, als Dada? Oder eine politischere Pop-Diva als Gaga? Komm' schon, Anne. :-)))</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin#1364942504676041">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/jaugstein">Jakob Augstein</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/jaugstein">
+          <img src="http://www.freitag.de/autoren/jaugstein/@@images/67bbc330-1b43-4895-9576-f7e3ba535c95.jpeg" alt="Jakob Augstein" title="Jakob Augstein" height="65" width="65" /></a>
+        
+      </div>
+      <div class="box">
+        Journalist und Gärtner in Berlin
+      </div>
+    </header><div class="details">
+      <div class="location">
+        Ort:
+        <span class="detail">Berlin</span>
+      </div>
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">02.02.2009</span>
+      </div>
+      <div class="last_login">
+        Letzter Login:
+        <span class="detail">05.03.2013</span>
+      </div>
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/jaugstein">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/jaugstein">217</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/jaugstein/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/jaugstein/@@kommentare">429</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/jaugstein/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/jaugstein/@@leser">26</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/jaugstein/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Jakob Augstein</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/jaugstein/krieg-und-frieden">
+              <span class="catchword">Zypern</span>
+              Krieg und Frieden </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/jaugstein/krieg-und-frieden">
+              <span class="comment-count" title=" 127 mal kommentiert">127</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/jaugstein/der-freitag-und-das-leistungsschutzrecht">
+              <span class="catchword">In eigener Sache</span>
+              Der Freitag und das Leistungsschutzrecht</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/jaugstein/der-freitag-und-das-leistungsschutzrecht">
+              <span class="comment-count" title=" 45 mal kommentiert">45</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/jaugstein/die-gewalt-der-moral">
+              <span class="catchword">Stéphane Hessel</span>
+              Die Gewalt der Moral</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/jaugstein/die-gewalt-der-moral">
+              <span class="comment-count" title=" 33 mal kommentiert">33</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1737&amp;ord=1364997535" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1737&amp;ord=1364997535" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1737&amp;ord=1364997535" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="catchword">Alltagskommentar</span>
+              Sunderlands Eigentor</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="author group-syndication">Matthew Goodwin</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="catchword">Promenadenkunst</span>
+              Auf der Spur der Steine </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="author group-authors">Kathrin Schrader</span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="catchword">Frankreich</span>
+              „Kompetenzen bedeuten für mich Würde“ </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="author group-authors">Maxi Leinkauf</span>
+              
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1738&amp;ord=1364997535" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1738&amp;ord=1364997535" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1738&amp;ord=1364997535" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Alltag";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Alltag",
+    objectid: "1b8bceb097d74ebcb8319db1d14d5ec5",
+    title: "„Ich bin zu weich für den Job“ ",
+    url: "http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin",
+    text: "Marina Weisband ist lieber Philosophin als Politikerin. Sie glaubt nicht an den Mythos ideologiefreier Zeiten, sondern an Beteiligung",
+    created_at: "1364428800"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

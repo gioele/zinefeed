@@ -1,0 +1,1934 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:58:51 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:52:15 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 122770
+Accept-Ranges: bytes
+X-Varnish: 557704509 557693368
+Via: 1.1 varnish
+X-Varnish-Age: 396
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Ideen ǀ Radikal und sinnlich  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Als „neudeutsch-preußischer Reichsmusikant“ wurde Richard Wagner von Karl Marx verspottet. Und doch teilten die beiden mehr als nur 70 Jahre gemeinsame Lebenszeit" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1676&amp;ord=1364997134" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1676&amp;ord=1364997134" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1676&amp;ord=1364997134" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1681&amp;ord=1364997134" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1681&amp;ord=1364997134" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1681&amp;ord=1364997134" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1677&amp;ord=1364997134" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Kultur</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=richard wagner">richard wagner</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=karl marx">karl marx</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=wagner-jahr">wagner-jahr</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=marxismus">marxismus</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=oper">oper</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=nibelungen">nibelungen</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=debatte">debatte</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 13/13</strong> vom 27.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Michael Jäger</span>
+        <div class="additional-info">
+          <span class="date">28.03.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 32 mal kommentiert">32</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Radikal und sinnlich </h1>
+
+        <p class="description">
+          <span class="catchword">Ideen</span>
+          Als „neudeutsch-preußischer Reichsmusikant“ wurde Richard Wagner von Karl Marx verspottet. Und doch teilten die beiden mehr als nur 70 Jahre gemeinsame Lebenszeit
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich/@@images/ed5235a5-9239-4d9b-92ff-6dd43632c7fe.jpeg" alt="Radikal und sinnlich " title="Radikal und sinnlich " height="282" width="445" /><p class="caption">Als „neudeutsch-preußischer Reichsmusikant“ wurde Wagner von Marx verspottet. Und doch war ihr Denken am Anfang ähnlich</p>
+            <p class="credit">Illustration: der Freitag, Material: United Archives/ imago</p>
+          </div>
+        
+
+        <div class="text"><p>Richard Wagner und Karl Marx zu vergleichen ist eine Sache, die sich geradezu aufdrängt. Nicht nur, weil sie fast gleichzeitig gelebt haben, Wagner von 1813 bis 1883, Marx von 1818 bis 1883. Sondern auch, weil sich ihre Gedanken noch um das Jahr 1848 herum stark ähneln.</p>
+<p>Man lese nur: Bei Richard Wagner „verbleibt“ dem Arbeiter davon, dass „er das Produkt seiner Arbeit von sich gibt“, „nur der abstrakte Geldwert“, und „so kann sich unmöglich seine Tätigkeit je über den Charakter der Geschäftigkeit der Maschine erheben“. Er ist ein „künstlicher Sklave, dem er bis jetzt diente wie der Fetischanbeter dem von seinen eigenen Händen verfertigten Götzen“. Dabei bleibt es aber nicht, denn „die brüderliche Menschheit“ wird eine Gesellschaft schaffen, in der „die Industrie nicht mehr unsere Herrin, sondern unsere Dienerin ist“. So steht es in Wagners <em>Kunst und Revolution</em> aus dem Jahr 1849. Die entsprechenden Marx’schen Formulierungen sind bekannt genug.</p>
+<p>In einem Punkt stimmen sie lebenslang überein: „Unser Gott aber ist das Geld“, schreibt der Komponist. „Das Geld ist der Gott unter den Waren“, schreibt der Philosoph in <em>Grundrisse</em> aus dem Jahr 1858.</p>
+<p>Beide beginnen mit demselben philosophischen Rüstzeug, bei Ludwig Feuerbach nämlich. Der Künstler, schreibt Wagner, geht von der „sinnlichen Welt“ aus; er kann nicht „aus dem Wesen des abstrakten Geistes“ Kunst schaffen. Das aber mutet ihm das Christentum zu, als dessen Erben Wagner die Industrie auffasst. Abstraktion statt Sinnlichkeit, darauf läuft es beim „Sklaven der Industrie“ hinaus, da dessen Tätigkeit nur dem „abstrakten Zweck der notdürftigen Erhaltung des Lebens“ gilt, „und so sehen wir mit Entsetzen in einer heutigen Baumwollenfabrik den Geist des Christentums ganz aufrichtig verkörpert“. Sinnlichkeit statt Abstraktion ist auch Marx‘ Kampfruf in seinen Jugendschriften. Sie haben ihn beide von Feuerbach entlehnt.</p>
+<h2>Kommunismus als Bund der Liebe</h2>
+<p>Schauen wir zu, wie Wagner die Sinnlichkeit musikalisch zur Geltung bringt. Man begreift es nicht immer leicht. Beim <em>Tannhäuser</em> meint man eher, hier solle Sinnlichkeit christlich verteufelt werden. Denn der Titelheld, der im „Sängerkrieg auf der Wartburg“ die sinnliche Liebe feiert, löst Entsetzen bei seinen christlichen Gastgebern aus, sodass er sich bekehrt und nach Rom fährt, um die Vergebung des Papstes zu erlangen. Wie kann jemand mit Wagners Gesinnung so etwas schreiben?</p>
+<p>Nun, wenn hier das Christentum so gut wegkommt, dann, weil Wagner Authentischeres in der deutschen Geschichte, zu der er sich bekennen will, nicht findet. So erklärt er selbst seine Haltung. Deshalb also wird ausgerechnet der Pilgerchor – und ihm folgend die Tannhäuser-Ouvertüre – zum Ort musikalischer Innovation. Die choralartige Komposition kann uns noch heute erschüttern, weil sie Sehnsucht ausdrückt. Sehnsucht wonach? Die Musik sagt es deutlich genug: sich fallen lassen zu dürfen. Das ist keine kirchliche Sehnsucht, eher allenfalls ein Appell an die Kirche, den die Pilger mit einer Inbrunst, die wie Höllenfeuer brennt, vor sich selbst verheimlichen.</p>
+<p>Die großen Musikdramen, besonders <em>Tristan und Isolde</em> aus den Jahr 1865, aber auch der <em>Ring des Nibelungen</em>, den Wagner 1852 gedichtet hat, bekennen sich ganz unverhüllt zur sinnlichen Liebe. Dass sie so im Zentrum steht, ist natürlich schon deshalb kein Wunder, weil Opern immer so waren.</p>
+<p>Ein weiterer Grund ist aber, dass Feuerbach den „Kommunismus“ als Bund der Liebe verstanden hatte. Davon wendet sich Marx bald ab, es ist in seinen Augen eine Phrase. Ein Satz wie „Ich liebe euch doch alle“ wäre nie über die Lippen des knurrigen Mannes gekommen. Wagner indes holt aus der herkömmlichen Opernliebe die Schicksalsmacht der antiken griechischen Tragödie, die er wiederbeleben will, heraus. Sein „Kommunismus“ besteht darin, sich „willig der großen Notwendigkeit“ unterzuordnen – das ist der tragische Eros –, statt in „egoistischer Ruhe“ zu verharren. „Große Notwendigkeit“: Die Liebe ist nicht nur Privatschicksal, sondern auch die tragische Triebkraft des Weltlaufs.</p>
+<p>So geht die Handlung des <em>Ring</em> davon aus, dass jemand durch Geld („Rheingold“) mächtig sein will und dafür den Preis zahlt, der Liebe zu entsagen. Auf solcher Basis erhebt sich zuletzt die Macht der Gibichungen, die „herrlich am Rhein sitzen“ wie die Ruhrindustriebarone. Gegen sie steht Siegfried, der die Liebe der göttlichen Brünnhilde erwirbt und von dem man erwartet, dass er der Welt neue Wege weist, nachdem er den alten Gott, Brünnhildes Vater, beiseitegeschoben hat. Doch kaum bei den Gibichungen angelangt, wird er auf Normalmaß zurechtgestutzt und scheitert. Man gibt ihm einfach eine neue Liebe und lässt ihn die alte vergessen. Der alten war er auf der Wiese begegnet. Die neue ist eine Palastdame.</p>
+<p>Mit solchen geistigen Mitteln, seien sie noch so verführerisch in Musik gegossen, lässt sich gewiss kein Staat machen oder abschaffen, schon gar nicht in Richtung „Kommunismus“. Nein, dazu muss man nachdenken. Wer nachdenkt, darf die Eiswüste der Abstraktion nicht scheuen. Marx sieht das bald ein, nur so konnte er Ökonomie studieren. Wagner hätte es auch einsehen können, denn auch die Musik arbeitet mit dem Abstrakten. Als eine Art Mathematik ist sie eine Kunst des Möglichen und Unmöglichen. Mathematisch kann gezeigt werden, wie ein Gegebenes transformiert werden kann, und darum geht es auch in Kompositionen. Die Oper allerdings hat davon recht wenig Gebrauch gemacht. Wagner, so sehr er sich von der Operntradition abwenden will, bleibt ein typischer Opernkomponist. Zwar ist die große symphonische Form seiner Musikdramen bewundernswert, doch das Spiel mit Varianten geht über untere Schwierigkeitsgrade nicht hinaus, selbst wo er parodistisch vorführen will, dass er könnte, wenn er wollte.</p>
+<h2>Marx’ Abstraktion</h2>
+<p>Im Ganzen bildet seine Musik doch nur Wirkliches statt Mögliches ab. Natürlich fragt auch Wagner als Revolutionär nach der besseren Welt, die möglich wäre. Als Musikant aber substituiert er das Mögliche durch den Gefühlsausdruck der Sehnsucht, das Unmögliche durch Frust und das Notwendige durch Pathos. Derart lässt sich dann auch der eigentlich unbekannte Lauf des Schicksals als Fakt auf die Bühne bringen. Das fällt umso leichter, als auch er durch Liebeshändel, solche der Götter, vorangetrieben wird. So muss sich Wotan (Zeus), der seine Tochter Brünnhilde (Athene) liebt, im Ring mit der Eifersucht seiner Gattin Fricka (Hera) herumschlagen. Bei Homer ist das ein Nebenmotiv, Wagner macht daraus die Hauptsache.</p>
+<p>Und doch, so erstaunlich es ist: Selbst in Wagners Musiksprache lässt sich die entscheidende „abstrakte“ Einsicht von Marx zum Ausdruck bringen. Die liegt in dem Satz der Grundrisse: „Das Kapital als solches setzt nur einen bestimmten Mehrwert, weil es den unendlichen nicht at once setzen kann; aber es ist die beständige Bewegung, mehr davon zu schaffen.“</p>
+<p>Wenn es zu Marx‘ und Wagners Lebzeiten eine schicksalhafte Notwendigkeit gab oder zu geben schien (und wenn es sie noch heute zu geben scheint), dann ist es diese des ökonomischen Wachstumszwangs. Davon hatte Wagner zwar keinen Begriff, ja nicht einmal eine Ahnung. Doch gelingt ihm in <em>Tristan und Isolde</em>, wenn er vertont, was „mir der Tag erweckt“, eine eindrucksvolle musikalische Versinnbildlichung des Falls ins Unendliche. Er hat inzwischen, also im Jahr 1854, Schopenhauer gelesen, der davon auch etwas zu sagen weiß, wenngleich nichts Ökonomisches.</p>
+<p>Das Schlimme ist nur, auch <em>Tristan und Isolde</em>, so sehr sie in die Nacht flüchten, kommen nur zwischendurch einmal zur seligen Ruhe. Wie es in der Natur der sinnlichen Liebe liegt, schwillt dann gleich wieder die Sehnsucht an, will sich Liebeswut unendlich ausdehnen. Wen wundert‘s, dass die beiden geradewegs in die vorbereitete Falle der Häscher des „Tages“ laufen.</p>
+<p>Im <em>Parsifal</em> von 1882 ist Klingsor der Haupthäscher und zugleich der teuflische Agent des Liebesverfallens, das jetzt per se eine Falle ist und als solche eingesetzt wird. Wagner konnte nicht mehr anders, als in der sinnlichen Liebe selber das Verhängnis zu sehen. Das ist das paradoxe, aber nachvollziehbare Endergebnis seiner Abstraktionsfeindschaft. Ins Heute übersetzt ist es die Vorstellung, der Kapitalismus sei so schlimm wie unüberwindlich: Schlimm, weil die Gier der Banker ihn vorantreibe, unüberwindlich, weil wir ja alle gierig sind, und gerade in dem, was uns wichtig ist – der sinnlichen Liebe.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (32)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364470460701350" name="1364470460701350"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michelangelo50">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michelangelo50" class="author ">Michelangelo50</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364470460701350">
+                  28.03.2013 |
+                  12:34</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ganz ehrlich? Ich verstehe den Artikel nicht...</p>
+<p>Warum kann man so etwas nicht so schreiben, dass ein normal gebildeter Mensch das auch versteht - aber vielleicht bin ich zu blöd..</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364470460701350">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364475550922735" name="1364475550922735"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/lethe">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/lethe" class="author ">Lethe</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364475550922735">
+                  28.03.2013 |
+                  13:59</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Da wäre ich nie drauf gekommen, Marx und Wagner in Bezug zu setzen.</p>
+<p>Davon unabhängig bezweifele ich allerdings, dass es bei Wagner ein systematisches Interesse an den Lebensbedingungen von irgendjemandem außer seiner selbst gegeben hat, von daher mögen sich solche Textpassagen finden lassen, aber es wäre zu prüfen, in welchem Kontext sie entstanden und welchem pathetischem Zweck sie dienten - irgendetwas anderes als Pathos vermag ich mir bei Wagner, offen gesagt, nicht vorzustellen. Und Bösartigkeit, in anderen Kontexten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364475550922735">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364493404884793" name="1364493404884793"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ed2murrow">
+                
+                  <img src="http://www.freitag.de/autoren/ed2murrow/@@images/dee710d1-ae8a-40ba-b8cc-33f10b1d5759.jpeg" alt="ed2murrow" title="ed2murrow" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ed2murrow" class="author ">ed2murrow</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364493404884793">
+                  28.03.2013 |
+                  18:56</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Der Gedanke der Gleichzeitigkeit und die darin enthaltenen Unterschiedlichkeiten ist faszinierend. Weil rekonstruiert, ist der Gedanke selbst Bühne. So muss sich ein Musiker (ein)fühlen, der Stücke spielt, die Generationen vor ihm entstanden: Interpretation.</p>
+<p>Gerne gelesen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364493404884793">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364519192623077" name="1364519192623077"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364519192623077">
+                  29.03.2013 |
+                  02:06</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364475550922735">
+                    <span data-in_reply_to="1364475550922735" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sie haben wahrscheinlich nicht Unrecht. In seinen Schriften um 1848 herum sieht Wagner sich im Proletarier noch selbst gespiegelt, als nicht anerkannter Künstler. Er schreibt „Wieland der Schmied“, wo es noch der Arbeiter selber ist, der seine Entfremdung überwindet. Doch schon in der <em>Ring</em>-Dichtung von 1852 ist aus Wieland der verächtliche Mime geworden, der die Trümmer des heiligen Schwertes nicht mehr zusammenzuschmieden vermag. Arbeiter und Künstler sind nun deutlich auseinandergetreten: Siegfried ist Künstler, <em>nicht</em> Arbeiter und <em>tötet</em> Mime. Nur er kann das Schwert schmieden.</p>
+<p>Aber ich glaube, das ist noch nicht der Punkt, wo man Wagner “kriegt“. Denn daß Künstler um sich selbst kreisen, ist der Lauf der Welt. Was sollen sie denn machen? Sie können ja nicht anders, als sich selbst irgendwie unheimlich vorzukommen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364519192623077">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364641835200226" name="1364641835200226"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/goedzak">
+                
+                  <img src="http://www.freitag.de/autoren/goedzak/@@images/b3ebd342-05d8-45a7-81c0-2cb5444f93b8.jpeg" alt="goedzak" title="goedzak" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/goedzak" class="author ">goedzak</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364641835200226">
+                  30.03.2013 |
+                  12:10</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364519192623077">
+                    <span data-in_reply_to="1364519192623077" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das macht Spaß zu lesen, originelles Thema, mit Wissen und Klugheit dargestellt - hast mich doch tatsächlich aus meiner Unlust zu einem Kommentar herausgelockt! :-))</p>
+<p>Und dann noch dieser Dein Kommentar: <em>Was sollen sie denn machen? Sie können ja nicht anders, als sich selbst irgendwie unheimlich vorzukommen.</em></p>
+<p>Wunderbar! :-)))</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364641835200226">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364642424884005" name="1364642424884005"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tlacuache">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tlacuache" class="author ">tlacuache</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364642424884005">
+                  30.03.2013 |
+                  12:20</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364641835200226">
+                    <span data-in_reply_to="1364641835200226" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das wurd' aber mal Zeit, Goedzak,</p>
+<p>schoen Sie hier zu sehen</p>
+<p><strong>;-)))</strong></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364642424884005">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364642775106472" name="1364642775106472"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/goedzak">
+                
+                  <img src="http://www.freitag.de/autoren/goedzak/@@images/b3ebd342-05d8-45a7-81c0-2cb5444f93b8.jpeg" alt="goedzak" title="goedzak" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/goedzak" class="author ">goedzak</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364642775106472">
+                  30.03.2013 |
+                  12:26</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364642424884005">
+                    <span data-in_reply_to="1364642424884005" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wenn schon <em>Sie</em>, dann auch <em>Herr goedzak</em>, bitte! :-)</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364642775106472">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364653763891940" name="1364653763891940"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/miauxx">
+                
+                  <img src="http://www.freitag.de/autoren/miauxx/@@images/680732b9-9df5-4d38-9728-193089b4a6db.png" alt="miauxx" title="miauxx" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/miauxx" class="author ">miauxx</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364653763891940">
+                  30.03.2013 |
+                  15:29</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sehr gern gelesen; sogar zweimal. Gibt mir noch zu denken, Ihr Artikel!</p>
+<p>Nur so viel schonmal: Es ist wohl tatsächlich im Wesen der Oper zu suchen, dass sie die fortgesetzte Abstraktion, Themenentwicklungen und -verwicklungen nicht leistet, nicht leisten kann und eben auch nicht leisten sollte. Obwohl: Vielleicht bei Alban Berg, der es immerhin vermochte, sogar Opern zwölftönig zu komponieren und die Dodekaphonie zu ungeahnter Sinnlichkeit führte ...?</p>
+<p>Andererseits stünde zu fragen, ob Musik mit hohen Abstraktionsstufen - Sonaten, Sinfonik - wiederum tatsächlich geeignet wäre oder ist, sich somit gesellschaftlich, gar politisch, zu äußern? Ich glaube das eher nicht. Vielleicht bin ich aber auch zu sehr Anhänger der Idee absoluter Musik ...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364653763891940">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364664194281723" name="1364664194281723"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/toga">
+                
+                  <img src="http://www.freitag.de/autoren/toga/@@images/4c9cd9f9-89e0-4300-b451-40455d8c9872.jpeg" alt="Toga" title="Toga" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/toga" class="author ">Toga</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364664194281723">
+                  30.03.2013 |
+                  18:23</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Naja, es bringt nicht wirklich was, Äpfel mit Birnen zu vergleichen - auch wenn sie zur selben Zeit gewachsen sind.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364664194281723">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364669047894128" name="1364669047894128"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364669047894128">
+                  30.03.2013 |
+                  19:44</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364653763891940">
+                    <span data-in_reply_to="1364653763891940" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ja, das ist die interessante Frage. Aber hat nicht Beethoven das "abstrakte" Potential voll ausgespielt - und wollte trotzdem politisch wirksam sein? Gerade auf Beethoven glaubte sich Wagner berufen zu können, doch er hat mehr den Gestus gesehen als dessen "abstraktes" Zustandekommen.</p>
+<p>Was Avantgarde- und aktuelle Musik angeht,  so ist sie wohl generell von ihren Mitteln her fähig, abstrakte "Konstruktion" in inhaltliche, auch sinnfällige Aussage zu überführen, denke ich. Beat Furrer ist für mich der Beweis. (Und by the way, es wird ja gemunkelt, Pierre Boulez sei seit Jahren dabei, eine Oper "Warten auf Godot" zu schreiben. Wenn das stimmt, das wäre auch sehr politisch.)</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364669047894128">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364669179915659" name="1364669179915659"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364669179915659">
+                  30.03.2013 |
+                  19:46</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364669047894128">
+                    <span data-in_reply_to="1364669047894128" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>(Das wirft jetzt natürlich die Frage auf, wie Beethoven selbst in seiner Oper verfahren ist.)</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364669179915659">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364671712057335" name="1364671712057335"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/drhwenk">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/drhwenk" class="author ">drhwenk</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364671712057335">
+                  30.03.2013 |
+                  20:28</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wagner wurde von Hitler instrumentalisiert. Da ist Marx ästheitisches Urteil gerdezu genial, wenn man Wagners Zustimmung in vielem zu ihm bedenkt. Noch besser ist, dass Nietzsche das Wagner Verdikt teilt. Leipzig war auch eine sozialistische Printhochburg. </p>
+<p>Der große Ästhtet Nietzsche als "Folger" des  von ihm verhassten Sozialisten Marx in ÄSTHETISCHEN Fragen. (Ästhesis heisst sinnlich, von den Sinnen herkommend, auf griechisch). </p>
+<p>Die Welt war damals schon ein Dorf. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364671712057335">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364671719435014" name="1364671719435014"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/drhwenk">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/drhwenk" class="author ">drhwenk</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364671719435014">
+                  30.03.2013 |
+                  20:28</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wagner wurde von Hitler instrumentalisiert. Da ist Marx ästheitisches Urteil gerdezu genial, wenn man Wagners Zustimmung in vielem zu ihm bedenkt. Noch besser ist, dass Nietzsche das Wagner Verdikt teilt. Leipzig war auch eine sozialistische Printhochburg. </p>
+<p>Der große Ästhtet Nietzsche als "Folger" des  von ihm verhassten Sozialisten Marx in ÄSTHETISCHEN Fragen. (Ästhesis heisst sinnlich, von den Sinnen herkommend, auf griechisch). </p>
+<p>Die Welt war damals schon ein Dorf. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364671719435014">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364671722711253" name="1364671722711253"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/drhwenk">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/drhwenk" class="author ">drhwenk</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364671722711253">
+                  30.03.2013 |
+                  20:28</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wagner wurde von Hitler instrumentalisiert. Da ist Marx ästheitisches Urteil gerdezu genial, wenn man Wagners Zustimmung in vielem zu ihm bedenkt. Noch besser ist, dass Nietzsche das Wagner Verdikt teilt. Leipzig war auch eine sozialistische Printhochburg. </p>
+<p>Der große Ästhtet Nietzsche als "Folger" des  von ihm verhassten Sozialisten Marx in ÄSTHETISCHEN Fragen. (Ästhesis heisst sinnlich, von den Sinnen herkommend, auf griechisch). </p>
+<p>Die Welt war damals schon ein Dorf. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364671722711253">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364729790449434" name="1364729790449434"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/prinz-rupi">
+                
+                  <img src="http://www.freitag.de/autoren/prinz-rupi/@@images/94ee0f50-f81a-4e02-8aee-57d0ca0ccca2.jpeg" alt="Prinz Rupi" title="Prinz Rupi" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/prinz-rupi" class="author ">Prinz Rupi</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364729790449434">
+                  31.03.2013 |
+                  13:36</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wagners »Botschaft« erschließt sich aus der Kenntnis seines Werkes; er träumt von einem freien, selbstbestimmten Menschen, der sich nicht länger knechten und unterdrücken lässt. Für mich ist das eine Vision, die heute ebenso aktuell ist wie vor 150 Jahren.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364729790449434">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364744915260860" name="1364744915260860"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/columbus">
+                
+                  <img src="http://www.freitag.de/autoren/columbus/@@images/39a8569d-3afc-49d1-8b2c-a7e04067f236.jpeg" alt="Columbus" title="Columbus" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/columbus" class="author ">Columbus</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364744915260860">
+                  31.03.2013 |
+                  17:48</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das ist ein höchst anregender Ansatz, Marx und Wagner auf der Suche nach den dionysischen und apollinischen Inhalten der Musik.</p>
+<p>Es ist ein winterliches Frühjahr und die Auferstehung der Natur verspätet sich, auch weil Ostern so früh liegt.</p>
+<p>Professor Lindley, ein Musikwissenschaftler mit Interesse für Marx und Engels, schreibt amüsant zuerst über Engels und Musik, der "General" hatte wohl die besseren musiktheoretischen und praktischen Kenntnisse, und dann über den "Mohren" Marx, der im dionysischen Rausch einer "Bierreise" entlang der Gin lane und der Beer street auch schon einmal in eine veritable Wirtshausschlägerei verwickelt sein konnte, bei der er die Überlegenheit der Deutschen, weil sie Musik hätten, gegenüber den Engländern, die diesbezüglich nur leihen müssten, betonte (Marx ein Frühnationalist, bevor er International wurde. Engels behielt leider dies nationale und auch manches Mal verbohrte Haltung in bestimmten Wissensfragen rund um die Natur).</p>
+<p>Engels sang und  komponierte in seiner Jugend. Marx dichtete wohl lebenslang. Beide schwärmten sie für Bach, Händel,Gluck, Haydn, Mozart, Beethoven und Liszt, den Engels, in unglaublich komischer Manier, während seiner Berliner Zeit beschreibt.</p>
+<p>Liszt, ein  Beatle seiner Zeit, war wegen seiner Virtuosität und Jugend, vor allem wegen seines Haarstiles, à la Kamtschatka (Engels in einem Brief), der Schwarm der Salons. Die Frauen schlugen sich um einen Platz nah bei ihm oder zumindest um eine Devotionalie. Eine Verehrerin füllte den Rest seines Tees in ihren Eau de Cologne- Flakon und stellte die Beute als Hausaltärchen auf.</p>
+<p>Engels schätzte zumindest auch Pergolesi (Stabat mater) und Marx und Engels wohl auch Mendelssohn-Bartoldy und Chopin.</p>
+<p>Was sie nicht mochten, das waren zeitgenössische französische Opern, englische Musik und Musiktheater.</p>
+<p>Was nun Marx angeht, so erinnere ich mich an die philsophisch-ökonomischen Manuskripte, in denen Marx ganz ausdrücklich betont, dass zur Gattung, zum Wesen der Gattung, nicht nur die Nutzung der fünf bekannten Sinne gehört, sondern auch die "Sinnlichkeit", die wie eine Art sechster Sinn, erst Ästhetik, Kunst und Liebe möglich und fruchtbar machen. Diese Sinnlichkeit, mit der affiziert zu sein, unser Glück ist, wird über Schiller, Marx, Korsch und Marcuse in die 68er- Bewegung transportiert. - Samen, die spät aber entschieden aufgingen und heute manches Mal verteufelt werden.</p>
+<p>((("Der siebte Sinn", war das nicht was für Autofahrer?)))</p>
+<p>Also müssen materielle Basis und Überbau, genau in dieser Verschränkung auch gedacht werden und nicht als in einem Überordnungs-Unterordnungsverhältnis.</p>
+<p>Auch wenn heute das Bayreuther Festspielhaus zu Recht einer Kritik ausgesetzt wird, bessere Inszenierungen finden regelmäßig woanders statt, die Praxis aus Bayreuth einen Treff der Medien und PolitikProminenz zu machen wird derzeit nur mühsam durch Public viewing und ein paar Sozialkarten übertüncht, und Wagners Idee eines Ortes für Bühnenweih-Festspiele nicht nur wegen der Affenliebe seiner Nachkommen zu konservativen und rechten Eliten umstitten ist, so stimmt schon, dass die Wasserscheide für Wagners revolutionären und demokratischen Anteil die gescheiterte Revolution von 1848/1849 darstellt. Danach war es, auch wegen der Pinke, Pinke, schwer, mit sozialen und sozialistischen Ideen als Musikkünstler nicht unter zu gehen.</p>
+<p>So neu ist Wagners Festspielidee allerdings nicht. Hier hilft Mark Lindley weiter, der lange Passagen aus Engels Artikel in der Rheinische Zeitung vom 14 Mai 1842 zitert, in denen der das traditionelle Rheinische  Frühjahrs-Musikfestival zur "Whitsun" als fröhliche Wiederkehr der Baccanalien und Panathenaeen feiert.</p>
+<p>Wie es die List der Geschichte will, ist aber gerade London die Stadt, in der zuerst, bald in einer einzigartigen Breite, übrigens auch zu, in der Konkurrenz bald inflationär billigen Preisen, erstmals Musik und Musiktheater einer breiten Öffentlichkeit zugänglich wurden. Darum zog die Stadt mit ihren Impresarios ja auch Händel, Telemann, Hadyn. </p>
+<p>To whom it may concern:</p>
+<p>der Nachdruck des 70er Jahre- Lindley-Artikels in deutscher Übersetzung, aus der Zeitschrift  aus <span>„Aufklärung und </span><span> Kritik“ </span></p>
+<p><a href="http://www.academia.edu/1182335/Marx_und_Engels_uber_die_Musik">http://www.academia.edu/1182335/Marx_und_Engels_uber_die_Musik</a></p>
+<p> </p>
+<p>Belle and Sebastian, "Marx and Engels", mit einem verdammt guten Text:</p>
+<p><a href="http://www.youtube.com/watch?v=D5ihsxw_1n0">http://www.youtube.com/watch?v=D5ihsxw_1n0</a></p>
+<p>Beste Grüße und möge das Frühjahr kommen</p>
+<p>Christoph Leusch</p>
+<p> </p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364744915260860">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364802682607270" name="1364802682607270"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/magda">
+                
+                  <img src="http://www.freitag.de/autoren/magda/@@images/4c9e967f-abee-4303-a639-53baed89a11e.jpeg" alt="Magda" title="Magda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/magda" class="author ">Magda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364802682607270">
+                  01.04.2013 |
+                  09:51</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>"Mit solchen geistigen Mitteln, seien sie noch so verführerisch in Musik gegossen, lässt sich gewiss kein Staat machen oder abschaffen, schon gar nicht in Richtung „Kommunismus“. Nein, dazu muss man nachdenken. Wer nachdenkt, darf die Eiswüste der Abstraktion nicht scheuen. Marx sieht das bald ein, nur so konnte er Ökonomie studieren."</em></p>
+<p>Ich frage mich allerdings, wieso die Abstraktion eine Eiswüste ist. Und wenn sie es ist, dann macht sie vielleicht auch das Konkrete zu Eis und damit scheitert dann immer alles. So ganz klar ist mir das alles nicht. Ich fange gerade an, mich für Wagner zu interessieren. </p>
+<p>Es gibt eine schöne Sendefolge <a href="http://www.kulturradio.de/suche/index.html">ü</a><span>ber Richard Wagner bei Kulturradio vom rbb </span></p>
+<p>Autor ist Peter Wapnewski</p>
+<p><a href="http://www.kulturradio.de/programm/schema/sendungen/richard_wagner.html">http://www.kulturradio.de/programm/schema/sendungen/richard_wagner.html</a></p>
+<p>Der folge ich mit großem Interesse</p>
+<p> </p>
+<p> </p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364802682607270">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364805409770769" name="1364805409770769"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364805409770769">
+                  01.04.2013 |
+                  10:36</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364802682607270">
+                    <span data-in_reply_to="1364802682607270" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wapnewski ist ein großartiger Mann. Ich war als Student in seiner Vorlesung. Jetzt wo Du ihn erwähnst, sehe ich, daß er im Dezember gestorben ist.</p>
+<p>„Eiswüste der Abstraktion“ ist ein Zitat: Als Walter Benjamin ein Manuskript Adornos las, äußerte er zustimmend, „man müsse durch die Eiswüste der Abstraktion hindurch, um zu konkretem Philosophieren bündig zu gelangen“. Gemeint ist, daß es vielleicht nicht unbedingt Spaß macht, sich mit dem Abstrakten herumzuschlagen, so wie es nicht unbedingt ein Vergnügen ist, sich in einer Eiswüste aufzuhalten, aber wenn der Garten, zu dem man hinstrebt, nun einmal nur zu erreichen ist, wenn man sie durchquert, es dann eben geschehen muß. Man kann sagen, Benjamin spielt hier auf zwei weitere Zitate an und verschmilzt sie ineinander, einmal die Bemerkung von Marx, daß seine Methode der Darstellung in <em>Das Kapital</em> eine des „Aufsteigens vom Abstrakten zum Konkreten“ sei und zum andern die Sätze von Hegel: „Der Tod, wenn wir jene Unwirklichkeit so nennen wollen“ – die Unwirklichkeit des Abstrakten -, „ist das Furchtbarste, und das Tote festzuhalten das, was die größte Kraft erfordert. Die kraftlose Schönheit haßt den Verstand, weil er ihr dies zumutet, was sie nicht vermag. Aber nicht das Leben, das sich vor dem Tode scheut und von der Verwüstung rein bewahrt“ – hier hast Du die Wüste -, „sondern das ihn erträgt und in ihm sich erhält, ist das Leben des Geistes. Er gewinnt seine Wahrheit nur, indem er in der absoluten Zerrissenheit sich selbst findet.“ Oder in der absoluten Kälte, wenn man im Bild der Eiswüste bleiben will.</p>
+<p>Gegen das Abstraktionspathos bei Hegel hatte sich Feuerbach gerade gewandt, und mit ihm anfänglich Marx. Als er aber <em>Das Kapital</em> schreibt, sagt er, er habe Hegels Logik wieder durchgesehen und nützlich gefunden, und gleich im Vorwort liest man: „Bei der Analyse der ökonomischen Formen kann [...] weder das Mikroskop dienen noch chemische Reagentien. Die Abstraktionskraft muß beide ersetzen.“</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364805409770769">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364805920788938" name="1364805920788938"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/magda">
+                
+                  <img src="http://www.freitag.de/autoren/magda/@@images/4c9e967f-abee-4303-a639-53baed89a11e.jpeg" alt="Magda" title="Magda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/magda" class="author ">Magda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364805920788938">
+                  01.04.2013 |
+                  10:45</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364805409770769">
+                    <span data-in_reply_to="1364805409770769" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><span>Danke bildungsbegüterter Herr Jäger. War mir sehr interessant. Nachfragen lohnt sich also - sage ich mal nach oben an andere Stelle. </span></p>
+<p><span>Dass Peter Wapnewski gestorben ist, wusste ich nicht, aber seine Sendung ist absolut große Klasse. </span></p>
+<p><em><strong> "Gemeint ist, daß es vielleicht nicht unbedingt Spaß macht, sich mit dem Abstrakten herumzuschlagen, so wie es nicht unbedingt ein Vergnügen ist, sich in einer Eiswüste aufzuhalten, aber wenn der Garten, zu dem man hinstrebt, nun einmal nur zu erreichen ist, wenn man sie durchquert, es dann eben geschehen muß."</strong></em></p>
+<p>Und das weckt in mir auch gleich wieder konkrete Assoziationen: Die Eiswüste - die Mühen der Ebenen - auf dem Weg zu... ach wie vertraut. Auch das Denken ist also auf dem Weg in eine Utopie. Huch?</p>
+<p>Und andererseits stimmt das wieder nicht. Denken hat auch was Sinnliches, finde ich. Erkenntnis unbedingt. Aber, ich bin jetzt natürlich methodisch hier mehr so am Beinebaumeln. </p>
+<p>Frohe Restostern</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364805920788938">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364806583561318" name="1364806583561318"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364806583561318">
+                  01.04.2013 |
+                  10:56</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364805920788938">
+                    <span data-in_reply_to="1364805920788938" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Denken hat auch was Sinnliches", unbedingt. Und wichtig ist, was André Gorz gegen die sog. Künstliche Intelligenz schrieb, sinngemäß: daß nur sinnliche Wesen mit Abstraktionskraft ausgestattet sein können.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364806583561318">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364806700320882" name="1364806700320882"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/magda">
+                
+                  <img src="http://www.freitag.de/autoren/magda/@@images/4c9e967f-abee-4303-a639-53baed89a11e.jpeg" alt="Magda" title="Magda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/magda" class="author ">Magda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364806700320882">
+                  01.04.2013 |
+                  10:58</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364806583561318">
+                    <span data-in_reply_to="1364806583561318" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>daß nur sinnliche Wesen mit Abstraktionskraft ausgestattet sein können.</em></p>
+<p><a href="/autoren/michael-jaeger/radikal-und-sinnlich/reply-to-comment?form.widgets.in_reply_to=1364806583561318" title="Kommentar beantworten">S</a>chöne Dialektik. Achja, das leuchtet ....ein. :-)))</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364806700320882">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364807653757119" name="1364807653757119"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364807653757119">
+                  01.04.2013 |
+                  11:14</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364744915260860">
+                    <span data-in_reply_to="1364744915260860" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Danke für die interessanten Dinge!</p>
+<p>„Dionysische und apollinische Inhalte“: Tatsächlich führen gerade vom frühen Wagner die Wege zu Nietzsche. Manches was man für typisch „Nietzsche“ hält, scheint nur ans philosophische Publikum weitergegebene Wagner-Prteilichkeit zu sein.</p>
+<p>Ja, die Sinnlichkeit ist ganz zentral in den Philosophisch-ökonomischen Manuskripten. Und sie ist es ja auch wirklich. Aber wenn sie zum Gegner der „Abstraktionskraft“ (siehe den Kommentar zu Magda) gemacht wird, wird’s problematisch. In der 68-Bewegung kam das Sinnliche aus damals aktuelleren Quellen, glaube ich, Psychoanalyse, Wilhelm Reich; auch wurde die immer noch herrschende CDU-Kulturpolitik als prüde und verlogen bekämpft (man erinnere sich an die damals wichtige Satirezeitschrift <em>Pardon</em>). Darauf, eine Gegnerschaft zum abstrakten Denken daraus abzuleiten, wäre aber gerade damals niemand gekommen. Im Gegenteil, dieselben Studenten, die die „sexuelle Revolution“ veranstalteten, waren Adorno-Schüler, entdeckten Benjamin neu usw., und wenn ich heute lese, in welchen Abstraktionsgefilden sich eine damals typische Figur wie Hans-Jürgen Krahl bewegte, wird’s selbst mir zu unbunt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364807653757119">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364807734980520" name="1364807734980520"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364807734980520">
+                  01.04.2013 |
+                  11:15</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364806700320882">
+                    <span data-in_reply_to="1364806700320882" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Und auch Dir frohe Restostern!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364807734980520">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364856574211738" name="1364856574211738"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/drhwenk">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/drhwenk" class="author ">drhwenk</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364856574211738">
+                  02.04.2013 |
+                  00:49</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>zu marx zeiten wurde das deutsche kaiserreich errichtet, auf den trümmermn der pariser kommune und wagner lässt die feudalistische rittergesellschaft, einschlisslich mittelater christentum  wieder in der oper aufleben. rossini musste in rente gehen, weil er zuviel adelskrtik einbaute. die damaligen extrem harten politischen klasssenkämpfe machten polarisirend sehr viel schnell klarer.  nietrzsche hazt indirekt die klssenkämpfe als 2ultima ratio" der gesellscchaft auch vrtetenn, nur von der herrscherseite her. dazu radilkalisierte er  die christentumskritik,. sein prophezeung, mit so einer "deutschen  idelogie" werden sdie deutschen schiffbruch erleiden, hat sich dann ja auch erfüllt.  wen marx und niezsche das schon damAKLS WUSSRT.; WAS FÜR BRUTLNSKI IDIOTEN HATTEN WIR DANN DANACH ALS "ELITE": dahre der spruch:...  und goethe ist tot... :: </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364856574211738">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364860930037774" name="1364860930037774"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/joachim-petrick">
+                
+                  <img src="http://www.freitag.de/autoren/joachim-petrick/@@images/4fe8c8dc-d291-47e9-bd68-7123726ef0ff.jpeg" alt="Joachim Petrick" title="Joachim Petrick" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/joachim-petrick" class="author ">Joachim Petrick</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364860930037774">
+                  02.04.2013 |
+                  02:02</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Lieber Michael,Dir ist einmal mehr Dein verbalisierender Spaß an der Freude, ansteckend mit spektakulären Vergleichen zu hantieren, in dem vorliegenden Text anzumerken. Das hat etwas ungemein säkular Österliches.„Wünsche Frohe Ostern gehabt zu haben!“Karl Marx und Richard Wagner stehen, neben den Vergleichen, die Du interessanterweise hier, fächerübergreifend, historisch anstellst, n. m. E. noch in einem ganz anderen Vergleich, nämlich dem, dass sowohl Musik als auch Ökonomie, mit Geräusch verbunden sein müssen, damit sie die Schlösser, Burgen, wie Hütten gleichermaßen in ihren Auswirkungen, Takten, Rhythmen, Zyklen erreichenKarl Marx hat das Trommeln, hat das , theoretisch unterlegte, Tamtam Palaver in der Ökonomie, Richard Wagner das, kompositorisch fundierte Tamtam, das tonale Palaver in der Opern Musik eingeführt, während das Kapital bis heute , medial befeuert , ungebrochen dabei ist, das gesellschaftspolitische  Tamtam, Trommeln, Palaver aus der Ökonomie verbannend, der allgemein politischen Meinungs- und Willensbildung herauszunehmen, um unsichtbar in aller Stille, ungestört Fakten zu schaffen, die dann umso ungebremster und destruktiv aufgeladen, erdbebenartig, in Krisen- , Katastrophen, Kriegs Getöse und Donner und Blitzen zerstörerisch zu entladen.Was den Lärm angeht, scheint Richard Wagner seine Enkel im Rock Blues, Soul, Reggea, Tango, Classic, auf Open Air Festivals, in Filmen wie Odyssee 2000 von Stanley Kubrick gefunden, während Karl Marx erst jetzt gerade in der Occupy Bewegung einmal mehr, nach all der seltsam ökonomischen Stille im bunten Blätterwald, auch hier im Freitag, auf den Lärm, das Palaver, den Tamtam, das Trommeln  seiner Enkel setzt.„Wer nachdenkt, darf die Eiswüste der Abstraktion nicht scheuen. Marx sieht das bald ein, nur so konnte er Ökonomie studieren. Wagner hätte es auch einsehen können, denn auch die Musik arbeitet mit dem Abstrakten. Als eine Art Mathematik ist sie eine Kunst des Möglichen und Unmöglichen“Es will mir scheinen, dass die Musik mehr an belastbar möglicher Abstraktion hergibt, denn die Ökonomie, die voller Launen unterwegs, diese nicht einmal als emotionale Ausstattung ihrer „unischtbaren Hand“ genannt wissen will. Was sowohl der Musik als auch Ökonomie zum Wohle der Mehrung und gerechten Verteilung des Wohlklanges, des Reichtums der Völker, der Realisierung des Möglichen innewohnt, ist das, was Liebe zum Nestbau anregt, ist kooperierende Verantwortung durch Arbeitsteilung für etwas orchestral Gemeinsames.Da erweist sich, das, was Karl Marx als Kapital identifiziert, mit seinen dynamischen Mechanismen als Triebfeder zur Feindschaft gegenüber dem, was wir gemeinhin gesellschaftlich „Verantworteter Ökonomie“ zum Wohle der Gemeinschaft der Völker heißen, die Namen und Formen der Liebe für alles, was da fleucht, kreucht, wächst oder einfach als Ressource vorhanden ist, ausgetrieben sind.Dem Kapital wohnt keine Liebe inne, nicht weil das Kapital ein Abstraktum ist, sondern weil das aus allen gesellschaftlichen Wurzeln gekappte und Fugen gekratzte Kapital als Mehrwert zum Vagabunden geworden, über Deregulierung aller Märkte beständig unbeständige computergesteuert hochfrequente Takt Bewegung anstrebend, mehr davon zu schaffen, kapitalblind, auf Zeit voller emotionaler Krisen Unwucht wie Wucht seiner Träger, Eigner, Akteure die Vernichtung von Kapitalwerten riskiert, um daraus, wie Phönix aus der Asche, eben aus der Asche „erloschener Schulden“ gar dem enteigneten Vermögen vorheriger Gläubiger, neues Kapital zu generieren</p>
+<p> </p>
+<p>Dass Dich bisweilen der Wortwitz, bei allem Tiefgang dieses Textes, auch ins Leichte trägt, zeigt sich sinngemäß in Deinem Marx direkt,  wie Wagner indirekt vereinnahmenden Satz</p>
+<p>„..der knorrige Karl  Marx hätte nie den Satz</p>
+<p>„Ich liebe euch doch alle!“</p>
+<p>über seine Lippen gebracht“</p>
+<p>Richard Wagner mit Sicherheit auch nicht.</p>
+<p>Dass Du diesen Satz Erich Mielkes bei seiner letzten Rede vor der DDR Volkskammer im Winter 1989/1990 hier, ohne Quellenangabe, so ent- historisiert zum Besten gibst, lässt nur zwei Vermutungen zu, außer Dir fällt noch eine weitere ein,</p>
+<p>Du bist ab und zu als ausgemachtes „Schlitzohr“ zwischen den Zeilen unterwegs, oder Du bist bereit und fähig, für eine gute Pointe, Unrat und Ballast abwerfend, auch schon einmal für den Zeitraum einer Freitag Wochenausgabe Deinen, vielseitig anerkannt „Summa cum laude“ rundum guten Ruf zu riskieren?</p>
+<p>Ich sag mal “Ich hab es gesehen!“</p>
+<p>Danke für die, fundiert anregend, gute Unterhaltung</p>
+<p>Tschüss</p>
+<p>Jochen</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364860930037774">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364862311745634" name="1364862311745634"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364862311745634">
+                  02.04.2013 |
+                  02:25</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364860930037774">
+                    <span data-in_reply_to="1364860930037774" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Kommunismus als Liebe: Feuerbach und Wagner <em>haben</em> den Satz über die Lippen gebracht. Wagner hätte Mielke sicher nicht <em>gewollt</em> (und auch  Hitler hätte er nicht gewollt), aber die Vorstellung von Kommunismus als öffentlicher Liebe reißt <em>faktisch</em> Schutzdämme weg vor solchen wie Mielke und seiner Institution, die z.B. bei Kant festgefügt stehen. Denn bei Kant lesen wir sinngemäß, eine Verfassung müsse so eingerichtet sein, daß sie auch in einem Volk von Teufeln funktionieren würde.  Stocknüchterner Mann, wie auch Marx einer war! Ein Fall von öffentlicher Liebe, Sorge für unser Seelenheil, ist schon die heilige Inquisition gewesen - Gott bewahre uns davor.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364862311745634">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364864268874453" name="1364864268874453"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/joachim-petrick">
+                
+                  <img src="http://www.freitag.de/autoren/joachim-petrick/@@images/4fe8c8dc-d291-47e9-bd68-7123726ef0ff.jpeg" alt="Joachim Petrick" title="Joachim Petrick" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/joachim-petrick" class="author ">Joachim Petrick</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364864268874453">
+                  02.04.2013 |
+                  02:57</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364862311745634">
+                    <span data-in_reply_to="1364862311745634" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p> </p>
+<p>„Ein Fall von öffentlicher Liebe, Sorge für unser Seelenheil, ist schon die heilige Inquisition gewesen - Gott bewahre uns davor.“</p>
+<p>Das ist wohl wahr und klar.</p>
+<p>Aber ist das mit dem Wort „Kommunismus als Liebe“, wenn ja, in welcher Form, in welcher Ausgestaltung und Richtung, still und stumm oder laut trommelnd und präsent für die Sache der Liebe als Schöpferischer Urkraft mit vielen Verästelungen gemeint?</p>
+<p>Welche Bedeutung hat der „Lärm“ um öffentliche Angelegenheiten, Partizipation und Präsenz an und von Musik, Ökonomie nach Deiner Einschätzung?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364864268874453">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364895442883359" name="1364895442883359"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/anne-monen">
+                
+                  <img src="http://www.freitag.de/autoren/anne-monen/@@images/4794e42c-3beb-4905-a8cc-c7dc386ff7a7.jpeg" alt="anne mohnen" title="anne mohnen" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/anne-monen" class="author ">anne mohnen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364895442883359">
+                  02.04.2013 |
+                  11:37</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364856574211738">
+                    <span data-in_reply_to="1364856574211738" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>„Wagner wurde von Hitler instrumentalisiert?“</em></p>
+<p>Fakt ist, dass die Kapitalismuskritik Wagners bereits um die 1848-50 Jahre mit explizitem Antisemitismus einhergeht<em> (Richard Wagner. Briefe. </em>Ausgewählt, eingeleitet und kommentiert von Hanjo Kesting. München, 1986). Wagners Kapitalismuskritik kolportiert das Voruteil vom „raffgierigen jüdischen Bankier, resp. jüdischen Weltkapitalismus. Zieht man dann in Rechnung, dass Cosima Wagner eine überzeugte Antisemitin war (Cosima Wagner. <em>Das zweite Leben. Briefe und Aufzeichnungen 1833-1930</em>, München: Piper Verlag), kann von einer „Instrumentalisierung“ durch Hitler nicht mehr die Rede sein. Die Linie Richard, Cosima bis hin zur unsäglichen Winifred Wagner ist ungebrochen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364895442883359">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364921591759468" name="1364921591759468"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/joachim-petrick">
+                
+                  <img src="http://www.freitag.de/autoren/joachim-petrick/@@images/4fe8c8dc-d291-47e9-bd68-7123726ef0ff.jpeg" alt="Joachim Petrick" title="Joachim Petrick" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/joachim-petrick" class="author ">Joachim Petrick</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364921591759468">
+                  02.04.2013 |
+                  18:53</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364862311745634">
+                    <span data-in_reply_to="1364862311745634" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>iener Michael,</p>
+<p>ich würde mich freuen, wenn Du einen kommentierenden Blick auf meinen folgenden Artikel zu "Marx&amp;Wagner" wirfst.</p>
+<p>Danke!</p>
+<p> </p>
+<p><a href="/autoren/joachim-petrick/krachend-und-vernehmlich">https://www.freitag.de/autoren/joachim-petrick/krachend-und-vernehmlich</a></p>
+<p>Joachim Petrick</p>
+<p>02.04.2013 | 16:52</p>
+<p>Krachend und vernehmlich</p>
+<p>Marx&amp;Wagner, die klammheimlichen Kompagnons der “Krachmacher GmbH“, der eine, kommunistisch manifestiert hier, der andere orchestriert, um der Sache der Liebe willen, da?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364921591759468">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364928422887255" name="1364928422887255"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/joachim-petrick">
+                
+                  <img src="http://www.freitag.de/autoren/joachim-petrick/@@images/4fe8c8dc-d291-47e9-bd68-7123726ef0ff.jpeg" alt="Joachim Petrick" title="Joachim Petrick" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/joachim-petrick" class="author ">Joachim Petrick</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364928422887255">
+                  02.04.2013 |
+                  20:47</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364895442883359">
+                    <span data-in_reply_to="1364895442883359" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>War der Antisemitismus Richard Wagners nicht in erhebichen Teilen eher der Art eines innerjüdischen „Antisemitismus“, der sich vom Jüdisch Orthodoxen abzugrenzen suchte, um „entfesselt“ ergriffen an den Prozessen der Aufklärung im Wege der Industriellen Revolution ungebremst partizipieren zu können?</p>
+<p>Udo Bermbachs Buch „Mythos Wagner“, das Richard Wagner links zu verorten sucht, findet Erwähnung (S. 118) in der Spiegel Titelgeschichte dieser Woche:“200 Jahre Richard Wagner „Das wahnsinnige Genie“ (DER SPIEGEL 14- 113- 2013</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364928422887255">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364976774043544" name="1364976774043544"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364976774043544">
+                  03.04.2013 |
+                  10:12</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364653763891940">
+                    <span data-in_reply_to="1364653763891940" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich hab mir vor ein paar Tagen mal Beethoven unter dem Gesichtspunkt angehört. D.h. Teile seiner Oper, im Vergleich mit Wagner. In der ersten Szene der <em>Meistersänger</em> wird’s ja ein bißchen polyphon usw. (ich glaube, nach „Nein! nicht dies Wort“). Aber man nehme die erste <em>Fidelio</em>-Szene, das Duett! Hier spielt Beethoven alles an „durchbrochener“ Arbeit usw. aus, was den Sonatensatz ausmacht, und es ist auch eine Art Sonatensatz (in dem Moment, wo die junge Dame, die den Heiratsantrag abwehrt, „Jetzt fängt er schon wieder an“ singt, beginnt die Repris...). Interessant auch der ganze letzte Akt, durch den hindurch die Vervielfältigung eines ruhenden Tons variiert ist, die als solche auch nur Teilmotiv eines Themas ist (wenn man es inhaltlich deutet: bleierne Zeit, aber sie kommt doch in Bewegung).</p>
+<p>Also, es geht doch. Das einzige, was ausstand, war die Übertragung so einer filigranen Arbeit wie im ersten <em>Fidelio</em>-Duett auf eine Gesamtoper. Daß das möglich gewesen wäre, kann man an Pfitzners <em>Palestrina</em> ahnen, die solche filigrane Arbeit zwar auch nicht enthält, aber wo es dem Komponisten gelingt, den ganzen langen ersten Akt als Sonatensatz nach dem neuen Schema Exposition, erste Durchführung, zweite Durchführung anzulegen. Als ich das vor ein paar Tagen überlegte, dachte ich: Wie schade, daß Brahms sich dergleichen nicht zur Aufgabe gemacht hat! Der doch so darum gerungen hat, die Linie Beethoven fortzusetzen. Warum hat er keine Oper geschrieben. Aber ich glaube, sein Thema war die Implosion des Politischen, das Gefangensein im Privaten. Das auf die Opernbühne zu bringen war Sache der „Veristen“, nicht seine.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364976774043544">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364977193699688" name="1364977193699688"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/michael-jaeger">
+                
+                  <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/83c88b85-14e2-427c-bf96-0b410d6ec407.jpeg" alt="Michael Jäger" title="Michael Jäger" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/michael-jaeger" class="author group-authors">Michael Jäger</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364977193699688">
+                  03.04.2013 |
+                  10:19</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364895442883359">
+                    <span data-in_reply_to="1364895442883359" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Richtig. Der Ehrlichkeit halber muß man hinzufügen, daß auch Marx in dieser Zeit bzw. etwas früher explizit Antisemitisches schrieb (-&gt; <em>Zur Judenfrage</em>).</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich#1364977193699688">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/michael-jaeger">Michael Jäger</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/michael-jaeger">
+          <img src="http://www.freitag.de/autoren/michael-jaeger/@@images/0fb0657f-caf9-4ad7-8319-b61e5daee459.jpeg" alt="Michael Jäger" title="Michael Jäger" height="65" width="65" /></a>
+        
+      </div>
+      <div class="box">
+        Autor. Redakteur des Freitag
+      </div>
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">10.02.2009</span>
+      </div>
+      <div class="last_login">
+        Letzter Login:
+        <span class="detail">03.04.2013</span>
+      </div>
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/michael-jaeger">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/michael-jaeger">365</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/michael-jaeger/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/michael-jaeger/@@kommentare">1171</a>
+      </div>
+      
+      <div class="connections-writers">
+        <a title="Schreiber" href="http://www.freitag.de/autoren/michael-jaeger/@@schreiber">Schreiber</a>:
+        <a class="detail" title="Schreiber" href="http://www.freitag.de/autoren/michael-jaeger/@@schreiber">30</a>
+      </div>
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/michael-jaeger/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/michael-jaeger/@@leser">28</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/michael-jaeger/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Michael Jäger</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/michael-jaeger/naechte-in-arabischen-gaerten">
+              <span class="catchword">Maerzmusik 2013</span>
+              Nächte in arabischen Gärten</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/michael-jaeger/naechte-in-arabischen-gaerten">
+              <span class="comment-count" title=" 4 mal kommentiert">4</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/michael-jaeger/die-kueche-und-die-hoehle">
+              <span class="catchword">Maerzmusik 2013</span>
+              Die Küche und die Höhle</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/michael-jaeger/die-kueche-und-die-hoehle">
+              <span class="comment-count" title=" 6 mal kommentiert">6</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/michael-jaeger/rhythmus-und-geraeusch">
+              <span class="catchword">Maerzmusik 2013</span>
+              Rhythmus und Geräusch</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/michael-jaeger/rhythmus-und-geraeusch">
+              <span class="comment-count" title=" 6 mal kommentiert">6</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1679&amp;ord=1364997134" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1679&amp;ord=1364997134" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1679&amp;ord=1364997134" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="catchword">Umbrüche </span>
+              Die Zukunft der Proteste </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="author group-authors">Florian Schmid</span>
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett">
+              <span class="catchword">Tatort</span>
+              Wir wären auch lieber im Bett</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett">
+              <span class="author group-authors">Matthias Dell</span>
+              <span class="comment-count" title=" 22 mal kommentiert">22</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="catchword">Im Gespräch</span>
+              Mutter, Täter, Kamerad </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="author group-authors">Matthias Dell</span>
+              <span class="comment-count" title=" 8 mal kommentiert">8</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1680&amp;ord=1364997134" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1680&amp;ord=1364997134" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1680&amp;ord=1364997134" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Kultur";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Kultur",
+    img: "http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich/@@images/5a15fb23-9d2c-456c-a1bd-6607b6f6c653.jpeg",
+    objectid: "70b881793340434a8ba97b818f809bd1",
+    title: "Radikal und sinnlich ",
+    url: "http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich",
+    text: "Als „neudeutsch-preußischer Reichsmusikant“ wurde Richard Wagner von Karl Marx verspottet. Und doch teilten die beiden mehr als nur 70 Jahre gemeinsame Lebenszeit",
+    created_at: "1364457600"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

@@ -1,0 +1,1574 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:59:44 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:59:44 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 93021
+Accept-Ranges: bytes
+X-Varnish: 557706189
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Wetter ǀ Frostiger Frühling dank Erderwärmung — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Der eisige März, der Deutschland fest im Griff hat, ist ebenso eine Folge des Klimawandels wie andere, stetig zunehmende Wetterextreme" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1682&amp;ord=1364997583" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1682&amp;ord=1364997583" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1682&amp;ord=1364997583" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1692&amp;ord=1364997583" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1692&amp;ord=1364997583" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1692&amp;ord=1364997583" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1684&amp;ord=1364997583" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Kultur</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=wissen">wissen</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=wetter">wetter</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=erderwärmung">erderwärmung</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=polschmelze">polschmelze</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=kalter frühling">kalter frühling</a>
+          
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">John Vidal</span>
+        <div class="additional-info">
+          <span class="date">26.03.2013</span> |
+          <span class="time">14:00</span>
+          <span class="comment-count" title=" 26 mal kommentiert">26</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Frostiger Frühling dank Erderwärmung</h1>
+
+        <p class="description">
+          <span class="catchword">Wetter</span>
+          Der eisige März, der Deutschland fest im Griff hat, ist ebenso eine Folge des Klimawandels wie andere, stetig zunehmende Wetterextreme
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung/@@images/e1d49f67-9d8c-4d76-80e2-7f5526f1bd5d.jpeg" alt="Frostiger Frühling dank Erderwärmung" title="Frostiger Frühling dank Erderwärmung" height="282" width="445" /><p class="caption">Bedingt schön</p>
+            <p class="credit">Foto: Christopher Furlong / Getty</p>
+          </div>
+        
+
+        <div class="text"><p>Klimawissenschaftler haben die gewaltigen Schneestürme und eisigen Temperaturen, die noch immer in weiten Teilen Europas und Nordamerikas herrschen, mit dem dramatischen Schwund an arktischem Eis in Verbindung gebracht. Sowohl die Ausdehnung wie auch das Volumen des Meereises, das sich in jedem Jahr im Arktischen Ozean bildet und wieder schmilzt, sind im vergangenen Herbst auf ein historisches Tief gefallen und Satellitenaufnahmen, die das National Snow and Ice Data Centre (NSIDC) in Boulder, Colorado am vergangenen Montag <a href="http://nsidc.org/arcticseaicenews/2012/05/daily-image/">veröffentlicht hat</a>, zeigen, dass die Ausdehnung des Eises auch gegenwärtig nahe am Minimum dessen liegt, was für diese Jahreszeit üblich ist.</p>
+<p>„Das Meereis verschwindet rapide. Im Vergleich zu vor 30 Jahren ist es um 80 Prozent zurückgegangen – ein dramatischer Verlust. Das ist ein Symptom der Erderwärmung und trägt seinerseits zu der verstärkten Erwärmung der Arktis bei“, sagt Jennifer Francis vom Rutgers Institute of Coastal and Marine Science.</p>
+<p>Francis und eine wachsende Zahl <a href="http://www.pnas.org/content/109/11/4074">anderer Wissenschaftler</a> sind überzeugt, dass der Verlust des arktischen Eises zu der Erwärmung von Meer und Atmosphäre beiträgt und so die Position des Jetstreams verändert – jenes sich in großer Höhe bewegenden Luftstroms, der Sturmsysteme steuert und das Wetter in der nördlichen Hemisphäre maßgeblich bestimmt.</p>
+<p>„Die Eisschmelze beeinflusst den Jetstream und führt zu den extremen Wettern, die wir in mittleren Breiten erleben. Sie ermöglicht der kalten arktischen Luft, viel weiter nach Süden zu gelangen. Es ist möglich, dass sich das Wetter nur sehr langsam ändert, weil der südliche Ausläufer des Jetstream größer wird und gegenwärtig fast eine Rekordposition erreicht hat.“</p>
+<p>Francis hat den Temperaturanstieg in der Arktis mit den extremen Wettern des vergangenen Jahres in Zusammenhang gestellt und warnte im September, dass die Rekordschmelze des Meereises von 2012 zu einem kalten Winter <a href="http://www.homerdixon.com/wp-content/uploads/2012/09/Evidence-linking-Arctic-amplification-to-extreme-weather-in-mid-latitudes.pdf">in Großbritannien und Nordeuropa führen könnte</a>.</p>
+<p>Unterstützung für diese These erhielt sie von Wladimir Petoukhow, Professor für Erdsystemanalyse am Potsdam Institut für Klimafolgenforschung. Seine Forschungen legen nahe, dass die diesjährige Eisschmelze die Richtung des Jetstreams verändern könnte: „Die Eismenge befand sich letztes Jahr auf einem Rekordtief und ist jetzt in manchen Teilen der Arktis wie der Labrador- und Grönlandsee äußerst gering. Dies könnte die Ursache für die Entwicklung von Hochdruckgebieten sein.“</p>
+<p>Der starke Schneefall und die eisigen Temperaturen, die den März 2013 in der nördlichen Hemisphäre gekennzeichnet haben, stehen in starkem Kontrast zu der Tatsache, dass viele Länder den wärmsten Frühling aller Zeiten erleben. Die These, dass Windmuster sich ändern, weil das schmelzende Eis der Arktis große Bereiche des Ozeans, die normalerweise zugefroren sind, der Atmosphäre aussetzt, erkärt nach Ansicht der Wissenschaftler sowohl die extreme Kälte als auch die extreme Wärme.</p>
+<p>Ein jüngst <a href="http://www.nature.com/ngeo/journal/v5/n11/full/ngeo1590.html">veröffentlichtes Paper</a> der National Oceanic and Atmospheric Administration (NOAA) der US-Regierung kommt ebenfalls zu dem Schluss, dass die erhöhte Erwärmung der Arktis das Wetter in der nördlichen Hemisphäre beeinflusst hat. „Wenn aufgrund der Eisschmelze mehr Sonnenenergie in den Arktischen Ozean gelangt, gibt es Grund zu der Annahme, dass sich in Nordamerika und Europa mehr extreme Wetter wie extremer Schneefall, Hitzewellen und Überschwemmungen ereignen“, sagen die Wissenschaftler.</p>
+<p>Auch der scheidende Chefberater der britischen Regierung in Umweltfragen, Sir John Beddington, warnte vor dem Hintergrund eines möglichen Zusammenhangs zwischen der arktischen Eisschmelze und extremen Wettern vor „mehr Dürren, Überschwemmungen und Stürmen“ und sprach von einer <a href="http://www.bbc.co.uk/news/science-environment-21357520">„großen Dringlichkeit“ bei der Bekämpfung des Klimawandels</a>. „Diese Art von Veränderungen betreffen uns sehr kurzfristig. Die nördliche Hemisphäre hat im vergangenen Jahr sowohl Hitze-Niederschlagsrekorde als auch Dürren und Überschwemmungen erlebt.“</p></div>
+
+        <div id="credits">
+          Übersetzung: Holger Hutt
+        </div>
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (26)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364307577026236" name="1364307577026236"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/gustlik">
+                
+                  <img src="http://www.freitag.de/autoren/gustlik/@@images/6c03dfe3-d9a1-4a5b-b982-22dd7be82a26.jpeg" alt="Gustlik" title="Gustlik" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/gustlik" class="author ">Gustlik</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364307577026236">
+                  26.03.2013 |
+                  15:19</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wirklich blöd, dass das Osterfeuer 2013 ins Eis fällt... derweil dachte der Ødeutsche immer nur an die Klimazonen im Auto und ist überrascht, dass Klimawandel was mit Kälte zu tun haben könnte.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364307577026236">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364317787898385" name="1364317787898385"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/gweberbv">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/gweberbv" class="author ">gweberbv</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364317787898385">
+                  26.03.2013 |
+                  18:09</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Es ist eine Unsitte, dass jedes außergewöhnliche Wetterereignis umgehend auf den Klimawandel zurückgeführt wird.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364317787898385">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364325540082798" name="1364325540082798"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tollschock">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tollschock" class="author ">Tollschock</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364325540082798">
+                  26.03.2013 |
+                  20:19</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ja und Ja und Nein! Ich will den Wissenschaftlern nicht wiedersprechen aber solche Wetterlagen kenne ich auch aus der Vergangenheit. Mit schöner Regelmäßigkeit ereilten meine Familie und mich immer wieder Schnee und Eis wenn wir den Wohnwagen früher an die Ostsee gebracht haben. War auch immer so gegen Ostern oder so. Und das mit dem Klimawandel glaube ich aufs Wort denn so lange wie es diesmal dauert war es früher denn doch nicht. Da ist irgendwas anders geworden. Man kann es nicht so direkt fassen aber es wird extremer. Extreme Hitze und Trockenheit und Starkregen und Stürme im Sommer. Das Wechselspiel ist in den Ausschlägen einfach toller geworden. Viele Kapriolen passen nicht immer zur Jahreszeit. Schauen wir mal wie überraschend das noch ausfällt...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364325540082798">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364330151817295" name="1364330151817295"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/idog">
+                
+                  <img src="http://www.freitag.de/autoren/idog/@@images/c4598076-eb6d-4998-b58c-d48fa6faa67e.png" alt="iDog" title="iDog" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/idog" class="author ">iDog</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364330151817295">
+                  26.03.2013 |
+                  21:35</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Überzeugungen und Möglickeiten - auch hier im Freitag macht man Werbung für dererlei Quatsch. Ein paar handfeste Beweise sind seit Anfang der Klimahysterie zu Beginnn der neunziger Jahre noch nicht aufgetaucht. Immer nur simmulationen eines Chaos , das sich kaum beschreiben lässt ... und Temperaturmessungen, die gar nicht repräsentativ sein können bei 70% Wasseroberfläche .... und eine Märchenstunde vom Treibhaus für's Fußvolk , das nicht versteht , dass die Erde kein Treibhaus ist und auch keins sein oder werden kann.  </p>
+<p>Umwelt- und Naturschutz dagegen ist schon sehr brauchbar und notwendig, wird aber leider durch die Klimahysterie nicht stärker praktiziert als vorher - eher Umgekehrt, hat man den Eindruck . </p>
+<p>Na , wir können immer noch gespannt sein , wie Frau Merkel die Temperaturtum um 2 Grad senkt  bis ich weiss nicht mehr wann - hat sie ja damals versprochen ... vielleicht meinte sie ihre eigene.?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364330151817295">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364332717669744" name="1364332717669744"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rene-artois">
+                
+                  <img src="http://www.freitag.de/autoren/rene-artois/@@images/6038046b-a7c9-4862-85e8-c3885aec2944.jpeg" alt="Rene Artois" title="Rene Artois" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rene-artois" class="author ">Rene Artois</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364332717669744">
+                  26.03.2013 |
+                  22:18</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>“Winter mit starkem Frost und viel Schnee wie noch vor zwanzig Jahren wird es in unseren Breiten nicht mehr geben”, sagte der Wissenschaftler Mojib Latif vom Hamburger Max-Planck-Institut für Meteorologie.</em> Das war allerdings im März 2000 ... </p>
+<p>The Church of Manmade Global Warming hat nicht nur dank Leuten wie Latif ein Glaubwürdigkeitsproblem.</p>
+<p>Aber wie wußte schon Horace Walpole (1717-1797)? Genau: "Erfahrene Propheten warten die Ereignisse ab" ...</p>
+<p>Dieses Klimageschwätz langweilt – ich warte auf die Rückkehr der 1970er/80er Jahre, als uns dieselben "Wissenschaftler" vor der unmittelbar bevorstehenden nächsten Eiszeit warnten. Was wohl bald wieder kommen wird.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364332717669744">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364340018432012" name="1364340018432012"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/medullaoblongata">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/medullaoblongata" class="author ">MedullaOblongata</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364340018432012">
+                  27.03.2013 |
+                  00:20</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das Meerweis ist um 80 % zurückgegangen...hmm, und wenn die restlichen 20 % schmelzen, dann steigt der Meeresspiegel um 7 Meter, und Hamburg versinkt in den Fluten. Warum ist den der Meeresspiegel bis jetzt noch nicht nennenswert gestiegen, wenn schon 80 % des Eises weg ist? So langsam wird das unglaubwürdig.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364340018432012">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364367145494202" name="1364367145494202"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ipeter">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ipeter" class="author ">iPeter</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364367145494202">
+                  27.03.2013 |
+                  07:52</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364325540082798">
+                    <span data-in_reply_to="1364325540082798" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dein Kommentar trifft auf den Kopf ! Kann mit meinen 53 Jahren bestätigen, das Ostereiersuchen auf einer dünnen, frisch gefallenen Schneedecke immer mal wieder drin war. Aber spätestens mittags war der Spuk dann wieder weggetaut ! Wochenlange Kühlschranktemperaturen zu Ostern sind neu.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364367145494202">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364374761443965" name="1364374761443965"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/oberham">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/oberham" class="author ">Oberham</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364374761443965">
+                  27.03.2013 |
+                  09:59</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>... klingt jedenfalls plausibel, bleibt zu hoffen, dass jene Theorien, die einen Zusammenbruch des Golfstroms (wegen des Süßwassereintrags) befürchten - nicht die künftige Realität prognostizieren.</p>
+<p>Dann würden diese Schneemassen - vor allem in Großbritanien und Irland ist es ja nun wirklich eine "kleine Märzeiszeit" im Vergleich zur jüngeren Geschichte - wohl künftig zur Regel - von November bis in den April hinein.</p>
+<p>Doch man sollte sich mal die anderen Foren antun - die ganze PR-Armee der Beschwichtigungsfraktion trötet aus allen Rohren -</p>
+<p>"Ha, von wegen Klimaerwärmung - kauft euch bitte den Porsche Cayenne 500 S Super PX - kein Grund zur Besorgnis - "genießt" Eure wohlverdiente Kohle ! Konsumiert gefälligst was das Zeug hält, gerne auch auf Pump!"</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364374761443965">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364381284767752" name="1364381284767752"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/lindwedler">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/lindwedler" class="author ">Lindwedler</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364381284767752">
+                  27.03.2013 |
+                  11:48</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Hmmm, also in den 70zigern hat man noch vor einer neuen Eiszeit gewarnt, und das war auch weitgehend anerkannte These der herrschenden Wissenschaftsklientel. Nun haben wir schon immer kältere und wärmere Phasen in der Klimageschichte gehabt, aber wen scherts. Und falls wegen dem aktuell etwas kälteren Klima - was ja eigentlich völlig bedeutungslos ist für eine globale Klimabetrachtung - jemand auf dumme Gedanken kommt... Natürlich liegt das kalte aktuelle Klima auch an der globalen Klimaerwärmung. Ist schon klar...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364381284767752">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364387213475089" name="1364387213475089"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/jester428">
+                
+                  <img src="http://www.freitag.de/autoren/jester428/@@images/46423fa3-73a4-443b-8d1e-281d56874d8a.jpeg" alt="13rh07" title="13rh07" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/jester428" class="author ">13rh07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364387213475089">
+                  27.03.2013 |
+                  13:26</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die (Auftrags-)Wissenschaft hat (zum Glück) festgestellt, daß Marmelade Fett enthält. - Qui bono?</p>
+<p>Erst dann, wenn es jemals wieder eine freie Wissenschaft geben wird, glaube ich auch nur ein einziges Wort von der sogenannten Klimakatastrophe. Was wir derzeit erleben, ist allenfalls eine Manipulationskatastrophe.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364387213475089">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364393527085528" name="1364393527085528"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/cz284">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/cz284" class="author ">cz284</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393527085528">
+                  27.03.2013 |
+                  15:12</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Erdrinde ist im Schnitt 30 - 40 km dick. Die Erderwärmung hat mit diesen Prognosen nichts bis garnichts zu tun. Die Menschen sind bei diesen kosmischen Einflüssen völlig bedeutungslos. Diese Wissenschaftler begründen bei einem anderen Auftraggeber genau das Gegenteil. Erst sollten wir hier in Europa den Hitzetod, nun durch die Kältestarre sterben, wers glaubt...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393527085528">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364393531037187" name="1364393531037187"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/cz284">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/cz284" class="author ">cz284</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393531037187">
+                  27.03.2013 |
+                  15:12</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Erdrinde ist im Schnitt 30 - 40 km dick. Die Erderwärmung hat mit diesen Prognosen nichts bis garnichts zu tun. Die Menschen sind bei diesen kosmischen Einflüssen völlig bedeutungslos. Diese Wissenschaftler begründen bei einem anderen Auftraggeber genau das Gegenteil. Erst sollten wir hier in Europa den Hitzetod, nun durch die Kältestarre sterben, wers glaubt...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393531037187">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364393532992518" name="1364393532992518"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/cz284">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/cz284" class="author ">cz284</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393532992518">
+                  27.03.2013 |
+                  15:12</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Erdrinde ist im Schnitt 30 - 40 km dick. Die Erderwärmung hat mit diesen Prognosen nichts bis garnichts zu tun. Die Menschen sind bei diesen kosmischen Einflüssen völlig bedeutungslos. Diese Wissenschaftler begründen bei einem anderen Auftraggeber genau das Gegenteil. Erst sollten wir hier in Europa den Hitzetod, nun durch die Kältestarre sterben, wers glaubt...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393532992518">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364393538125972" name="1364393538125972"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/cz284">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/cz284" class="author ">cz284</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393538125972">
+                  27.03.2013 |
+                  15:12</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Erdrinde ist im Schnitt 30 - 40 km dick. Die Erderwärmung hat mit diesen Prognosen nichts bis garnichts zu tun. Die Menschen sind bei diesen kosmischen Einflüssen völlig bedeutungslos. Diese Wissenschaftler begründen bei einem anderen Auftraggeber genau das Gegenteil. Erst sollten wir hier in Europa den Hitzetod, nun durch die Kältestarre sterben, wers glaubt...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393538125972">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364393542096950" name="1364393542096950"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/cz284">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/cz284" class="author ">cz284</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393542096950">
+                  27.03.2013 |
+                  15:12</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Erdrinde ist im Schnitt 30 - 40 km dick. Die Erderwärmung hat mit diesen Prognosen nichts bis garnichts zu tun. Die Menschen sind bei diesen kosmischen Einflüssen völlig bedeutungslos. Diese Wissenschaftler begründen bei einem anderen Auftraggeber genau das Gegenteil. Erst sollten wir hier in Europa den Hitzetod, nun durch die Kältestarre sterben, wers glaubt...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393542096950">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364393548792854" name="1364393548792854"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/cz284">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/cz284" class="author ">cz284</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393548792854">
+                  27.03.2013 |
+                  15:12</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Erdrinde ist im Schnitt 30 - 40 km dick. Die Erderwärmung hat mit diesen Prognosen nichts bis garnichts zu tun. Die Menschen sind bei diesen kosmischen Einflüssen völlig bedeutungslos. Diese Wissenschaftler begründen bei einem anderen Auftraggeber genau das Gegenteil. Erst sollten wir hier in Europa den Hitzetod, nun durch die Kältestarre sterben, wers glaubt...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364393548792854">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364461479248700" name="1364461479248700"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/bitcom">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/bitcom" class="author ">Bitcom</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364461479248700">
+                  28.03.2013 |
+                  10:04</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich denke auch das der lange Winter verschiedene Gründe haben kann: sicherlich die Erderwärmung und die damit verbundenen Veränderungen sind nicht aus der Welt zu reden, es gab jedoch solange die Erde existiert immer wieder Klima Zyklen die sich meines Wissens nach nicht endgültig schlüssig erklären lassen... zumeist existieren verschiedene Theorien für die Klimaepochen...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364461479248700">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364468597793190" name="1364468597793190"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/christian-g">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/christian-g" class="author ">Christian G.</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364468597793190">
+                  28.03.2013 |
+                  12:03</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Erderwärmung steht seit 15 Jahren still. Angesichts eines CO2-Anteils von 0,039% in der Gesamtatmosphäre (<a href="http://de.wikipedia.org/wiki/Kohlenstoffdioxid">http://de.wikipedia.org/wiki/Kohlenstoffdioxid</a>) fehlt mir schon seit langem jede Phantasie, dass unsere menschengemachten CO2-Emissionen dafür verantwortlich sein sollen.</p>
+<p>Unter dem ewigen Eis liegen gewaltige Rohstoffvorkommen. Wer weiß, vielleicht wird der Eisschmelze mit H.A.A.R.P (<a href="http://de.wikipedia.org/wiki/HAARP">http://de.wikipedia.org/wiki/HAARP</a>) ein bisschen nachgeholfen ; )) Man hält sich dort ja sehr bedeckt mit Informationen, siehe -&gt; Kritik</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364468597793190">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364468685939268" name="1364468685939268"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/christian-g">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/christian-g" class="author ">Christian G.</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364468685939268">
+                  28.03.2013 |
+                  12:04</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><strong>HAARP - Ein klimabeeinträchtigendes Waffensystem</strong></p>
+<p>(Quelle:<a>http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+REPORT+A4-1999-0005+0+DOC+XML+V0//DE</a><a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+REPORT+A4-1999-0005+0+DOC+XML+V0//DE">)</a></p>
+<p>Am 5. Februar 1998 führte der Unterausschuß für Sicherheit und Abrüstung des Europäischen Parlaments eine Anhörung u.a. über HAARP durch. Vertreter der NATO und der USA waren eingeladen worden, nahmen jedoch an der Anhörung nicht teil. Der Ausschuß bedauert es, daß die USA keinen Vertreter entsandt hatten, der auf Fragen hätte antworten und die Gelegenheit nutzen können, zu dem vorgelegten Material Stellung zu nehmen.<a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+REPORT+A4-1999-0005+0+DOC+XML+V0//DE#_part7_def22">(22)</a></p>
+<p>HAARP, Forschungsprogramm für hochfrequente Strahlenforschung (High Frequency Active Auroral Research Project), wird gemeinsam von der Luftwaffe der USA und dem Geophysikalischen Institut der Universität Alaska, Fairbanks, durchgeführt. Auch in Norwegen laufen ähnliche Untersuchungen, ebenfalls in der Antarktis und auch in der früheren Sowjetunion.<a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+REPORT+A4-1999-0005+0+DOC+XML+V0//DE#_part7_def23">(23)</a> HAARP ist ein Forschungsprojekt, bei dem mit einer bodengestützten Anlage mit einem Netz von Antennen, die alle mit einem eigenen Sender ausgestattet sind, Teile der Ionosphäre<a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+REPORT+A4-1999-0005+0+DOC+XML+V0//DE#_part7_def24">(24)</a> mit starken Radiowellen erwärmt werden. Die erzeugte Energie heizt bestimmte Teile der Ionosphäre auf, was auch Löcher in der Ionosphäre und künstliche "Spiegel" herbeiführen kann.</p>
+<p>HAARP ist für viele Zwecke einsetzbar. Durch Manipulation der elektrischen Eigenschaften in der Atmosphäre lassen sich gewaltige Kräfte kontrollieren. Wird dies als militärische Waffe eingesetzt, können die Folgen für den Feind verhängnisvoll sein. Durch HAARP läßt sich ein fest umrissenes Gebiet millionenfach stärker mit Energie aufladen als mit irgendeiner anderen herkömmlichen Energiequelle. Die Energie läßt sich auch auf ein bewegliches Ziel ausrichten, u.a. auf feindliche Raketen.</p>
+<p>Das Projekt ermöglicht auch eine bessere Kommunikation mit U-Booten und die Manipulation der globalen Wetterverhältnisse. Aber auch das Gegenteil, eine Störung der Kommunikation, ist möglich. Durch Manipulation der Ionosphäre kann man die globale Kommunikation stören, gleichzeitig bleiben die Kommunikationsverbindungen des Anwenders erhalten. Eine weitere Nutzungsmöglichkeit des Systems ist eine Röntgenaufnahme der Erde bis in eine Tiefe von mehreren Kilometern (erddurchdringende Tomographie), um Öl- und Gasfelder aufzuspüren, aber auch unterirdisch stationierte Militäranlagen. Eine weitere Nutzung des HAARP-Systems ist Radar, das über den Horizont blicken und Objekte in großer Entfernung erfassen kann. Dadurch lassen sich nähernde Objekte jenseits des Horizonts ausmachen.</p>
+<p>Seit den 50er Jahren führen die USA Atomexplosionen im Van Allen-Gürtel durch<a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+REPORT+A4-1999-0005+0+DOC+XML+V0//DE#_part7_def25">(25)</a>, um zu erforschen, welche Auswirkungen der entstehende elektromagnetische Impuls in so großer Höhe auf Funkverbindungen und die Wirkungsweise von Radaranlagen hat. Diese Explosionen erzeugten neue Magnetstrahlengürtel, die fast um die gesamte Erde liefen. Die Elektronen bewegten sich auf magnetischen Feldlinien und erzeugten ein künstliches Nordlicht über dem Nordpol. Durch diese militärischen Versuche entsteht die Gefahr, daß der Van Allen-Gürtel für lange Zeit schwerwiegend gestört wird. Das Magnetfeld der Erde kann sich über großen Gebieten ausweiten und Funkverbindungen unmöglich machen. Nach Aussagen amerikanischer Wissenschaftler kann es Hunderte von Jahren dauern, bis der Van Allen-Gürtel wieder zu seinem normalen Zustand zurückfindet. HAARP kann Veränderungen der klimatischen Bedingungen bewirken. Das System kann auch das gesamte Ökosystem beeinträchtigen, insbesondere in der empfindlichen Antarktis.</p>
+<p>Eine weitere schwerwiegende Folge von HAARP sind die Löcher in der Ionosphäre, die durch die nach oben gerichteten starken Wellen entstehen. Die Ionosphäre schützt uns vor einfallender kosmischer Strahlung. Es besteht die Hoffnung, daß die Löcher sich wieder schließen, aber die Erfahrungen mit den Veränderungen der Ozonschicht deuten in die entgegengesetzte Richtung. Die schützende Ionosphäre weist also große Löcher auf..</p>
+<p>HAARP ist wegen der umfassenden Auswirkungen auf die Umwelt eine globale Angelegenheit, und es ist zu bezweifeln, ob die Vorteile dieses Systems wirklich die Risiken aufwiegen. Die ökologischen und ethischen Auswirkungen müssen vor weiteren Forschungsarbeiten und Versuchen untersucht werden. HAARP ist der Öffentlichkeit fast nicht bekannt, und es ist wichtig, daß die Bevölkerung davon Kenntnis erhält.</p>
+<p>HAARP steht in Verbindung mit 50 Jahren intensiver Weltraumforschung für eindeutig militärische Zwecke, beispielsweise als Teil des "Kriegs der Sterne", um die obere Atmosphäre und die Kommunikation zu kontrollieren. Solche Forschungsarbeiten sind als schwerwiegend umweltschädigend anzusehen, sie können unübersehbare Auswirkungen auf das Leben der Menschen haben. Niemand weiß heute mit Sicherheit, welche Auswirkungen HAARP haben kann. Der Geheimhaltung in der militärischen Forschung muß entgegengewirkt werden. Das Recht auf Öffentlichkeit und demokratische Kontrolle militärischer Forschungsprojekte und die parlamentarische Kontrolle müssen gestärkt werden.</p>
+<p>Eine Reihe internationaler Übereinkommen (Übereinkommen über das Verbot der militärischen oder sonstigen feindseligen Nutzung umweltverändernder Techniken, der Antarktis-Vertrag, der Vertrag über die Grundsätze zur Regelung der Tätigkeiten von Staaten bei der Erforschung und Nutzung des Weltraums einschließlich des Mondes und anderer Himmelskörper sowie das UNSeerechtsübereinkommen) lassen HAARP nicht nur unter humanen und politischen Aspekten, sondern auch unter rechtlichen Aspekten als äußerst zweifelhaft erscheinen. Der Antarktis-Vertrag schreibt vor, daß die Antarktis nur für friedliche Ziele genutzt werden darf.<a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+REPORT+A4-1999-0005+0+DOC+XML+V0//DE#_part7_def26">(26)</a> Dies würde bedeuten, daß HAARP eine Verletzung des Völkerrechts darstellt. Alle Auswirkungen der neuen Waffensysteme müssen von unabhängigen internationalen Einrichtungen untersucht werden. Es sind weitere internationale Vereinbarungen anzustreben, um die Umwelt im Krieg vor unnötiger Zerstörung zu schützen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364468685939268">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364469630274639" name="1364469630274639"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/christian-g">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/christian-g" class="author ">Christian G.</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364469630274639">
+                  28.03.2013 |
+                  12:20</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>http://www.zeitenschrift.com/news/short-haarp.ihtml</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364469630274639">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364476539629270" name="1364476539629270"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/technician">
+                
+                  <img src="http://www.freitag.de/autoren/technician/@@images/f6cfe894-5046-41d4-b1ee-364ae4e4bfbb.jpeg" alt="TECHNICIAN" title="TECHNICIAN" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/technician" class="author ">TECHNICIAN</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364476539629270">
+                  28.03.2013 |
+                  14:15</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Debatte um den Zusammenhang von Wetterextremen und Klimawandel hat immer was magisch Anziehendes.</p>
+<p>Meines Erachtens geht es aber darum, dass es mehr Hitzeextreme als Kaelteextreme gibt weltweit. So ein kalter Maerz in Brandenburg macht da keine Ausnahme.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364476539629270">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364481018392291" name="1364481018392291"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/christian-g">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/christian-g" class="author ">Christian G.</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364481018392291">
+                  28.03.2013 |
+                  15:30</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364476539629270">
+                    <span data-in_reply_to="1364476539629270" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Interessant, Ihr Hinweis.</p>
+<p><a href="http://www.nachhaltigleben.ch/2-eth-klimablog/1442-pccsonderbericht-zu-aenderungen-in-klimaextremen">http://www.nachhaltigleben.ch/2-eth-klimablog/1442-pccsonderbericht-zu-aenderungen-in-klimaextremen</a></p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364481018392291">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364508113543552" name="1364508113543552"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/christian-g">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/christian-g" class="author ">Christian G.</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364508113543552">
+                  28.03.2013 |
+                  23:01</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364325540082798">
+                    <span data-in_reply_to="1364325540082798" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Fragen? Es heißt übrigerns: widersprechen. Ohne "e".</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364508113543552">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364550354671802" name="1364550354671802"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tollschock">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tollschock" class="author ">Tollschock</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364550354671802">
+                  29.03.2013 |
+                  10:45</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@<a href="/autoren/christian-g">CHRISTIAN G.</a><span> </span><a href="/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364508113543552">28.03.2013 | 23:01</a></p>
+<p>...passiert mal im Eifer des Gefechts... war in Deutsch nie über eine 3 hinausgekommen...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364550354671802">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364552702752334" name="1364552702752334"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/bonprofit">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/bonprofit" class="author ">bonprofit</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364552702752334">
+                  29.03.2013 |
+                  11:25</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364468685939268">
+                    <span data-in_reply_to="1364468685939268" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Erstaunlich, was für ein unglaublicher Schwachsinn da geschrieben steht. Als "Sachverständiger" wird Dr. Nick Begich, ein anerkannter Verschwörungstheorethiker, genannt. Letztendlich ist der Dr. auch nur auf Geld aus. Wer möchte kann auf seiner Seite sich First Element Pillen kaufen oder eine Protheus Brille.</p>
+<p>Florian Freistetter hat sich die Mühe gemacht damit auseinanderzusetzen:</p>
+<p>http://scienceblogs.de/astrodicticum-simplex/2010/08/04/haarp-erdbebenwaffe-gedankenkontrolle-oder-ganz-normale-wissenschaft/</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364552702752334">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364562141096278" name="1364562141096278"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/christian-g">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/christian-g" class="author ">Christian G.</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364562141096278">
+                  29.03.2013 |
+                  14:02</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364552702752334">
+                    <span data-in_reply_to="1364552702752334" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Danke. Bleibt die Frage offen, warum niemand zur Anhörung gekommen ist.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung#1364562141096278">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-syndication"><h1>
+    <a href="http://www.freitag.de/autoren/the-guardian">The Guardian</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/the-guardian">
+          <img src="http://www.freitag.de/autoren/the-guardian/@@images/7ba54558-e7a2-4fbe-a48c-308e92f574a7.png" alt="The Guardian" title="The Guardian" height="65" width="65" /></a>
+        
+      </div>
+      <div class="box">
+        Der Freitag ist Syndication-Partner der britischen Tageszeitung The Guardian
+      </div>
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2011</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/the-guardian">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/the-guardian">2052</a>
+      </div>
+      
+      <div class="homepage">
+        Homepage:
+          <a class="detail" href="http://www.guardian.co.uk/">http://www.guardian.co.uk/</a>
+      </div>
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/the-guardian/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/the-guardian/@@leser">6</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/the-guardian/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von John Vidal</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/laxe-vorschriften">
+              <span class="catchword">Genmais-Debatte</span>
+              Laxe Vorschriften </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/laxe-vorschriften">
+              <span class="comment-count" title=" 5 mal kommentiert">5</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/extreme-wetter-werden-zur-regel">
+              <span class="catchword">Klimawandel</span>
+              Extreme Wetter werden zur Regel</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/extreme-wetter-werden-zur-regel">
+              <span class="comment-count" title=" 13 mal kommentiert">13</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/dies-fleisch-macht-alle-satt">
+              <span class="catchword">Nahrung</span>
+              Dies Fleisch macht alle satt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/dies-fleisch-macht-alle-satt">
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1688&amp;ord=1364997584" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1688&amp;ord=1364997584" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1688&amp;ord=1364997584" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="catchword">Umbrüche </span>
+              Die Zukunft der Proteste </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste">
+              <span class="author group-authors">Florian Schmid</span>
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett">
+              <span class="catchword">Tatort</span>
+              Wir wären auch lieber im Bett</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett">
+              <span class="author group-authors">Matthias Dell</span>
+              <span class="comment-count" title=" 22 mal kommentiert">22</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="catchword">Im Gespräch</span>
+              Mutter, Täter, Kamerad </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad">
+              <span class="author group-authors">Matthias Dell</span>
+              <span class="comment-count" title=" 8 mal kommentiert">8</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1690&amp;ord=1364997584" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1690&amp;ord=1364997584" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1690&amp;ord=1364997584" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Kultur" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Kultur";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Kultur",
+    img: "http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung/@@images/8506a015-841e-44bb-83da-e711f682a918.jpeg",
+    objectid: "c9f982ca737d4c869034c4a6edb80757",
+    title: "Frostiger Frühling dank Erderwärmung",
+    url: "http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung",
+    text: "Der eisige März, der Deutschland fest im Griff hat, ist ebenso eine Folge des Klimawandels wie andere, stetig zunehmende Wetterextreme",
+    created_at: "1364302800"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

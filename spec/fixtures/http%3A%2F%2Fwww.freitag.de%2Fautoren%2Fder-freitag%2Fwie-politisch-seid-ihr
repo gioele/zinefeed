@@ -1,0 +1,822 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:59:27 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:59:27 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 60302
+Accept-Ranges: bytes
+X-Varnish: 557705781
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Literatur ǀ Wie  politisch seid  ihr?  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Große Begriffe wie Revolte, Markt und Kapitalismus drängen zurück in die Romane. Viele Autoren suchen längst nach der richtigen Form für unsere krisenhafte Gegenwart" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364997566" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364997566" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364997566" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364997566" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364997566" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364997566" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364997566" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=literatur">literatur</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=politik">politik</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=leipziger buchmesse">leipziger buchmesse</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p><strong>Ekkehard Knörer</strong> arbeitet als Redakteur für die Zeitschrift Merkur</p>
+<p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 11/13</strong> vom 14.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Ekkehard Knörer</span>
+        <div class="additional-info">
+          <span class="date">28.03.2013</span> |
+          <span class="time">01:00</span>
+          <span class="comment-count" title=" 3 mal kommentiert">3</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Wie  politisch seid  ihr? </h1>
+
+        <p class="description">
+          <span class="catchword">Literatur</span>
+          Große Begriffe wie Revolte, Markt und Kapitalismus drängen zurück in die Romane. Viele Autoren suchen längst nach der richtigen Form für unsere krisenhafte Gegenwart
+        </p>
+
+        
+
+        <div class="text"><p>Im vergangenen Jahr, man wird sich erinnern, konnte Günter Grass die letzte Tinte nicht halten und sagte in einem Aufmacher der Süddeutschen Zeitung, was seiner Meinung nach über Israel gesagt werden muss.</p>
+<p>Er tat dies in einer Form, die auch nur er für ein Gedicht halten konnte. Mal ganz abgesehen davon, für wie antisemitisch man sein Elaborat halten mag: Das war ein heftiger Rückschlag für jeden Freund einer Literatur, die sich als politisch versteht. Für die Skandalnudelei der Leitartikel, der Kolumnen und Talkshows natürlich ein gefundenes Fressen. So griffen die üblichen Mechanismen: Wer als der Öffentlichkeit bekannte Figur nur laut genug Unsinn sagt, wird mit massenmedialer Aufmerksamkeit nicht unter einer Woche belohnt.</p>
+<p>Aber gerade die Formlosigkeit war bei Grass das Problem. Als genügte es, dass man rausposaunt, was irgendwie rausmuss. Literatur jedenfalls stellt sich Fragen nach der eigenen Form: Was ist die angemessene Sprache, das angemessene Genre für das Thema?</p>
+<p>Die aktuelle Krisensituation fordert literarische Antworten eigentlich heraus, gerade weil Europa so offenkundig auf eine ökonomische wie mentale Katastrophe zusteuert (oder schon mittendrin ist), ohne dass die Politik darauf anders als in den üblichen Routinen der Verdrängung, Verzögerung, der Verlagerung der Diskussion auf Nebenschauplätze reagiert. So falsch, ja absurd es wäre, von der Literatur nun ihrerseits Antworten oder gar Lösungen zu erwarten: Das weltabgewandte Stapfen eines Botho Strauß durch die uckermärkische Postzivilisation ist in einer Gegenwart wie der unseren ebenso irrelevant wie der Versuch von Günter Grass, noch einmal auf den Hochzeiten der Zeitungsdebatten mitzutanzen. Aber andere Schriftsteller sind da weiter. Die kann man um Auskünfte bitten, will man wissen, was das heute sein kann: politische Literatur.</p>
+<p>Gute Gelegenheit, sich an Ingo Schulze zu wenden. Er ist nicht nur einer der meistgelesenen deutschen Gegenwartsautoren, sondern auch Leiter der Sektion Literatur der Akademie der Künste. Sicher kein Zufall, schließlich versteht sich die Akademie unter dem alten Grass-Mitstreiter Klaus Staeck ausdrücklich als politisch. Schulze, in seinen erzählenden Texten ein ästhetisch eher konservativer Autor, weil stark am Roman des 19. Jahrhunderts orientiert, ist in seinen öffentlichen Äußerungen deutlich kapitalismuskritisch und noch deutlicher streitbar.</p>
+<p>In seiner Dresdener Rede von 2012 hielt er ein Plädoyer „für demokratiekonforme Märkte“, das er aus einer Lektüre des Andersen-Märchens <em>Des Kaisers neue Kleider</em> entwickelte. Er tat dies in der Sprache der Politik, die sich – Linke und SPD – bei ihm für die schöne Formulierung von den „demokratiekonformen Märkten“ bedankte. Anschluss suchte und fand der in der DDR aufgewachsene Schulze aber auch bei der außerparlamentarischen Opposition der Occupy-Demonstranten.</p>
+<p>Er hat keine großen Schwierigkeiten, das Thesenhafte vom Literarischen zu trennen. „In diesem Fall ging es mir schon um die Wirkung.“ Meinen Einwand, dass etwa eine Autorin wie Kathrin Röggla auch diverse Foren von Roman übers Theater bis zur Tageszeitung bespiele, ohne den Eigensinn von Sprache und Form dranzugeben, kontert er mit einem Bericht aus dem real existierenden Journalismus: „Der Wirtschaftsteil der <em>Frankfurter Allgemeinen Sonntagszeitung</em> hat mich unlängst gebeten, in der Diskussion um Hasso Plattners Milliardenspende ein Contra zu schreiben. Da ich nicht so einfach den ‚Gegenkasper‘ geben wollte, schrieb ich einen Text, in dem ich meine Kritik ironisch durch übertriebene Affirmation der Gegenposition formulierte, so in dem Sinne: Wenn man mit einer Milliarde genauso gut lebt wie mit drei oder sechs Milliarden, was soll dann die Schufterei. Den wollten sie dann aber nicht drucken, das sei für ihre Leser ‚zu kompliziert‘.“</p>
+<h2>Form und Stoff</h2>
+<p>Wenn einem einer bei diesen Fragen weiterhelfen kann, dann gewiss auch der Berliner Schriftsteller Ulrich Peltzer, der übrigens Schulzes Stellvertreter in der Akademie der Künste ist. Spätestens seit seinem letzten Roman <em>Teil der Lösung</em> aus dem Jahr 2007 gilt er als politischer Autor. Das hat damit zu tun, dass er Fragen zum Prekariat, der Überwachung des öffentlichen Raums und vor allem aktuelle Formen des Protests thematisiert.</p>
+<p>Über seinen neuen Roman, an dem er seit Jahren sitzt, verrät er mir beim Gespräch im Café in Kreuzberg, oder genauer: Kreuzkölln, immerhin so viel, dass die Hauptfigur ein Sales Manager ist – dass das eigentliche Thema der in Zeitsprüngen erzählten Geschichte aber das Problem der Kontingenz oder die Notwendigkeit historischer Ereignisse ist. Und wie man als Erzähler zu alldem eine Position finden kann? Kann man zur Erklärung von historischen Ereignissen im Ernst einen tieferen Sinn, gar das Wirken des hegelschen Weltgeists heranziehen? Steckt gar der Teufel dahinter? Denn produziert nicht jede Narration, ob sie will oder nicht, Zusammenhänge von Ursache und Wirkung – obwohl alles womöglich rein zufällig nebeneinander geschieht?</p>
+<p>Die Arbeit am Roman hat der 56-jährige Peltzer allerdings mehrfach unterbrochen. Für seine Frankfurter Poetikvorlesungen aber auch für das Schreiben von Drehbüchern. Er kommt, als wir uns treffen, vom Schreibtisch. Zusammen mit dem Regisseur Christoph Hochhäusler arbeitet er an einem Drehbuch für einen Film mit Isabelle Huppert. Es ist bereits das dritte gemeinsame Buch. Das erste hat Hochhäusler vor drei Jahren verfilmt: <em>Unter dir die Stadt</em> über die Bankenszene in Frankfurt. Für den Film haben beide ausführlich im Milieu recherchiert. Nicht minder politisch das schon fertiggestellte zweite. In diesem Drehbuch erzählen Hochhäusler und Peltzer eine Erpressungsgeschichte im Politjournalismus – Drehbeginn ist hoffentlich in diesem Sommer.</p>
+<p>„Im Kern“, sagt Peltzer auf die Frage nach der politischen Literatur, „geht es dabei um das Verhältnis von Form und Stoff. Die Fabel, der Stoff allein, macht keine politische Literatur. Das Engagement steht der Literatur sogar im Wege – jedenfalls da, wo man den Text nur als Instrument für eine Botschaft benutzt. Das Didaktische ist der Tod jeder Kunst.“ Ein „politischer“ Stoff, der nicht ganz und gar durch den „synthetisierenden Erkenntnisprozess“ durchgeführt wird, der für Peltzer die Kunst ausmacht, bleibt vorliterarisch.</p>
+<p>Zum real existierenden Journalismus gehört auch eine spezielle Borniertheit. So sind die jüngsten Bücher des ganz sicher politischsten Autors der deutschen Gegenwartsliteratur, der letzte Roman und Erzählband von Dietmar Dath nämlich, den Qualitätsfeuilletons (Ausnahme, sorry to say, diese Zeitung) keine Besprechung wert gewesen.</p>
+<p>Dabei ist <em>Pulsarnacht</em> ein tolles Buch, ein ohne Rücksicht auf Verluste in eine ferne Zukunft fabulierter alternativer Gesellschaftsentwurf, der selbstredend auf das Hier und Jetzt zielt. Dath nutzt das Genre der Weltraumoper, um den Erdlingen der Gegenwart ihre Beschränktheit in Sachen Zusammenleben, Miteinanderschlafen und Lebenssinn vor Augen zu führen. Er führt vor, dass der Kommunismus (oder dergleichen) gedacht und erzählt werden kann. Aber erklärtermaßen ganz Science Fiction, von hinreißender Komik nicht frei.</p>
+<p>Kommunismus, Ökonomie, Revolte, Märkte. Die großen Begriffe drängen zurück in die Literatur. Das kann man nicht verhehlen. Und blickt man auf die Neuerscheinungen der vergangenen Monate, kann man kaum übersehen, dass einige der interessantesten Romane in der Wirtschaftswelt spielen. Sie sind politisch jedenfalls in dem Sinn, dass sie sich an einer Diagnose und Kritik der Gegenwartsgesellschaft versuchen.</p>
+<p>Da wirft zum einen Rainald Goetz’ <em>Johann Holtrop</em> noch seinen Schatten. Dem Buch haben viele übel genommen, was seine Stärke eigentlich ausmacht: Der Roman wirft sich ins Getümmel. Der Erzähler hält nicht die Klappe, sondern überzieht seine Figuren mit Analysen, Kommentaren, Beschimpfungen – und verfolgt seinen Helden, den größenwahnsinnigen Manager Holtrop, mit einer glühenden Hassliebe. Da wird wie verrückt aus dem Nähkästchen geplaudert, da wird sich auch sprachlich an der Wirklichkeit abgearbeitet, wie es in dieser mikrologischen Grandiosität nur Goetz kann. Ein Roman ohne Subtext, das ist aber Absicht und in seiner Unordnung und Unruhe ganz nah an Balzac.</p>
+<p>Am anderen Ende der Skala bewegt sich der Unternehmer und Romancier Ernst-Wilhelm Händler. Sein Roman <em>Der Überlebende</em> ist soeben erschienen und erzählt von einem kleineren Rad im Wirtschaftsgetriebe so schockgefrostet, dass sich die Moleküle der Sprache kaum noch bewegen. Roboter- und Menschenexperimente vor kosmologischer Hintergrundstrahlung, aus der Ich-Perspektive wird eine ziemlich transhumane Welt mit eiskalter Lust ausgemalt. Die Gegenwart prägt sich da fast nur als Negativ ab. Ja, der Abstand zwischen Wirklichkeit und Romanwelt ist mangels gemeinsamen Maßes kaum zu bestimmen. So fallen Groteske, Wahn und nüchternes Protokoll quasi in eins. Das ist ein ganz anderer Stern als der, auf und von dem Goetz schreibt, wenn er seinem „Holtrop“ die poetologische Klausel voranstellt: „Natürlich basiert dieser Roman auf der Realität des Lebens auch wirklicher Menschen.“</p>
+<h2>Ehrgeiz und Scheitern</h2>
+<p>In mittleren Lagen bewegen sich höchst virtuos Nora Bossong mit ihrem Frotteeunternehmerroman <em>Gesellschaft mit beschränkter Haftung</em> und Sascha Reh mit seiner Privatbankapokalypse <em>Gibraltar</em>. In beiden Büchern steckt viel Recherche. Sie bilden die in Detailzügen geschilderten Bewegungen des Ökonomischen in achronologisch erzählten Familiendramen ab. Es geht um Filiation, Väter und Töchter und Söhne, es geht um Ehrgeiz, der fehlt oder zu groß ist. Und vor allem ums Scheitern. Manches wirkt wie aus den Berichten der Wirtschaftsteile abgepaust; Reh bedient sich bei Genremotiven: Thriller, Melodram, Familienroman. Bossong nimmt Produktionsbedingungen in China in den Blick und dann rutscht ihr die Ökonomie in Richtung New-York-Roman weg.</p>
+<p>Aber auch die Kriminalliteratur ändert sich und versucht Antworten auf die Fragen der krisenhaften Gegenwart zu finden. Zwar halten sich die großen Zeitungen inzwischen ihre Spezialisten, aber der Ottonormalrezensent fasst einen Roman wie Merle Krögers <em>Grenzfall</em> nicht an. Ein großartiges Buch, interessant dazu noch als Parallelunternehmen zu einem der besten deutschen Filme des vergangenen Jahres.</p>
+<p><em>Revision</em> heißt Philip Scheffners Film, den Kröger koproduziert hat. Er dokumentiert einen vergessenen Fall aus dem Jahr 1992. Zwei Roma aus Rumänien werden beim illegalen Übertritt über die deutsch-polnische Grenze erschossen, angeblich ein Jagdüberfall. Wo der Film ein ziemlich bitteres Deutschlandporträt entwirft, zieht die 1967 in Plön geborene Kröger in ihrem Roman die Linien des realen Falls mit den Mitteln des Kriminalromans weiter in die Fiktion. Nicht nur kann sie die Vorgänge, die zum Tod der Roma führten, so viel eindeutiger motivieren; sie erfindet auch einen Gegenwartsstrang, der die aktuelle Fremdenfeindlichkeit in Mecklenburg-Vorpommern deutlich thematisiert.</p>
+<p>Merle Kröger ist von der mangelnden Wahrnehmung ihres mit dem Krimipreis 2012 ausgezeichneten Buches in den Milieus der Hochkultur nicht überrascht. Wir sitzen an ihrem Küchentisch in good old Kreuzberg 36. In der Altbauwohnung teilen sich Kröger und Scheffner und ihre gemeinsame Produktionsfirma das Private und das Politische, also Wohnung und Büro. „Das Vorurteil ist weit verbreitet, dass der Krimi immer wie im Klischee funktioniert. Ein Verbrechen dringt ein in die Ordnung, dann kommt der Kommissar und stellt zuletzt die gestörte Ordnung wieder her. Mich interessiert aber eine andere Art von Kriminalliteratur. Die nämlich, in der die Ermittlung nur immer weiter in die Unordnung hineinführt. Aufklärung heißt dann nur Aufklärung über gesellschaftliche und politische Verhältnisse, die heillos sind und bleiben.“ Und wie man das hinkriegt, das kann man im so temporeichen wie komplexen Roman <em>Grenzfall</em> in der Tat geradezu idealtypisch sehen.</p>
+<p>Bereits viel gelobt und favorisiert für den Preis der Buchmesse sind Lisa Kränzlers Roman <em>Nachhinein</em> und David Wagners zwischen Autobiografie und Fiktion angesiedelter Bericht von seiner Lebertransplantation <em>Leben</em>. Die 30-jährige Kränzler erzählt in wunderbar kratzbürstiger Sprache aus der Wahrnehmungswelt zweier heranwachsender Mädchen. Ein alles andere als ein harmloses Buch, das aber den Blick gerade nicht über das brillant beschriebene Freiburger Milieu hinaus weitet.</p>
+<p>Und David Wagner ist auch so ein Meister der Beobachtungsmikrologie ohne ausgestellte Politambition. Einer, der ganz genau hinschaut, diesmal also auf sich, seine Krankheit und sein Überleben – dabei mit Lakonie und Witz weit entfernt von bloßer Befindlichkeitsliteratur.</p>
+<p>Wir sitzen in Charlottenburg im mit Plüsch und Nippes vollgeräumten Café Frau Behrens Torten, aber daran bin ich schuld, David Wagner lebt in Prenzlauer Berg. „Nein, explizit politisch sind meine Bücher sicher nicht“, sagt er, „auch wenn ich etwa die Aufmerksamkeit des neuen Buches nutze, für Organspenden zu werben. Aber ich glaube grundsätzlich schon, dass der genaue Blick auf nicht notwendig politische Dinge auch eine Haltung zur Gesellschaft spürbar werden lässt. Das wird in meinem letzten Roman <em>Vier Äpfel </em>sicher deutlicher, der komplett in einem Supermarkt spielt. Die Beobachtung der Warenwelt impliziert Aussagen über die Ökonomie unseres Gemeinwesens.“</p>
+<p>So geht das. Die Bücher und Texte von Ingo Schulze, Ulrich Peltzer, Merle Kröger, Lisa Kränzler, Nora Bossong und David Wagner wollen Wirklichkeit. Der Wille zur Form, der all ihre Bücher antreibt und durchdringt: Das ist politische Literatur. <em>Abriss der Gesellschaft</em> hieß auch der doppelsinnige Untertitel von Goetz’ <em>Johann Holtrop</em>. Da ist zugleich eben immens viel Gesellschaft.</p>
+<p>Die Frage „Wie politisch seid ihr?“ ergibt ohne die Zusatzfrage: „Und findet Ihr für Eure gesellschaftsrelevanten Stoffe auch eine überzeugende Form?“ keinen Sinn. Da kann man aber beim Blick in die Runde nicht klagen. Neben der <em>Blechtrommel</em> werden heute noch ganz andere und sehr viel modulationsfähigere Instrumente bedient. Für den massenmedialen Diskurs vielleicht noch zu subtil. Aber der Literatur tut es gut.</p>
+<h2>Lieber Dirk Kurbjuweit, welcher Politiker taugt eigentlich am ehesten für einen Roman?</h2>
+<p>Es ist ein Uhr morgens, sie legt den Stift zur Seite und stellt sich an eines der großen Fenster des Kanzleramts. Berlin, die Hauptstadt ihres Landes. Sie ist müde, aber nicht unzufrieden. Ihr Handy klingelt, ihr Freund. Kommst du bald zu mir, fragt er. Ich muss noch ein bisschen die Kanzlerin erfinden, sagt sie. Du könntest auch mich erfinden, sagt er. Bald, sagt sie, legt auf und überarbeitet die Rede der Kanzlerin.</p>
+<p>Beate Baumann, Angela Merkels Büroleiterin, findet den ersten Entwurf zu persönlich. Der Regierungssprecher hat Merkel eingeredet, sie solle nicht immer so steif und vorsichtig daherkommen. Aber Baumann will das nicht. Was bildet der sich ein? Das ist ihre Kanzlerin, sie war schon da, als Merkel Kohls Ministerin war, sie hat ihre besten Jahre dieser Frau gewidmet, sie hat sie zu dem gemacht, was sie heute ist... nein, das lässt sie nicht zu. Der Stift fährt entschlossen über das Papier, macht dicke Striche.</p>
+<p>Das Telefon klingelt erneut. Die Bundeskanzlerin. Baumann seufzt und meldet sich mit „Merkel“. „Haha“, macht die Bundeskanzlerin. „Was ist mit meiner Rede“, fragt sie dann. „Es dauert noch ein bisschen“, sagt Baumann, „warum schläfst du nicht?“ Merkel macht ein paar Vorschläge, was sie gerne sagen würde, und Baumann schreibt mit. „Gute Nacht“, sagt sie dann. „Gute Nacht, Beate.“ Baumann liest die Notizen und denkt bei jedem Satz, dass sie das nicht ist, dass das nicht Beate Baumann ist, sondern Angela Merkel. Andererseits ist Merkel ein bisschen ihr Geschöpf, denkt Baumann bescheiden, also ist das, was Merkel sagt, doch das, was Baumann in sie gepflanzt hat. Wie kann mir dann fremd sein, was Angela sagt, denkt Baumann und legt den Stift weg. Sie ist verwirrt.</p>
+<p>Diese Geschichte auf 300 Seiten wäre mein Roman aus der Politik.</p>
+<h2>Lieber Ernst-Wilhelm Händler, bitte verraten Sie uns, was gehört nicht in einen politischen Roman?</h2>
+<p>Moderne Politiker sind Konsenserzeugungsmaschinen. Sie sollen es fertig bringen, den Willen von Wählern zu bündeln und in Gesetze, Verordnungen und in sonstiges politisches Handeln umzusetzen. Für die Art, wie sie das durchführen, müssen Sie regelmäßig Zustimmung einholen.</p>
+<p>Der Vergleich mit Unternehmern liegt nahe, die auf die Bedürfnisse der Konsumenten eingehen. Aber Unternehmer sind soviel interessanter: Die begabtesten Exemplare erfassen Bedürfnisse visionär. Kein Kunde hat das iPhone beschrieben, bevor es erhältlich war. Die Klienten der Politiker artikulieren ihre Wünsche überdeutlich, sie gehen dafür sogar auf die Straße. Ein Politiker darf unter keinen Umständen eine Vision haben, die nicht schon ein anderer gehabt hat.</p>
+<p>Wer wählt gern Maschinen. Es ist unerlässlich, dass Nicolas Sarkozy das Dekolleté von Angela Merkel explizit würdigt und dass die Kanzlerin so gern „hamwa“ mit Partizip Perfekt verwendet. Peinlichkeiten und Unbeholfenheiten sind maximal menschlich. Alles, was den einigermaßen erfolgreichen Politiker ausmacht, ist berechnet, auch wenn es nicht berechnet ist. Die hartnäckige Illusion, ein erwähnenswerter Politiker weise einen Rest von Unberechenbarkeit auf, zeichnet eine Leitlinie für eine Karriere im politischen Journalismus vor, die wiederkehrende Enttäuschung über die universale Berechenbarkeit eine andere.</p>
+<p>Im Roman haben weder diese Illusion noch diese Enttäuschung etwas zu suchen.</p>
+<h2>Lieber Rainer Merkel, welchen politischen Roman sollen wir unbedingt einmal lesen?</h2>
+<p>Eine Weile schien es, als könnte Rainald Goetz’ <em>Johann Holtrop</em> zu dem politischen Roman des Jahres werden, aber aus irgendeinem Grund steht das Buch seit Monaten eingeschweißt bei mir auf dem Fensterbrett. Sind meine Erwartungen vielleicht zu groß? Oder ist das Politische auch in älteren Texten von Goetz letztlich immer ein eher „innenpolitisches“ Verfahren, bei dem primär der Innenraum des Autors vermessen wird.</p>
+<p>Vielleicht aber muss sich die Literatur, wenn sie politisch sein will, wenn sie es mit Macht zu tun hat, in ihrem Bewegungsspielraum auf einen kleinen Zugriffspunkt beschränken. Dachte ich, als ich neulich Ursula Krechels Roman <em>Landgericht </em>las. Die Literatur muss präzise und akribisch sein und nach einem Material suchen, das dann in der Bearbeitung solche „Nebeneffekte“ abwirft, die den eigentlichen Mehrwert der Literatur ausmachen. Widersprüche aushalten, und sich keiner vereinheitlichenden Darstellungsweise unterwerfen.</p>
+<p><em>Landgericht</em> ist ein Roman, der eine Suchbewegung nachzeichnet. Darin taucht Ursula Krechel selbst nur ganz selten in Klammern auf, wenn sie ihr Material auf eine fast geisterhafte Weise kurz kommentiert und einen daran erinnert, dass sie als Autorin auch noch mit dabei ist. Sie hat ein interessante Methode angewandt, eine „Doppelbelichtung“ des Materials, wie sie selbst sagt.</p>
+<p>Das Besondere an dem Roman <em>Landgericht</em>, der ja im letzten Jahr auch mit dem Deutschen Buchpreis ausgezeichnet wurde, ist der machtvolle bürokratische Apparat der Justiz und der Verwaltung, dem sich der heimkehrende jüdische Richter Richard Kornitzer nach dem Krieg ausgesetzt sieht.</p>
+<p>Die Fiktion schrumpft, die Lücken füllt die Autorin mit vorsichtigen Poetisierungen. Dahinter steckt eine fast demütige Haltung, sie verlangt die Bereitschaft, sich dem Material, dem Berg von Akten und Dokumenten auszuliefern und andererseits sich wieder davon zu entfernen. Wo die Lyrikerin Krechel zögert, schreckt die Dokumentaristin aber vor nichts zurück. Vielleicht ist das die geeignete Methode, um die Demütigung, die Kornitzer widerfahren, abzubilden. Er verliert sich in sich selbst und hat sich am Ende in seinem Bedürfnis nach Wiedergutmachung vollkommen verrannt.</p>
+<p>Paradox ist der Effekt, dass am Ende ein Opfer des NS-Regimes plötzlich unsympathisch und in manchen Momenten sogar fast abstoßend wird, einem als Figur aber auf bedrohliche Weise immer näher rückt.</p>
+<h2>Liebe Inger-Maria Mahlke, die Jungen seien heute so unpolitisch, klagen die Alten. Quatsch, oder?</h2>
+<p>Ihr fürchtet, dass wir in süßer Spielerei die Sintflut verschlafen? Und nicht schreiben, was gesagt werden muss, mit einem Zeigefinger, der fest auf der Zeilenumbruchtaste liegt?</p>
+<p>Den Mikrokosmos des Einzelnen zu erkunden, ist nicht zielführend? Vergleichbar mit Bürgerinitiativen, allenfalls latent kritisch und ohne gesellschaftliche Wirksamkeit? Dafür bräuchte es einen politischen Gegenentwurf? Eine Vision? Sollen wir den Leser an die Hand nehmen und ihn in großen Sätzen rückwärts ins Didaktische bewegen, ihn bewusstseinsbilden und am Ende in seinem Sessel wieder absetzen? Die Bauanleitung noch nach Möglichkeit mit Grafiken versehen? Weil jung überheblich bedeutet? Und man so sein muss, um zu glauben, eine gültige Antwort gefunden zu haben?</p>
+<p>Ist es feige zu sagen, der Informationsozean ist zu groß? Die Wirklichkeit zu komplex für durchkomponierte Lösungen auf 300 Seiten? Müssen wir vereinfachen? Keine Fakten, nur irgendwas, das alle mitnimmt? Keine dysfunktionale Familie oder postmoderne Sinnentleertheitsgefühle? Haben alle schon?</p>
+<p>Hattet ihr nicht behauptet, das Private sei politisch? Oder ist das das falsche Private? Und das richtige Private ist ein gesellschaftliches Klima, in dem Schlagworte geeignet sind, jemanden ins Bett zu kriegen? Und wir sollen endlich die scheiß Telefone beiseite legen und die Welt retten?</p>
+<h2>Das sind die neuen Bücher unserer Autoren</h2>
+<p>Alle vier von uns befragten Schriftsteller haben in diesem Frühjahr höchst lesenswerte Romane veröffentlicht: Von <strong>Ernst Wilhelm Händlers</strong> <em>Der Überlebende</em> (S. Fischer) ist im Haupttext ja ausführlich die Rede. <em>Rechnung offen</em> (Berlin Verlag) heißt das Buch von <strong>Inger-Maria Mahlke</strong> und erzählt von einer Gruppe prekärer Gestalten in Berlin Neukölln. Das ist drastisch, genau, temporeich und in einem guten Sinne unbarmherzig. <strong>Rainer Merkel</strong>, der<strong> </strong>für eine NGO ein Jahr lang eine Psychatrie in Liberia geleitet hat,<strong> </strong>führt<strong> </strong>seine Leser in <em>Bo</em> (S. Fischer) nach Monrovia. Der 13-jährige Benjamin soll eigentlich von seinem Vater am Flughafen abgeholt werden. Eigentlich ..., stattdessen trifft er Bo und Brilliant, dessen Kumpel. Und die drei Jungs begeben sich auf eine Reise. <strong>Dirk Kurbjuweit </strong>beschreibt in <em>Angst</em> (Rowohlt Berlin) dagegen eine deutsche Familie, deren Leben zur Hölle wird, als ein Stalker die Nachbarwohnung bezieht. Kurbjuweit arbeitet im echten Leben als politischer Korrespondent für den<em> Spiegel</em>. <em>JaH</em></p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (3)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364468305281181" name="1364468305281181"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/anne-monen">
+                
+                  <img src="http://www.freitag.de/autoren/anne-monen/@@images/4794e42c-3beb-4905-a8cc-c7dc386ff7a7.jpeg" alt="anne mohnen" title="anne mohnen" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/anne-monen" class="author ">anne mohnen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr#1364468305281181">
+                  28.03.2013 |
+                  11:58</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Bestes Wochenthema in diesem Jahr -neben (;)), toller Text von Herrn Knörer und den Co-Autoren.</p>
+<p>Hoffe auf mehr Beiträge von Herrn Knörer.</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr#1364468305281181">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364481392236860" name="1364481392236860"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/nachdenklich">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/nachdenklich" class="author ">tja ...,</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr#1364481392236860">
+                  28.03.2013 |
+                  15:36</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>lieber Herr Knörer,</p>
+<p>ich habe Ihren Text gelesen, mehr noch, ich hab' ihn mit Gewinn gelesen - als ob Sie was anderes gewollt hätten! Dem inhaltlichen Anspruch gerecht geworden, fand ich's überzeugend und verständlich!</p>
+<p>Gefallen hätte mir, wenn Sie Grass einfach übersehen hätten - ihr Recht, ihn erwähnen zu müssen, bleibt davon unberührt! Gefallen hat mir ihre gedankliche Auseinandersetzung mit Neuerscheinungen. Amüsiert hat mich der Text Merkel und ihrer Büroleiterin. Davon hätte ich gern mehr gelesen.</p>
+<p>Schon während des Lesens, dachte ich, ohne Ihnen nahetreten zu wollen(!), wer so gut mit dem Material seiner Betrachtung umgeht - warum zum Teufel schreibt so einer nicht selbst?</p>
+<p>Es mag sinnvoll erscheinen, ein Buch über Politik zu verfassen. Ich bin nur nicht sicher daß es was nützt. Das Neue Testament wurde auch nach dem Ableben seines Protagonisten zu Papier gebracht. Die RAF hat kein Buch geschrieben, bewirkt hat ihre Existenz allerdings die Schleier- und Rasterfahndung, bis hin zur Bespitzelung von Hartz IV Empfängern um deren Unterhalt ihren "Verhältnissen" überlassen zu können. Vielleicht ist was mit meiner Wahrnehmung nicht in Ordnung, aber seit Maxim Billers "ESRA" wird mit juristischer Hilfe viel geschwärzt in deutschen Büchern! Und dann, was soll ein Buch über Politik und Politiker. Warum gibt es (Böll sei hier ausgenommen) wie in denUSA keine Erzählung zwischen zwei Buchdeckeln, in der ein Spitzenpolitiker einen schwerwiegenden Fehltritt begeht? Nur politisch (über)korrekt oder hat man Angst vor juristischer Verfolgung? Und weil ich bei den USA bin, Bücher wie "Die Holocoust-Industrie" oder "Die Israel Lobby" haben, wenn die Empörung abebbt, nichts bewirkt, waren kaum mehr als ein Sturm im Wasserglas.</p>
+<p>Am Ende, Herr Knörer, wir leben in stürmischen Zeiten, Zeiten des Umbruchs, haben Sie mich an Ihrer Seite. Ihr Text ist der Ausblick, die Ausschau nach einem, dem der große Wurf gelingt, gelingen soll. Ich hab' nichts dagegen, wenn's im literarischen Bereich ist - im politischen Alltag wär's mir nützlicher!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr#1364481392236860">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364483089939272" name="1364483089939272"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr#1364483089939272">
+                  28.03.2013 |
+                  16:04</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wann sind Schriftsteller politisch? Wenn sie gegen den Kapitalismus kämpfen und doch von dem System leben? Oder kämpfen sie vielleicht gar nicht dagegen? Wollen sie nicht auch nur vom Markt profitieren? Wer verbreitet seine Meinung heute noch "Umsonst"?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr#1364483089939272">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/der-freitag">der Freitag</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/der-freitag">
+          <img src="http://www.freitag.de/autoren/der-freitag/@@images/50c1cea0-2a14-47a6-8687-3435f86755e3.png" alt="der Freitag" title="der Freitag" height="65" width="65" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2012</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">24295</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">103</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/der-freitag/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Ekkehard Knörer</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-aktionist">
+              <span class="catchword">Dieter Kosslick</span>
+              Der Aktionist </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-aktionist">
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-film-zum-aufruf">
+              <span class="catchword">DVD</span>
+              Der Film zum Aufruf</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-film-zum-aufruf">
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/lob-der-souveraenen-kopie">
+              <span class="catchword">Sauber</span>
+              Lob der souveränen Kopie </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/lob-der-souveraenen-kopie">
+              
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364997566" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364997566" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364997566" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="catchword">1963</span>
+              Das Kuckucksei </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="author group-authors">Georg Fülberth</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="catchword">Finanzkrise</span>
+              Der Rubel rollt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="author group-authors">Dierk Hirschel</span>
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364997566" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364997566" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364997566" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    objectid: "a5419adc17b24855a63223ba85b0ebc9",
+    title: "Wie  politisch seid  ihr? ",
+    url: "http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr",
+    text: "Große Begriffe wie Revolte, Markt und Kapitalismus drängen zurück in die Romane. Viele Autoren suchen längst nach der richtigen Form für unsere krisenhafte Gegenwart",
+    created_at: "1364428800"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

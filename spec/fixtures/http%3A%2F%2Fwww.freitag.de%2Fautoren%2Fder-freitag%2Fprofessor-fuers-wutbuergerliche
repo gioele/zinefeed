@@ -1,0 +1,1847 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:59:47 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:59:47 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 109412
+Accept-Ranges: bytes
+X-Varnish: 557706232
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Porträt ǀ Professor fürs Wutbürgerliche  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Bernd Lucke will mit seiner neu gegründeten Anti-Euro-Partei &#13;&#10;„Alternative für Deutschland“ in den Bundestag einziehen. Ist er der deutsche Haider?" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364997586" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364997586" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364997586" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364997586" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364997586" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364997586" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364997586" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  
+
+
+
+
+  <aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p><strong>Robert Misik</strong> lebt und arbeitet als Journalist, Blogger und politischer Schriftsteller in Wien. 2012 erschien sein jüngstes Buch<em> Halbe Freiheit</em>. Warum Freiheit und Gleichheit zusammengehören Bernd Lucke studierte VWL in Bonn und Berkeley, er ist Professor für Makroökonomie in Hamburg und berät die Weltbank. Vor zwei Jahren trat er nach 33 Jahren aus der CDU aus</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Robert Misik </span>
+        <div class="additional-info">
+          <span class="date">26.03.2013</span> |
+          <span class="time">11:50</span>
+          <span class="comment-count" title=" 31 mal kommentiert">31</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Professor fürs Wutbürgerliche </h1>
+
+        <p class="description">
+          <span class="catchword">Porträt</span>
+          Bernd Lucke will mit seiner neu gegründeten Anti-Euro-Partei 
+„Alternative für Deutschland“ in den Bundestag einziehen. Ist er der deutsche Haider?
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche/@@images/b057f8f6-f5ca-48a0-915d-8c2be972d8d7.jpeg" alt="Professor fürs Wutbürgerliche " title="Professor fürs Wutbürgerliche " height="282" width="445" /><p class="credit">Foto: imago</p>
+          </div>
+        
+
+        <div class="text"><p>Als ich in den neunziger Jahren als österreichischer Journalist in Berlin lebte, war ich praktisch im Wochenrhythmus mit Fragen folgender Art konfrontiert: Wer wird der deutsche Haider? Wann kommt der deutsche Haider? Österreichische Magazine wünschten sich von mir die Suche nach dem deutschen Haider, und deutsche Zeitungen, die mir als Österreicher offenbar eine quasi nationalkulturelle Expertise für Fragen des Rechtspopulismus zuschrieben, schickten mich aus, die Augen offen zu halten. Ich gestehe, dass mich das Thema nach ein paar Runden langweilte.</p>
+<p>Denn wir haben viele „deutsche Haider“ den Kopf rausstrecken und dann wieder untergehen gesehen. Manfred Brunner mit seinem Bund freier Bürger, dann noch einen FDP-Mann aus dem Taunus, dessen Name längst in Vergessenheit geraten ist, und auch noch Alexander von Stahl, immerhin seinerzeit Generalbundesanwalt. Irgendwann einmal kam die Hamburger Statt Partei in die Bürgerschaft, flog aber bald wieder raus, und etwas später dann polterte Richter Gnadenlos Roland Schill durchs Bild und schaffte es sogar in die Hamburger Landesregierung. Heute weiß man nicht mehr viel von ihm, die letzte Nachricht, die wir über Schill erhalten hatten, war, dass er irgendwo in Südamerika rumhockt und kokst.</p>
+<p>So – und jetzt also Bernd Lucke. Der 50-jährige Volkswirt mit der Aura eines langsam verwitternden Pennälers ist also der neueste Kandidat für die Rolle des deutschen Haiders; für die Rolle desjenigen, der allen Anti-Establishment-Ressentiments ein Gesicht und eine Stimme gibt. Gründer und Sprecher der „Alternative für Deutschland“ ist er, eines Zusammenschlusses konservativer Wutbürger, die derzeit vor allem die Ablehnung des Euro eint. Noch ist die Plattform eine klassische „Single-Issue“-Bewegung: Auflösung der Eurozone. Kein deutsches Geld für Pleitestaaten. Punkt, that’s it.</p>
+<p>Immerhin 1.200 Leute, vor allem ältere Männer, sind jüngst zu einer Art Parteigründungs-Preview nach Oberursel in den Taunus gekommen. Lucke, der als Makroökonomie-Professor in Hamburg wirkt und auch schon einmal einem „Sachverständigenbeirat für die Einführung der Sozialen Marktwirtschaft in der DDR“ angehört hat, tut alles, um seiner Partei einen Anstrich der Grundvernünftigkeit zu geben. „Die Italiener sind nicht mehr wettbewerbsfähig, weil wir kein System flexibler Wechselkurse mehr haben“, sagt er und hält eine kleine Vorlesung in Makroökonomie. Er erklärt, dass eine gemeinsame Währung derart unterschiedlicher Volkswirtschaften nicht funktionieren könne. Das klingt nüchtern, gar nicht wütend und keineswegs besonders rechts. Ja, es ist nicht einmal völlig falsch. Falsch ist allenfalls die Annahme, dass die Abschaffung des Euro die einzige Möglichkeit ist, das zu korrigieren.</p>
+<p>„Ich glaube, die Menschen haben ein ganz gutes Bauchgefühl für Fehlentwicklungen. Die spüren, dass die Europa-Politik in die falsche Richtung geht. Aber die etablierten Parteien sind auf diesem Ohr völlig taub“, sagt Lucke. 25 Prozent der Bürger, so glaubt der Wut-Professor aus Umfragen herauslesen zu können, wären für eine Partei wie die seine potenziell gewinnbar. Zumindest der Sprung über die Fünf-Prozent-Hürde bei den Bundestagswahlen im Herbst müsste so doch locker zu schaffen sein, ist er sich sicher.</p>
+<p>Man sollte das keineswegs ausschließen. Aber die grassierende Wut und das Ressentiment und der Ärger über das Establishment lassen sich nicht so leicht in Parteiform gießen. Wer so eine Partei aus der Taufe hebt, der zieht erst einmal alle Spinner und Narren dieser Republik an – und ist dann zunächst weitgehend mit internen Grabenkämpfen beschäftigt. Wenn Rechthaber, die „die Politiker“ für dumm und Verbrecher halten, erst einmal in einem Parteivorstand sitzen, dann werden sie sehr schnell zu Rechthabern, die alle ihre Co-Vorständler für dumm und Verbrecher halten.</p>
+<p>Dass dieses Spinnerhafte in Kreisen männlicher deutscher Professoren nahe oder jenseits der Rentenaltersgrenze unterdurchschnittlich ausgeprägt sei, auf diese Annahme sollte man nicht allzu viel setzen. Kurzum: Allzu hohe Einsätze sollte man nicht darauf verwetten, dass Luckes Partei tatsächlich in den nächsten Bundestag einzieht.</p>
+<p>Jetzt schon ist die Partei um Lucke und eine Handvoll prominenter Unterstützer – darunter Ex-BDI-Chef Hans-Olaf Henkel, Ex-CDU-Mann Alexander Gauland und Ex-<em>FAZ</em>-Redakteur Konrad Adam – vor allem damit beschäftigt, den Zustrom meschuggener Rechtsradikaler zu stoppen. Ein Parteivorstandsmitglied, das via Internet kundtat, ein obskures „Multi-Kulti-Gen“ führe zu „Mutationen und damit zu Krankheiten, die vorher bei Reinrassigkeit nicht vorhanden waren“, musste gerade zurücktreten. Es wird nicht die letzte Peinlichkeit gewesen sein.</p>
+<p>Die Stimmung für eine solche Partei wäre da. Dass sie einen Erfolg in die Scheune fährt, ist damit noch lange nicht gesagt. Aber immerhin – unmöglich ist es nicht. Paradoxerweise könnte der „Alternative für Deutschland“ gerade der Umstand nützen, dass bis zu den Bundestagswahlen nicht mehr allzu viel Zeit ist. Ein Auftaktkongress, schnell mal eine Wahlliste zusammen gebastelt, plus die übertriebene Medienaufmerksamkeit, die das Neue stets begleitet, könnte für einen Einzug in den Bundestag reichen – und die Zeit knapp genug bemessen sein, so dass sich die Partei erst nach der Wahl zerlegt.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (31)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364295493234661" name="1364295493234661"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tlacuache">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tlacuache" class="author ">tlacuache</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364295493234661">
+                  26.03.2013 |
+                  11:58</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Herr Misik,</p>
+<p>in Ehren Ihre Erfahrung, schoener Artikel, aber mich umtreibt eine ganz andere Frage, wie kann so jemand Professor werden? Das waere doch mal ein Artikelchen Wert...</p>
+<p><strong>;-)</strong></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364295493234661">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364297056570410" name="1364297056570410"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/hans-springstein">
+                
+                  <img src="http://www.freitag.de/autoren/hans-springstein/@@images/09a9165d-1a9c-46d9-a597-7230f1b774f8.jpeg" alt="Hans Springstein" title="Hans Springstein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/hans-springstein" class="author ">Hans Springstein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364297056570410">
+                  26.03.2013 |
+                  12:24</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364295493234661">
+                    <span data-in_reply_to="1364295493234661" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Eine berechtigte Frage</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364297056570410">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364297342645052" name="1364297342645052"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tkaiser">
+                
+                  <img src="http://www.freitag.de/autoren/tkaiser/@@images/2db7dc4c-0c60-4079-b5c3-84712aca5bfa.jpeg" alt="tkaiser" title="tkaiser" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tkaiser" class="author ">tkaiser</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364297342645052">
+                  26.03.2013 |
+                  12:29</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Naja, ein Professor mit Silberblick wird genauso wenig der „deutsche Haider“ wie ein Großindustrieller. Beide können den „kleinen Mann auf der Straße“ doch gar nicht adäquat repräsentieren.</p>
+<p>Sie sollten hier öfter schreiben, Herr Misik.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364297342645052">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364298650719376" name="1364298650719376"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/der-arme-berliner">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/der-arme-berliner" class="author ">der arme berliner</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364298650719376">
+                  26.03.2013 |
+                  12:50</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364295493234661">
+                    <span data-in_reply_to="1364295493234661" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Nur weil er politisch nicht opportun erscheint, muss man seine fachliche Qualifikation ja nicht gleich anzweifeln. Das ist dann ehrenrührig, für eine solche Community wie diese hier nicht gerade ein Aushängeschild.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364298650719376">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364298738456698" name="1364298738456698"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/der-arme-berliner">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/der-arme-berliner" class="author ">der arme berliner</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364298738456698">
+                  26.03.2013 |
+                  12:52</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364297342645052">
+                    <span data-in_reply_to="1364297342645052" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Professor mit Silberblick" - soll das ein sachliches Argument pro/contra sein jetzt oder ist das lediglich eine polemische Entgleisung?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364298738456698">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364299459756036" name="1364299459756036"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/der-arme-berliner">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/der-arme-berliner" class="author ">der arme berliner</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364299459756036">
+                  26.03.2013 |
+                  13:04</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Egal, wie man diese neue Partei mit dem prof. Lucke bewertet: Aber es ist schon interessant, warum es solche Parteien, Bewegungen, Personen nicht schaffen, die etablierten Parteien wirklich in Bedrängnis zu bringen. Vllt. liegt es an der Komplexität des Problems, die es anscheinend nur noch Fachleuten erlaubt, sich eine kompetente Meinung zu bilden und der große Rest kann/will sich dann aus diesen "Fach-Meinungen" seine eigene Meinung raussuchen....(Zu dieser modernen Form der politischen "Diskussion" gab es am Silvesterabend im B.E. von Jürgen Kuttner einen wunderbaren Monolog!)</p>
+<p>Oder gibt es auch aufgrund unserer historischen Erfahrungen inzwischen eine sehr hohe Hemmschwelle in der Bevölkerung, solchen "Anti-Establishment-Bewegungen" größeres Interesse oder gar mehr entgegenzubringen?</p>
+<p>Oder aber: Es geht uns in Deutschland immer noch zu gut, die Probleme liegen ja scheinbar alle hunderte Kilometer weit weg und der Alltag erscheint uns (noch) als normal und beherrschbar?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364299459756036">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364299704788988" name="1364299704788988"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tlacuache">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tlacuache" class="author ">tlacuache</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364299704788988">
+                  26.03.2013 |
+                  13:08</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"ehrenrührig", den Satz lasse ich mir auf der Zunge zergehen, "reiche Berliner" schwärmen noch heute von ..."Bonn, Berkeley und Vancouver"..</p>
+<p>..."<em>Er berät die Weltbank und leitet Forschungen zur Marktliberalisierung und Wachstumsintegration in Südeuropa und im Nahen Osten</em>"...</p>
+<p>Als Makroökonom hat er sicherlich auch das Zyperndesater vor Augen gehabt, Sorry, ich bin in Bonn geboren, kenne Berkeley und Vancouver und vieles mehr, und wenn mir heute, also gerade nach Zypern, jemand erzählt, seine VWL - Studien taugen zu irgendwas, muss ich leider querverdänzen: "Chicago - boy's", Jungs, Ihr habt nix gelernt, man sollte für so Scheinwissenschaftler nicht mal mehr "Besoldungsgruppe A 2 bis A 6" vergeben, Assmussen gehört übrigens ins Hartz 4 Viertel...</p>
+<p>Reiche Berliner rennen im übrigen noch "FAZ und Focus" dillentierereien hinterher, "Wachsen Wachsen Wachsen", andere sagen da auch "Wixen Wixen Wixen", auf den Geldbeutel "ARMER BERLINER"...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364299704788988">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364299801073046" name="1364299801073046"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tlacuache">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tlacuache" class="author ">tlacuache</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364299801073046">
+                  26.03.2013 |
+                  13:10</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364299459756036">
+                    <span data-in_reply_to="1364299459756036" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das ging an "Reiche Berliner":</p>
+<p>"ehrenrührig", den Satz lasse ich mir auf der Zunge zergehen, "reiche Berliner" schwärmen noch heute von ..."Bonn, Berkeley und Vancouver"..</p>
+<p>..."<em>Er berät die Weltbank und leitet Forschungen zur Marktliberalisierung und Wachstumsintegration in Südeuropa und im Nahen Osten</em>"...</p>
+<p>Als Makroökonom hat er sicherlich auch das Zyperndesater vor Augen gehabt, Sorry, ich bin in Bonn geboren, kenne Berkeley und Vancouver und vieles mehr, und wenn mir heute, also gerade nach Zypern, jemand erzählt, seine VWL - Studien taugen zu irgendwas, muss ich leider querverdänzen: "Chicago - boy's", Jungs, Ihr habt nix gelernt, man sollte für so Scheinwissenschaftler nicht mal mehr "Besoldungsgruppe A 2 bis A 6" vergeben, Assmussen gehört übrigens ins Hartz 4 Viertel...</p>
+<p>Reiche Berliner rennen im übrigen noch "FAZ und Focus" dillentierereien hinterher, "Wachsen Wachsen Wachsen", andere sagen da auch "Wixen Wixen Wixen", auf den Geldbeutel "ARMER BERLINER"...</p>
+<p><br /><a href="/autoren/der-freitag/professor-fuers-wutbuergerliche/++conversation++default/1364299704788988/content_status_modify?workflow_action=flag" title="Kommentar melden"></a></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364299801073046">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364300447833757" name="1364300447833757"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ed2murrow">
+                
+                  <img src="http://www.freitag.de/autoren/ed2murrow/@@images/dee710d1-ae8a-40ba-b8cc-33f10b1d5759.jpeg" alt="ed2murrow" title="ed2murrow" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ed2murrow" class="author ">ed2murrow</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364300447833757">
+                  26.03.2013 |
+                  13:20</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Was den Brüdern fehlt, ist das Völkische, das u.a. dank des aufgeblähten Sprachenstreits die identitäre Basis Haiders bildete. Das fehlt bereits Strache, der von der Landespolitik abgekoppelt zwar den xenophebesten Wahlkampf geführt hat, den Österreich seit Schuschnigg gesehen hat, damit aber im urbanen Milieu nicht entscheidend punkten konnte. Glücklicherweise.</p>
+<p>Sollte aber hierzulande jemand auf die glorreiche Idee kommen, Sarrazin konsequent zu Ende zu denken (einschl. der "genetischen Bedingtheit sozialer Faktoren") und programmatisch zu verwursten, dann gute Nacht, Marie.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364300447833757">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364302009008299" name="1364302009008299"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/helmut-eckert">
+                
+                  <img src="http://www.freitag.de/autoren/helmut-eckert/@@images/3dedd9c0-8c83-4f78-81ea-13e7ff400097.jpeg" alt="Helmut Eckert" title="Helmut Eckert" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/helmut-eckert" class="author ">Helmut Eckert</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364302009008299">
+                  26.03.2013 |
+                  13:46</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Fakt ist, der Euro wurde mit sehr heißer Nadel gestrickt. Fakt ist, der Arbeitnehmer zahlte bis jetzt die Zeche der Euroumstellung. Bis in die 70er Jahre gab es die Händlerbürgschaft. Die Exportlieferungen in die europäischen Mittelmeerstaaten sind letztlich Händlerbürgschaften der deutschen Steuerzahler. Zahlungsausfälle wird der kleine Mann begleichen. Das ist die kommende Belohnung für einen jahrelangen Lohnverzicht. Bricht der Euro weg, zahlen ebenfalls die Arbeitnehmer die Zeche. Soll der Euro Bestand haben, werden wir in Deutschland noch Milliarden bezahlen müssen. Dieses Stützungsgeld wird ebenfalls dem Arbeitnehmer aufgebürgt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364302009008299">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364303099065001" name="1364303099065001"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tkaiser">
+                
+                  <img src="http://www.freitag.de/autoren/tkaiser/@@images/2db7dc4c-0c60-4079-b5c3-84712aca5bfa.jpeg" alt="tkaiser" title="tkaiser" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tkaiser" class="author ">tkaiser</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364303099065001">
+                  26.03.2013 |
+                  14:04</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364298738456698">
+                    <span data-in_reply_to="1364298738456698" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>In dem Zusammenhang weder unsachlich noch polemisch. Bei solchen Bewegungen spielt Charisma eine große Rolle und da hatte Haider halt bedeutend mehr als er. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364303099065001">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364304404968015" name="1364304404968015"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tlacuache">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tlacuache" class="author ">tlacuache</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364304404968015">
+                  26.03.2013 |
+                  14:26</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364303099065001">
+                    <span data-in_reply_to="1364303099065001" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Du bist natuerlich ein Oesterreicher (bin ich auch nicht), aber wenn mir Kunden erzaehlten, und das sind nicht die Duemmsten gewesen, also die Tieflandoesterreicher "das war doch jedem klar, dass der nicht alle auf der Schippe hatte", nach aussen rumproleten, ich bin der "Feingeist", nach innen den Audi zerschellen lassen "da unpatriösse" Ergebnisse zu erwarten sind...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364304404968015">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364309827531487" name="1364309827531487"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/christian-g">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/christian-g" class="author ">Christian G.</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364309827531487">
+                  26.03.2013 |
+                  15:57</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364302009008299">
+                    <span data-in_reply_to="1364302009008299" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wenn ich mich recht erinnere, war die Wiedervereinigung so um die 1990 rum. Der Euro wurde 2000 eingeführt. Man hatte also zehn Jahre Zeit, den Euro aufzusetzen. Können Sie mir bitte erklären, warum er dennoch nur mit der heißen Nadel gestrickt wurde?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364309827531487">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364316760735783" name="1364316760735783"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ninoschneider">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ninoschneider" class="author ">NinoSchneider</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364316760735783">
+                  26.03.2013 |
+                  17:52</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Also ich habe Herrn Lucke einmal bei Anne Will gesehen und seine Argumente waren sehr logisch, seriös vorgetragen und seine Darstellungen enthielten keinerlei kapitalhandlangertendenziöse Entgleisungen wie dieser Artikel hier.</p>
+<p>Im Gegenteil Herr Lucke wies darauf hin zusammen mit weiteren Finanzexperten und Herrn Lafontaine das gerade die Einführung des Euros die EU immer mehr am Rande des Zerfalls bringt solange hunderte von Milliarden an so genannte Stützungsgelder für Banken ausgegeben werden die angeblich Systemrelevant sein sollen die aber nichts weiter sind als Geldverwalter von superreichen Großaktionären die sich verspekuliert haben und somit auch das Risiko tragen müssen. also nach den Gesetzen der Marktwirtschaft in die Insolvenz verschwinden müssten. Die Folgen wären für die EU Staaten ohne Probleme verkraftbar. Herr Lucke sagte weiterhin das es für die EU nicht verkraftbar ist weil es letztendlich den sozialen gesellschaftlichen, politischen und kulturellen Fortbestand der EU kosten wird, wenn weiterhin hunderte von Milliarden in unterirdische Großaktionärskanäle versickern, welches er am Beispiel von Griechenland schilderte. Von den ca. 188 Milliarden Euronen die bisher an Griechenland gegangen sind verschwanden ca. 185 Milliarden in die Taschen der Superreichen, in Island sieht es genauso aus und in anderen EU Staaten auch. Gerade mal 3 Milliarden wurden für Menschen oder Investitionen ausgegeben wobei das letztere noch viel wichtiger wäre damit Griechenland wieder auf die Beine kommt und die Bank Goldmann Sachs haftet immer noch nicht für die griechische Bilanzfälschung usw. U. a. sollte der Lobbyismus mit Korruptionsnähe empfindlich bestraft werden weil er die Demokratie gefährdet. Die Gründe seiner Parteigründung schilderte Herr Lucke als eine Folge dieser intransparenten Politik die dem Bürger als alternativlos verkauft wird und die gerade ein Europa in Gefahr bringt welches einige Jahrzehnte ohne den Euro prima funktioniert hat und weiterhin sogar besser funktionieren würde weil bei der Euroeinführung bewusst oder unbewusste nicht auf Ausgleichmechanismen geachtet wurde die die einzelnen Wirtschaftsstärken der Euroländer berücksichtigten. Ich persönlich finde, dass diese Bewegung wichtig ist für unser Land weil sie die Menschen informiert und auf die Gefahren hinweist die von einer Politik ausgehen wie zum Beispiel den ESM der die Haushaltssouveränität des Staates quasi auflöst mit unübersehbaren Folgen für die Demokratie.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364316760735783">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364318939075897" name="1364318939075897"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ninoschneider">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ninoschneider" class="author ">NinoSchneider</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364318939075897">
+                  26.03.2013 |
+                  18:28</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364316760735783">
+                    <span data-in_reply_to="1364316760735783" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Irland war gemeint nicht Island!!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364318939075897">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364320127908985" name="1364320127908985"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/oberham">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/oberham" class="author ">Oberham</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364320127908985">
+                  26.03.2013 |
+                  18:48</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>So – und jetzt also Bernd Lucke. Der 50-jährige Volkswirt mit der Aura eines langsam verwitternden Pennälers...</em></p>
+<p><em></em>wieso werd ich das Gefühl nicht los, dass die opportunistischen Chargen, egal ob frisch oder verwittert, egal ob links, rechts, mitte, jedenfalls immer oben, egal ob in Politik, Wissenschaft, Kultur praktisch immer die bestimmenden Kräfte bilden?</p>
+<p>Wieso werd ich das Gefühl nicht los, dass der Rest der Menschen entweder völlig ohne Hoffnung, zynisch oder schlicht fatalistisch dem Treiben dieser Irren beiwohnen, schlimmstenfalls emsig mittreiben, bestenfalls an der Seite kummervoll mit dem Haupte sachte Drehbewegungen vollziehen?</p>
+<p>Wieso, geht kaum einer gegen den Wahnsinn an, zumindest  soweit er dagegen angehen kann?</p>
+<p>Wieso glaubt die Mehrheit, selbst der vermeintlich vernünftigsten Menschen, es würde sich schon alles zum Besseren wenden?</p>
+<p>Ich nenne es schlicht Feigheit und Bequemlichkeit!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364320127908985">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364328960111970" name="1364328960111970"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/svenkyek">
+                
+                  <img src="http://www.freitag.de/autoren/svenkyek/@@images/a9d676dc-848e-4104-969c-017f27ebd5b3.jpeg" alt="sven kyek" title="sven kyek" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/svenkyek" class="author ">sven kyek</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364328960111970">
+                  26.03.2013 |
+                  21:16</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wie ertragen bzw . haben ertragen :  Strauß , Kohl , Nazis und Stasi in Behörden , mehr als 100 mio . Straftaten p. A. , mehrere 100 mrd . Euro Schwarzarbeit p . A. , Renten-Lügen , Auslandseinsätze des Heeres , gefälschte Doktoren , entlassene Bundes-Präsidenten , Rüstungs-Exporte , Chaotische Groß-Projekte , den Lobby-Sumpf , Harz 4 , Energie-Wende Katastrophe , Schröder Gazprom , Misshandlungen in öffentlichen und kirchlichen Heimen , Lebenamittel-Skandale und was noch so alles bekannt wurde ..</p>
+<p> </p>
+<p>Wer will da Jemanden absprechen , sich zu artikulieren und zu organisieren . Wenn der Wähler sein Kreuz bei den etablierten Partein macht , ist er der mündige Bürger . Macht es sein Kreuz bei der NPD ,ist er ein verblendeter Tor . Und nun wird Jeder zum Nazi gestempelt ,der demokratie und verfassungskonform diskutiert ?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364328960111970">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364344643945735" name="1364344643945735"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364344643945735">
+                  27.03.2013 |
+                  01:37</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><strong><em>"Falsch ist allenfalls die Annahme, dass die Abschaffung des Euro die einzige Möglichkeit ist, das zu korrigieren."</em></strong></p>
+<p>Na dann Herr Misik, wir hören.</p>
+<p> </p>
+<p><strong><em>"Wer so eine Partei aus der Taufe hebt, der zieht erst einmal alle Spinner und Narren dieser Republik an – und ist dann zunächst weitgehend mit internen Grabenkämpfen beschäftigt."</em></strong></p>
+<p>Ja, hat man schon bei den Piraten gesehen. Und die Medien sind immer willig zur Stelle, picken sich den ein oder anderen kruden Vogel raus und machen ein riesiges Bohei darum. So laut und grell, dass die Ziele der Partei dabei schonmal hinten runter fallen.</p>
+<p>Schei*s dysfunktionales Parteiensystem.</p>
+<p>Wie wäre es, wenn man wenigstens die Seite der Partei verlinkt:</p>
+<p><a href="http://www.wa2013.de/index.php?id=198">http://www.wa2013.de/index.php?id=198</a></p>
+<p>Dort kann man sich auch zu den Zielen ein eigenes Bild machen.</p>
+<p>Die sind durchaus sachlich angreifbar, nur macht sich kaum jemand die Mühe die überhaupt zu lesen und zu analysieren.</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364344643945735">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364349380981045" name="1364349380981045"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364349380981045">
+                  27.03.2013 |
+                  02:56</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364299459756036">
+                    <span data-in_reply_to="1364299459756036" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sie ereiferten sich hier vor einigen Jahren <span style="text-decoration: underline;">für</span> die rassistischen Thesen des mittlerweile ermatteten Thilo Sarrazin.</p>
+<p>Nun sind Sie nach längere Pause wieder hier. Bestimmt zufällig.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364349380981045">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364350109632973" name="1364350109632973"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364350109632973">
+                  27.03.2013 |
+                  03:08</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364344643945735">
+                    <span data-in_reply_to="1364344643945735" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Am Ende, also jetzt, treten Sie bedeutend plumper auf als je zuvor. Gewiss werden Sie diesen Link noch öfter posten wollen.</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364350109632973">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364350225443102" name="1364350225443102"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/sikkimoto">
+                
+                  <img src="http://www.freitag.de/autoren/sikkimoto/@@images/184fecbb-ad0b-43ae-a2ad-8b937d570ae8.jpeg" alt="Sikkimoto" title="Sikkimoto" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/sikkimoto" class="author ">Sikkimoto</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364350225443102">
+                  27.03.2013 |
+                  03:10</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364298650719376">
+                    <span data-in_reply_to="1364298650719376" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Innerhalb der Partei wird bereits mit der Kirchhoff-Steuer geliebäugelt. In der Regel wird so etwas von Mittelständlern mit Diskalkulie vertreten die nicht verstanden haben das so ein Modell gerade sie massiv schwerer belastet. Wenn aber nun ein Haufen Ökonomen dies vertritt tippe ich eher auf knallharte Klientelpolitik. Nach dem die FDP das "Steuern runter" von den Fahnen streicht und sich hauptsächlich mit dem eigenen Überleben beschäftigt anstatt auf den gesellschaftlichen Diskurs zu wirken braucht das oberste eine Prozent eine neue ausführende Politikerklique. Jüngst flog eine Bewerbung ein. :)</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364350225443102">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364376407693492" name="1364376407693492"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/vathia">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/vathia" class="author ">Vathia</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364376407693492">
+                  27.03.2013 |
+                  10:26</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Man nehme eine gut ausgebildete, moderne und rhetorisch beschlagene Person, unbedingt eine mit Charisma. Man nehme ein Wahlprogramm aus einer Melange aus Anti-€, Anti-Großkapital (int.Großbanken/Hedgefonds/Glencore und Co) und identitärer Ideologie. Man nutze alle modernen Kommunikationsmechanismen (Twitter, Facebook etc.) und ist in der Lage, mit Durchsetzungskraft die Follower im Zaum zu halten (nicht wie bei den Freibeutern).</p>
+<p> </p>
+<p>Diese Partei würde auf Anhieb 25% aller Stimmen im Lande erhalten, sollte die Person die ersten Monate politisch und physisch überleben.</p>
+<p>Denn welche Gefahr für das Establishment das wäre!</p>
+<p>Alles würde getan werden, um den Status Quo zu erhalten, die neue Partei niederzuschreiben, siehe Spiegel, siehe Welt, Bild und Faz, siehe das öffentlich-rechtliche Konsens-Konglomerat und auch den Freitag hier, der arrogant belächelnd Initiativen wie die Anti-Euro Partei zu zerpflücken versucht. Auch die Spin Doktoren würden ständig neue Dinge lancieren.</p>
+<p>Bevor jetzt einige denken "jaja, da wird wieder der Führer herbeigewünscht, das kennen wir doch schon!"</p>
+<p>-nein, denn genau dieses beliebte Totschlagargument der Generation 40+ zementiert den Status Quo</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364376407693492">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364381064319522" name="1364381064319522"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/klaus-ehrlich">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/klaus-ehrlich" class="author ">Klaus Ehrlich</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364381064319522">
+                  27.03.2013 |
+                  11:44</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die AfD ist schon in der Gründung so undemokratisch wie die EU:</p>
+<p>Stel­len Sie sich vor, Sie leben in Bay­ern und sind Mit­glied in einer Par­tei, die u. a. un­de­mo­kra­ti­sche Struk­tu­ren in der EU kri­ti­siert. Nicht dass es die ein­zi­ge Par­tei wäre, die daran Kri­tik übt. Aber es ist die ein­zi­ge Par­tei, die außer EU-​Kri­tik nicht viel mehr Pro­gramm­punk­te auf­zu­wei­sen hat. Und dann lesen Sie auf der FB-​Sei­te Bay­ern die­ser Par­tei, dass sie in einer Woche, am Os­ter­sonn­tag, ihren Baye­ri­schen Lan­des­ver­band in Ebers­berg grün­den will. Das stimmt sie etwas be­denk­lich. Schließ­lich wüss­ten Sie even­tu­ell gerne die Ta­ges­ord­nung. Wären viel­leicht gerne per­sön­lich ein­ge­la­den wor­den? Mög­li­cher­wei­se etwas lang­fris­ti­ger? Viel­leicht nicht ge­ra­de am Os­ter­sonn­tag! Da mag so man­che Le­se­rin oder Leser mei­nen, es sei doch noch gar nicht 1. April und die­ser Ar­ti­kel sei als April­scherz vor­zei­tig on­line ge­gan­gen. Nein! Es ist kein Scherz. Es ist bit­te­re Wahr­heit. Es han­delt sich um die neue Pro­fes­so­ren­par­tei „Al­ter­na­ti­ve für Deutsch­land“ (AfD). Die Ge­schich­te um die du­biö­se Grün­dung des Lan­des­ver­ban­des Bay­ern in einer Nacht und Ne­bel­ak­ti­on und die Dis­kus­si­on darum wol­len wir etwas ge­nau­er be­leuch­ten.</p>
+<p> </p>
+<p>http://bubgegenextremerechte.blogsport.de/2013/03/25/alternative-fuer-deutschland-demokratur-nach-gutsherrenart/</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364381064319522">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364394606724466" name="1364394606724466"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/cz284">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/cz284" class="author ">cz284</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364394606724466">
+                  27.03.2013 |
+                  15:30</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wenn man diesem Prof Gehör schenken würde und sein "Experiment" geht schief, was dann? Dann zieht er sich aus der Affaire "Ich habe ja nur einen Vorschlag gemacht". Von Verantwortung ist dann wenig zu hören, wenn sofort die dann neu zurückgeführte DM in den Himmel steigt, sich keiner mehr deutsche Produkte leisten kann und die Arbeitslosigkeit in die Höhe geht wie eine Atlas-Agena. Diese Vorschläge sind nur dazu geeignet Europa wieder ins vorige Jahrhundert zurück zu katapultieren, sozusagen die Kleinstaaterei wieder aufleben zu lassen.</p>
+<p>.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364394606724466">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364411046500917" name="1364411046500917"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364411046500917">
+                  27.03.2013 |
+                  20:04</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364350109632973">
+                    <span data-in_reply_to="1364350109632973" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Gibt es einen Grund warum du persönlich wirst?</p>
+<p>Bist du der Meinung, man sollte sich nicht selbst informieren, was hinter einen neuen Partei steckt?</p>
+<p>Aber ich kann dich beruhigen, ich werde die Partei nicht wählen (so sie überhaupt in allen Bundesländern antritt), obwohl ich ihr im ersten Eifer meine Unterstützerunterschrift gegeben habe. Und das obwohl mich der kritiklose und dumpfsinnige proeuropäische Kurs der anderen Parteien anwidert.</p>
+<p>Und warum? Erstens weil ich Olaf Henkel hasse, zweitens weil die in <a href="http://www.wa2013.de/index.php?id=210">ihrem Programm</a> was von systemrelevanten Banken labern (sowas gibts nicht, die wollen nur den Bankstern nicht auf die Füße treten).</p>
+<p>Der eigentlich K.O.-Punkt ist aber:</p>
+<p><em>"Nur wenn der eigentlich für die Rekapitalisierung unter 4. zuständige Staat diese nicht finanzieren kann, ohne selbst insolvent zu werden: Teilverstaatlichung der Bank durch die Staaten der Eurozone unter der Bedingung, dass sich der eigentlich zuständige Staat <strong>einem makroökonomischen Anpassungsprogramm unterwirft</strong>."</em></p>
+<p>Das ist derselbe Müll, der gerade im Süden exekutiert wird (Privatisierungen, Leistungskürzungen, Steuererhöhungen), da haben sich die Neoklassiker unter den Ökonomen durchgesetzt (nachdem sie nun endlich bemerkt haben, dass der Euro nicht funktioniert).</p>
+<p>Also werde ich doch wieder die Linke wählen, nur damit sie wieder im Bundestag einziehen kann und trotz ihres absolut nicht überzeugenden Europa-Programmes.</p>
+<p>Ich hasse dieses System.</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364411046500917">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364411727762778" name="1364411727762778"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364411727762778">
+                  27.03.2013 |
+                  20:15</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364394606724466">
+                    <span data-in_reply_to="1364394606724466" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><strong><em>"Wenn man diesem Prof Gehör schenken würde und sein "Experiment" geht schief, was dann?"</em></strong></p>
+<p>Warum sollte es, wir haben mit der DM jahrzehntelang gut (und teilweise besser) gelebt als mit dem Euro.</p>
+<p>Der war übrigens auch nur ein Experiment, ein schlecht durchdachtes noch dazu, schon vor seiner Einführung wurde gewarnt, man erinnere sich nur an Gysies prophetische Rede:</p>
+<p><a href="http://www.glasnost.de/db/DokZeit/98eurogysi.html">http://www.glasnost.de/db/DokZeit/98eurogysi.html</a></p>
+<p>oder die Warnungen von Kostalany:</p>
+<p><a href="http://www.mastertraders.de/trader/der-high-leverage-trader/ich-verneige-mich-herr-kostolany/p-8081/">http://www.mastertraders.de/trader/der-high-leverage-trader/ich-verneige-mich-herr-kostolany/p-8081/</a></p>
+<p> </p>
+<p><strong><em>"Dann zieht er sich aus der Affaire "Ich habe ja nur einen Vorschlag gemacht". Von Verantwortung ist dann wenig zu hören"</em></strong></p>
+<p> </p>
+<p>Welcher Politiker übernimmt den "die Verantwortung" für den Euro? Oder das Desaster im Süden? Das ist halt Politik, ausbaden müssen immer wir es, entscheiden tun es aber irgendwelche ideologischen Backpflaumen im Parlament.</p>
+<p><strong><em>"wenn sofort die dann neu zurückgeführte DM in den Himmel steigt, sich keiner mehr deutsche Produkte leisten kann"</em></strong></p>
+<p>Dann machen wir es wie die Schweizer:</p>
+<p><a href="http://derstandard.at/1311803125508/Nationalbank-Schweizer-werfen-Gelddruckmaschine-an">http://derstandard.at/1311803125508/Nationalbank-Schweizer-werfen-Gelddruckmaschine-an</a></p>
+<p>Dieses billige Angst-Gegenargument der Euro-Befürworter mag ich nicht mehr hören.</p>
+<p><strong><em>"und die Arbeitslosigkeit in die Höhe geht wie eine Atlas-Agena."</em></strong></p>
+<p>Vollbeschäftigung ist nur eine Frage der Politik, keine der Wirtschaft. Das ist leider in Vergessenheit geraten, während der neoliberalen Gehirnwäsche-Epoche.</p>
+<p><strong><em>"Diese Vorschläge sind nur dazu geeignet Europa wieder ins vorige Jahrhundert zurück zu katapultieren, sozusagen die Kleinstaaterei wieder aufleben zu lassen."</em></strong></p>
+<p>Gääähhhn, Großreiche anzustreben ist aber fortschrittlich?</p>
+<p>Der Trend geht zu Demokratisierung und Regionalisierung. Weg von kaum noch steuerbaren zentralisierten Großverbünden, die so überflüssig sind, wie ein Kropf. Die EUphoriker haben es nur noch nicht gemerkt, die leben noch in der Vergangenheit.</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364411727762778">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364665417064748" name="1364665417064748"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/der-arme-berliner">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/der-arme-berliner" class="author ">der arme berliner</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364665417064748">
+                  30.03.2013 |
+                  18:43</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364303099065001">
+                    <span data-in_reply_to="1364303099065001" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Und dann doch ohne Argumente und einer Diskussions-Community weiter entfernt als dem BILD-Niveau. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364665417064748">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364666681329374" name="1364666681329374"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/der-arme-berliner">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/der-arme-berliner" class="author ">der arme berliner</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364666681329374">
+                  30.03.2013 |
+                  19:04</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364349380981045">
+                    <span data-in_reply_to="1364349380981045" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Nein, ich habe mich nicht FÜR Sarrazins Thesen ausgesprochen, sondern für eine undogmatische und ideologiefremde Diskussionskultur. Die habe ich unter SED-Überschriften zur Genüge kennengelernt. Das scheint mir aber für ihren Verständnis-Horizont ein zu weiter Ansatz für eine wirkliche Diskussionskultur zu sein.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364666681329374">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364693212324461" name="1364693212324461"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364693212324461">
+                  31.03.2013 |
+                  03:26</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364666681329374">
+                    <span data-in_reply_to="1364666681329374" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vermutlich kann man per Klick auf Ihren Nick noch nachlesen, was Sie damals geschrieben haben.  Vielleicht auch nicht, wichtig war es eh nicht.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364693212324461">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364891258764936" name="1364891258764936"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/der-arme-berliner">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/der-arme-berliner" class="author ">der arme berliner</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364891258764936">
+                  02.04.2013 |
+                  10:27</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364693212324461">
+                    <span data-in_reply_to="1364693212324461" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Immerhin so wichtig, dass sie meinten, sich daran erinnern zu können. Sie sind etwas hilflos in ihrer Argumentation. :-)</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364891258764936">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364944117214047" name="1364944117214047"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364944117214047">
+                  03.04.2013 |
+                  01:08</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364891258764936">
+                    <span data-in_reply_to="1364891258764936" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ach ja?</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche#1364944117214047">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/der-freitag">der Freitag</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/der-freitag">
+          <img src="http://www.freitag.de/autoren/der-freitag/@@images/50c1cea0-2a14-47a6-8687-3435f86755e3.png" alt="der Freitag" title="der Freitag" height="65" width="65" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2012</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">24295</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">103</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/der-freitag/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Robert Misik </h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/bitte-kraeftig-hinlangen">
+              <span class="catchword">Reichensteuern</span>
+              Bitte kräftig hinlangen!  </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/bitte-kraeftig-hinlangen">
+              <span class="comment-count" title=" 13 mal kommentiert">13</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-okonomen-krieg">
+              <span class="catchword">Markt</span>
+              Der Ökonomen-Krieg</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-okonomen-krieg">
+              <span class="comment-count" title=" 24 mal kommentiert">24</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/freiheit-gleichheit-streikheit">
+              <span class="catchword">Umdenken</span>
+              Freiheit, Gleichheit, Streikheit</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/freiheit-gleichheit-streikheit">
+              <span class="comment-count" title=" 6 mal kommentiert">6</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364997587" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364997587" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364997587" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="catchword">1963</span>
+              Das Kuckucksei </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="author group-authors">Georg Fülberth</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="catchword">Finanzkrise</span>
+              Der Rubel rollt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="author group-authors">Dierk Hirschel</span>
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364997587" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364997587" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364997587" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    img: "http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche/@@images/7fbe4870-5e85-429f-9bfb-60d7964a53f2.jpeg",
+    objectid: "027b22ae70254aaaae3122c6505efdd4",
+    title: "Professor fürs Wutbürgerliche ",
+    url: "http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche",
+    text: "Bernd Lucke will mit seiner neu gegründeten Anti-Euro-Partei   „Alternative für Deutschland“ in den Bundestag einziehen. Ist er der deutsche Haider?",
+    created_at: "1364295000"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

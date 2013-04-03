@@ -1,0 +1,1989 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:58:43 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:51:23 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 117106
+Accept-Ranges: bytes
+X-Varnish: 557704435 557692115
+Via: 1.1 varnish
+X-Varnish-Age: 440
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Dominanz ǀ Im Kostüm des Antikapitalisten  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Mit dem Zypern-Desaster hat sich Finanzminister Wolfgang Schäuble lächerlich gemacht. Zu lachen hat Europa leider trotzdem nichts" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364997082" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364997082" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364997082" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364997082" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364997082" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364997082" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364997082" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=zypern">zypern</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=schulden">schulden</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=krise">krise</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=schäuble">schäuble</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=euro">euro</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=merkel">merkel</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p><strong>Stephan Hebe</strong>l ist politischer Journalist und Buchautor. Zuletzt erschien: Mutter Blamage. Warum die Nation Angela Merkel und ihre Politik nicht braucht (Westend)</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Stephan Hebel</span>
+        <div class="additional-info">
+          <span class="date">28.03.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 36 mal kommentiert">36</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Im Kostüm des Antikapitalisten </h1>
+
+        <p class="description">
+          <span class="catchword">Dominanz</span>
+          Mit dem Zypern-Desaster hat sich Finanzminister Wolfgang Schäuble lächerlich gemacht. Zu lachen hat Europa leider trotzdem nichts
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten/@@images/fd6f5e3f-aa6b-4110-8751-a1d0645a0063.jpeg" alt="Im Kostüm des Antikapitalisten " title="Im Kostüm des Antikapitalisten " height="282" width="445" /><p class="caption">Alter: 70 Jahre. Aktuelle Rolle: Bundesfinanzminister (CDU). Berühmt für: Spendenaffäre, gnadenlosen Führungsstil. Große Verdienstorden: drei</p>
+            <p class="credit">Foto: Odd Andersen/ AFP/ Getty Images</p>
+          </div>
+        
+
+        <div class="text"><p>Jetzt staunt ganz Deutschland, und der Zypriot wundert sich: Alle dachten, Wolfgang Schäuble zu kennen. Aber plötzlich ist alles anders. Plötzlich gefällt dem Mann sein liebstes Geschäftsmodell nicht mehr. Jedenfalls nicht in Zypern.</p>
+<p>Wolfgang Schäuble war ein begnadeter Handwerker bei der Euro-Reparatur nach Merkel-Art. Einer, der als Finanzminister kräftig mitspielte, wenn es um das „Geschäftsmodell“ der möglichst luxuriösen Bedingungen für Banken und Anleger ging. Einer, der gern darüber schwieg, dass Deutschland sich so billig verschuldet wie nie, während sich griechische Rentner die Zinsen für unsere „Hilfskredite“ vom Munde absparen.</p>
+<p>Jetzt sollen wir lernen: Wolfgang Schäuble ist in Wahrheit ein mutiger Kämpfer gegen Niedrigsteuern für Unternehmer und gegen die Privilegien der Finanzinvestoren.</p>
+<p> </p>
+<h2>Steueroase auf der Sonneninsel</h2>
+<p>Das klingt wunderbar, aber ein Hinweis sei erlaubt: Es wäre noch wunderbarer, verabschiedete sich der Minister vom Geschäftsmodell der privaten Bereicherung und öffentlichen Verarmung nicht nur auf einer Insel, sondern in ganz Europa. Er wird es nicht tun. Nachhaltig lernen wird er aus dem Zypern-Desaster nicht. Sonst hätte er es längst getan. Dass das Geschäftsmodell „nicht funktioniert“, kommt ihm reichlich spät in den Sinn.</p>
+<p>Dass es sich bei der Sonneninsel um eine Steueroase mitten im Euro-Raum handelte, war ja seit Langem kein Geheimnis. Aber solange sie Gewinn abwarf, interessierte sich der deutsche Finanzminister dafür kaum. In seiner Welt war nichts Böses daran, wenn einer der Kleinen sich „den Märkten“ mit besonders profitablen Konditionen anbot. Es war genau die Politik, für die er und seine Kanzlerin im Grundsatz stehen.</p>
+<p>Allerdings, das wissen die beiden auch: Das Modell ist nicht mehr allzu beliebt, seit sich die Gewissheit verbreitet hat, dass im Fall des Scheiterns der Steuerzahler für die Verluste der Investoren aufkommt. Grund genug, sich zwischendurch mal als Gegner des Casino-Kapitalismus zu verkleiden. Aus mehreren Gründen war Zypern dafür besonders geeignet.</p>
+<h2>Uraltes Ressentiment</h2>
+<p>Erstens: In seiner allzu radikalen Ausformung drohte das Geschäftsmodell die ganze Spekulationsbranche in Verruf zu bringen. Das aufgeblasene Banksystem des Kleinstaats war in derart eklatanter Weise auf Risiko gebaut, dass der Wertverlust griechischer Anleihen für einen Kollaps genügte.</p>
+<p>Zweitens: In Deutschland kommt die Kritik an Zypern besonders gut, weil die bedrohten Geldanlagen großenteils Russen gehören. Die sollen nach Volkes Meinung gerne bluten, wenn es ums Retten geht. Es stimmt natürlich, dass Europa keinen Grund hat, „Oligarchen“ aller Art zum Nulltarif vor Verlusten zu retten. Aber es hat etwas Abstoßendes, dass dies der deutschen Politik – auch der rot-grünen Opposition – vor allem dann auffällt, wenn es um „die Russen“ geht. So wurde ein uraltes nationales Ressentiment zum falschen Auslöser einer im Grunde überfälligen Debatte. Über deutsche „Oligarchen“, die ebenfalls in Zypern „engagiert“ sind, redet keiner.</p>
+<p>Drittens: Auch in der Steuerpolitik hat die Insel übertrieben. Zehn Prozent auf Unternehmensgewinne? Das kann selbst Wolfgang Schäuble nicht wollen, denn da kommen wir nicht mit! Aber das bedeutet keineswegs, dass er die neoliberale Politik der Steuersenkungs-Wettbewerbe nun plötzlich prinzipiell für falsch halten würde. Auch jetzt gibt es keinen Hinweis, dass die deutsche Regierung endlich europäische Mindeststandards gegen Steuerdumping verlangt.</p>
+<p>Schäuble agiert wie ein Mafia-Boss, dem der zyprische Geldeintreiber ein bisschen zu plump geworden ist. Er beseitigt nicht das Geschäftsmodell, sondern nur die Auswüchse, die seine Akzeptanz gefährden könnten.</p>
+<p>So verlogen sie ist – die Verkaufsveranstaltung unter dem Titel „Gerechter retten“ schien gut vorbereitet zu sein. Was dann schief ging, ist umstritten, aber fest steht: Der Eifer, es an diesem vermeintlich ungefährlichen Beispiel symbolisch den Vermögenden zu zeigen, machte die Beteiligten blind für den Sprengstoff, den sie mit verpackten.</p>
+<p>Ein Gefühl für soziale Schieflagen ist Schäubles Stärke ohnehin nicht. Und in der Nacht auf den 16. März hat keiner der Beteiligten – auch der Deutsche nicht – damit gerechnet, dass sich ein zyprischer Kleinsparer nicht einfach unter dem Titel „Ran an die reichen Russen“ abkassieren lässt. Keinen hat wirklich gestört, dass die konservativen Freunde in Zyperns Regierung die Kleinen belasten wollten, um die Großen zu schonen. Und keiner merkte, dass eine Abgabe auf Guthaben unter 100.000 Euro das Versprechen, Bankeinlagen in dieser Höhe seien sicher, jeder Glaubwürdigkeit berauben würde. Jetzt wird korrigiert. Aber dass der zusätzliche Vertrauensverlust in der Öffentlichkeit noch aus der Welt zu schaffen ist, glaubt wohl nicht einmal Wolfgang Schäuble.</p>
+<p>Geradezu lächerlich machte sich der Minister im Nachhinein, als er verkündete, die Ausgestaltung der Zwangsabgabe auf Guthaben sei allein Sache der Zyprer gewesen. Deutschland hat keine Probleme, ganz Europa in die Abwärtsspirale einseitiger Sparpolitik zu zwingen. Aber es will nicht fähig gewesen sein, die 100.000-Euro-Garantie gegen ein 800.000-Einwohner-Land zu verteidigen?</p>
+<p>Es kann schon erstaunen, welchen Slapstick sich einer der wichtigsten Minister im reichsten Land Europas erlaubt, ohne dass der ganze Kontinent in Gelächter ausbricht. Aber es ist ja wahr: Zu lachen hat Europa mit Wolfgang Schäuble nichts.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (36)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364459411264370" name="1364459411264370"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/oi2503">
+                
+                  <img src="http://www.freitag.de/autoren/oi2503/@@images/4ad633e9-0041-4689-92f9-4713338fc630.jpeg" alt="oi2503" title="oi2503" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/oi2503" class="author ">oi2503</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364459411264370">
+                  28.03.2013 |
+                  09:30</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Wenn ich solche Typen wie Schäuble sehe frage ich mich: wie steigert man eigentlich Arschloch?" Volker Pispers. Hier mehr:</p>
+<p> </p>
+<p><iframe src="http://www.youtube.com/embed/1TbLxTCLCGo" width="375" height="315" frameborder="0"></iframe></p>
+<p>Best, Oi</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364459411264370">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364460787686844" name="1364460787686844"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/don-alberto">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/don-alberto" class="author ">Don Alberto</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364460787686844">
+                  28.03.2013 |
+                  09:53</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>ES ist unerträglich was der Freitag hier zur Zypernfrage postuliert, weil es nur Selbstgerechtigkeit ist. Wer es besser gekonnt hätte oder wenigstens einen besseren Vorschlag gehabt hätte, der im realen Leben funktionieren könnte, der melde sich bitte.</p>
+<p>Schade um eine nicht ganz schlechte Zeitung, aber ich werde sie vorerst nicht mehr kaufen!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364460787686844">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364465492696264" name="1364465492696264"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rechercheuse">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rechercheuse" class="author ">rechercheuse</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364465492696264">
+                  28.03.2013 |
+                  11:11</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364460787686844">
+                    <span data-in_reply_to="1364460787686844" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>welche zeitung wird sie denn in zukunft über die "real funktionierenden wahrheiten" informieren?</p>
+<p> </p>
+<p>bitte eine reale antwort;-)</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364465492696264">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364466756593303" name="1364466756593303"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/gweberbv">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/gweberbv" class="author ">gweberbv</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364466756593303">
+                  28.03.2013 |
+                  11:32</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Diese "Analyse" ist leider wirklich sehr, sehr schlecht recherchiert. Wer die Berichterstattung auch nur in groben Zügen verfolgt hat, kann sowas guten Gewissens eigentlich nicht schreiben bzw. abnicken.</p>
+<p>Warum wurde von Zypern ein Eigenbeitrag zur "Rettung" verlangt, während dies bei anderen Staaten nicht gefordert wurde? Weil ausgerechnet die Zypernrettung dazu geeignet wäre, die Spekulationsbranche "in Verruf" zu bringen? Aufgrund extrem niedriger Steuersätze? Wegen den Russen? Es ist wirklich kein Geheimwissen erforderlich, um zu Erkennen, dass diese Aufzählung überhaupt nicht zum Kern des Zypernproblems vordringt!</p>
+<p>Es gibt zwei Gründe, warum mit Zypern anders verfahren wurde als bei vorherigen "Rettungspaketen":</p>
+<p>1) Bezogen auf seine Wirtschaftskraft muss Zypern einen derart immensen Betrag aufbringen, dass bei einer vollständigen Kreditfinanzierung selbst die kühnsten Zahlenakrobaten in den Reihen der Troika kein Szenario darstellen konnten, in welchem die kleine Insel dieses Geld jemals würde zurückzahlen können. Man beachte: Offiziell wurde bisher bei jeder Rettung die Linie vertreten, dass die Hilfen zu 100% zurückgezahlt werden müssen. Ohne diese Fiktion könnte z. B. der IWF (der auch seinen außereuropäischen Mitgliedsländern verpflichtet ist) nicht einen Cent ausgeben.</p>
+<p>2) Zypern ist klein genug, um ihnen die Pistole auf die Brust zu setzen - zumindest ist das die Vorstellung der übrigen Euroländer. Selbst eine Staats- und Bankenpleite sowie ein zypriotischer Austritt aus dem Euro wurde als handhabbar angesehen. Daher hatte Zypern in den "Verhandlungen" keine Druckmittel und wurde dementsprechend untergebuttert.</p>
+<p>Dagegen stellen die vom Autor genannten Aspekte nur das Hintergrundrauschen dar.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364466756593303">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364469298524121" name="1364469298524121"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/robert-zapf">
+                
+                  <img src="http://www.freitag.de/autoren/robert-zapf/@@images/28d480ea-1c8e-4373-9aad-78e0f88c5c18.jpeg" alt="Robert Zapf" title="Robert Zapf" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/robert-zapf" class="author ">Robert Zapf</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364469298524121">
+                  28.03.2013 |
+                  12:14</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Es gibt auch immer andere Möglichkeiten, die müssen natürlich politisch gewollt sein:</p>
+<p>Zum Beispiel Island:</p>
+<p>pdf-Datei Wer spekuliert trägt das Risiko</p>
+<p><a href="/autoren/der-freitag/Manuskript_Island">http://www.dradio.de/download/191129/</a><br /><br />Sendung Wer spekuliert trägt das Risiko</p>
+<p><a href="/autoren/der-freitag/Feature_Island">http://www.dradio.de/dlf/sendungen/dasfeature/2017032/</a></p>
+<p>Financial Times Deutschland 15.03.2012 Island</p>
+<p><a href="/autoren/der-freitag/Island">http://www.ftd.de/finanzen/maerkte/anleihen-devisen/:waehrungspolitik-island-verschmaeht-den-euro/70009191.html</a><br /><br />Seit dem 1. Januar 2011 greift eine neue Verordnung der EU-Kommission, wodurch Mitgliedsländer der EU zu einer gesetzlichen Entschädigung von 100.000 Euro verpflichtet sind.<br />In Deutschland soll es ein mittleres Vermögen von 51 400 Euro geben ( Medianwert ).<br />mittleres Vermögen deutscher Haushalte Nachdenkseiten<br />http://www.nachdenkseiten.de/?p=16619#h01<br />Ich selbst bin froh, wenn es mir gelingt, nach 10 Jahren sparen 20 000 Euro zu haben, um mir dann ein neues Auto kaufen zu können, weil ohne Auto keine Arbeit.<br />Danach hätte ich vielleicht noch etwas in Rückhalt, um kurzfristige Ausgaben vom Sparbuch besteiten zu können.<br />Mein mittleres Vermögen wäre also fast wieder bei Null.<br />Wie dem auch sei, ich käme nie auf den Gedanken, meine Ersparnisse wären gefärdet. Und eigentlich müßte es allen Deutschen so gehen, bei durchschnittlich knapp 51 400 Euro ( es soll da noch den Unterschied West zu Ost geben, sprich 78 000 Euro zu 20 000 Euro, aber geschenkt ).<br />Wo ist denn da das Problem. <br />Wahrscheinlich sind das die Leute, die bedeutend mehr als diese 100 000 Euro ihr Eigen nennen. Und mit bedeutend meine ich nicht 200 000 oder 500 000 Euro. Die wären zwar nicht arm, selbst wenn ihr ganzes Geld über 100 000 Euro weg wäre, aber sowas wäre unmenschlich, verbrecherisch, sozialistisch ( kleine Steigerung ).<br />Und diese Menschen sollen lt. Statistik 1% der Gesamtbevölkerung ausmachen.<br />Und deren Hausbank ist wahrscheinlich nicht die Sparkasse oder die Volksbank oder die Netbank.<br />Ich tippe da eher auf Deutsche Bank und Konsorten.<br />Da läßt sich unsere Regierung schon was einfallen:<br />Geld nach Griechenland, Geld zurück an die Banken, die versuchen die Verluste für ihr Klientel möglichst gering zu halten.<br />Im Gegenzug steht die deutsche Presse bei Fuss, um ihren Lesern zu erklären, daß Deutschland für die Griechen bezahlt.<br />Dass diese ganzen Miliarden nicht für die Griechen, sondern für deutsche Anleger sind, denen man keinen Totalverlust zumuten kann, wird nicht gesagt.<br />Nun glaube ich zwar nicht, daß diese Leute völlig ohne Verlust aus der ganzen Sache kommen, aber es ist schon ein großer Unterschied, ob mir zum Schluß 100 000 Euro bleiben, oder 60% meines eingesetzten Vermögens.<br />Und wenn das realisiert ist, wird Griechenland fallengelassen. 1% der deutschen Bevölkerung konnten wenigstens 50% ihres eingesetzten Vermögens retten ( auf Kosten der Steuerzahler, hier: kleinen Leute ), der Rest haftet mit den dann kommenden Sparorgien.<br />In Zypern hat man das ganze Verfahren halt abgekürzt. Hier waren weniger Deutsche als Russen betroffen.<br />Das man am Anfang aber selbst die kleinen Sparguthaben mit in Haftung nehmen wollte, zeigt eigentlich nur die ganze häßliche Fratze dieses Systems.</p>
+<p>Aber, wie am Anfang erwähnt, es gäbe Alternativen...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364469298524121">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364469889321406" name="1364469889321406"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/robert-zapf">
+                
+                  <img src="http://www.freitag.de/autoren/robert-zapf/@@images/28d480ea-1c8e-4373-9aad-78e0f88c5c18.jpeg" alt="Robert Zapf" title="Robert Zapf" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/robert-zapf" class="author ">Robert Zapf</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364469889321406">
+                  28.03.2013 |
+                  12:24</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364460787686844">
+                    <span data-in_reply_to="1364460787686844" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Hier diskutieren nicht unbedingt Abonenten der Zeitung.</p>
+<p>Warten Sie doch erstmal ab, ob dieser Blog im Freitag erscheint.</p>
+<p>Das eine hat mit dem anderen nichts zu tun.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364469889321406">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364473021534831" name="1364473021534831"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/thomasca">
+                
+                  <img src="http://www.freitag.de/autoren/thomasca/@@images/c3f7bf71-d479-4331-9b72-03c18d6f1fd1.jpeg" alt="thomasca" title="thomasca" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/thomasca" class="author ">thomasca</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364473021534831">
+                  28.03.2013 |
+                  13:17</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das wahre gesicht der Merkel Truppe...</p>
+<p>die öffentliche Reden unterscheiden sich gewaltig vom tatsächlichen handeln. Der deutsche Wahlbürger belohnt das noch mit Höchstwerten bei Umfragen, wenn wundert es bei der Geschicht...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364473021534831">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364478890702546" name="1364478890702546"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/achtermann">
+                
+                  <img src="http://www.freitag.de/autoren/achtermann/@@images/abf0537b-6288-4186-9fe3-a4abd567ec6f.png" alt="Achtermann" title="Achtermann" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/achtermann" class="author ">Achtermann</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364478890702546">
+                  28.03.2013 |
+                  14:54</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364460787686844">
+                    <span data-in_reply_to="1364460787686844" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"<em>Schade um eine nicht ganz schlechte Zeitung, aber ich werde sie vorerst nicht mehr kaufen!"</em></p>
+<p>Das ist der reinste Schmarrn, den du hier hinterlassen hast. Du hast also bisher eine <em>schlechte</em> Zeitung gekauft, weil sie <em>nicht ganz schlecht</em> sei. Selbst schuld. Heb' dir deine Arroganz doch für etwas anderes auf. Oder klär' mich mal auf, welche Zeitung deinen Ansprüchen gerecht wird. Nenne einfach den Titel.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364478890702546">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364481257419825" name="1364481257419825"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/don-alberto">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/don-alberto" class="author ">Don Alberto</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364481257419825">
+                  28.03.2013 |
+                  15:34</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@Achtermann</p>
+<p>es gibt nun in jeder ernstzuhehmenden Zeitung immmer wieder Artikel die man schlecht findet und es schadet auch nicht der Meinungsbildung mal einen anderen Stanpunkt zu lesen, nur was hier im Freitag mit monotoner Enseitigkeit immer wieder geschrieben wurde kann kein denkender Mensch mehr ernst nehmen, das hat etwa das Niveau was die FAZ oder die Welt zur AfD schreibt inkusive des Forums dazu.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364481257419825">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364481537122886" name="1364481537122886"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/don-alberto">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/don-alberto" class="author ">Don Alberto</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364481537122886">
+                  28.03.2013 |
+                  15:38</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Nun da wäre die NYT oder  der Guardian oder Le Monde</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364481537122886">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364481592704923" name="1364481592704923"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/don-alberto">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/don-alberto" class="author ">Don Alberto</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364481592704923">
+                  28.03.2013 |
+                  15:39</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@<a href="/autoren/rechercheuse">RECHERCHEUSE</a></p>
+<p>nun da wäre z.B NYT oder der Guardian oder Le Monde</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364481592704923">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364483450699155" name="1364483450699155"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364483450699155">
+                  28.03.2013 |
+                  16:10</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Dass das Geschäftsmodell „nicht funktioniert“, kommt ihm reichlich spät in den Sinn."</p>
+<p>Wie sieht es mit Luxembourg, den britischen Kanalinseln und auch der Schweiz und Lichtenstein aus? Oder der deutschen Bank, die viel Geld in eben den Ländern geparkt hat - zu super Konditionen.</p>
+<p>Das Modell "neoliberaler Kapitalismus" hat sich selbst in Frage gestellt! Und der Bürger darf die Folgen tragen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364483450699155">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364486867816310" name="1364486867816310"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/danki">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/danki" class="author ">danki</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364486867816310">
+                  28.03.2013 |
+                  17:07</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Nicht Der Freitag ist wie hier ein Forist zum Besten zu geben meint,sondern die Dummheit derjenigen,die ihre Augen verschließen vor dem angerichteten Elend dieser unerträglichen neoliberalen Politik und seiner politischen Vertreter,u.a. auch von diesem "feinen" Herrn Schäuble.Dieser Mann und seine Vorturnerin Merkel haben das große "C" in ihre Partei,handeln aber nicht danach.Ihnen geht es nicht um die Menschen,sondern um die Rettung der Banken,wie gesehen in Gr,E,D und jetzt Zypern.Und eine Frau Merkel kommt auch noch aus Ostdeutschland,wo sie doch dort die antikapitalistische Schule mitgemacht hat.Sie hätten schon lange eine vernünftige Bankenkontrolle,auch hier in D,durchsetzen können.Stattdessen dürfen die Steuerzahler wieder die Zeche bezahlen.</p>
+<p><a href="http://www.nachdenkseiten.de/?p=16677#more-16677">http://www.nachdenkseiten.de/?p=16677#more-16677</a></p>
+<p><a href="http://www.spiegel.de/gesundheit/diagnose/gesundheit-in-europa-wirtschaftskrise-toetet-menschen-a-891203.html">http://www.spiegel.de/gesundheit/diagnose/gesundheit-in-europa-wirtschaftskrise-toetet-menschen-a-891203.html</a></p>
+<p>Diese beiden Artikel sagen alles über das angerichtete Elend dieser Politik aus.Darüber sollten sich diese irregeleiteten Schreiberlinge im Klaren sein.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364486867816310">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364488373195308" name="1364488373195308"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/matze38">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/matze38" class="author ">Geierwally</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364488373195308">
+                  28.03.2013 |
+                  17:32</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364473021534831">
+                    <span data-in_reply_to="1364473021534831" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>so ist das. vorallem je mehr aus dem ausland über merkel bashing berichtet wird, um so mehr profitiert frau merkel innenpolitisch davon.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364488373195308">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364488546437943" name="1364488546437943"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/matze38">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/matze38" class="author ">Geierwally</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364488546437943">
+                  28.03.2013 |
+                  17:35</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364460787686844">
+                    <span data-in_reply_to="1364460787686844" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>das ist ein blog, wo verschiedene schreiber ihre sicht der dinge zum diskuttieren hier einbringen.</p>
+<p>nicht jeder muß damit einverstanden sein, deswegen wird ja auch dikuttiert, um das dann klar zustellen, das man ganz anderer auffassung ist.</p>
+<p>also schreiben sie, was ihnen an dem artikel nicht gefällt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364488546437943">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364490803761263" name="1364490803761263"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/achtermann">
+                
+                  <img src="http://www.freitag.de/autoren/achtermann/@@images/abf0537b-6288-4186-9fe3-a4abd567ec6f.png" alt="Achtermann" title="Achtermann" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/achtermann" class="author ">Achtermann</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364490803761263">
+                  28.03.2013 |
+                  18:13</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364483450699155">
+                    <span data-in_reply_to="1364483450699155" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>"Oder der deutschen Bank, die viel Geld in eben den Ländern geparkt hat - zu super Konditionen."</em></p>
+<p>Nicht nur die Deutsche Bank hat Kohle auf den Kanalinseln gebunkert. Nahezu jedes größere deutsche Unternehmen, auch etwa Volkswagen, unterhält dort eine Dependance. Es werden Gewinne mit Verlusten gegengerechnet, um im Land des Standorts, dem Merkel-Land, die Steuern zu verkürzen. Oder andere steuerliche Vorteile genutzt: Die konzerneigene Flugzeugflotte des Autobauers ist auf den Cayman-Islands registriert. Hier hätte die Politik genügend zu tun, diese Sümpfe trockenzulegen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364490803761263">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364492711045538" name="1364492711045538"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/hans-springstein">
+                
+                  <img src="http://www.freitag.de/autoren/hans-springstein/@@images/09a9165d-1a9c-46d9-a597-7230f1b774f8.jpeg" alt="Hans Springstein" title="Hans Springstein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/hans-springstein" class="author ">Hans Springstein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364492711045538">
+                  28.03.2013 |
+                  18:45</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Der Klassenkampf ist zurück. Überall im Westen wollen die Menschen wissen, wer für die Krise bezahlt. Dabei ist dies längst entschieden: Bei der Verteilung der Konkursmasse des Schuldenstaats zählen die Ansprüche der Gläubiger mehr als die seiner Bürger. Der europäische Wohlfahrtsstaat ist Geschichte."</p>
+<p><a href="http://www.sueddeutsche.de/wirtschaft/ein-neuer-kapitalismus-das-ende-der-nachkriegsdemokratie-1.1427141">Wolfgang Streeck am 27. Juli 2012 in der <em>Süddeutschen Zeitung</em> über "Das Ende der Nachkriegsdemokratie"</a></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364492711045538">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364500971538647" name="1364500971538647"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364500971538647">
+                  28.03.2013 |
+                  21:02</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364490803761263">
+                    <span data-in_reply_to="1364490803761263" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das ist alles richtig! Was tun - fragte schon Lenin?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364500971538647">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364501201037324" name="1364501201037324"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364501201037324">
+                  28.03.2013 |
+                  21:06</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364488373195308">
+                    <span data-in_reply_to="1364488373195308" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Leider!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364501201037324">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364505222420064" name="1364505222420064"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/svenkyek">
+                
+                  <img src="http://www.freitag.de/autoren/svenkyek/@@images/a9d676dc-848e-4104-969c-017f27ebd5b3.jpeg" alt="sven kyek" title="sven kyek" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/svenkyek" class="author ">sven kyek</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364505222420064">
+                  28.03.2013 |
+                  22:13</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Erst wird Griechenland von der EU , Deutschland und nachweislich Goldman Sachs  gepuscht , hochgeratet und mit Subventionen für einen irrsinnigen Bauboom überschüttet . Das die Zypriotischen Banken dann in Griechenland Ko-finanziert hat , war somit weder spekulativ noch überbordend . Es war EU , Weltbank und IWF legitimiert . Das in diesen Ländern Frau Merkel ein Schnurrbart verpasst wird , ist mehr als verständlich . </p>
+<p>Aber in der Hitler-Rolle scheint sie ja zu punkten . Den deutschen Wählern gibt sie so das Opfer der undankbaren Südländer und ihre Offiziere werden nicht müde dem Wähler zu verklickern , wie hart sie mit den Europäern um jeden hart erarbeiteten deutschen Steuergroschen kämpft . Da geraten die vermutlich am Ende benötigten 8 mrd . Euro für den BER zur Nebensache .</p>
+<p>Wenn Deutschland irgendwann in die gleiche Lage wie die Südländer kommt , sollten alle Verantwortlichen für diese hausgemachte , europäische Geisterbahn incl . der phsychologischen Kriegsführung, vor ein Militärgericht gestellt werden .</p>
+<p>Frohe Ostern</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364505222420064">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364505946247123" name="1364505946247123"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/svenkyek">
+                
+                  <img src="http://www.freitag.de/autoren/svenkyek/@@images/a9d676dc-848e-4104-969c-017f27ebd5b3.jpeg" alt="sven kyek" title="sven kyek" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/svenkyek" class="author ">sven kyek</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364505946247123">
+                  28.03.2013 |
+                  22:25</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364460787686844">
+                    <span data-in_reply_to="1364460787686844" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Es gab und gibt genügend Ideen und kluge Köpfe . Vor der Katastrophe wurden sie von deutschen Gerichtet abgebügelt und Heute werden sie entweder nach Rechts oder Links verbannt und als Populisten vorsätzlich verbrannt .</p>
+<p>Und das von Leuten von die seit Jahrzehnten immer wieder durch Fehlplanungen und Prognosen glänzen , aber jedes Mal behaupten man hätte gelernt und jetzt liegen wir alternativlos Richtig .</p>
+<p>Das hat bisher nicht gestimmt . Warum soll es ausgerechnet dieses Mal stimmen und funktionieren ??</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364505946247123">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364507397045880" name="1364507397045880"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rechercheuse">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rechercheuse" class="author ">rechercheuse</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364507397045880">
+                  28.03.2013 |
+                  22:49</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364481592704923">
+                    <span data-in_reply_to="1364481592704923" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>oh du glücklicher multilinguist ;-)))</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364507397045880">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364508770314612" name="1364508770314612"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/svenkyek">
+                
+                  <img src="http://www.freitag.de/autoren/svenkyek/@@images/a9d676dc-848e-4104-969c-017f27ebd5b3.jpeg" alt="sven kyek" title="sven kyek" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/svenkyek" class="author ">sven kyek</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364508770314612">
+                  28.03.2013 |
+                  23:12</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364505946247123">
+                    <span data-in_reply_to="1364505946247123" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sorry : Gerichten   und 1 x von zuviel</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364508770314612">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364549426490555" name="1364549426490555"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/balsamico">
+                
+                  <img src="http://www.freitag.de/autoren/balsamico/@@images/539bd84f-4434-4b24-8aeb-0167a59de941.jpeg" alt="balsamico" title="balsamico" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/balsamico" class="author ">balsamico</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364549426490555">
+                  29.03.2013 |
+                  10:30</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>Ein Gefühl für soziale Schieflagen ist Schäubles Stärke ohnehin nicht. Und in der Nacht auf den 16. März hat keiner der Beteiligten – auch der Deutsche nicht – damit gerechnet, dass sich ein zyprischer Kleinsparer nicht einfach unter dem Titel „Ran an die reichen Russen“ abkassieren lässt. Keinen hat wirklich gestört, dass die konservativen Freunde in Zyperns Regierung die Kleinen belasten wollten, um die Großen zu schonen. Und keiner merkte, dass eine Abgabe auf Guthaben unter 100.000 Euro das Versprechen, Bankeinlagen in dieser Höhe seien sicher, jeder Glaubwürdigkeit berauben würde. Jetzt wird korrigiert. Aber dass der zusätzliche Vertrauensverlust in der Öffentlichkeit noch aus der Welt zu schaffen ist, glaubt wohl nicht einmal Wolfgang Schäuble.</em></p>
+<p>So ist es. Christdemokrat Schäuble hat schlicht kein Organ dafür, dass es zutiefst unchristlich ist, vom Big Business gebeutelte Menschen ihrem Schicksal zu überlassen, sofern sich ihr Schicksal in einem Land vollzieht, das so klein ist, dass sein Niedergang das System als Ganzes nicht gefährdet. Offensichtlich handelt er nach der Devise: Wenn große und v.a. deutsche Banken involviert sind, müssen wir alles tun, um einen Crash zu verhindern. Und wenn es um relativ kleine Banken in einem kleinen Land geht, macht es nichts, wenn sie den Bach runtergehen, egal, was es für die Menschen dort bedeutet. Wer so tickt ist ein Unmensch, vor dem man sich in Acht nehmen muss.  </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364549426490555">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364551618813932" name="1364551618813932"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tollschock">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tollschock" class="author ">Tollschock</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364551618813932">
+                  29.03.2013 |
+                  11:06</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich empfinde kein Mißtrauen! Das würde ja imlizieren ich hätte irgendjemanden in Geldsachen vertraut. Bei Geld ticke ich so wie ich im Kriegsfall ticken würde. Es gibt keine Freunde in Geldsachen wie im Krieg. Bei Geldsachen sollten wir endlich dazu übergehen unseren Dienstleistern (Banken) mal zu zeigen was sie ohne unser Geld sind. (Einfach hingehen und das Geld abheben. Vorraussetzung ist natürlich das man Guthaben hat und nicht schon in der Dispo-Falle ist) und da wir uns ja schon im Krieg befinden vertraue ich dem ganzen Parlament nicht das für den Afghanistaneinsatz gestimmt hat obwohl die Bundeswehr dafür gar nicht ausgerüstet war und nur mäßig ist. Kein Vertrauen ist besser als böses Erwachen...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364551618813932">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364551692271532" name="1364551692271532"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tollschock">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tollschock" class="author ">Tollschock</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364551692271532">
+                  29.03.2013 |
+                  11:08</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>implizieren ... oh man ... was für ein Fehler</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364551692271532">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364581531396366" name="1364581531396366"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/svenkyek">
+                
+                  <img src="http://www.freitag.de/autoren/svenkyek/@@images/a9d676dc-848e-4104-969c-017f27ebd5b3.jpeg" alt="sven kyek" title="sven kyek" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/svenkyek" class="author ">sven kyek</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364581531396366">
+                  29.03.2013 |
+                  19:25</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Irgendwie ein mulmiges Gefühl . Scheinbar lassen sich die Probleme der Welt wohl nur noch durch einen Waffengang oder Gewalt von der Straße lösen . </p>
+<p>Ich habe gehört , die Weltgemeinschaft hatte sich kürzlich nicht auf ein weltweites Waffen Handelsverbot einigen können .</p>
+<p>Vielleicht sollte man in Erweiterung der Genfer Konvention zur Vorlage bringen , im Falle von Kriegsführung , ausschließlich Regierungs-Gebäude als Ziele zu legitimieren und Regierungs-Politiker aus der Konvention auszuschließen .</p>
+<p>Das wäre pädagogisch sicher wertvoll .</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364581531396366">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364633082080694" name="1364633082080694"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/svenkyek">
+                
+                  <img src="http://www.freitag.de/autoren/svenkyek/@@images/a9d676dc-848e-4104-969c-017f27ebd5b3.jpeg" alt="sven kyek" title="sven kyek" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/svenkyek" class="author ">sven kyek</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364633082080694">
+                  30.03.2013 |
+                  09:44</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Manchmal weiß man nicht mehr , was man zu Merkel &amp; Schäuble sagen soll . Ich versuche es mal Griechzyprisch auszudrücken :</p>
+<p>,,Ein Schnurrbart sagt mehr als tausend Worte "</p>
+<p><a href="https://www.google.com/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;docid=tYw4oaUio2eKaM&amp;tbnid=CQXBlf7nDN87qM:&amp;ved=0CAUQjRw&amp;url=http%3A%2F%2Fnordrhein-westfalen-hattingen-ruhr.annoncen.org%2Fannonce-378950.html&amp;ei=vVZWUentJojYtAbcvYG4CA&amp;bvm=bv.44442042,d.Yms&amp;psig=AFQjCNFsfKeiTi0czuTx-3vzXIP0EGN18g&amp;ust=1364699157206239"><img src="http://nordrhein-westfalen-hattingen-ruhr.annoncen.org/export/20090528173742.jpg" alt="" width="457" height="299" /></a></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364633082080694">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364662978643208" name="1364662978643208"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/navigant">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/navigant" class="author ">navigant</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364662978643208">
+                  30.03.2013 |
+                  18:02</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Liebe(r) GWEBERBV, es kommt immer darauf an welche Berichterstattung man sich selbst angedeihen lässt. Wenn man seinen Informationshorizont allerdings auf die öffentlich rechtlichen und die privaten Rundfunkanstalten a la SAT1 und Pro7 reduziert, dann kommt man sehr wahrscheinlich zum gleichen Ergebnis, wie Sie. Kleiner Denkanstoß. Die das Objektiv einer Kamera hat einen sehr subjektiven Charakter...<a href="/autoren/gweberbv"></a></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364662978643208">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364664207091703" name="1364664207091703"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/navigant">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/navigant" class="author ">navigant</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364664207091703">
+                  30.03.2013 |
+                  18:23</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364460787686844">
+                    <span data-in_reply_to="1364460787686844" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Liebe(r) Don Alberto, das sollten Sie sich im Interesse der Meinunsfreiheit doch nochmal überlegen. Dieses Land braucht gerade jetzt solche Blätter wie den Freitag, eine der letzten Inseln des Quer-, Anders- und Freidenkens, neben dieser gleichgeschalteten neoliberalen Presse- und Informationslandschaft. Oder wollen sie, dass wir dort wieder hinkommen was die Ossi's 1989 abgeschüttelt haben, zu einem einzigen Presseorgan? Wir sind auf dem besten Weg dorthin. Zu einer schleichenden Untergrabung der Demokratie und der Bürgerrechte geht das nur so. Der kalte Krieger Schäuble und die Pfarrerstochter Merkel, Ideologen an der Spitze der Regierung.</p>
+<p>"Denk ich an Deutschland in der Nacht, dann bin ich um den Schlaf gebracht..." (H. Heine)</p>
+<p>Übrigens halte ich dieses Artikel für einen ausgezeichneten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364664207091703">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364745901630774" name="1364745901630774"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364745901630774">
+                  31.03.2013 |
+                  18:05</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364664207091703">
+                    <span data-in_reply_to="1364664207091703" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich stimme Ihnen vollkommen zu - ohne die Meinungsvielfalt des Freitags bzw. der Blogger würde etwas fehlen an unserer sogenannten Demokratie! Wir sollten froh sein über solche Möglichkeiten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364745901630774">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364812157898716" name="1364812157898716"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/siebzehnterjuni">
+                
+                  <img src="http://www.freitag.de/autoren/siebzehnterjuni/@@images/26b0efc8-47f0-4500-8085-215bc686705c.jpeg" alt="SiebzehnterJuni" title="SiebzehnterJuni" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/siebzehnterjuni" class="author ">SiebzehnterJuni</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364812157898716">
+                  01.04.2013 |
+                  12:29</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>31 Kommentare zu einem der  inzwischen wenigen linken niveauvolle Artikel.</p>
+<p>Ich glaube, dieser FREITAG ist weder rechts noch links, der FREITAG ist wie Jacob Augstein.</p>
+<p>Da ist es besser, das Buch von Stephan Hebel zu lesen:</p>
+<p> </p>
+<p>Mutter - Blamage.</p>
+<p> </p>
+<p>Da wächst wenigstens die Erkenntnis!</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364812157898716">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364856562498486" name="1364856562498486"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/wladimirgerin">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/wladimirgerin" class="author ">ln(e)</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364856562498486">
+                  02.04.2013 |
+                  00:49</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Auf der Hitliste der dümmsten Kommentare so ungefähr um Platz 22 rum</p>
+<p>Natürlich wären Eurobonds a la Rotgrün immer besser gewesen.</p>
+<p>Dann hätte die EZB einfach ohne Ende Geld gedruckt und gut is.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364856562498486">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364888754569473" name="1364888754569473"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/salvo">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/salvo" class="author ">salvo</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364888754569473">
+                  02.04.2013 |
+                  09:45</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Flassbeck bringt diesen Wahnsinn auf den Punkt:</p>
+<p>Der Fall Zypern oder die Folgen der kollektiven Ignoranz - See more at: <a href="http://www.flassbeck-economics.de/der-fall-zypern-oder-die-folgen-der-kollektiven-ignoranz/#sthash.hZYikjUW.dpuf">http://www.flassbeck-economics.de/der-fall-zypern-oder-die-folgen-der-kollektiven-ignoranz/#sthash.hZYikjUW.dpuf</a></p>
+<p> </p>
+<p>wobei ich diesen Wahnsinn nicht einmal so sehr auf die Ignoranz der deutschen und deren europäischen Verbündeten zurückführe, sondern auf ihre kriminelle psychopathische Energie, die sich angesiches einer Bevölkerung, die sich auf ein historisch begründetes Mitlaufen und Mittun beschränkt, widerstandslos entfalten kann. Ernst Bloch benutzte ja folgendes Bild, um das Verhalten der Bevökerung in Nazideutschland zu beschreiben: Die Faust im Sack, die im Richtung des geringsten Widerstands ausschlägt. Strukturell hat sich nichts Wesentliches verändert: Politisch-Ideologisch wurde zwar der Nazismus oberflächlich überwunden, primär im gesellschaftlichen Diskurs in ritueller Abstoßung tabuisiert, die Herrschaftsstrukturen, die ihn erst ermöglicht haben, wirken aber in historisch veränderter Form weiter. Vor diesem deutschen Europa sollte sich die Welt fürchten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364888754569473">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364894769690971" name="1364894769690971"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/illoinen">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/illoinen" class="author ">Dietmar Wiening</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364894769690971">
+                  02.04.2013 |
+                  11:26</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@Don Alberto</p>
+<p>Deutschland sieht,  oder will vor lauter Wald die Bäume nicht sehen, und um das zu kaschieren, wird gegen die kleinen Länder gehetzt.  So werden nicht die Ursachen bekämpft, sondern nur Symptome!</p>
+<p>Es ist so wohltuend, auch einmal eine andere Sicht auf diese Krise zu bekommen, und dies kann man immer mehr nur noch in ausländischen Artikeln finden, oder auf den Nachdenkseiten oder dem Freitag.  In Deutschland wird in den meisten Mainstream Medien, immer wieder mit nationalistischen Ressentiments argumentiert, was aber an den Ursachen der Krise nichts, aber auch überhaupt nichts ändert, sondern genau das Gegenteil bewirken wird.  Ich kann an dieser Stelle nur Goethe zitieren:  “ Man muss das Wahre immer wiederholen, weil auch der Irrtum um uns her immer wieder gepredigt wird, und zwar nicht von einzelnen, sondern von der Masse. In Zeitungen und Enzyklopädien, auf Schulen und Universitäten, überall ist der Irrtum obenauf, und es ist ihm wohl und behaglich, im Gefühl der Majorität, die auf seiner Seite ist.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364894769690971">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364894810166075" name="1364894810166075"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/illoinen">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/illoinen" class="author ">Dietmar Wiening</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364894810166075">
+                  02.04.2013 |
+                  11:26</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@Don Alberto</p>
+<p>Deutschland sieht,  oder will vor lauter Wald die Bäume nicht sehen, und um das zu kaschieren, wird gegen die kleinen Länder gehetzt.  So werden nicht die Ursachen bekämpft, sondern nur Symptome!</p>
+<p>Es ist so wohltuend, auch einmal eine andere Sicht auf diese Krise zu bekommen, und dies kann man immer mehr nur noch in ausländischen Artikeln finden, oder auf den Nachdenkseiten oder dem Freitag.  In Deutschland wird in den meisten Mainstream Medien, immer wieder mit nationalistischen Ressentiments argumentiert, was aber an den Ursachen der Krise nichts, aber auch überhaupt nichts ändert, sondern genau das Gegenteil bewirken wird.  Ich kann an dieser Stelle nur Goethe zitieren:  “ Man muss das Wahre immer wiederholen, weil auch der Irrtum um uns her immer wieder gepredigt wird, und zwar nicht von einzelnen, sondern von der Masse. In Zeitungen und Enzyklopädien, auf Schulen und Universitäten, überall ist der Irrtum obenauf, und es ist ihm wohl und behaglich, im Gefühl der Majorität, die auf seiner Seite ist.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten#1364894810166075">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/der-freitag">der Freitag</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/der-freitag">
+          <img src="http://www.freitag.de/autoren/der-freitag/@@images/50c1cea0-2a14-47a6-8687-3435f86755e3.png" alt="der Freitag" title="der Freitag" height="65" width="65" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2012</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">24295</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">103</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/der-freitag/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Stephan Hebel</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/auf-halber-strecke">
+              <span class="catchword">Wahlprogramm</span>
+              Auf halber Strecke </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/auf-halber-strecke">
+              <span class="comment-count" title=" 4 mal kommentiert">4</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/sie-kann-auch-anders">
+              <span class="catchword">Agenda 2013</span>
+              Sie kann auch anders</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/sie-kann-auch-anders">
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/ein-meister-der-taktik">
+              <span class="catchword">Verantwortungsethik</span>
+              Ein Meister der Taktik  </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/ein-meister-der-taktik">
+              <span class="comment-count" title=" 37 mal kommentiert">37</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364997082" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364997082" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364997082" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="catchword">1963</span>
+              Das Kuckucksei </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="author group-authors">Georg Fülberth</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="catchword">Finanzkrise</span>
+              Der Rubel rollt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="author group-authors">Dierk Hirschel</span>
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364997082" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364997082" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364997082" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    img: "http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten/@@images/63048da9-725b-4da3-8cba-4d95454e9c25.jpeg",
+    objectid: "21ebd7fc7211445eb3aac283eb09a0c5",
+    title: "Im Kostüm des Antikapitalisten ",
+    url: "http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten",
+    text: "Mit dem Zypern-Desaster hat sich Finanzminister Wolfgang Schäuble lächerlich gemacht. Zu lachen hat Europa leider trotzdem nichts",
+    created_at: "1364457600"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

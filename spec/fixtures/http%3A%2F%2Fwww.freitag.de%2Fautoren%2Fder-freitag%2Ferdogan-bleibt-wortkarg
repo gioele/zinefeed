@@ -1,0 +1,1216 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:58:53 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:58:52 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 72030
+Accept-Ranges: bytes
+X-Varnish: 557704527
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Türkei ǀ Erdogan bleibt wortkarg  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Das Angebot von Abdullah Öcalan zur Waffenruhe der kurdischen Milizionäre sollte von der Regierung in Ankara mit einer Gegenleistung beantwortet werden   " /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364997532" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364997532" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364997532" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364997532" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364997532" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364997532" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364997532" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=ausland">ausland</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=türkei">türkei</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=öcalan">öcalan</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=erdogan. waffenruhe">erdogan. waffenruhe</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p><strong>Gülcin Wilhelm</strong> ist Autorin des Buches Generation Koffer. Die Pendelkinder der Türkei</p>
+<p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 13/13</strong> vom 27.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Gülcin Wilhelm </span>
+        <div class="additional-info">
+          <span class="date">28.03.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 14 mal kommentiert">14</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Erdogan bleibt wortkarg </h1>
+
+        <p class="description">
+          <span class="catchword">Türkei</span>
+          Das Angebot von Abdullah Öcalan zur Waffenruhe der kurdischen Milizionäre sollte von der Regierung in Ankara mit einer Gegenleistung beantwortet werden   
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg/@@images/6c5828d2-49a4-40ee-91b4-1a4e5cf5ef31.jpeg" alt="Erdogan bleibt wortkarg " title="Erdogan bleibt wortkarg " height="282" width="445" /><p class="credit">Foto: Stringer/ AFP/ Getty Images</p>
+          </div>
+        
+
+        <div class="text"><p>Die Hoffnung, dass in der Türkei ein Krieg zu Ende geht, der in 30 Jahren über 30.000 Menschenleben forderte und Millionen traumatisierte, ist nicht unbegründet. Aber sie bleibt vage. 1999 ist schon einmal ein Rückzug der PKK gescheitert. Deren Guerilla hat achtmal eine Waffenruhe ausgerufen, die von der türkischen Armee entweder ignoriert oder gebrochen wurde. Derartige Erfahrungen sind wenig dazu angetan, Premier Tayyip Erdogan zu vertrauen. Der Mangel an Zuversicht, der die ganz große Freude über einen möglichen Friedensprozess nicht aufkommen lässt, hat viel mit einer wortkargen Regierung in Ankara zu tun. Niemand weiß bislang, worin deren Entgegenkommen bestehen wird, wenn die wohlfeilen Gesten gegenüber der PKK erschöpft sind. Ohnehin ist der türkische Staat alles andere als ein geübter Verhandlungspartner. Entsprechend riskant für eine Verständigung mit den Kurden ist die Kakophonie in der Regierung und im Parlament. Man darf nicht vergessen, dass die Kontakte mit dem auf der Gefängnisinsel Imrali internierten Öcalan bisher über den Geheimdienst liefen und Regierungspolitiker dazu Stellung nahmen, ohne wirklich im Bilde zu sein. Die Partei, von der man sich in Europa gemeinhin wünscht, dass sie regiert – die laizistische, sozialdemokratisch angehauchte CHP von Kemal Kilicdaroglu – bleibt in der Defensive. Der Parteichef, selbst ein kurdischer Alevit, kann sich nicht gegen nationalistische Hardliner in seiner Partei durchsetzen, denen es als Sakrileg erscheint, eine Gleichstellung von Kurden und Türken zu billigen. Doch auch Ultras müssen zur Kenntnis nehmen, vor Herausforderungen zu stehen, die von der kurdischen Nachbarschaft ausgehen. Im Nordirak ist es nur noch eine Frage der Zeit, bis die kurdische Autonomie in einen kurdischen Staat übergeht. Und egal, wann und wie der syrische Bürgerkrieg ein Ende findet – die bereits etablierte Selbstverwaltung kurdischer Kommunen in Nordsyrien ist eine Tatsache und im kollektiven Bewusstsein eines Volkes verankert. Dieser Mut zur Emanzipation lässt die Kurden in Südostanatolien nicht unberührt. Was im Irak und in Syrien geschieht, kann sie nur darin bestärken, in der Türkei als Gleiche unter Gleichen leben zu wollen.</p>
+<p>Veränderte Verfassung</p>
+<p>Um eine neue Ära in der Beziehung zwischen Türken und Kurden zu markieren, ist dank Öcalan ein Riesenschritt getan. Um ihm gerecht zu werden, sollte sich der türkische Staat zu einer Gegenleistung aufraffen, die wirklich überzeugt.</p>
+<p>Die Kurden fordern, dass in einer neuen Verfassung die Staatsbürgerschaft und die ethnische Struktur der türkischen Gesellschaft neu zu definieren. Das braucht Zeit und ist nicht a priori verhandelbar. Stattdessen Abdullah Öcalan nach fast 14 Jahren Haft auf freien Fuß zu setzen, wäre nicht nur eine Geste der Versöhnung, sondern der Vernunft.</p>
+<p>Der PKK-Führer kann die kurdischen Kämpfer besser vom Sinn einer Waffenruhe überzeugen als jeder andere. Schließlich gibt es ein militantes Lager, das nicht einsehen wird, unter großen Opfern in eroberte Positionen gerade jetzt aufzugeben. Sicher wird auch Öcalan einen Friedensprozess nicht vor Rückschlägen bewahren, aber er könnte sie überwinden helfen, bevor wieder alles zu spät ist.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (14)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364483678694428" name="1364483678694428"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364483678694428">
+                  28.03.2013 |
+                  16:14</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Free Öcalan!</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364483678694428">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364522862251995" name="1364522862251995"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364522862251995">
+                  29.03.2013 |
+                  03:07</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@<span>Gülcin Wilhelm</span></p>
+<p>Sie schreiben von einer wortkargen Regierung in Ankara, andererseits von einer Kakophonie in der türkischen Regierung und dortigem Parlament.</p>
+<p>Der, wie Sie sagen, "kurdische Alevit" Kilicdaroglu, an der Spitze der CHP hat erheblich dazu beigetragen, diese Partei endgültig einzuschläfern. Dass man sich, wie Sie meinen, "in Europa gemeinhin wünscht", die CHP möge die Türkei regieren, halte ich für nicht richtig. Die EU favorisiert ganz eindeutig die AKP. Übrigens: Sie belegen auch nichts. Wenn Sie den CHP-Vorsitzenden als jemanden darstellen, der "sich nicht gegen nationalistische Hardliner in seiner Partei durchsetzen [kann], denen es als Sakrileg erscheint, eine Gleichstellung von Kurden und Türken zu billigen", rücken Sie ihn in die Nähe von AKP-Positionen. So weit würde ich nicht gehen.</p>
+<p>Auch teile ich nicht Ihre Einschätzung der CHP als sozialdemokratisch angehaucht. Die CHP ist laizistisch und sozialdemokratisch, auch aus der Sicht sehr vieler anderer sozialdemokratischer Parteien. Oder wissen Sie mehr?</p>
+<p>Sie, Frau Wilhelm, fragen sich auch nicht, warum es gerade zum jetzigen Zeitpunkt zu einer Annäherung von Öcalan und türkischer Regierung kommt und zu einer Wiederbelebung der türkisch-israelischen Beziehungen, während zugleich die letzten deutschen Patriot-Raketen nahe der syrischen Grenze installiert werden.</p>
+<p>Vielleicht geht es ja ums politische Großreinemachen im vorderen Orient, unter der Führung des sunnitischen Ministerpräsidenten  Erdogan. Um per aufgefrischter Allianz von Türkei und Israel mit einigen ungeliebten Nachbarn aufzuräumen. Erst mal in Syrien, wo auch eingewanderte sunnitische "Rebellen" nie zu Ende gehende Waffenarsenale einsetzen. Gestern noch in der Mensa einer Universität in Damaskus.</p>
+<p>Sollten diese vom Westen und von Emiraten gesandten und finanzierten  sunnitischen Rebellen in Syrien siegen - welche Zukunft hätte dann, Frau Wilhelm, die bereits etablierte Selbstverwaltung kurdischer Kommunen mit Menschen meist alevitischem Glauben in Nordsyrien? Und welche Interessen verfolgen Katar, Frankreich, USA usw. in Syrien?</p>
+<p>Ich fürchte, dass türkische, syrische, irakische Kurden die nächsten Schlachtopfer sein werden.</p>
+<p>Leider hat Öcalan auf der Gefängnisinsel Imrali keine kompetenten Berater. Seine Gesprächspartner sind ausschließlich Geheimdienstler der türkischen Regierung, schreiben Sie.</p>
+<p> </p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364522862251995">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364542781697480" name="1364542781697480"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/nilnilnil">
+                
+                  <img src="http://www.freitag.de/autoren/nilnilnil/@@images/aa9cd0dc-d52c-4126-96b7-9e7afba1b328.jpeg" alt="Nil" title="Nil" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/nilnilnil" class="author ">Nil</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364542781697480">
+                  29.03.2013 |
+                  08:39</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich freue mich sehr über diesen überfälligen Schritt und soweit ich es überschauen kann, freut sich auch der weitaus grössere Teil der Menschen beider und aller Seiten. Wir leben in einem globalen Dorf und bald wird auch das Bewusstsein darüber die Massen bis in die letzten Winkel erreichen. Wir Menschen müssen auf gegenseitige Achtung und Kooperation setzen, um uns endlich wichtigerem zu zuwenden, wie die Rettung der Bio- und Noospähre, unsere Lebensgrundlagen. Der Mensch als einziges bewusstes Wesen, trägt die Verantwortung für den Zustand des Planeten samt allen Lebewesen. Frauen und Männer die gemeinsam oder gegeneinander unser aller Zukunft kreieren. </p>
+<p>Alles Gute</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364542781697480">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364547266125711" name="1364547266125711"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/parallelgeselschaftler">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/parallelgeselschaftler" class="author ">Parallelgeselschaftler</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364547266125711">
+                  29.03.2013 |
+                  09:54</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Frau Gülcen Wilhelm,</p>
+<p>ich weiß ja nicht aus welchem Lager sie stammen (PKK-Freundlich?), aber eines muss man über Ihren Text sagen:</p>
+<p>Wenn man Ihre Symphatie für die marxistisch-leninistische Terrororganisation PKK mal weglässt, wegen ihr sind über 40.000 Menschen umgekommen, und sich nur auf Ihre Überschrift und Ihre Aussage:</p>
+<p>"1999 ist schon einmal ein Rückzug der PKK gescheitert. Deren Guerilla hat achtmal eine Waffenruhe ausgerufen, die von der türkischen Armee entweder ignoriert oder gebrochen wurde. Derartige Erfahrungen sind wenig dazu angetan, Premier Tayyip Erdogan zu vertrauen."</p>
+<p>konzentriert, ja dann muss man sagen, dass sie entweder komplett geschlafen und die türkischen Medien in den letzten Wochen wohl komplett ignoriert haben oder Ihre ideologische Brille nicht abnehmen wollten.</p>
+<p>Wenn Sie nämlich die Medien dort gelesen hätten, wüssten sie, dass unter der Federführung von Erdogan eine Road Map mit Öcalan und seinen politischen Marionetten in der BDP ausgehandelt wurde.</p>
+<p>Dieser Austausch zwischen der Regierung und dem Führer der marxistisch-leninistischen Terrororganisation wurde fast täglich ausführlich der Öffentlichkeit mitgeteilt. Erdogan hat auch fast täglich, oder einer seiner nahen AKP Berater, Statements zum Friedensprozess gegeben.  </p>
+<p>Wenn Ihr türkisch schlecht sein sollte, hätten sie sich über die englischen Seiten von Todays Zaman und Hürriyet Daily News darüber informieren können. Diese Seiten sind recht solide, aktuell und sehr nah am geschehen, teilweise deutlich weniger ideologisch aufgeladen als ihre türkischsprachigen Mutterseiten.</p>
+<p>Weiter könnte man bei Ihnen den Eindruck haben, dass die marxistisch-leninistische PKK (von den USA und der EU als Terrorganisation eingestuft) "die Kurden" in Ihrer Gesamtheit vertritt.</p>
+<p>Soweit ich weiß, gab es keine demokratischen Wahlen unter den Kurden, bei welcher sie die Gelegenheit hatten die PKK als Ihr Sprechorgan zu wählen. Die PKK hat sich mit Waffengewalt in diese Position selber gebracht. Sie ist nicht demokratisch, sie ist gewalttätig und autoritär.</p>
+<p>Ganz in Linie mit den anderen kommunistischen Gruppen wie "Der leuchtende Pfad", "Naxaliten", "ETA", "RAF", "Dev Sol", "DHKPC" etc..</p>
+<p>Angesicht der Tatsache, dass sämtliche politischen Arme der Terrorgruppe PKK (Selbstmordanschläge in Urlaubsorten; Ermordung von politischen Abweichlern in den eigenen Reihen; Ermordung von Polizei- und anderen Sicherheitskräften; Bedrohung, Entführung und Ermordung von politischen sanfteren und gemäßigten kurdischen Politikern; Anschläge auf Schulen, Behörden, Lehrer und Beamte; Bombenanschläge in Städten und an Straßen; Drogenhandel zwecks Waffenfinanzierung; Schutzgelderpressung im In- und Ausland, und so einiges mehr), momentan ist es die BDP, bei Wahlen nie wirklich erfolgreich abgeschnitten haben, bei ca. 15-20 Millionen Kurden in der Türkei, stellt man sich die Frage, wie sie also Frau Wilhelm sich erdreisten können die PKK als Vertretung für "die Kurden" hier zu propagieren.</p>
+<p>Kommen wir zu Ihren naiven Aussagen bzgl. der 8 mal ausgerufenen Waffenruhe der marxistisch-leninistischen Terrororganisation PKK:</p>
+<p>1. Ein Staat ist nicht verpflichtet einer angeblichen Waffenruhe einer Terrororganisation einzugehen. Die Terrorgruppe PKK ist kein Staat, mit welchem die Türkei Krieg führt. Daher sind diese angeblichen Waffenruheangebote der PKK nichst anderes als ein Versuch der Terrorgruppe Ihren Status als Kriegspartei mit Taschenspielertricks zu erlangen. Man stelle sich vor die USA oder Deutschland hätten mit AlKaida und der RAF eine "Waffenruhe" ausgehandelt.</p>
+<p>2. Die Hälfte der PKK Terroreinheiten besteht aus iranischen, syrischen und irakischen, oft sehr jungen (16-19 Jahre) und verblendeten Kurden. Hierzu gibt es eine sehr interessante und objektive türkische Studie. Mit klein wenig Mühe finden sie diese über google. Auf Grund dieser nicht-türkischen Terrorkämpfer ist eine Art "Waffenruhe" ebenfalls nicht ohne Weiteres möglich. Ein Staat kann es nicht zulassen, dass ausländische Terroristen Ihr eine "Waffenruhe" anbieten.</p>
+<p>3. Wenn wir diese 8maligen "Waffenruheangebote" genauer betrachten, dann fällt auf, dass diese oft kurz vor dem Winter "ausgerufen" wurden. Also kurz vor der Zeit, wo es für diese eher knapp ausgerüsteten Terroreinheiten fast unmöglich ist/war sich im sehr harten Winter im Osten  der Türkei vernünftig in Kampfbereitschaft und -position zu bringen.</p>
+<p>4. Die Waffenruhe 1999, nach der Ergreifung des Terrorpaten Öcalan, war für die türkische Regierung irrelevant. Sie hatte die Gelegenheit hart zuzuschlagen. Was sie auch Tat. Mehr als 500 Terroristen konnten getötet werden.  Hinzu kommt, dass 1999 nicht Erdogan an der Macht war, sondern Ihre CHP samt den Hardlinern im Militär im Windschatten.</p>
+<p>5. 2007 wurde von Erdogan eine Amnestie in Aussicht gestellt. Als Pilot sollten 33(?) PKK Terroristen Ihre Waffen abgeben und sozialisiert werden. Anstatt dies mit einer kühlen, respektvollen Geste zu tun, machte die Terrorgruppe PKK und ihr pseudodemokratischer Arm die BDP eine Propagandaparty daraus, welches zu einer heftigen Reaktion in der türkischen Öffentlichkeit führte und Erdogan gezwungen war diesen Friedensprozess abzubrechen. Wens sie sensibilität erwarten, dann sollten sie dies der BDP und der PKK mitteilen.</p>
+<p> </p>
+<p>Ich komme zum Schluss: Ihr Text ist sehr schlecht recherchiert, ideologisch aufgeladen; Sie ziehen falsche Schlüsse und Ihnen mangelt es an wirklich wichtigen, objektiven und relevanten Grundkenntnissen für diese Thematik.</p>
+<p>Hier mein letzter Satz, welcher sich auf Ihre falsche Überschrift bezieht:</p>
+<p>Erdogan schweigt nicht, er zieht die Strippen in diesem Friedensprozess.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364547266125711">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364558121492377" name="1364558121492377"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/nilnilnil">
+                
+                  <img src="http://www.freitag.de/autoren/nilnilnil/@@images/aa9cd0dc-d52c-4126-96b7-9e7afba1b328.jpeg" alt="Nil" title="Nil" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/nilnilnil" class="author ">Nil</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364558121492377">
+                  29.03.2013 |
+                  12:55</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364547266125711">
+                    <span data-in_reply_to="1364547266125711" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vielen Dank für Ihren Kommentar.</p>
+<p>Ich habe schon lange den Eindruck, dass viele Autoren sowie Journalisten in der Presselandschaft in Wirklichkeit nur über rudimentäre Kenntnisse verfügen oder von "hörensagen" aus unseriösen Quellen oder einseitige Quelleninformationen, mal eben schnell einen Artikel zusammenbasteln, und damit zwangsläufig leichtfertig Desinformation betrieben wird. Das ist nicht gute bis unseriöse Berichterstattung. Jetzt wo das Kind in den Brunnen gefallen ist, sollte sich die Autorin vielleicht mal einige Tage oder wenigstens Stunden Zeit nehmen und sich unter anderen anhören, wie verschiede Geistes- und Sozialwissenschaftler, kurdische sowie türkische, in der Türkei, den Friedensprozess bewerten und begleiten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364558121492377">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364592211426188" name="1364592211426188"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/nilnilnil">
+                
+                  <img src="http://www.freitag.de/autoren/nilnilnil/@@images/aa9cd0dc-d52c-4126-96b7-9e7afba1b328.jpeg" alt="Nil" title="Nil" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/nilnilnil" class="author ">Nil</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364592211426188">
+                  29.03.2013 |
+                  22:23</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ministerpräsident Erdogan hat heute Abend im türkischen Fernsehen ein exklusiv Intervieuw gegeben. Drei Journalisten haben eineinhalb Stunden Fragen hauptsächlich zum Friedensprozess gestellt. Da wird sicher morgen etwas in den Zeitungen stehen. Wieder eine Gelegenheit sich zu informieren, Frau Wilhelm.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364592211426188">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364609192142366" name="1364609192142366"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364609192142366">
+                  30.03.2013 |
+                  03:06</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364547266125711">
+                    <span data-in_reply_to="1364547266125711" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>So was wie "Terrorpate Öcalan, PKK-Terroristen, marxistisch-leninistische Terrororganisation und deren pseudodemokratischer Arm ..." - habe ich evtl. 1000 mal gehört oder gelesen und fand es jedes Mal so furchtbar doof, dass ich kein Interesse an einer Diskussion hatte.</p>
+<p>Mit Ihrem Beitrag geht es mir ähnlich wie beim Lesen des obigen Blogs. Es wird unterstellt ("marxistisch-leninistisch") oder verfälscht  und von den Hintergründen abgelenkt.</p>
+<p>Und drauflos schwadronniert. Mal PKK-Propaganda, mal AKP-Gesülze, wie in Ihrem Fall. </p>
+<p>Glibbrig. </p>
+<p> </p>
+<p> </p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364609192142366">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364635428322227" name="1364635428322227"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/parallelgeselschaftler">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/parallelgeselschaftler" class="author ">Parallelgeselschaftler</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364635428322227">
+                  30.03.2013 |
+                  10:23</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364609192142366">
+                    <span data-in_reply_to="1364609192142366" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>ich kann mir gut vorstellen, dass es schwer fällt die wahrheit zu ertragen und von seinen romantischen revolutionärsbildern zu lassen.</p>
+<p><a href="http://www.verfassungsschutz.hessen.de/irj/LfV_Internet?cid=d2c9991843b58f8281366d559df8c114">http://www.verfassungsschutz.hessen.de/irj/LfV_Internet?cid=d2c9991843b58f8281366d559df8c114</a></p>
+<p> </p>
+<p>des weiteren kann ich es sehr gut verstehen, wenn die unfassbare zahl von 40.000 toten sie von ihrem Wunsch abhält den Terrorpaten Öcalan als 2. Mandela aufzubauen.</p>
+<p>des weiteren ähnelt ihre verweigerung der debatte der gedankenstruktur von einigen pkk funktionären, welche lieber weiter morden möchten, als sich demokratisch für ihre sache einzusetzen</p>
+<p>aber sie möchten ja nicht weiter debattieren, daher möchte ich sie nicht mit fakten weiter quälen</p>
+<p> </p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364635428322227">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364635515843313" name="1364635515843313"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/parallelgeselschaftler">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/parallelgeselschaftler" class="author ">Parallelgeselschaftler</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364635515843313">
+                  30.03.2013 |
+                  10:25</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364592211426188">
+                    <span data-in_reply_to="1364592211426188" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vielen dank für diese info. Schauen wir ob Frau Wilhelm bereit ist ihre Informationsquellen zu erweitern.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364635515843313">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364694041499077" name="1364694041499077"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364694041499077">
+                  31.03.2013 |
+                  03:40</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364635428322227">
+                    <span data-in_reply_to="1364635428322227" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>So ist es. Ich kann die Wahrheit nicht ertragen, nicht mal die Wahrheiten des hessischen Verfassungsschutzes, dessen Vermögen, politische Gruppierungen einzuschätzen, weltweit gerühmt werden.</p>
+<p>Schön zu wissen, dass Sie sich mit meinen und anderer Menschen Gedankenstrukturen befassen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364694041499077">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364723031071715" name="1364723031071715"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/erschoepfter-demokrat">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/erschoepfter-demokrat" class="author ">Erschöpfter Demokrat</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364723031071715">
+                  31.03.2013 |
+                  11:43</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364547266125711">
+                    <span data-in_reply_to="1364547266125711" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Herr oder Frau ,,Parallelgesellschaftler".</p>
+<p>Ich bin wirklich ,,erschöpft" von Ihren Aussagen über den türkisch-kurdischen Konflikt bzw. PKK vs. Türkische Armee Konflikt.</p>
+<p>Ihre Rhetorik bzw. Ihre Formulierung dient nicht dem Frieden und gehört definitiv dem 20.Jahrhundert. Wie stark muss die Macht der Gewohnheit sein ? Ich rede von der Gewohnheit des Hasses , des türkischen Nationalismus, der sich verschrieben hat, bestialisch gegen über seinen ,,Feinden" Kompromisslos zu kämpfen. Sehr kreativ und pazifistisch sind Sie auf gar kein Fall.</p>
+<p> </p>
+<p>Vermutlich sind Sie ein türkischer Nationalist. Zuerst möchte ich die PKK kritisieren damit Sie mir nicht Parteilichkeit vorwerfen.</p>
+<p>Ja, es stimmt die PKK ist gewalttätig und lebt von der Gewalt. In ihrer Geschichte hat sie viele Menschen liquidiert, die aus ihren eigenen Reihen kamen , Zivilisten ebenfalls . Kurz: das Verbrechen ist gut dokumentiert.</p>
+<p>Die PKK ist natürlich nicht der Alleinvertreter aller Kurden, sonst , spekuliere ich jetzt, hätten die Kurden schon längst einen Staat ausgerufen.  Auf detailliertes möchte ich nicht eingehen, da Sie selbst über die PKK genug wissen.</p>
+<p>So das macht den türkischen Staat und ihre Armee aber nicht zu einem Engel. Wer die andere Kriegspartei kritisiert der muss auch beide Seiten kritisieren. </p>
+<p> </p>
+<p>Ich finde die Lösung des besagten Konfliktes dient in erster Linie der türkischen Seite. Eine ,,große" Türkei kann es nur geben, wenn sie ihr wichtigstes Problem, verdammt noch einmal löst. Frieden bedeutet zwanghaft  eine positive ökonomische Entwicklung der Türkei. Wie kann man dagegen sein ? </p>
+<p> </p>
+<p>Die Lösung ist für beide eine Win-Win-Situation . Jede Errungenschaft  der Kurden und politischer Status wie in Spanien bei den Katalanen und Basken ist auch im Interesse der Türken und der gesamten Türkei. </p>
+<p>Zumindest ignorieren Sie die Tatsache, dass Herr Öcalan und die PKK von einem kurdischen Staat abgeschworen haben.  Haben Sie auch nie die Werke Machiavellis gelesen ?  Mache deinem Feind Zugeständnisse  oder du wirst anderfalls scheitern. Hat beispielsweise Otto von Bismarck  auch nicht eine wichtige Forderung  der  sozialistischen bzw. sozialdemokratischen  Bewegungen im Deutschen Reich  erfüllt ? nämlich durch die Einführung deS Gesundheitssystems und anderen Versicherungen  konnte Bismarck gekonnt eine sozialistische Revolution vermeiden !!!! Ähnlich könnte es die Türkei machen</p>
+<p> </p>
+<p>überdenken Sie ihre Meinung es lohnt sich.  Die Frage ist was bringt mehr einen Nutzwert für die Türkei Ihre Vorstellungen zu dem Konflikt oder meine Vorstellung.</p>
+<p> </p>
+<p>Sie müssen sich von Dogmen befreien und von ,,auswendig gelernten " </p>
+<p>Aussagen verabschieden. Wir reden von über 50000 Toten. Und Sie reden von einem Terrorismusproblem. Nein kein Terror hat so viel Menschenleben verursacht weil das auch kein Terror ist es ist ein Bürgerkrieg. Analog zu Syrien: Syrien hat ein Abkommen mit Iran. Sobald Syrien von einem anderen Staat angegriffen wird muss der Iran  Syrien unterstützen. Aber kein anderes Land greift Syrien an sondern die Bürger Syriens haben zu den Waffen gegriffen. </p>
+<p> </p>
+<p>Haben die vielen mitglieder der PKK keinen türkischen Pass, also sind sie die Kinder des türkischen Staates !! Das Wort Terrorismus ist ein  Begriff für eine EntmenschLichtung der genannten Personen. Dabei merken die Verwender dieses Wortes  nicht dass dieses Wort Feindbilder erzeugt. Das Hauptproblem im besagten Konflikt und im gesamten Nahen Osten ist es dass das Menschenleben im Allgemeinen kein Wert hat.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364723031071715">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364747654296006" name="1364747654296006"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364747654296006">
+                  31.03.2013 |
+                  18:34</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364635428322227">
+                    <span data-in_reply_to="1364635428322227" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sie haben die "Wahrheit" scheinbar für sich gepachtet! Alle anderen sind unwissend.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364747654296006">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364747701635105" name="1364747701635105"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364747701635105">
+                  31.03.2013 |
+                  18:35</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364635428322227">
+                    <span data-in_reply_to="1364635428322227" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sie haben die "Wahrheit" scheinbar für sich gepachtet! Alle anderen sind unwissend.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364747701635105">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364772846605947" name="1364772846605947"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/weinsztein">
+                
+                  <img src="http://www.freitag.de/autoren/weinsztein/@@images/1edcc3f8-e000-4ecc-aa76-e03e322d7022.jpeg" alt="weinsztein" title="weinsztein" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/weinsztein" class="author ">weinsztein</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364772846605947">
+                  01.04.2013 |
+                  01:34</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Mir gefällt nicht, dass <span>Gülcin Wilhelm </span>hier einen Blog veröffentlicht und sogleich entschwand, ohne sich an der Diskussion zu beteiligen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg#1364772846605947">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/der-freitag">der Freitag</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/der-freitag">
+          <img src="http://www.freitag.de/autoren/der-freitag/@@images/50c1cea0-2a14-47a6-8687-3435f86755e3.png" alt="der Freitag" title="der Freitag" height="65" width="65" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2012</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">24295</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">103</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/der-freitag/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364997532" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364997532" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364997532" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="catchword">1963</span>
+              Das Kuckucksei </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="author group-authors">Georg Fülberth</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="catchword">Finanzkrise</span>
+              Der Rubel rollt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="author group-authors">Dierk Hirschel</span>
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364997532" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364997532" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364997532" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    img: "http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg/@@images/8b90a9bf-486d-4061-9ef0-3b4fb956ddde.jpeg",
+    objectid: "3964a1b6dff94109aec526b22e7c2de9",
+    title: "Erdogan bleibt wortkarg ",
+    url: "http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg",
+    text: "Das Angebot von Abdullah Öcalan zur Waffenruhe der kurdischen Milizionäre sollte von der Regierung in Ankara mit einer Gegenleistung beantwortet werden   ",
+    created_at: "1364457600"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

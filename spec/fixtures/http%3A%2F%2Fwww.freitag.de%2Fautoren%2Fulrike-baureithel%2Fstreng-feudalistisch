@@ -1,0 +1,2634 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:57:06 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:57:06 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 157693
+Accept-Ranges: bytes
+X-Varnish: 557701715
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Frauensache ǀ Streng feudalistisch — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Die Mehrheit der Studierenden im Fach Medizin ist weiblich, trotzdem sitzen kaum Frauen in medizinischen Führungspositionen. Eine neue Kampagne soll dies ändern" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1734&amp;ord=1364997425" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1734&amp;ord=1364997425" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1734&amp;ord=1364997425" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1739&amp;ord=1364997425" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1739&amp;ord=1364997425" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1739&amp;ord=1364997425" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1735&amp;ord=1364997425" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Alltag</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=proquote medizin">proquote medizin</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=ärztinnen">ärztinnen</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=gender">gender</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=gesundheitssystem">gesundheitssystem</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=gleichstellung">gleichstellung</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 13/13</strong> vom 27.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Ulrike Baureithel</span>
+        <div class="additional-info">
+          <span class="date">01.04.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 51 mal kommentiert">51</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Streng feudalistisch</h1>
+
+        <p class="description">
+          <span class="catchword">Frauensache</span>
+          Die Mehrheit der Studierenden im Fach Medizin ist weiblich, trotzdem sitzen kaum Frauen in medizinischen Führungspositionen. Eine neue Kampagne soll dies ändern
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch/@@images/ed2fbbee-2877-41b6-b53e-59533f31d502.jpeg" alt="Streng feudalistisch" title="Streng feudalistisch" height="282" width="445" /><p class="credit">Bild: Imago</p>
+          </div>
+        
+
+        <div class="text"><p>Einst haben Männer den weisen Frauen die Heilkunde streitig gemacht. Dann versuchten sie, die ungeliebten Konkurrentinnen möglichst lange vom Medizinstudium auszuschließen, und als die Mädels sich den Zugang um 1900 – lange nach ihren Schwestern im Ausland – endlich erkämpft hatten, wurden sie abgedrängt in die „sprechenden“, schlecht bezahlten Fächer, die Gynäkologie oder Kinderarztpraxis etwa, um ihnen kein Messer in die Hand geben zu müssen.</p>
+<p>Damit soll endlich Schluss sein, sagt der Deutsche Ärztinnenbund (DÄB), der die Aktion „ProQuote Medizin“ unterstützt. Nach dem Vorbild der Journalistinnen will die Kampagne endlich mehr Frauen an die Spitze der Krankenhäuser und Fachgesellschaften, auf Lehrstühle und in die Selbstverwaltung des Gesundheitssystems bringen. Denn: Weiblich ist das Medizinstudium allemal schon. 60 Prozent eines Jahrgangs sind Frauen, doch die Führungspositionen sind zu 90 Prozent von Männern besetzt – und Ärzte verdienen rund 1.900 Euro mehr als ihre Kolleginnen.</p>
+<p>Das liegt nicht nur an der „strengen feudalistischen Struktur der Medizin“, wie Regine Rapp-Engels vom DÄB sagt, sondern auch daran, dass es überhaupt keine Untersuchungen über die Qualität männlicher und weiblicher ärztlicher Versorgung gibt. Die Anerkennung, so die Initiatorin Gabriele Kaczmarczyk von der Berliner Charité, bekämen jedenfalls nicht jene, die sich täglich im Krankenhausdienst aufrieben, sondern eine kleine Elite, die auf Lehrstühlen oder Chefsesseln sitze.</p>
+<p>200 Unterzeichnerinnen haben sich auf der ProQuote-Website bereits zusammengefunden. Sie werden zwar nicht vom zuständigen Gesundheitsminister, aber immerhin von seiner Kollegin Ursula von der Leyen unterstützt. Neben gerechteren Aufstiegsmöglichkeiten geht es der Kampagne auch um Arbeitszeitmodelle, die es Frauen erlauben, Spitzenpositionen einzunehmen: Daran sollten auch Männer ein Interesse haben, glaubt Ärztinnen-Coach Ulrike Ley: „Es gibt schließlich immer weniger Frauen, die bereit sind, ihrem Arztgatten den Rücken freizuhalten.“ Und vielleicht – so die Hoffnung – auch immer weniger Frauen, die sich diese Rolle in Arztgroschenheften anlesen. Bleibt zu wünschen, dass nicht jedes Jahr eine neue Berufsgruppe, sondern Frauen allesamt einmal an die Spitze stürmen. 2014 jährt sich der FrauenStreikTag von 1994 zum zwanzigsten Mal. Sein Motto ist nach wie vor aktuell. Es lautete: Deutschland in Frauenhand, das wäre spitze.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (51)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364806992446177" name="1364806992446177"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/magda">
+                
+                  <img src="http://www.freitag.de/autoren/magda/@@images/4c9e967f-abee-4303-a639-53baed89a11e.jpeg" alt="Magda" title="Magda" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/magda" class="author ">Magda</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364806992446177">
+                  01.04.2013 |
+                  11:03</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>" Die Anerkennung, so die Initiatorin Gabriele Kaczmarczyk von der Berliner Charité, bekämen jedenfalls nicht jene, die sich täglich im Krankenhausdienst aufrieben, sondern eine kleine Elite, die auf Lehrstühlen oder Chefsesseln sitze."</em></p>
+<p><span>Das stimmt, die ganze Funktionärselite, das sind ja wirklich alles Männer. </span></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364806992446177">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364807951800471" name="1364807951800471"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/abghoul">
+                
+                  <img src="http://www.freitag.de/autoren/abghoul/@@images/f7e19f27-3cc5-4b59-a94d-06f4caf60e7e.jpeg" alt="abghoul" title="abghoul" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/abghoul" class="author ">abghoul</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364807951800471">
+                  01.04.2013 |
+                  11:19</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Frauenstreiktag 1994-bis-2014 = 20Jahre</p>
+<p>*greetings from the ghoulies:"This shall be deleted please"*</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364807951800471">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364814278211004" name="1364814278211004"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/crumar">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/crumar" class="author ">crumar</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364814278211004">
+                  01.04.2013 |
+                  13:04</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Gute Güte, was für ein absonderlicher Artikel.</p>
+<p>Das Problem an dem gesamten Gesundheitssektor ist generell, das Frauenboot ist voll. Ob sich nun auch noch Spitzenpositionen unter den Nagel gerissen werden, ist bei 70% Frauenanteil bei den Beschäftigten auch Wurst. Das ist schlecht steigerungsfähig.</p>
+<p>Frauen müssen ihre uralten Bastionen auch verlassen lernen.</p>
+<p>Beispiel Charite: Die "Gleichstellungsbeauftragten" sind reine Frauenbeauftragte, die Förderprogramme für Frauen sind Legion, Coaches, Mentoren, Workshops und was ist das Resultat? </p>
+<p>Gerade die Charite ist ein duftes Beispiel: Frauen schreiben keine 20% der Habilitationen (Tendenz sinkend) aber bekommen 40% der W1-Professuren, erst auf den höheren Rängen herrscht dann wieder Gerechtigkeit. Nämlich der Frauenanteil sinkt auf den wirklichen Anteil der Frauen an den habil.</p>
+<p>Wie soll der Frauenanteil steigen, wenn das jahrelange pampern nichts bringt? Wieviel hundert Millionen sollen noch versenkt werden für Professuren nur für Frauen? Noch mehr jammern über eingebildete Benachteiligungen? Old girls network als Alternative?</p>
+<p>Denn auch die Frage der Vereinbarkeit von Famlie und Beruf wird natürlich gynozentrisch geregelt. Der einzige Vaterbeauftragte arbeitete ehrenamtlich, unentgeltlich und ohne Ausgleich 32 Stunden im Monat - die "Gleichstellungsbeauftragten" Frauen sind fest angestellt.</p>
+<p>Es gibt zwar Väter in der Charite, aber keiner für sie zuständig, denn der gynozentrische Horizont von Frauen kreist um Frauen; es gibt aus dieser Sicht nur die Mutter, die ein Problem mit der Vereinbarkeit hat.</p>
+<p>Dumm.</p>
+<p>Und so sorgt die Quotendiskussion für einen netten Ausweg aus der eigentlichen Erkenntnis: Dass das gesamte System nichts gebracht hat, weil der Ansatz falsch ist, die Männer draussen zu lassen. Sicherlich hat es die professionellen Jobs in der Gleichstellungsbürokratie (für Frauen) geschaffen. Da hat sich "der Kampf" selbstredend gelohnt.</p>
+<p>Und natürlich wird es sich lohnen für die paar Frauen mit Spitzenjobs - für Gleichstellung werden die sich ebenso wenig einsetzen wie bisher.</p>
+<p>Reiner Klientelismus.</p>
+<p>So sehe ich inzwischen die gesamte Debatte hier - Klientelistinnen schreiben für andere Klientelistinnen ideologischen Klientelismus und verpacken den mit einer Pseudo-Moral a la "Frauen sind die besseren Menschen".</p>
+<p>Geldwerter Vorteil, sonst nichts.</p>
+<p>Gruß, C.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364814278211004">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364816319219629" name="1364816319219629"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364816319219629">
+                  01.04.2013 |
+                  13:38</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dass sich Männer Zutritt zu den Räumen verschafft haben, in denenzuvor "weise Frauen" stümperhaft zu Gange waren, denen ihre Anvertrauten weggestorben sind wie die Fliegen, war ein Glücksfall für die Frauen und Neugeborene, und auch der lebensrettende Kaiserschnitt war eine männliche Erfindung.</p>
+<p>Und nein, ich will nicht, dass mich eine Quotenfrau behandelt, genauso wenige wie ich von einer Quotenpilotin geflogen werden will.</p>
+<p>Und es gibt da noch ein Problem: Was wenn eine Frau über Charakter verfügt, und deshalb eine Quote ablehnt? Wenn sie in einem quotierten Bereich unterwegs ist, ist sie automatisch, gegen ihren Willen, Quotenfrau, was nur in der feministischen Welt was gutes ist. Unbedeuntende Frauen, deren Haltung nicht zählt, weil sie sich nicht zum Feminismus zählen, klingen dann etwa so:</p>
+<p><em></em>„Eine Quote verletzt die Würde der Frau. Denn jede Frau in einer Leitungsposition würde zur Quotenfrau“, sagte Nobelpreisträgerin Christiane Nüsslein-Volhard. „Das ist ein Stigma, das sich durch hervorragende Leistungen nicht tilgen lässt.“ Die CSU-Politikerin Dagmar Wöhrl bekräftigte: „Eine fähige Frau braucht die Quote wie ein Walfisch die Kapuze.“</p>
+<p>Aber halt, diese Frauen haben nicht kapiert, dass Menschen mit Schwanz Sexisten sind, die nichts anderes zu tun haben, als ständig Frauen zu diskriminieren, richtig?</p>
+<p><a href="http://manndat.de/feministische-mythen/berufsleben/frauen-im-beruf-benachteiligt-und-ausgenutzt.html" title="Frauen im Beruf: Benachteiligt und ausgenutzt?">http://manndat.de/feministische-mythen/berufsleben/frauen-im-beruf-benachteiligt-und-ausgenutzt.html</a><br /><br /></p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364816319219629">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364816402318878" name="1364816402318878"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364816402318878">
+                  01.04.2013 |
+                  13:40</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Dieser proprietäre Editor ist der letzte Scheiß.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364816402318878">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364816938923215" name="1364816938923215"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/stifthalter">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/stifthalter" class="author ">Robinson</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364816938923215">
+                  01.04.2013 |
+                  13:48</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Och nee, Frau Baureithel - lassen Sie sich doch mal was neues einfallen. Getretener Quark wird breit, nicht hoch.</p>
+<p>"...Ärzte verdienen rund 1.900 Euro mehr als ihre Kolleginnen"</p>
+<p>Iss ja klar - kein Bezug, keine verlässliche Grundlage, keine Angabe dazu, wie diese wunderliche Zahl nun wieder zustand kommt. Gleiche Tätigkeit, gleiche Erfahrung, gleiche Arbeitszeit, gleiches Alter, gleicher Arbeitgeber? Sehr schön, dann ist es ja glaubwürdig. Wenn nicht, ist es nur wieder billige Polemik in der angeblichen Geschlechterdebatte, in der es ja nur noch um Pfründe zu gehen scheint. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364816938923215">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364817893804658" name="1364817893804658"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364817893804658">
+                  01.04.2013 |
+                  14:04</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364806992446177">
+                    <span data-in_reply_to="1364806992446177" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ja es sind <span style="text-decoration: line-through;">Schwarze </span> Männer. Na und? Haben Sie ein Problem mit Männern?</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364817893804658">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364818000193638" name="1364818000193638"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364818000193638">
+                  01.04.2013 |
+                  14:06</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Und bevor hier die Critical Whiteness Fraktion aufschlägt, und mir die Berechtigung entziehen will, eine Analogie zu Rassismus herzustellen:</p>
+<p>"Niggger mich nicht!" Langjähriger Antirassist bezieht Position gegen Männerfeindlichkeit</p>
+<p><a href="http://genderama.blogspot.de/2013/01/niggger-mich-nicht-langjahriger.html">http://genderama.blogspot.de/2013/01/niggger-mich-nicht-langjahriger.html</a></p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364818000193638">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364819244048458" name="1364819244048458"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/thinktankgirl">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/thinktankgirl" class="author ">thinktankgirl</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364819244048458">
+                  01.04.2013 |
+                  14:27</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Selbst am Ostermontag sind die Antifeministen im Einsatz.</p>
+<p>Haben die denn kein Familienleben?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364819244048458">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364819394024378" name="1364819394024378"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364819394024378">
+                  01.04.2013 |
+                  14:29</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364819244048458">
+                    <span data-in_reply_to="1364819244048458" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ob ein Mann Familienleben hat oder nicht, liegt ganz in der Willkür der Frauen und Mütter.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364819394024378">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364819583362662" name="1364819583362662"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/thinktankgirl">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/thinktankgirl" class="author ">thinktankgirl</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364819583362662">
+                  01.04.2013 |
+                  14:33</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364819394024378">
+                    <span data-in_reply_to="1364819394024378" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Danke, genau diese Antwort habe ich erwartet.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364819583362662">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364819883443425" name="1364819883443425"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364819883443425">
+                  01.04.2013 |
+                  14:38</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364819583362662">
+                    <span data-in_reply_to="1364819583362662" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wie ungeheuer schlagfertig. Nur, ich kann FeministInnen und ihre Statements genauso vorhersagen, und was genau ist jetzt damit bewiesen?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364819883443425">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364820523450013" name="1364820523450013"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364820523450013">
+                  01.04.2013 |
+                  14:48</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Und gleich mal eine Frage hinterher (wobei ich die Antwort schon kenne): Feminismus will, dass Männer beruflich kürzer treten, um Müttern die Karriere zu ermöglichen. Zugleich verweigert Feminismus die Gleichberechtigung von Vätern und Müttern. Könnten Sie nicht mich darüber aufklären?</p>
+<p>Warum sind die FeministInnen, die mehr Vater beim Kind wollen,  nach der Trennung nicht genauso präsent wie vor der Trennung?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364820523450013">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364826753964522" name="1364826753964522"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tst">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tst" class="author ">TST</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364826753964522">
+                  01.04.2013 |
+                  16:32</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>In den USA gab es schon vor über 10 Jahren eine solche Kampagne. Dann hat man mit einer teuren Studie untersucht woran dies liegt. Ergebnis: die Männer arbeiten 65h/w und die Frauen "nur" 60h/w. Diese 1h pro Tag mehrarbeit der Männer macht schlicht den Unterschied. Leistung muss eben honoriert werden! Wird Leistung nicht mehr belohnt, weil mittels Quote nach sachfremden Kriterien befördert wird, dann ist die Folge eine komplete Demotivation aller Leistungsträger im System. Ob dies dann besser für die Patienten ist???</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364826753964522">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364827332775248" name="1364827332775248"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364827332775248">
+                  01.04.2013 |
+                  16:42</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364826753964522">
+                    <span data-in_reply_to="1364826753964522" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Warum in der Ferne schweifen? Laut dem deutschen Bundesamt für Statistik arbeiten Frauen 40-50% in Teilzeit, hingegen nur 10% der Männer. Um die Lohnlücke zu schließen (etwa 23%, woraus man knallhart folgern kann, dass Frauen pro Zeiteinheit besser bezahlt werden, da steht die feministische Welt Kopf) müsste man Frauen besser bezahlen als Männer. Ähnlich wie bei der Frauenquote: Es wird ein Nachteil behauptet, um anschließend Frauen besser zu behandeln, zu bevorzugen.</p>
+<p>Und: Da Arbeit für die Wenigsten ein Privileg ist, ist Teilzeit ein Privileg, wenn man dank eines zusätzlichen (männlichen) Einkommens dennoch einen Status genießt, der weit über dem mageren Teilzeiteinkommen liegt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364827332775248">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364830518006535" name="1364830518006535"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/achtermann">
+                
+                  <img src="http://www.freitag.de/autoren/achtermann/@@images/abf0537b-6288-4186-9fe3-a4abd567ec6f.png" alt="Achtermann" title="Achtermann" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/achtermann" class="author ">Achtermann</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364830518006535">
+                  01.04.2013 |
+                  17:35</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364807951800471">
+                    <span data-in_reply_to="1364807951800471" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><strong>Ulrike Baureithel</strong> schreibt: "<em>2014 jährt sich der FrauenStreikTag von 1994 zum zehnten Mal.</em>"</p>
+<p><strong>Abghoul</strong>, du korrigierst: "<em>Frauenstreiktag 1994-bis-2014 = 20Jahre</em>."</p>
+<p>Die <strong>Aargauer Zeitung</strong> (Schweiz) schreibt am 1<a href="http://www.aargauerzeitung.ch/schweiz/der-frauenstreiktag-mobilisiert-heute-weniger-als-vor-20-jahren-109494739">4.06.2011</a>: "<em>Genau 20 Jahre nach dem Frauenstreiktag von 1991 gehen Frauen heute wieder auf die Strasse. Die rund 50 Organisationen, welche zum Streiktag aufrufen, rechnen mit etwa 100000 Teilnehmerinnen und Teilnehmern."</em></p>
+<p>Das ist für den gemeinen Leser alles sehr merkwürdig...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364830518006535">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364831481354972" name="1364831481354972"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364831481354972">
+                  01.04.2013 |
+                  17:51</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364830518006535">
+                    <span data-in_reply_to="1364830518006535" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Frauenstreiktag? Ich erinnere mich. Alles stand still. Schlimmer als die Hyperinflation von 1923. Ein Ereignis wie die Mondlandung.</p>
+<p>Nee, im Ernst, wovon ist da die Rede? Muss man das wissen, ist das eine Bildungslücke?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364831481354972">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364831558731380" name="1364831558731380"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/achtermann">
+                
+                  <img src="http://www.freitag.de/autoren/achtermann/@@images/abf0537b-6288-4186-9fe3-a4abd567ec6f.png" alt="Achtermann" title="Achtermann" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/achtermann" class="author ">Achtermann</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364831558731380">
+                  01.04.2013 |
+                  17:52</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364827332775248">
+                    <span data-in_reply_to="1364827332775248" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ergänzung zu deinem Beitrag:</p>
+<p>"<em>Medienwirksame Statements von Politikern und Aktionen wie etwa der „Equal Pay Day“ (internationaler Aktionstag für Entgeltgleichheit zwischen Frauen und Männern) zielen darauf ab, die Öffentlichkeit dafür zu sensibilisieren, dass in Deutschland ein signifikanter Lohnunterschied zwischen Frauen und Männern besteht. Dieser sogenannte „Gender Pay Gap“ beläuft sich nach Angaben des Statistischen Bundesamtes auf etwa 23%. Demnach fällt der durchschnittliche Bruttoverdienst von Frauen um 23% niedriger aus als der von Männern [1]. Der „Gender Pay Gap“ berücksichtigt allerdings nicht, welche Tätigkeiten hinter den Vergütungsdaten stehen. Er berücksichtigt nicht, welche tatsächlichen Arbeitszeiten Frauen und Männer leisten, in welchem Unternehmen sie arbeiten, welche Verantwortung sie tragen, mit welcher Motivation sie tätig sind und welche tatsächliche Leistung sie erbringen. Vor diesem Hintergrund weist das Statistische Bundesamt auch einen bereinigten „Gender Pay Gap“ aus. Rund zwei Drittel des Verdienstunterschieds können demnach durch strukturelle Gegebenheiten erklärt werden. So beläuft sich der Verdienstunterschied bei Frauen und Männern bei vergleichbaren Tätigkeiten auf nur noch circa 8%. Dass die ungleiche Bezahlung von Frauen und Männern bewusst einer diskriminierenden Personalstrategie entspringt, ist nicht anzunehmen." </em></p>
+<p>[1] Statistisches Bundesamt, Wiesbaden: Verdienstunterschiede zwischen Männern und Frauen (Oktober 2010).</p>
+<p>Quelle: <a href="http://lp.thieme.de/lp/XX-Weihnachten/pdf/xx_01_2012.pdf">Was verdienen Ärztinnen und Ärzte in Deutschland?</a></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364831558731380">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364833309394533" name="1364833309394533"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364833309394533">
+                  01.04.2013 |
+                  18:21</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364831558731380">
+                    <span data-in_reply_to="1364831558731380" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vielen Dank für die Ergänzung, ich greifs auf und mach weiter:</p>
+<p>Das (neo)liberale Argument (mich überzeugt es nicht): Wenn es tatsächlich so wäre, dass ein Arbeitgeber Frauen 23% weniger zahlen könnte, dann hätten es Männer wirklich schwer auf dem Arbeitsmarkt. Denn selbstverständlcih würden Arbeitgeber nach den Gesetzen des Marktes nur noch Frauen einstellen, und dann der Konkurrenz davonsegeln. Dass aber kein einziger Arbeitgeber eine strikte "Nur-Frauen"-Politik verfolgt, lässt jeden Libertären gegenüber der feministischen These, Frauen würden nicht nach Leistung sondern nach Geschlecht bezahlt, misstrauisch werden.</p>
+<p>Und noch ein älteres Zitat, welches ich anführe, weil es von der Bundesfrauenministerin a.D. Renate Schmidt stammt, die nun wirklich über jeden Zweifel erhaben ist, irgendwie antifeministisch zu sein:</p>
+<p><em>"Frauen verdienen ja nicht weniger: bei gleicher Tätigkeit, gleicher Qualifikation und gleicher Berufserfahrung wird es sehr schwer nachzuweisen sein, dass es tatsächlich in nennenswertem Umfang (von Einzelfällen abgesehen) eine ungleiche Bezahlung gibt. Nur leider hapert es im Regelfall daran, dass es wegen der häufigeren Unterbrechung der Erwerbstätigkeit eben nicht die gleiche Berufserfahrung ist, und es häufig auch nicht die gleichen Tätigkeiten sind. Ansonsten ist Lohndiskriminierung auch heute schon bei uns verboten. Und jede Frau hat die besten Chancen, eine Klage zu gewinnen, wenn es eine ungleiche Bezahlung bei sonst gleichen Voraussetzungen gibt."</em></p>
+<p>Grundsätzlich gilt: Umso genauer man sich anschaut und auch berechtigt vergleicht, welche Leistungen erbracht werden, umso geringer wird die Lohnlücke (~ 2-8%). Aber selbst dies sagt wenig aus, denn aus anderen Untersuchungen ist bekannt, dass Männer bei Gehaltsforderungen selbstbewusster auftreten und Männer eher bereit sind, für besser bezahlte Jobs längere Anfahrtswege in Kauf zu nehmen oder gar gleich ganz den Wohnort zu wechseln (= Aufgabe des sozialen Umfelds, Vollidioten also). Wenn man ausschließlich das Gebiet der Teilzeitarbeit betrachtet, dreht es sich sogar um: Die (!) teilzeitarbeitende Frau verdient mehr als der (!) teilzeitarbeitende Mann. Dass Männer hier benachteiligt seien, hat aber noch nie jemand vermutet (außer mir).</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364833309394533">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364835688049704" name="1364835688049704"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/achtermann">
+                
+                  <img src="http://www.freitag.de/autoren/achtermann/@@images/abf0537b-6288-4186-9fe3-a4abd567ec6f.png" alt="Achtermann" title="Achtermann" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/achtermann" class="author ">Achtermann</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364835688049704">
+                  01.04.2013 |
+                  19:01</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364833309394533">
+                    <span data-in_reply_to="1364833309394533" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Im Vorspann des Blogs heißt es:</p>
+<p><em>"Die Mehrheit der Studierenden im Fach Medizin ist weiblich, trotzdem sitzen kaum Frauen in medizinischen Führungspositionen. Eine neue Kampagne soll dies ändern".</em></p>
+<p>In der Quelle "<em>Was verdienen Ärztinnen und Ärzte?",</em>  die ich weiter oben verlinkt habe, steht unter einem Säulendiagramm (Abb. 7), das die Verdienstspannbreite der Chefärztinnen und Chefärzte auffächert, folgender Hinweis:</p>
+<p><em>"Chefärzte: In den Einkommensklassen ab 200.000 Euro sind Frauen und Männer nahezu gleichstark vertreten".</em></p>
+<p> Als nunmehr verunsicherter medizinischer Verdienstlaie frage ich mich, ob es sich hier um Aussagewidersprüche handelt, oder ob wegen der komplexen Strukturen des Themas die Konsistenz der beiden Aussagen mir verborgen bleibt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364835688049704">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364837661682516" name="1364837661682516"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/abghoul">
+                
+                  <img src="http://www.freitag.de/autoren/abghoul/@@images/f7e19f27-3cc5-4b59-a94d-06f4caf60e7e.jpeg" alt="abghoul" title="abghoul" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/abghoul" class="author ">abghoul</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364837661682516">
+                  01.04.2013 |
+                  19:34</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364831481354972">
+                    <span data-in_reply_to="1364831481354972" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Kenn mich auch nicht aus mit den Daten, aber mit den Zahlen stimmt halt was nicht.</p>
+<p>Ist dir ja auch aufgefallen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364837661682516">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364840606022424" name="1364840606022424"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364840606022424">
+                  01.04.2013 |
+                  20:23</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364837661682516">
+                    <span data-in_reply_to="1364837661682516" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>???</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364840606022424">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364850602352526" name="1364850602352526"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/ulrike-baureithel">
+                
+                  <img src="http://www.freitag.de/autoren/ulrike-baureithel/@@images/888607cb-af9a-4b23-b546-fcb399a79794.jpeg" alt="Ulrike Baureithel" title="Ulrike Baureithel" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/ulrike-baureithel" class="author group-authors">Ulrike Baureithel</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364850602352526">
+                  01.04.2013 |
+                  23:10</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364807951800471">
+                    <span data-in_reply_to="1364807951800471" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sorry, ein Lapsus, ist korrigiert.</p>
+<p>@Achtermann:</p>
+<p>Der Frauenstreiktag in der Schweiz hat tatsächlich am 14. Juni 1991 stattgefunden, also knapp drei Jahre, bevor ihn die deutschen Frauen am 8. März 1994 gegingen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364850602352526">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364854221989663" name="1364854221989663"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/pw6">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/pw6" class="author ">pw6</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364854221989663">
+                  02.04.2013 |
+                  00:10</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364831558731380">
+                    <span data-in_reply_to="1364831558731380" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Etwas zugespitzt formuliert sind Berichte wie dieser von Kienbaum mathematischer Schrott. Bei einer halbwegs sauberen Berichterstattung wären zumindest die Größen der jeweiligen Populationen und die Standardabweichungen angegeben worden, notfalls als Fußnote oder Anhang oder irgendwo zum Download.<br /><br />Angaben wie Gruppe X verdient einige wenige % mehr als Gruppe Y sind völlig wertlos, wenn der Signifikanztest nicht bestanden wird.<br /><br />Die Bemerkung auf S. 29, daß bei den Ärzten der Psychiatrie und der Pädiatrie die Frauen mehr verdienen, ist vermutlich reiner Zufall, ebenso die 1,5 % Differenz bei den Weiterbildungsärzten. Selbst die auch genannten 7 % bis 9 % sind sehr wahrscheinlich nicht signifikant. Solcher Zahlenschrott ist reine Desinformation, das treibt mich so langsam auf die Palme.<br /><br />Diese mathematische Schlamperei führt leider auch dazu, daß jeder nach gusto die Fehler in seinem Sinne ausbügelt und kein Konsens über die Faktenlage da ist.<br /><br />Große Teile des Feminismus würden sich übrigens in Luft auflösen, wenn die Damen (und Herren) etwas mehr Mathematik könnten und ihre Weltsicht nicht auf völlig vermurksten Statistiken aufbauen würden.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364854221989663">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364854654351973" name="1364854654351973"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/pw6">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/pw6" class="author ">pw6</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364854654351973">
+                  02.04.2013 |
+                  00:17</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364837661682516">
+                    <span data-in_reply_to="1364837661682516" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"aber mit den Zahlen stimmt halt was nicht."<br /><br />Das ist eine weitere Schlamperei in dem Papier. Die Unterschrift unter Abb. 7 "Chefärzte: In den Einkommensklassen ab 200 000 Euro sind Frauen und Männer nahezu gleichstark vertreten." liest man auf den ersten Blick so, daß z.B. im Gehaltsintervall 300-400k die Hälfte der Leute männlich ist. Man interpretiert das als bedingte Wahrscheinlichkeit<br /><br />P("Geschlecht = männlich unter der Annahme Gehalt in [300k,400k]") = 50%<br /><br />Wenn man sich die Skalen genauer ansieht, dann wird aber klar, daß das zwei verschränkte Histogramme sind, die die Verteilung der Männer bzw. Frauen auf die Gehaltsintervalle angeben, also die umgekehrten bedingten Wahrscheinlichkeiten, z.B.<br /><br />P("Gehalt in [300k,400k] unter der Annahme Geschlecht = männlich") = 17%<br /><br /></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364854654351973">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364855907702607" name="1364855907702607"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364855907702607">
+                  02.04.2013 |
+                  00:38</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Einfach mal nach Österreich schauen (wird das so geschrieben?)</p>
+<p>Dort an den Unis traten zwar mehr Frauen als Männer an, aber es bestanden mehr Männer, in absoluten Zahlen.</p>
+<p>Geht gar nicht!!!</p>
+<p>Also wurden die Tests angepasst, was heißt, dass Frauen mit weniger Punkten obsiegten.</p>
+<p>Ja, da hat man es gezeigt, der Männerwelt, Frauen mussten weniger leisten, um zugelassen zu werden.</p>
+<p>Frauen. Bäh.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364855907702607">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364855939616303" name="1364855939616303"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/wladimirgerin">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/wladimirgerin" class="author ">ln(e)</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364855939616303">
+                  02.04.2013 |
+                  00:38</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                Es sollte so bleiben wie jetzt, dass Qualität statt Quantität entscheidet.
+Wer will sich schon von Flaschen behandeln lassen nur weil sie weiblich sind.
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364855939616303">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364856061706426" name="1364856061706426"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364856061706426">
+                  02.04.2013 |
+                  00:41</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Und ach ja, warum wird mein Blog-Artikel nicht freigeschaltet, ich bin so stolz drauf, kann aber nur drauf zugreifen, wenn ich angemeldet bin.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364856061706426">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364857472106001" name="1364857472106001"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364857472106001">
+                  02.04.2013 |
+                  01:04</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Joh, bei Freitag.de haste Meinungsfreiheit, sofern Du mit unserer Meinung übereinstimmts!!!</p>
+<p>Du hast eine andere Meinung? Nicht bei uns, Freitag.de!!!</p>
+<p>Freitag.de, solange Du mit uns bist, darfste schreiben wasde willst!!1</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364857472106001">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364858007464403" name="1364858007464403"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tobib07">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tobib07" class="author ">TobiB07</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364858007464403">
+                  02.04.2013 |
+                  01:13</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Egal, taz.de ist noch schlimmer.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364858007464403">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364883886115936" name="1364883886115936"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/achtermann">
+                
+                  <img src="http://www.freitag.de/autoren/achtermann/@@images/abf0537b-6288-4186-9fe3-a4abd567ec6f.png" alt="Achtermann" title="Achtermann" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/achtermann" class="author ">Achtermann</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364883886115936">
+                  02.04.2013 |
+                  08:24</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364854221989663">
+                    <span data-in_reply_to="1364854221989663" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Du schreibst:</p>
+<p>"<em>Etwas zugespitzt formuliert sind Berichte wie dieser von Kienbaum mathematischer Schrott. Bei einer halbwegs sauberen Berichterstattung wären zumindest die Größen der jeweiligen Populationen und die Standardabweichungen angegeben worden, notfalls als Fußnote oder Anhang oder irgendwo zum Download."</em></p>
+<p>Das kann sein. Das Problem ist, dass nicht jeder Sachverhalt, der sich empirisch festhalten lässt, in allgemeinen Veröffentlichungen in Zeitschriften oder Zeitungen mit allen statistischen Kennzeichen dargeboten werden kann. Zumindest sagt die Untersuchung Kienbaums mehr aus als die lapidare Feststellung des Eingangsblogs:</p>
+<p><em>"…Ärzte verdienen rund 1.900 Euro mehr als ihre Kolleginnen."</em></p>
+<p>Anhand der Kienbaum-Darstellung wird deutlich, dass angesichts der unzähligen Möglichkeiten, als Arzt oder Ärztin zu arbeiten, eine derart generelle Aussage wie die hier getätigte gar nicht möglich ist. Hier fehlen alle relevanten Bezugsgrößen, die eine Einordnung dieser Aussage ermöglichen würden. Deshalb kann so eine Zahl nur eine politische sein, um für den Zweck der Interessenvertretung dienstbar gemacht zu werden.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364883886115936">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364894886969315" name="1364894886969315"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/pw6">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/pw6" class="author ">pw6</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364894886969315">
+                  02.04.2013 |
+                  11:28</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364883886115936">
+                    <span data-in_reply_to="1364883886115936" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Das Problem ist, dass nicht jeder Sachverhalt, der sich empirisch festhalten lässt, in allgemeinen Veröffentlichungen in Zeitschriften oder Zeitungen mit allen statistischen Kennzeichen dargeboten werden kann."<br /><br />Nein, das exakte Gegenteil trifft zu. Wenn ich eine Datenbank mit den Primärdaten habe und bilde Durchschnitte über bestimmte numerische Werte, dann kann ich genausogut statt des Durchschnitts die Zahl der Einträge zählen lassen. Arbeitsaufwand für die Umprogrammierung: ca. 5 Sekunden. Dasselbe in Grün für die Standardabweichung. Die detaillierten Veröffentlichungen des Statistischen Bundesamts haben durchweg solche Angaben.<br /><br />Zumindest die grundlegenden Kennziffern kann man ohne weiteres und mit minimalem Aufwand selber berechnen, es gibt keine Ausrede, das nicht zu machen. Schon diese simplen Kennziffern würden in vielen Fällen sofort zeigen, daß man den Ergebnissen nicht trauen kann und erst recht keine verwegenen politischen Schlußfolgerungen daraus ziehen kann! Genau das dürfte in vielen Fällen der Grund sein, warum diese Kennziffern nicht angegeben werden.<br /><br />Statistische Signifikanztests brauchen schon deutlich mehr mathematische Fähigkeiten, vor allem muß man erst einmal verstanden haben, wie hoch die Gefahr ist, völligen Unfug zu verzapfen. Notfalls muß man eben einen Mathematiker anheuern und den Job outsourcen.<br /><br />Das Hauptproblem sind wie immer die Konsumenten, nämlich WIR, die wir solchen mathematischen Schrott ernst nehmen, anstatt ihn den Produzenten um die Ohren zu hauen, verbunden mit dem guten Ratschlag, die Finger wegzulassen von Dingen, die sie nicht verstehen.<br /><br />Im Mittelalter gab es Alchimisten, heute dürfen nur noch gut ausgebildete Ärzte kurieren, weil die Gefahr, jemanden zu schädigen und zu vergiften, sehr hoch ist. Unsere mathematischen Alchimisten sind nicht weniger gefährlich, weil sie mit ihren unbrauchbaren Statistiken und darauf basierenden falschen Behauptungen das gesellschaftliche Klima vergiften!<br /><br /></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364894886969315">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364896928676468" name="1364896928676468"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/pw6">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/pw6" class="author ">pw6</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364896928676468">
+                  02.04.2013 |
+                  12:02</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364883886115936">
+                    <span data-in_reply_to="1364883886115936" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Zumindest sagt die Untersuchung Kienbaums mehr aus als die lapidare Feststellung des Eingangsblogs: "Ärzte verdienen rund 1.900 Euro mehr als ihre Kolleginnen.""<br /><br />Stimmt natürlich. Auch Bild 2 (die unterschiedlichen Chefarztvergütungen in den einzelnen Fachgebieten) gibt zu denken.<br /><br />Daß radiologische Untersuchungen teuer sind, erklärt sich durch die teuren Apparate. Daß freiberufliche Radiologen deutlich überdurchschnittlich verdienen, kann man noch so gerade mit dem unternehmerischen Risiko, sich einen millionenteuren Gerätepark anzuschaffen, der amortisiert werden muß, und ggf. einer Verzinsung von investiertem Kapital begründen. Für einen angestellen Chefarzt-Radiologen gilt das aber nicht mehr. Die spannende Frage ist weniger, warum die Frauen etwas weniger als die Männer verdienen, sondern viel eher, wieso Radiologen ca. 50% mehr verdienen als z.B. Neurologen, die auch einen superteuren Operationssaal brauchen. Sobald sich Männer und Frauen nicht gleichartig auf diese Fachgebiete verteilen, führen einfache Durchschnitte nur zu einer Neuauflage des legendären <span>Berkeley gender paradox</span>.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364896928676468">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364898094098831" name="1364898094098831"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/pw6">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/pw6" class="author ">pw6</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364898094098831">
+                  02.04.2013 |
+                  12:21</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364814278211004">
+                    <span data-in_reply_to="1364814278211004" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Denn auch die Frage der Vereinbarkeit von Famlie und Beruf wird natürlich gynozentrisch geregelt."<br /><br />Also der männliche Nachwuchs holt nach meiner Beobachtung ganz schön auf. Die haben bei den Klageliedern der Frauen gut zugehört und haben keine Lust mehr, sich für ein paar Euro mehr, die weitgehend der Einkommensteuerprogression zum Opfer fallen, zu arbeiten bis zum Umfallen.<br /><br />Der Traum des Feminismus (gleiche absolute Gehälter) dürfte sich bei der jungen Generation bald erfüllen, aber nicht, weil die Frauen mehr bekommen, sondern die Männer weniger, weil sie weniger leisten. Die Arbeit wird nicht weniger, auch nicht die verfügbaren Gehaltssummen, denn wesentlich mehr Geld für das Gesundheitssystem kann und will sich die Allgemeinheit nicht leisten. Das Geld wird also nur auf mehr Ärzte verteilt.<br /><br />Man kann nur hoffen, daß genug Studienplätze bereitgestellt und auch besetzt werden, denn für 2 Ärzte, die früher je 50-70 Stunden die Woche gearbeitet haben, braucht man jetzt 3, die 40 oder weniger Stunden die Woche arbeiten. Mein Zahnarzt, der eine Einzelpraxis betreibt, sagte letztens, er gehöre damit einer aussterbenden Gattung an. Dank 70% Frauen beim Nachwuchs, die überwiegend halbtags arbeiten wollen (auch wenn sie keine Kinder haben), und ähnlich denkender Männer wird es fast nur noch Gemeinschaftspraxen geben.<br /><br />Ich fürchte allerdings, es wird gar nicht möglich sein, die Zahl der Studienplätze in der Größenordnung von 50% zu steigern, d.h. wir steuern langsam aber sicher auf einen Versorgungsnotstand zu.<br />Bei Notdiensten haben wir den Ärztenotstand übrigens in unserer Region schon jetzt, dank der hohen Frauenquote und der fehlenden Bereitschaft der Damen, für Notdienste zur Verfügung zustehen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364898094098831">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364906183850760" name="1364906183850760"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/anne-monen">
+                
+                  <img src="http://www.freitag.de/autoren/anne-monen/@@images/4794e42c-3beb-4905-a8cc-c7dc386ff7a7.jpeg" alt="anne mohnen" title="anne mohnen" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/anne-monen" class="author ">anne mohnen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364906183850760">
+                  02.04.2013 |
+                  14:36</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Jetzt, wo Ärztemangel herrscht, kriechen sie hinter dem Ofen hervor (...)</p>
+<p>Kostet ja auch nichts mehr und gibt ne Menge "Gummipunkte". Von der Leyen hat als sie im Amt war, keinen Finger in die Richtung gekrümmt.</p>
+<p>Im Tenor stimmt der Artikel  dennoch, auch wenn ich mir wünschte, dass Zahlen genannt würden: Langzeitstudien über den Anteil von weiblichen Medizinerinnen, die im Job gebleiben sind bzw. Prognosen darüber, ob sich in den letzten 15 Jahre, was geändert hat.</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364906183850760">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364908667363659" name="1364908667363659"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/oi2503">
+                
+                  <img src="http://www.freitag.de/autoren/oi2503/@@images/4ad633e9-0041-4689-92f9-4713338fc630.jpeg" alt="oi2503" title="oi2503" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/oi2503" class="author ">oi2503</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364908667363659">
+                  02.04.2013 |
+                  15:17</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364831558731380">
+                    <span data-in_reply_to="1364831558731380" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Aus dem von dir verlinkten Artikel:</p>
+<p><em>"Die Vergütung von Ärztinnen liegt je nach Funktionslevel um 1,5 % bis 9 % unter dem Durchschnitt."</em> Lange nicht mehr so gelacht.</p>
+<p>Best, Oi</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364908667363659">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364909066475444" name="1364909066475444"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/oi2503">
+                
+                  <img src="http://www.freitag.de/autoren/oi2503/@@images/4ad633e9-0041-4689-92f9-4713338fc630.jpeg" alt="oi2503" title="oi2503" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/oi2503" class="author ">oi2503</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364909066475444">
+                  02.04.2013 |
+                  15:24</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364908667363659">
+                    <span data-in_reply_to="1364908667363659" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@ Oi Über den Durchschnitt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364909066475444">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364915460227588" name="1364915460227588"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/achtermann">
+                
+                  <img src="http://www.freitag.de/autoren/achtermann/@@images/abf0537b-6288-4186-9fe3-a4abd567ec6f.png" alt="Achtermann" title="Achtermann" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/achtermann" class="author ">Achtermann</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364915460227588">
+                  02.04.2013 |
+                  17:11</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364908667363659">
+                    <span data-in_reply_to="1364908667363659" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"<em>Lange nicht mehr so gelacht."</em></p>
+<p>Das ist ein kleiner Lichtblick, dass Männer noch etwas zu lachen haben.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364915460227588">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364915793603537" name="1364915793603537"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/neobe">
+                
+                  <img src="http://www.freitag.de/autoren/neobe/@@images/a68896d6-5272-4dfb-95f2-c17a4f18fc0f.jpeg" alt="Neobe" title="Neobe" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/neobe" class="author ">Neobe</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364915793603537">
+                  02.04.2013 |
+                  17:16</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364814278211004">
+                    <span data-in_reply_to="1364814278211004" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich verspreche dir "jetzt" das ich mal einen Mann fragen werde, ob ich Atmen darf (ohne das Er beleidigt ist) und sich Eingebunden fühlt, in diese absonderlich "Frauen"- sache!!!!</p>
+<p>Wo kommen wir sonst bloß hin....</p>
+<p>Liebe Grüße</p>
+<p>Neo ;-))</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364915793603537">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364915937661102" name="1364915937661102"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/neobe">
+                
+                  <img src="http://www.freitag.de/autoren/neobe/@@images/a68896d6-5272-4dfb-95f2-c17a4f18fc0f.jpeg" alt="Neobe" title="Neobe" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/neobe" class="author ">Neobe</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364915937661102">
+                  02.04.2013 |
+                  17:18</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Willkommen in der Welt - der Großen dolle Bösen Welt - der Männer Wehwehchen..........</p>
+<p>So ich bring das nächste mal ein schnulli für jeden mit! Versprochen...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364915937661102">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364917742532744" name="1364917742532744"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/thinktankgirl">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/thinktankgirl" class="author ">thinktankgirl</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364917742532744">
+                  02.04.2013 |
+                  17:49</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364819883443425">
+                    <span data-in_reply_to="1364819883443425" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>Wie ungeheuer schlagfertig. Nur, ich kann FeministInnen und ihre Statements genauso vorhersagen, und was genau ist jetzt damit bewiesen?</em></p>
+<p>Nee, kannste nicht, sonst wärste nicht darauf reingefallen ;-)</p>
+<p>Macht nix, wollte nur kucken, ob es irgendwelche intellektuelle Fortschritte bei den Antifemisten gibt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364917742532744">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364928751033937" name="1364928751033937"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/crumar">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/crumar" class="author ">crumar</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364928751033937">
+                  02.04.2013 |
+                  20:52</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@PW6</p>
+<p>1. Ich fände es tatsächlich sogar gut, wenn junge Männer ihre "work-life-balance" so regeln, dass die Lebensmodelle von Gymnasiallehrerinnen a la: "Ich scheide erst einmal 13 Jahre aus dem Beruf aus und kümmere mich um die Kinder!" gar nicht mehr durchführbar sind.</p>
+<p>Inzwischen (2Q 2010 nach OECD) nehmen 25% der Väter die Elternzeit in Anspruch - Super!</p>
+<p>Freue ich mich drüber!</p>
+<p>2. Schleichend WENIGER Studierende - zumindest sind das meine Zahlen.  Und ich denke, der "Notstand" wird sich auf ländliche Regionen beziehen, nicht auf hippe urbane Milieus; da werden dann in der Tat die Gemeinschaftspraxen aus dem Boden sprießen. ;)</p>
+<p>3. Irgendwie ist mein Argument hier nicht rübergekommen, dass 70% der Beschäftigten im Gesundheitswesen bereits FRAUEN sind.</p>
+<p>Wenn nun in der tertiären Bildung 70% der studierenden Frauen schon wieder und immer wieder und immer noch im Gesundheits- und Sozialwesen ihre Abschlüsse machen, dann stellt sich die Frage:</p>
+<p>WO SOLLEN DIE HIN? Ernsthafte Frage.</p>
+<p>Denn in der Tat gibt es in diesem Bereich längst nicht so viele Stellen für HOCHqualifizierte, wie anscheinend Frauen immer noch glauben. Es muß bspw. auch Schwestern, Pfleger und Techniker geben und nicht nur Ärzte und Ärztinnen.</p>
+<p>Ich verstehe es nicht. </p>
+<p>4. Die offensichtlichen Lügenstudien greifen immer mehr um sich. Gerade US-amerikanische zum "gender-bias" - da kannst du nur noch mit dem Kopf auf die Tischplatte knallen, so dummdreist und offensichtlich wird da gelogen. </p>
+<p>Und viel schlimmer: Das scheint auf eine Herde von Gläubigen oder Anti-Wissenschaftlern zu treffen, die selbst mit dem Begriff "Standardabweichung" nichts anfangen können.</p>
+<p>Entweder Linke können wirklich nicht kopfrechnen oder der Glaube ersetzt Wissenschaft und es wird immer irrationaler.</p>
+<p>Das lächerlichste (und sexistischste) Werk war ja von Rosin "Das Ende der Männer". Ich habe mich scheckig gelacht! Was für eine pathologische Lügnerin!</p>
+<p>Aber die Rezensionen haben mir gezeigt, das nicht ein Journalist / Journalistin das Buch bis zum Schluß gelesen hat und nicht EINE hat auch nur eine einzige Fußnote überprüft!</p>
+<p>Dabei wäre ihnen schon auf den ersten Seiten klar geworden, um was für einen Schrott es sich handelt.</p>
+<p>So viel unkritisches "Ich will glauben!" ist mir noch nie untergekommen. Eventuell ist es wirklich zutreffend, dass sich der gesamte Berufsstand weitgehend entpolitisiert hat.</p>
+<p>Gruß, crumar</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364928751033937">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364929740709382" name="1364929740709382"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/crumar">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/crumar" class="author ">crumar</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364929740709382">
+                  02.04.2013 |
+                  21:09</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@PW6</p>
+<p>Nachtrag:</p>
+<p>"Bei Notdiensten haben wir den Ärztenotstand übrigens in unserer Region schon jetzt, dank der hohen Frauenquote und der fehlenden Bereitschaft der Damen, für Notdienste zur Verfügung zustehen."</p>
+<p>Lösung ist ganz einfach: Dienstverpflichtung beider Geschlechter für diese Notdienste.</p>
+<p>Natürlich streng nach Anteil! ;)</p>
+<p>Irgendwie muss man den Damen begreiflich machen, dass mit gleichen Rechten auch gleiche Pflichten einhergehen.</p>
+<p>Gegenüber einer Bevölkerung, die für ihr Studium Unsummen investiert hat und die auch ein Recht darauf hat, dass sich diese Summe amortisiert gemäß ihren Bedürfnissen.</p>
+<p>Gruß, crumar</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364929740709382">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364932942179046" name="1364932942179046"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/pw6">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/pw6" class="author ">pw6</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364932942179046">
+                  02.04.2013 |
+                  22:02</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364928751033937">
+                    <span data-in_reply_to="1364928751033937" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"2. Schleichend WENIGER Studierende"<br /><br />in der Medizin oder generell? Im Moment haben wir infolge des Wegfalls der Wehrpflicht und G8 generell deutlich mehr Studierende und die meisten Fächer stocken temporär die Kapazitäten deutlich auf. Die Medizin m.W. nicht, da reicht es nicht, ein paar ehemalige Kinosäle als zusätzliche Hörsäle anzumieten. In ca. 3 Jahren werden diese Sondereffekte aber vorbei sein, in ca. 5 - 7 Jahren dürfte die Zahl der Anfänger massiv zurückgehen. Nix mit schleichend, das sind eher Turbulenzen. Deswegen sind auch alle Prognosen sehr unsicher, wieviel Nachwuchs in ca. 5 - 10 Jahren auf den Arbeitsmarkt drängen wird.<br /><br />"3. ... gibt es in diesem Bereich längst nicht so viele Stellen für HOCHqualifizierte, wie anscheinend Frauen immer noch glauben."<br /><br />Wegen der Sondereffekte sind alle Prognosen sehr unsicher. Klar ist aber, daß die Nachfrage nach ärztlichen Leistungen in den nächsten 20 - 30 Jahren enorm sein wird, weil dann geburtenstarke und wohlhabende Jahrgänge ihre letzte Jahre verbringen werden. Ich habe mal irgendwo gelesen, daß ein Bundesbürger typischerweise in seinen letzten 3 Jahren genausoviel Krankheitsbehandlungskosten verursacht wie im ganzen Leben davor, das ist durchaus glaubwürdig. Diese Ausgaben sind großenteils Gehälter von Ärzten.<br /><br />Auf der Angebotsseite geht durch jeden work-and-life-balancierten Nachwuchsarzt, der einen alten Malocher ersetzt, Kapazität verloren. Außerdem ist der Arztberuf durch die vielen Dienste für die Erbengeneration derart unattraktiv geworden, daß gar nicht mehr jeder Studienplatz besetzt wird. Ich habe so einen Fall kürzlich erlebt bei jemandem, der schon einen Studienplatz hatte und ihn nach sehr viel Beratung und Nachdenken nicht genommen hat (und stattdessen Lehrer wird).<br /><br />Meine Prognose ist daher: jeder, der jetzt Medizin studiert und in 8 - 10 Jahren fertig ist, wird dann keine Probleme haben, einen Job zu finden.<br /><br />Mit den tollen Karrieren bzw. Gehältern als Chefarzt wird es nicht mehr so gut aussehen, weil die linear mit der geringeren Arbeitszeit fallen und die lukrativen Extraleistungen immer weniger von den Kassen finanziert werden.<br /><br />"4. .... Entweder Linke können wirklich nicht kopfrechnen ..."<br /><br />Für die soziale Gesinnung mancher Leute ist es sogar eine unabdingbare Voraussetzung, nicht rechnen zu können oder zu wollen. Wenn ich Eigentum umverteile, dann nehme ich es ja jemandem weg. Das kann ich damit rechtfertigen, es dem moralisch minderwertigen Klassenfeind (oder dem Patriarchat) wegzunehmen. Oder ich kann nicht rechnen und habe keine Ahnung von wirtschaftlichen Zusammenhängen, dann merke ich nicht, was ich anrichte, und brauche keine Rechtfertigung. Hollande mit seiner 75% Reichensteuer ist ein Beispiel für letzteres (und dafür, daß Dummheit und fehlende Mathematikkenntnisse nicht vor Strafe schützen).</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364932942179046">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364937438605303" name="1364937438605303"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/crumar">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/crumar" class="author ">crumar</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364937438605303">
+                  02.04.2013 |
+                  23:17</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@PW6 </p>
+<p>1. Studenten und Studentinnen der Medizin - zumindest in der Charite.</p>
+<p>Natürlich sind Prognosen für Medizin schwierig, vor allem, wenn man folgendes berücksichtigt:</p>
+<p>"Umstritten ist, ob es überhaupt zu wenig Medizinstudenten gibt oder ob nur zu wenige Absolventen am Ende tatsächlich als Arzt arbeiten: Laut der Kassenärztlichen Vereinigung ergreifen 40 Prozent der Absolventen keinen klassischen Arztberuf."</p>
+<p>http://www.zeit.de/2010/16/C-Aerztemangel/seite-2</p>
+<p>Die Gehälter sind für die Arbeitszeiten und -bedingungen jetzt schon Scheiße, ich hätte auch keinen Bock Arzt zu werden..</p>
+<p>Und wenn alle nur Halbtags arbeiten wollen, dann gibt es natürlich ein Problem, wer zum Beispiel Nacht- und Bereitschaftsdienste überhaupt machen soll oder will.</p>
+<p>Das beschränkt sich nicht auf die hoch Qualifizierten als Fragestellung - die Frage ist generell, wer solche unattraktiven, aber notwendigen Arbeiten erledigen soll. Wenn sich Frauen und Männer mit Kindern prinzipiell verpissen können, dann war es das.</p>
+<p>2. Das ist die Frage: </p>
+<p>a. Sind eigentlich *ärztliche* oder *pflegerische* Tätigkeiten gemeint?</p>
+<p>Hier geht mir ein wenig abhanden, was die Qualifikation des Personals betrifft. Wozu brauchst du einen Arzt für Altenpflege? Wie viele brauchst du wirklich?</p>
+<p>b. Mit dem Zeitrahmen hast du m.E. recht, denn dann wird die Kohorte 64-66 dahinsiechen. </p>
+<p>c. Und danach geht es mit dem Klientel bergab, weil dann die Geburtenraten kontinuierlich sinken, die Anteile der Studierenden aber kontinuierlich steigen.</p>
+<p>d. Mit der "Vermassung" der Akademiker wird generell deren Lohn fallen. Das ist das neue Proletariat - die wissen das nur noch nicht. ;)</p>
+<p>3. Ich bin ja selber Linker und leide an deren politischer Blödheit und Feigheit.</p>
+<p>Die Personalisierung von Besteuerung von "Reichen" lenkt doch nur von der Tatsache ab, dass Unternehmen seit Jahrzehnten keine Steuern mehr zahlen.</p>
+<p>Für diese "Steuerspartricks" werden die Manager fürstlich entlohnt - aus den gestiegenen Profiten der Unternehmen, die keine Steuern mehr zahlen.</p>
+<p>Jetzt die Manager zu bestrafen für ihre Funktion in diesem Spielchen, lenkt nur ab von der Ursache, WARUM sie diese fürstlichen Einkünfte erzielten.</p>
+<p>Das hat doch mit "sozialer Gesinnung" nichts zu tun - es ist feige.</p>
+<p>Und dann möchte ich die linke Partei hier in D mal sehen, die sich traut Grundsteuern NICHT nach dem Einheitswert, sondern a la Schweiz zu erheben. Das würde für viele Häuslebauer und Wohnungsbesitzer aber ein übles Erwachen werden!</p>
+<p>Schönen Gruß, crumar</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364937438605303">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364957602778993" name="1364957602778993"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/hfftl">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/hfftl" class="author ">Hfftl</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364957602778993">
+                  03.04.2013 |
+                  04:53</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em>"Einst haben Männer den weisen Frauen die Heilkunde streitig gemacht."</em></p>
+<p>Wenn ein Artikel gleich mit so einer typischen geschichtsfälschenden feministischen Legende anfängt, verliere ich sofort jede Lust, weiterzulesen. <em> </em></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364957602778993">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364968597582305" name="1364968597582305"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/utzanhalt">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/utzanhalt" class="author ">flosyforever</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364968597582305">
+                  03.04.2013 |
+                  07:56</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich bin nicht prinzipielll für eine Quote.  Was allerdings die Medizin, und da vor allem die Chirurgie betrifft, so findet man hier m.E. tatsächlich patriarchale Strukturen, die endlich aufgebrochen gehören.</p>
+<p>Ich habe 1996 erlebt, wie ein Angehöriger im Dienstzimmmer eines Krankenhauses nachfragte: "Ich bin der Mann von Frau X und möchte mit dem Stationsarzt sprechen." Die anwesende Stationsärztin entgegnete: "Das bin ich . Sie können mit mir sprechen." Darauf der Besucher:"Danke, das ist sehr nett, aber ich möchte gern den Stationsarzt sprechen." Die Ärztin erklärte es noch einmal, es ging aber auch diesmal nicht ein. </p>
+<p>Stationsärztinnen findet man so gut wie gar nicht in der Chirurgie, und offenbar auch nicht einmal in der Phantasie der Menschen. Obwohl sie nachweislich geschickter arbeiten und feinere, sauberere Nähte machen. Habe ich jedenfalls mal irgenwo gelesen.  Die Medizin ist eigentlich genauso Machohaft wie das Baugewerbe, nur eleganter. </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364968597582305">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364970344069156" name="1364970344069156"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/achtermann">
+                
+                  <img src="http://www.freitag.de/autoren/achtermann/@@images/abf0537b-6288-4186-9fe3-a4abd567ec6f.png" alt="Achtermann" title="Achtermann" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/achtermann" class="author ">Achtermann</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364970344069156">
+                  03.04.2013 |
+                  08:25</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364968597582305">
+                    <span data-in_reply_to="1364968597582305" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ich denke nicht, dass deine subjektiven Erfahrungen, die zudem noch 17 Jahre alt sind, derart verallgemeinerbar sind, wie du das machst. Auch deine nächste Aussage, Ärztinnen nähten "<em>nachweislich geschickter</em>" gehört in die selbe Kategorie. Hier berufst du dich auf eine nicht benannte Quelle, die du selbst nicht kennst. Dieses Stammtisch-Meinen solltest du besser für dich behalten. Außerdem tust du den Feministinnen keinen Gefallen, wenn du behauptest, Ärztinnen könnten besser nähen als ihre männlichen Kollegen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364970344069156">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364971830961437" name="1364971830961437"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/crumar">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/crumar" class="author ">crumar</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364971830961437">
+                  03.04.2013 |
+                  08:50</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@Flosyforever</p>
+<p>Soll ich dir mal die "patriarchalen" Strukturen der Chirurgie nennen?</p>
+<p>Überstunden, Arbeit an Wochenenden, an Feiertagen, Nachtarbeit zum Beispiel.</p>
+<p>Das ist die "Struktur".</p>
+<p>Da freuen sich doch die Männer, die diese Hölle für Frauen erfunden haben! Ach nee, Scheiße, das machen ja Männer selber!</p>
+<p>Und zu deinen Sexismus: Glaubst du wirklich, dass es keine VÄTER in diesem Bruf gibt, die gerne ebenfalls ihren Beruf mit der Familie vereinbaren würden?</p>
+<p>Selbst wenn man (was ich begrüßen würde) die Kinderkrippen direkt in die Krankenhäuser platziert, dann wird aus Chirurgie noch immer kein Halbtags-Job.</p>
+<p>Wenn du akut mit Verdacht auf einen Blinddarmdurchbruch ins Krankenhaus kommst, fändest du es dann akzeptabel, wenn keiner da ist, um dich zu operieren?</p>
+<p>Kann ich mir schlecht vorstellen.</p>
+<p>Wann fangen Feministinnen eigentlich mal an genau so strukturell zu denken, wie es die inflationäre Verwendung des Begriffs "Struktur" eigentlich erwarten lässt?</p>
+<p>Natürlich kann man die "Strukturen" verbessern, nur kostet es Geld, wenn statt 2 eben 4 Leute bezahlt werden müssen.</p>
+<p>Oder auf Deutsch: DEINE Krankenkassenbeiträge müssten steigen.</p>
+<p>Die BILLIGEN "Strukturen" existieren doch nur, weil man MÄNNER besser ausbeuten kann.</p>
+<p>Mit der Bitte um schnelle Abgewühnung: Du erlebst einen (!) ANGEHÖRIGEN, der ein Problem mit Frauen in der Medizin hat und schiebst das dem BERUFSSTAND zu?</p>
+<p>Das ist noch nicht mal anekdotisch tauglich, geschweige denn ein Beweis für irgendeine "Theorie". Zu solchen Sätzen, wie "habe ich mal irgendwo gelesen" möchte ich mich gar nicht mehr äussern.</p>
+<p>Lass bitte eine solche Art der Argumentation.</p>
+<p>Das nervt.</p>
+<p>Gruß, C.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364971830961437">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364976515401163" name="1364976515401163"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/abghoul">
+                
+                  <img src="http://www.freitag.de/autoren/abghoul/@@images/f7e19f27-3cc5-4b59-a94d-06f4caf60e7e.jpeg" alt="abghoul" title="abghoul" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/abghoul" class="author ">abghoul</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364976515401163">
+                  03.04.2013 |
+                  10:08</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364971830961437">
+                    <span data-in_reply_to="1364971830961437" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wohl wahr, die Kohle ist rar geworden im Gesundheitsbetrieb, oben ist es eher die Zeit und unten halt das Geld. Und wer will schon für diese Arbeit mehr auf den Tisch legen?</p>
+<p>Wofür steht der Stab des Asklepios? Wieviel Privatisierung kann die Medizin noch ertragen bevor sie endgültig zur Industrie verkommt.</p>
+<p>Die Quoten stärken doch nur die industrielle Vorstellung dieser Leistung aus Verantwortung. Eigentlich eine große und wichtige Sache die Medizin, aber das wird schnell vergessen wennn sie gerade nicht gebraucht wird.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364976515401163">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364985943931019" name="1364985943931019"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/crumar">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/crumar" class="author ">crumar</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364985943931019">
+                  03.04.2013 |
+                  12:45</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@Abghoul</p>
+<p>Wer hat denn die Zusatzbeiträge von 0,9% für die Versicherten (=Ersparnis für Arbeitgeber) eingeführt und wann war das doch gleich? Oh, am 1. Juli 2005 war das, da denke ich doch mal scharf nach, wer da an der Regierung war...</p>
+<p>Oh, rot-grün war das!</p>
+<p>Na so was. Die Kohle ist nicht rar geworden, die wurde politisch rar *gemacht*.</p>
+<p>Dieses unsoziale Experiment mit der Gesundheit der Bevölkerung hat natürlich ein Mann zu verantworten.</p>
+<p>Er heisst Ulla Schmidt. ;)</p>
+<p>Die Quoten werden nichts ändern - es wird halt ein paar Leitungsfiguren in weiblich geben und politisch ändern werden sie nichts, weil genau diese Bagage die jetzigen Zustände verbrochen hat. Was natürlich keine von den Beteiligten wahr haben will und die Presse tut natürlich nichts, um sie daran zu erinnern..</p>
+<p>Statt "old boys network" (Pfui!) gibt es dann halt "old girls network" (Toll!) - wen interessiert das, wer für sich die Pfründe organisiert? Sind die weiblichen Pfründe besser, weil sie weiblich sind? Nur in der Einbildung der davon profitierenden.</p>
+<p>Das Gesundheitssystem ist schon jetzt eine Industrie - Privatisierung hin oder her. Gesundheit ist eigentlich keine Ware, weil man sie nicht durch eine andere Ware substituieren kann.</p>
+<p>Aber das erzähl mal Leuten, die 10-12% Rendite erwarten.</p>
+<p>Gruß, C.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch#1364985943931019">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/ulrike-baureithel">Ulrike Baureithel</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/ulrike-baureithel">
+          <img src="http://www.freitag.de/autoren/ulrike-baureithel/@@images/d894417d-a579-4fbc-a957-efacb8613115.jpeg" alt="Ulrike Baureithel" title="Ulrike Baureithel" height="65" width="65" /></a>
+        
+      </div>
+      <div class="box">
+        Autorin und Vielfachbewegte in Berlin
+      </div>
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">06.02.2009</span>
+      </div>
+      <div class="last_login">
+        Letzter Login:
+        <span class="detail">01.04.2013</span>
+      </div>
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/ulrike-baureithel">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/ulrike-baureithel">218</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/ulrike-baureithel/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/ulrike-baureithel/@@kommentare">308</a>
+      </div>
+      
+      <div class="connections-writers">
+        <a title="Schreiber" href="http://www.freitag.de/autoren/ulrike-baureithel/@@schreiber">Schreiber</a>:
+        <a class="detail" title="Schreiber" href="http://www.freitag.de/autoren/ulrike-baureithel/@@schreiber">1</a>
+      </div>
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/ulrike-baureithel/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/ulrike-baureithel/@@leser">13</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/ulrike-baureithel/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Ulrike Baureithel</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/ulrike-baureithel/huepfbaelle-fuer-die-kleinen">
+              <span class="catchword">Gesundheit</span>
+              Hüpfbälle für die Kleinen </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/ulrike-baureithel/huepfbaelle-fuer-die-kleinen">
+              <span class="comment-count" title=" 6 mal kommentiert">6</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/ulrike-baureithel/das-schweigen-der-offiziere">
+              <span class="catchword">Sexuelle Gewalt</span>
+              Das Schweigen der Offiziere</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/ulrike-baureithel/das-schweigen-der-offiziere">
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/ulrike-baureithel/toedliches-nichtwissenwollen">
+              <span class="catchword">Krankenmorde</span>
+              Tödliches Nichtwissenwollen </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/ulrike-baureithel/toedliches-nichtwissenwollen">
+              <span class="comment-count" title=" 24 mal kommentiert">24</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1737&amp;ord=1364997426" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1737&amp;ord=1364997426" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1737&amp;ord=1364997426" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="catchword">Alltagskommentar</span>
+              Sunderlands Eigentor</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor">
+              <span class="author group-syndication">Matthew Goodwin</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="catchword">Promenadenkunst</span>
+              Auf der Spur der Steine </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine">
+              <span class="author group-authors">Kathrin Schrader</span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="catchword">Frankreich</span>
+              „Kompetenzen bedeuten für mich Würde“ </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde">
+              <span class="author group-authors">Maxi Leinkauf</span>
+              
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1738&amp;ord=1364997426" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1738&amp;ord=1364997426" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1738&amp;ord=1364997426" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Alltag" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Alltag";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Alltag",
+    img: "http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch/@@images/ef14b0fb-b859-446a-8d16-862d051d1acf.jpeg",
+    objectid: "e363479f3b8e4347918b3ad14363295d",
+    title: "Streng feudalistisch",
+    url: "http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch",
+    text: "Die Mehrheit der Studierenden im Fach Medizin ist weiblich, trotzdem sitzen kaum Frauen in medizinischen Führungspositionen. Eine neue Kampagne soll dies ändern",
+    created_at: "1364799600"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

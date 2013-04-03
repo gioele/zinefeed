@@ -1,0 +1,381 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:07:02 GMT
+Content-Type: text/xml; charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Expires: Sun, 06 Apr 2003 13:04:12 GMT
+ETag: "||3360306|de|0|freitag_util_layout"
+X-Cache-Rule: plone.content.feed
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 23206
+Accept-Ranges: bytes
+X-Varnish: 557612822 557607823
+Via: 1.1 varnish
+X-Varnish-Age: 170
+Age: 0
+
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  
+    <channel>
+      <title>der Freitag</title>
+      <link>http://www.freitag.de</link>
+      <pubDate>2012-06-15T20:21:02Z</pubDate>
+      <generator>Plone</generator>
+      <description>Das Meinungsmedium</description>
+      <item>
+        <title>1963 | Das Kuckucksei </title>
+        <link>http://www.freitag.de/autoren/der-freitag/das-kuckucksei</link>
+        <description>Vor 50 Jahren geht das ZDF auf Sendung. Zuvor ist Kanzler Adenauer damit gescheitert, ein Staatsfernsehen zu gründen, das der öffentlich-rechtlichen ARD Paroli bietet</description>
+        <pubDate>2013-04-03T07:00:00Z</pubDate>
+        <dc:creator>Georg Fülberth</dc:creator>
+      </item>
+      <item>
+        <title>Alltagskommentar | Sunderlands Eigentor</title>
+        <link>http://www.freitag.de/autoren/the-guardian/sunderlands-eigentor</link>
+        <description>Der englische Fußballclub FC Sunderland hat den italienischen Faschisten Paolo Di Canio als Trainer verpflichtet. Der möchte nun lieber nicht mehr über Politik sprechen</description>
+        <pubDate>2013-04-03T07:00:00Z</pubDate>
+        <dc:creator>Matthew Goodwin</dc:creator>
+      </item>
+      <item>
+        <title>Promenadenkunst | Auf der Spur der Steine </title>
+        <link>http://www.freitag.de/autoren/der-freitag/auf-der-spur-der-steine</link>
+        <description>Ein Künstler untersucht im Ost-Berliner Plattenbauviertel Marzahn Beton und Kiesel mit geologischen Methoden. Warum macht er das?</description>
+        <pubDate>2013-04-02T23:00:00Z</pubDate>
+        <dc:creator>Kathrin Schrader</dc:creator>
+      </item>
+      <item>
+        <title>Frankreich | „Kompetenzen bedeuten für mich Würde“ </title>
+        <link>http://www.freitag.de/autoren/maxi-leinkauf/kompetenzen-bedeuten-fuer-mich-wuerde</link>
+        <description>Die Schriftstellerin Saphia Azzeddine weiß, dass sie es leichter hatte als andere Migranten. Trotzdem wird auch sie mit Vorurteilen konfrontiert</description>
+        <pubDate>2013-04-02T23:00:00Z</pubDate>
+        <dc:creator>Maxi Leinkauf</dc:creator>
+      </item>
+      <item>
+        <title>Mitgehört | "Das ist eine Frage des Stils"</title>
+        <link>http://www.freitag.de/autoren/gina-bucher/das-ist-eine-frage-des-stils</link>
+        <description>In Café, Bus oder Bahn: Das Leben hat die besten Dialoge zu bieten. Immer montags gibt es die Ausbeute der vergangenen Woche. Heute: Geschlechterunterschiede</description>
+        <pubDate>2013-04-02T09:41:00Z</pubDate>
+        <dc:creator>Gina Bucher</dc:creator>
+      </item>
+      <item>
+        <title>Finanzkrise | Der Rubel rollt</title>
+        <link>http://www.freitag.de/autoren/der-freitag/der-rubel-rollt</link>
+        <description>Bislang war die Regulierung der Finanzmärkte bloße Makulatur – eine wirkliche Neuordnung steht noch aus</description>
+        <pubDate>2013-04-02T07:00:00Z</pubDate>
+        <dc:creator>Dierk Hirschel</dc:creator>
+      </item>
+      <item>
+        <title>Umbrüche  | Die Zukunft der Proteste </title>
+        <link>http://www.freitag.de/autoren/der-freitag/die-zukunft-der-proteste</link>
+        <description>Was wird aus Occupy und Indignados? Ein Interviewband zum globalen Aktivismus versammelt Perspektiven zeitgenössischer Denker </description>
+        <pubDate>2013-04-02T07:00:00Z</pubDate>
+        <dc:creator>Florian Schmid</dc:creator>
+      </item>
+      <item>
+        <title>Tatort | Wir wären auch lieber im Bett</title>
+        <link>http://www.freitag.de/autoren/mdell/wir-waeren-auch-lieber-im-bett</link>
+        <description>Higher Level, aber nicht unproblematisch: In "Macht und Ohnmacht" kehrt Carlo für ein Gastspiel nach München zurück, wo zwischen den ganz großen Fragen ermittelt wird </description>
+        <pubDate>2013-04-01T19:45:00Z</pubDate>
+        <dc:creator>Matthias Dell</dc:creator>
+      </item>
+      <item>
+        <title>Im Gespräch | Mutter, Täter, Kamerad </title>
+        <link>http://www.freitag.de/autoren/mdell/mutter-taeter-kamerad</link>
+        <description>Der Medienkünstler Bjørn Melhus über die Arbeit des Kinos am Trauma des Krieges, Hubschrauberklänge und Posttraumatische Belastungsstörungen im Fernsehen</description>
+        <pubDate>2013-04-01T07:00:00Z</pubDate>
+        <dc:creator>Matthias Dell</dc:creator>
+      </item>
+      <item>
+        <title>Rassismus | Der Geruch der Armut  </title>
+        <link>http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut</link>
+        <description>Roma in Osteuropa werden als Volk wahrgenommen, als Minderheit diskriminiert und geächtet. Minderheitenpolitik allein wird ihren nicht helfen, so gut die auch gemeint ist</description>
+        <pubDate>2013-04-01T07:00:00Z</pubDate>
+        <dc:creator>Norbert Mappes-Niediek</dc:creator>
+      </item>
+      <item>
+        <title>Frauensache | Streng feudalistisch</title>
+        <link>http://www.freitag.de/autoren/ulrike-baureithel/streng-feudalistisch</link>
+        <description>Die Mehrheit der Studierenden im Fach Medizin ist weiblich, trotzdem sitzen kaum Frauen in medizinischen Führungspositionen. Eine neue Kampagne soll dies ändern</description>
+        <pubDate>2013-04-01T07:00:00Z</pubDate>
+        <dc:creator>Ulrike Baureithel</dc:creator>
+      </item>
+      <item>
+        <title>Strategie | Mit Peer wird’s schwer </title>
+        <link>http://www.freitag.de/autoren/der-freitag/mit-peer-wird2019s-schwer</link>
+        <description>Soziale Gerechtigkeit ist für die SPD das zentrale Wahlkampfthema. Schade nur, dass ihr Spitzenkandidat Peer Steinbrück ganz anders darüber denkt</description>
+        <pubDate>2013-03-31T07:00:00Z</pubDate>
+        <dc:creator>Christoph Butterwegge</dc:creator>
+      </item>
+      <item>
+        <title>Der Koch | Soll man bestellen, was man nicht kennt?</title>
+        <link>http://www.freitag.de/autoren/jkabisch/soll-man-bestellen-was-man-nicht-kennt</link>
+        <description>Unbekanntes auf der Speisekarte zieht unseren Koch magisch an – sehr zum Vergnügen seiner Mitmenschen</description>
+        <pubDate>2013-03-30T08:00:00Z</pubDate>
+        <dc:creator>Jörn Kabisch</dc:creator>
+      </item>
+      <item>
+        <title>Offener Brief | Lieber Harald Welzer!  </title>
+        <link>http://www.freitag.de/autoren/franz-viohl/lieber-harald-welzer</link>
+        <description>Der Sozialpsychologe Harald Welzer ruft in seinem neuen Buch „Selbst denken“ zum Widerstand auf und wirbt für eine Strategie kleiner Schritte. Eine Antwort</description>
+        <pubDate>2013-03-30T08:00:00Z</pubDate>
+        <dc:creator>Franz Viohl</dc:creator>
+      </item>
+      <item>
+        <title>Warteschleife | Verraten  und verkauft </title>
+        <link>http://www.freitag.de/autoren/der-freitag/verraten-und-verkauft-2</link>
+        <description>Die Menschen in Zypern schwanken mehrheitlich zwischen Zukunftsangst und der Hoffnung, dem Schicksal der Griechen zu entkommen, auch wenn alle spüren, Verlierer zu sein</description>
+        <pubDate>2013-03-30T08:00:00Z</pubDate>
+        <dc:creator>Helena Smith</dc:creator>
+      </item>
+      <item>
+        <title>Kollateralschaden | Geschäftsmodell Schneeballsystem</title>
+        <link>http://www.freitag.de/autoren/lutz-herden/geschaeftsmodell-schneeballsystem</link>
+        <description>Zypern zeigt, systemrelevant in der Eurozone sind nicht nur Banken. Systemrelevant ist auch die Furcht des Normalbürgers um die Sicherheit seines Sparguthabens</description>
+        <pubDate>2013-03-29T10:40:00Z</pubDate>
+        <dc:creator>Lutz Herden</dc:creator>
+      </item>
+      <item>
+        <title>Gesundheit | Hüpfbälle für die Kleinen </title>
+        <link>http://www.freitag.de/autoren/ulrike-baureithel/huepfbaelle-fuer-die-kleinen</link>
+        <description>Seit Jahren wird diskutiert, wie man die Leute dazu bringt, gesünder zu leben, um Kosten im Gesundheitssektor zu sparen. Nun gibt es einen Gesetzentwurf – er ist flau</description>
+        <pubDate>2013-03-29T08:00:00Z</pubDate>
+        <dc:creator>Ulrike Baureithel</dc:creator>
+      </item>
+      <item>
+        <title>Alltagskommentar | So einfach geht das</title>
+        <link>http://www.freitag.de/autoren/katharina-schmitz/so-einfach-geht-das</link>
+        <description>Geschlechterverhältnisse, Säkularisierung, Tierschutz - an Ostern kommen die ganz großen Themen unserer Zeit auf den Tisch. Wenn es nämlich ans Eier ausblasen geht</description>
+        <pubDate>2013-03-29T08:00:00Z</pubDate>
+        <dc:creator>Katharina Schmitz</dc:creator>
+      </item>
+      <item>
+        <title>Fernsehen | Sascha Hehn als Problem</title>
+        <link>http://www.freitag.de/autoren/mdell/sascha-hehn-als-problem</link>
+        <description>Auch wenn die Miniserie "Lerchenberg" nicht zu Unrecht gelobt wird – der Versuch, ironisch bis sarkastisch mit sich selbst umzugehen, gelingt dem ZDF nicht richtig</description>
+        <pubDate>2013-03-28T08:00:00Z</pubDate>
+        <dc:creator>Matthias Dell</dc:creator>
+      </item>
+      <item>
+        <title>Dominanz | Im Kostüm des Antikapitalisten </title>
+        <link>http://www.freitag.de/autoren/der-freitag/im-kostuem-des-antikapitalisten</link>
+        <description>Mit dem Zypern-Desaster hat sich Finanzminister Wolfgang Schäuble lächerlich gemacht. Zu lachen hat Europa leider trotzdem nichts</description>
+        <pubDate>2013-03-28T08:00:00Z</pubDate>
+        <dc:creator>Stephan Hebel</dc:creator>
+      </item>
+      <item>
+        <title>Ideen | Radikal und sinnlich </title>
+        <link>http://www.freitag.de/autoren/michael-jaeger/radikal-und-sinnlich</link>
+        <description>Als „neudeutsch-preußischer Reichsmusikant“ wurde Richard Wagner von Karl Marx verspottet. Und doch teilten die beiden mehr als nur 70 Jahre gemeinsame Lebenszeit</description>
+        <pubDate>2013-03-28T08:00:00Z</pubDate>
+        <dc:creator>Michael Jäger</dc:creator>
+      </item>
+      <item>
+        <title>Türkei | Erdogan bleibt wortkarg </title>
+        <link>http://www.freitag.de/autoren/der-freitag/erdogan-bleibt-wortkarg</link>
+        <description>Das Angebot von Abdullah Öcalan zur Waffenruhe der kurdischen Milizionäre sollte von der Regierung in Ankara mit einer Gegenleistung beantwortet werden   </description>
+        <pubDate>2013-03-28T08:00:00Z</pubDate>
+        <dc:creator>Gülcin Wilhelm </dc:creator>
+      </item>
+      <item>
+        <title>Nostalgie | Nur mit Sicherheitsabstand </title>
+        <link>http://www.freitag.de/autoren/der-freitag/nur-mit-sicherheitsabstand</link>
+        <description>Beim „Diary Slam“ lesen Leute um die 30 aus den Tagebüchern ihrer Jugendzeit vor. Dabei geht es um mehr, als nur ums kollektive Lachen über einstigen Teenie-Pathos</description>
+        <pubDate>2013-03-28T08:00:00Z</pubDate>
+        <dc:creator>Irene Habich</dc:creator>
+      </item>
+      <item>
+        <title>Porträt | „Ich bin zu weich für den Job“ </title>
+        <link>http://www.freitag.de/autoren/jaugstein/ich-bin-zu-weich-fuer-den-job-der-politikerin</link>
+        <description>Marina Weisband ist lieber Philosophin als Politikerin. Sie glaubt nicht an den Mythos ideologiefreier Zeiten, sondern an Beteiligung</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Jakob Augstein</dc:creator>
+      </item>
+      <item>
+        <title>Sexuelle Gewalt | Das Schweigen der Offiziere</title>
+        <link>http://www.freitag.de/autoren/ulrike-baureithel/das-schweigen-der-offiziere</link>
+        <description>In den USA gibt es neuerdings eine Debatte über die hohe Anzahl von Vergewaltigungen innerhalb der Armee. Wer sich wehrt, wird verunglimpft und der Lüge bezichtigt</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Ulrike Baureithel</dc:creator>
+      </item>
+      <item>
+        <title>Kampagnenkritik | Schaffe, schaffe, Kreuzle mache</title>
+        <link>http://www.freitag.de/autoren/der-freitag/schaffe-schaffe-kreuzle-mache</link>
+        <description>Die deutsche Bahn versucht mal wieder, mit Fahrgast-naher Werbung ihr Image aufzupolieren. Diesmal sollen die Kunden durch eine Mundart-Kampagne geködert werden</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Franz Viohl</dc:creator>
+      </item>
+      <item>
+        <title>A–Z Verweigerer | Lieber nicht</title>
+        <link>http://www.freitag.de/autoren/der-freitag/lieber-nicht</link>
+        <description>Starschriftsteller Philip Roth, der am 19. März 80 Jahre alt wird, hat angekündigt, nie mehr zu schreiben. Nicht der einzige Kompetenzverweigerer. Das Lexikon der Woche</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Der Freitag</dc:creator>
+      </item>
+      <item>
+        <title>Lyrik | Eine Unterart von Gerümpel </title>
+        <link>http://www.freitag.de/autoren/der-freitag/eine-unterart-von-geruempel</link>
+        <description>Steffen Popp wird zu Recht hoch gelobt: Sein neuer Band fördert das fröhliche Verirren in der Sprache</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Beate Tröger</dc:creator>
+      </item>
+      <item>
+        <title>Porträt | About Schmidt </title>
+        <link>http://www.freitag.de/autoren/katharina-schmitz/about-schmidt</link>
+        <description>„Schneckenmühle“ ist ein Roman über Kindheit in der DDR, aber mit Ostalgie soll man Jochen Schmidt nicht kommen</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Katharina Schmitz</dc:creator>
+      </item>
+      <item>
+        <title>Buchmarkt | Krise, welche Krise?</title>
+        <link>http://www.freitag.de/autoren/jana-hensel/krise-welche-krise-die-verleger-von-morgen-haben-keine-angst-vor-der-zukunft</link>
+        <description>Die Verleger von  morgen haben keine Angst vor der Zukunft . Über eine neue Generation von Büchermachern</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Jana Hensel</dc:creator>
+      </item>
+      <item>
+        <title>Literatur | Wie  politisch seid  ihr? </title>
+        <link>http://www.freitag.de/autoren/der-freitag/wie-politisch-seid-ihr</link>
+        <description>Große Begriffe wie Revolte, Markt und Kapitalismus drängen zurück in die Romane. Viele Autoren suchen längst nach der richtigen Form für unsere krisenhafte Gegenwart</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Ekkehard Knörer</dc:creator>
+      </item>
+      <item>
+        <title>Aufarbeitung | Wer hat mich gemacht? </title>
+        <link>http://www.freitag.de/autoren/der-freitag/wer-hat-mich-gemacht</link>
+        <description>„Was wir erben“ von Björn Bicker ist weiß Gott nicht der erste Roman einer Vatersuche. Aber er kommt ganz ohne Klischees aus</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Fokke Joel</dc:creator>
+      </item>
+      <item>
+        <title>Konkurrenz | Das ist doch wohl das Mindeste! </title>
+        <link>http://www.freitag.de/autoren/der-freitag/das-ist-doch-wohl-das-mindeste</link>
+        <description>Lohnuntergrenzen sind längst europäischer Standard. Dem sollte sich auch Deutschland nicht länger verschließen </description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Michael Krätke </dc:creator>
+      </item>
+      <item>
+        <title>Aufrüstung | Pjöngjang darf, Teheran darf nicht </title>
+        <link>http://www.freitag.de/autoren/der-freitag/pjoengjang-darf-teheran-darf-nicht</link>
+        <description>Sowohl im Iran als auch in Nordkorea gibt es Atomprogramme. Warum aber wird das eine Land dabei härter sanktioniert als das andere?</description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Jochen Hippler</dc:creator>
+      </item>
+      <item>
+        <title>USA | Ein Mann fürs ganz Grobe </title>
+        <link>http://www.freitag.de/autoren/the-guardian/ein-mann-fuers-ganz-grobe</link>
+        <description>Als vor zehn Jahren die Besatzung im Irak beginnt, entstehen Sondereinheiten. Um die kümmert sich auch Oberst Jim Steele, der sich als El-Salvador-Veteran empfiehlt  </description>
+        <pubDate>2013-03-28T00:00:00Z</pubDate>
+        <dc:creator>Mona Mahmood, Maggie O’Kane</dc:creator>
+      </item>
+      <item>
+        <title>Genderkolumne  | Wer singt?</title>
+        <link>http://www.freitag.de/autoren/liz_weidinger/wer-singt</link>
+        <description>Wie fehlende Bilder und sinnlich schwelgende Texte zwei heterosexuelle Musiker zu einem Frauenduo werden lassen, zeigt das Slow-Motion-Popduo Rhye</description>
+        <pubDate>2013-03-27T15:45:00Z</pubDate>
+        <dc:creator>liz weidinger</dc:creator>
+      </item>
+      <item>
+        <title>East Side Gallery | Fakten schaffen statt Gespräche führen</title>
+        <link>http://www.freitag.de/autoren/hennikw/fakten-schaffen-statt-gespraeche-fuehren</link>
+        <description>Am frühen Mittwochmorgen wurde der Abriss von weiteren Mauerteilen unerwartet fortgesetzt. Der Protest der Bürger wird damit bewusst umgangen</description>
+        <pubDate>2013-03-27T13:59:00Z</pubDate>
+        <dc:creator>Henni Kristin Wiedemann</dc:creator>
+      </item>
+      <item>
+        <title>Ton &amp; Text | Der Preis ist lauwarm</title>
+        <link>http://www.freitag.de/autoren/joerg-augsburg/der-preis-ist-lauwarm</link>
+        <description>Schlimmer geht immer! Das popkulturelle Grauen der Echo-Awards ist blöderweise praktisch alternativlos</description>
+        <pubDate>2013-03-27T11:12:14Z</pubDate>
+        <dc:creator>Jörg Augsburg</dc:creator>
+      </item>
+      <item>
+        <title>Doppelmoral | Schweigen ist Gold </title>
+        <link>http://www.freitag.de/autoren/jana-hensel/schweigen-ist-gold</link>
+        <description>Kaum jemand glaubt noch an Treue. Aber nur wenige können über ihre Affären reden. Warum ist das so, fragen sich Andrea Roedig und Jana Hensel in einer Art Textgespräch</description>
+        <pubDate>2013-03-27T08:56:00Z</pubDate>
+        <dc:creator>Andrea Roedig/Jana Hensel</dc:creator>
+      </item>
+      <item>
+        <title>Kino | Händler der vier Jahreszeiten </title>
+        <link>http://www.freitag.de/autoren/der-freitag/haendler-der-vier-jahreszeiten</link>
+        <description>Ohne Worte und mit etwas Abstand führt Hannes Lang in dem Dokumentarfilm „Peak“ vor Augen, was es heißt, die Alpen zu betreiben</description>
+        <pubDate>2013-03-27T08:44:28Z</pubDate>
+        <dc:creator>Clemens Niedenthal</dc:creator>
+      </item>
+      <item>
+        <title>Zypern | Krieg und Frieden </title>
+        <link>http://www.freitag.de/autoren/jaugstein/krieg-und-frieden</link>
+        <description>Die Erfahrungen der Deutschen im 20. Jahrhundert sind offenbar nichts mehr wert – sonst würde sich die Politik in der Schuldenkrise jetzt sicher anders verhalten</description>
+        <pubDate>2013-03-27T08:27:35Z</pubDate>
+        <dc:creator>Jakob Augstein</dc:creator>
+      </item>
+      <item>
+        <title>1933 | Alles Lüge </title>
+        <link>http://www.freitag.de/autoren/der-freitag/alles-luege</link>
+        <description>Mit dem Ermächtigungsgesetz wird Adolf Hitler nicht nur durch die NSDAP, sondern auch durch die demokratischen Parteien der Mitte mit diktatorischer Macht versehen</description>
+        <pubDate>2013-03-27T08:00:00Z</pubDate>
+        <dc:creator>Wolfgang Wippermann</dc:creator>
+      </item>
+      <item>
+        <title>Wahlprogramm | Auf halber Strecke </title>
+        <link>http://www.freitag.de/autoren/der-freitag/auf-halber-strecke</link>
+        <description>Die SPD inszeniert sich als Alternative zu Schwarz-Gelb. Das ist wenig glaubwürdig, solange sie nicht klar mit der Agenda 2010 bricht</description>
+        <pubDate>2013-03-27T08:00:00Z</pubDate>
+        <dc:creator>Stephan Hebel</dc:creator>
+      </item>
+      <item>
+        <title>Umbau | Ein Mann, ein Tort </title>
+        <link>http://www.freitag.de/autoren/der-freitag/ein-mann-ein-tort</link>
+        <description>Schröders Agenda 2010 stabilisierte die Wirtschaft – und vertiefte die soziale Spaltung der Gesellschaft</description>
+        <pubDate>2013-03-27T00:00:00Z</pubDate>
+        <dc:creator>Christoph Butterwegge</dc:creator>
+      </item>
+      <item>
+        <title>Maerzmusik 2013 | Nächte in arabischen Gärten</title>
+        <link>http://www.freitag.de/autoren/michael-jaeger/naechte-in-arabischen-gaerten</link>
+        <description>Vom Berliner Festival für aktuelle Musik - sechster und letzter Bericht</description>
+        <pubDate>2013-03-26T14:13:31Z</pubDate>
+        <dc:creator>Michael Jäger</dc:creator>
+      </item>
+      <item>
+        <title>Wetter | Frostiger Frühling dank Erderwärmung</title>
+        <link>http://www.freitag.de/autoren/the-guardian/frostiger-fruehling-dank-erderwaermung</link>
+        <description>Der eisige März, der Deutschland fest im Griff hat, ist ebenso eine Folge des Klimawandels wie andere, stetig zunehmende Wetterextreme</description>
+        <pubDate>2013-03-26T13:00:00Z</pubDate>
+        <dc:creator>John Vidal</dc:creator>
+      </item>
+      <item>
+        <title>Netzfreiheit | MDMA shoppen</title>
+        <link>http://www.freitag.de/autoren/the-guardian/mdma-shoppen</link>
+        <description>Die Webseite "Silk Road" ist ein Marktumschlagplatz für jede Art von Drogen. Wie kann es sein, dass dort trotz des Wissens der Behörden Millionen umgesetzt werden können?</description>
+        <pubDate>2013-03-26T11:47:00Z</pubDate>
+        <dc:creator>James Ball</dc:creator>
+      </item>
+      <item>
+        <title>Porträt | Professor fürs Wutbürgerliche </title>
+        <link>http://www.freitag.de/autoren/der-freitag/professor-fuers-wutbuergerliche</link>
+        <description>Bernd Lucke will mit seiner neu gegründeten Anti-Euro-Partei 
+„Alternative für Deutschland“ in den Bundestag einziehen. Ist er der deutsche Haider?</description>
+        <pubDate>2013-03-26T10:50:00Z</pubDate>
+        <dc:creator>Robert Misik </dc:creator>
+      </item>
+      <item>
+        <title>Widerstand | Jenseits der gläsernen Decke </title>
+        <link>http://www.freitag.de/autoren/the-guardian/jenseits-der-glaesernen-decke</link>
+        <description>Facebook-Managerin Sheryl Sandberg will Frauen Karrieretipps geben. Warum wird sie dafür so angefeindet?</description>
+        <pubDate>2013-03-26T08:00:00Z</pubDate>
+        <dc:creator>Hadley Freeman</dc:creator>
+      </item>
+      <item>
+        <title>Mitgehört | "Habt ihr immer noch Schnee?"</title>
+        <link>http://www.freitag.de/autoren/gina-bucher/habt-ihr-immer-noch-schnee</link>
+        <description>In Café, Bus oder Bahn: Das Leben hat die besten Dialoge zu bieten. Immer montags gibt es die Ausbeute der vergangenen Woche. Heute: Nord-Süd-Gefälle</description>
+        <pubDate>2013-03-25T13:55:54Z</pubDate>
+        <dc:creator>Gina Bucher</dc:creator>
+      </item>
+    </channel>
+  
+</rss>

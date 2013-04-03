@@ -1,0 +1,1779 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:57:05 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:53:03 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 113263
+Accept-Ranges: bytes
+X-Varnish: 557701701 557694525
+Via: 1.1 varnish
+X-Varnish-Age: 242
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Rassismus ǀ Der Geruch der Armut   — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Roma in Osteuropa werden als Volk wahrgenommen, als Minderheit diskriminiert und geächtet. Minderheitenpolitik allein wird ihren nicht helfen, so gut die auch gemeint ist" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364997182" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364997182" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364997182" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364997182" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364997182" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364997182" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364997182" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=ausland">ausland</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=roma">roma</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=slowakei">slowakei</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=rumänien">rumänien</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=diskriminierung">diskriminierung</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p>Norbert Mappes-Niediek hat zuletzt für den Freitag über Folgen der Eurokrise auf dem Balkan geschrieben</p>
+<p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 13/13</strong> vom 27.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Norbert Mappes-Niediek</span>
+        <div class="additional-info">
+          <span class="date">01.04.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 29 mal kommentiert">29</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Der Geruch der Armut  </h1>
+
+        <p class="description">
+          <span class="catchword">Rassismus</span>
+          Roma in Osteuropa werden als Volk wahrgenommen, als Minderheit diskriminiert und geächtet. Minderheitenpolitik allein wird ihren nicht helfen, so gut die auch gemeint ist
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut/@@images/415db1a2-b08b-47aa-8034-c5390534882c.jpeg" alt="Der Geruch der Armut  " title="Der Geruch der Armut  " height="282" width="445" /><p class="credit">Foto: Andrei Pungovschi / AFP</p>
+          </div>
+        
+
+        <div class="text"><p>Zu jemandem „du stinkst“ zu sagen, das ist eine der schlimmsten persönlichsten Verletzungen überhaupt. Wenn ein sechsjähriges Kind so etwas von einer Lehrerin hört, dürfte das reichen, ihm die Lust am Schulgang dauerhaft auszutreiben. „Wissen Sie“, sagte mir eine slowakische Pädagogin einmal, „mir persönlich würde es ja nichts ausmachen, Roma-Kinder zu unterrichten. Aber mein Mann, der hat so eine feine Nase.“ Ein Satz von wohl überlegter Gehässigkeit; wer kleine Kinder so gemein beleidigt, wird auch im Klassenzimmer Mittel und Wege finden, die nicht genehmen Schüler vor den anderen bloßzustellen und sie so wegzuekeln. Mobbing ist tatsächlich einer der wichtigsten Gründe für die viel beklagte Schul-Abstinenz von Roma-Kindern in manchen Ländern Osteuropas.</p>
+<p>Dass die Geschichte eine andere Seite haben könnte, habe ich dann in der Müllsiedlung von Pata-Rat bei Cluj in Rumänien gelernt. Wir sprachen allgemein über Schulbesuch, und ich berichtete, noch voller Empörung, von den beleidigenden Bemerkungen der Lehrerin in der Slowakei. Elena, meine Gesprächspartnerin, schien meine Empörung nicht spontan zu teilen und schwieg erst einmal. Nach einer Weile sagte sie dann: „Wir kriegen hier in unseren Hütten die Kleider nicht trocken, besonders im Winter nicht. Waschen können wir sie am Brunnen, aber trocknen können wir sie nicht. Für die Frauen hier ist das überhaupt das Schlimmste. Und wenn ich den Kindern feuchte Sachen anziehe, dann werden sie krank.“ Die Leute von Pata-Rat haben immerhin Zugang zu einer Kleiderkammer, wo abgetragene Sachen – immer muffig und manchmal nur Lumpen – verteilt werden, und können sich dort immer wieder neu einkleiden, wenn sie schon nicht waschen können. Aber die in den Hütten am Rande der Dörfer haben keinen Zugang zu derartiger Hilfe.</p>
+<p>Roma sind – nicht nur in Osteuropa – zwei Übeln zugleich ausgesetzt: der Verachtung ihrer Mitmenschen und einer überkommenen Armut. Was gegen das eine Übel hilft, hilft nicht nur nicht gegen das andere, sondern befördert es zuweilen sogar. Wer die Roma gegen die Verachtung in Schutz nimmt, wird sagen: Geruch ist eine Sinneswahrnehmung, die man nicht messen kann. Also hört auf, über etwas zu reden, das ihr nicht belegen könnt! An dem Muster orientieren sich die Gutwilligen, wenn sie die Randgruppe gegen die Hetze radikaler Rechter verteidigen. Woher wollt ihr wissen, dass Roma oft stehlen? – fragen wir zum Beispiel, wenn uns jemand mit dem Vorurteil konfrontiert. Keine Kriminalstatistik weist ethnische Gruppen gesondert aus! Roma – so wissen wir – sind nicht besser und nicht schlechter als andere, sie sind Menschen wie alle anderen auch.</p>
+<h2>Romantische Phase</h2>
+<p>In diesem Satz, so richtig er ist, sind allerdings die Bedingungen ausgeklammert, unter denen in Rumänien, Bulgarien, in der Slowakei oder in Serbien die meisten Roma leben müssen. Wer seine Kleider nicht waschen kann, fängt tatsächlich irgendwann zu riechen an. Es ist der Geruch der Armut, nicht der Geruch der Roma. In allen Slums auf der Welt und um sie herum gibt es auch Kriminalität. Osteuropäische Roma-Quartiere machen da nur insofern eine Ausnahme, als die Gewaltkriminalität wegen der intakten Familienbindungen dort wesentlich geringer ist als in südafrikanischen Townships oder brasilianischen Favelas. Die rassistischen Hetzer hätten gern eine Roma-Kriminalstatistik zur Hand, um beweisen zu können, dass „die Zigeuner“ viel häufiger stehlen als zum Beispiel „die Deutschen“. Die bekommen sie nicht, und das ist auch gut so. Aber dass „die Deutschen“ für „die Roma“ eine angemessene Vergleichsgruppe darstellen, zieht niemand in Zweifel.</p>
+<p>Roma sind ein „Volk“, eine ethnische Gruppe, aber sie sind nicht nur das. In der Realität und auch im Begriff, den wir und sie sich davon machen, sind sie zugleich eine soziale Gruppe, eine Schicht. In der Geschichte der vergangenen 250 Jahre waren beide Aspekte immer präsent, einmal war der eine stärker, dann wieder der andere. Die Aufklärer konnten und können mit wabernden Wesenheiten wie einem „Volk“ wenig anfangen, betonten die Begabung jedes Menschen zur Vernunft und unterzogen die Zigeuner ungeachtet ihrer ethnischen Besonderheit einer strengen Volkserziehung. Die Romantiker dagegen betonten und betonen deren Andersartigkeit – den Volkscharakter. Manche Vertreter dieser Denkungsart loben den (übrigens steigenden) Analphabetismus von südosteuropäischen Roma folgerichtig als „schriftlose Kultur“. Was anders ist, denken sie, kann nicht schlecht sein.</p>
+<p>Wir leben, wenn es um Roma geht, in ganz Europa seit dem Einsetzen der Roma-Nationalbewegung vor über 40 Jahren in einer romantischen Phase. Wir begreifen Roma als Volk und wenden gegen ihre Misere alle Mittel der Volksgruppenpolitik an: Anerkennung als nationale Minderheit, Unterstützung von Selbstorganisation und Selbstvertretung, Ächtung von Diskriminierung. Dass Roma zugleich aber fast immer arm oder unmittelbar der Armut entkommen sind, bleibt dabei außer Acht. Minderheitenpolitik hilft nicht gegen Armut. Wer nach Awareness-Raising und mithilfe einer Antidiskriminierungs-Behörde trotz – oder gerade wegen – seiner ethnischen Zugehörigkeit einen Arbeitsplatz ergattern würde, bekommt dann doch keinen, weil es eben keinen gibt.</p>
+<p>Quoten an Universitäten nützen in Südosteuropa einer kleinen Gruppe assimilierter Roma, deren Eltern sich oft schon gar nicht mehr als solche verstanden haben. Armut ist in dieser Logik ein Problem zweiter Ordnung. Wenn wir überhaupt von ihr sprechen, dann deuten wir sie als Folge der ethnischen Diskriminierung.</p>
+<p>Bis ins 20. Jahrhundert wurden Roma nur von einer gebildeten, romantisch gestimmten Minderheit als „Volk“ betrachtet und in ihrer „Eigenart“ entsprechend respektiert. Die Mehrheit nahm sie einfach als diebisches, nichtsnutziges, umherziehendes Gesindel wahr.</p>
+<p>Die Nazis führten mit der Internierung, Deportation und Vernichtung der „Zigeuner“ beide Sichtweisen auf perfide Weise zusammen. Und die deutsche Gerichtsbarkeit tat sich nach dem Krieg lange schwer, beides wieder aufzudröseln. Erst um 1970 setzte sich die ethnische Sicht ganz und gar durch. Gegenüber der Zeit zuvor war das ein Fortschritt.</p>
+<p>Spätestens seit der Zeitenwende von 1990 aber wirkt sich die Vereinfachung negativ aus. Mit den Mitteln der Minderheitenpolitik kann man Armut eben nicht bekämpfen. Selbstorganisation und Selbstvertretung oder gar das Engineering einer sogenannten Roma-Elite helfen nicht. Es kann manchmal sogar schaden. Wenn die Roma ein Volk sein wollen, liest man neuerdings in den Chaträumen, dann sollen sie ihre Verhältnisse gefälligst untereinander regeln. Niemand käme auf die Idee, die Hartz-IV-Empfänger eine Vertretung bestimmen und ihre Verhältnisse untereinander regeln zu lassen. Wenn Empowerment helfen soll, muss es wenigstens ein Ziel geben, das sich mit Power erreichen lässt.</p>
+<p>Integration ist kein solches Ziel. Minderheitenvertreter eignen sich deshalb auch schlecht als Kämpfer gegen die Armut. Autonomie, wie manche in Südosteuropa sie verlangen, führt exakt in die falsche Richtung. Aber selbst wenn diese Protagonisten nur auf Gleichbehandlung insistieren und gegen Herabwürdigung zu Felde ziehen, werden sie immer versucht sein, die Armut und deren Folgen herunterzuspielen. Eine ethnische Diskriminierung ist umso schlimmer, je weniger sie sich begründen lässt, und am tiefsten treffen Ausgrenzung und Verachtung immer diejenigen, die sich in den bürgerlichen Verhältnissen am wenigsten erwarten würden. Am unteren Rande der Gesellschaft dagegen kumulieren die Übel. Wer nicht weiß, wie er sich kleiden oder wo er sein Wasser herholen soll, hat schlimmere Problem als die scheelen Blicke der Glücklichen.</p>
+<h2>Scheele Blicke</h2>
+<p>Die „anderen Bilder“, die Geschichten von Roma, die so gar nicht dem Klischee entsprechen, sind deshalb ambivalent. Jane Simon (33) kommt aus einer analphabetischen Roma-Familie. Sie hat es geschafft, sich davon zu lösen, und sagt in einem Roma-freundlichen Artikel der Bild-Zeitung: „Natürlich werfen die rumänischen Bettelbanden ein schlechtes Licht auf uns alle!“ Die Erfolgreichen unter den Roma zeigen der Mehrheitsgesellschaft: Seht her, wir sind wie ihr! Gebildet, gepflegt, erfolgreich, begütert vielleicht, eloquent. Die Mehrheit nimmt das zu gern auf und gibt zurück: Es geht ja, wenn man sich genügend anstrengt. „Bildung ist der Schlüssel zur Lösung der Probleme“, lautet das politische Mantra dazu. Aber Armut frisst sogar Bildung auf. Eine Investition in Bildung muss man sich erst einmal leisten können. Wer nicht hoffen kann, für eine jahrzehntelange Schul- und Universitätskarriere mit einem guten Leben belohnt zu werden, der wird in Bildung auch nicht investieren.</p>
+<p>Wenn wir von den Roma nur als von einem Volk sprechen, ersparen wir es uns, von der Armut überhaupt zu reden. In Umfragen wird regelmäßig festgestellt, dass zwischen 20 und 30 Prozent der Deutschen keine Türken oder keine Afrikaner als Nachbarn haben wollen, aber um die 60 Prozent keine Roma. Wer eine Gruppe, die zu 90 Prozent aus Armen und Arbeitslosen besteht, mit einer verfassten, geschichteten Nation vergleicht, setzt sie einer unfairen und unsinnigen Konkurrenz aus. 20 bis 30 Prozent der Deutschen sind offenbar Rassisten, aber 60 Prozent haben das Potenzial, es zu werden. Am Ende werden die Leute sagen: Die Roma mögen ja ein Volk sein. Aber dann sind sie ein minderwertiges.</p>
+<p>Wer von der Armut nicht reden will, soll von der Diskriminierung schweigen.</p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (29)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364805699598895" name="1364805699598895"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rechercheuse">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rechercheuse" class="author ">rechercheuse</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364805699598895">
+                  01.04.2013 |
+                  10:41</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>solange wir in einer gesellschaft leben, in der reichtum + wohlstand als status + sicherheit aus ALLEN ecken gepredigt + dabei NIEMALS deren ursprung bzw. andere WERTE des menschlichen daseins berücksichtigt werden wird sich nichts ändern ... wusste auch goethe:</p>
+<p> </p>
+<p><em>Was hilft euch Schönheit, junges Blut?<br /> Das ist wohl alles schön und gut,<br /> Allein man lässt’s auch alles sein;<br /> Man lobt euch halb mit Erbarmen.<br /> Nach Golde drängt,<br /> Am Golde hängt<br /> Doch alles. Ach wir Armen!</em></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364805699598895">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364814775317117" name="1364814775317117"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/nilnilnil">
+                
+                  <img src="http://www.freitag.de/autoren/nilnilnil/@@images/aa9cd0dc-d52c-4126-96b7-9e7afba1b328.jpeg" alt="Nil" title="Nil" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/nilnilnil" class="author ">Nil</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364814775317117">
+                  01.04.2013 |
+                  13:12</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vielen Dank für diese Zeilen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364814775317117">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364828269848406" name="1364828269848406"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364828269848406">
+                  01.04.2013 |
+                  16:57</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ja, ich beobachte sogar bei gebildeten osteuropäischen Kollegen einen aggressiven latenten Rassismus gegen "Zigeuner". Etwas was den historisch sensiblen Deutschen oft erschreckt.</p>
+<p>Man muss hier von einem ernsthaften Problem sprechen, auch deshalb, weil diese "Minderheiten" einen relativ großen Anteil an den osteuropäischen Bevölkerungen haben:</p>
+<p><a href="http://www.berlin-institut.org/fileadmin/user_upload/handbuch_texte/karte_roma_europa_gross.jpg">http://www.berlin-institut.org/fileadmin/user_upload/handbuch_texte/karte_roma_europa_gross.jpg</a></p>
+<p>Entsprechend groß ist nicht nur der soziale Notstand, sondern auch das Unruhepotential (siehe die <a href="http://www.stern.de/politik/ausland/zigeuner-zu-seife-anti-roma-proteste-in-bulgarien-ueberschatten-wahlkampf-1733119.html">Unruhen gegen Zigeuner in Bulgarien</a>). Deutsche, die diese Bevölkerungsgruppe höchstens mal von der Sperrmüllsammlung oder vom Wohnwagendurchzug kennen, können sich <a href="http://www.welt.de/politik/ausland/article113853696/Wie-dreckige-Zigeuner-Das-Elend-der-Roma.html">die Zustände</a> idR nichtmal vorstellen. Diese Leute sind bitterarm, oft sehr ungebildet und wie das in solchen Kreisen dann ist, sie erkennen oft nichtmal, warum sie auf Ablehnung stoßen. </p>
+<p>Schon am obigen Bild erkennt man das Problem: der Müll stapelt sich in den Ecken, für einen Außenstehenden ist das unverständlich. Selbst ohne Müllabfuhr wäre es kein Problem die Sachen zusammenzukehren und z.B. zu verbrennen. Aber diese Leute kennen das nicht anders, sie haben sich oft schlicht daran gewöhnt.</p>
+<p>Auch gibt es immer wieder Bräuche, wie Zwangsverheiratungen und Brautverkauf:</p>
+<p><a href="https://www.youtube.com/watch?v=oDp_lwz_S0M">https://www.youtube.com/watch?v=oDp_lwz_S0M</a></p>
+<p>auch von Kindern, die auf herbe Abscheu stoßen. Und natürlich klauen die und stinken, sie sind ja sehr arm. Auch aggressives Betteln macht sie nicht beliebter. Es ist ein typisches Unterschichtenproblem, welches durch ethnische Abgrenzung noch verschärft wird.</p>
+<p>Eine allgemeine Sozialhilfe KANN die Situation verbessern, ABER sie muss es nicht. Wo eine Clanstruktur existiert, kann auch einfach das Familienoberhaupt alles einkassieren. Eine Schulpflicht KANN die Situation verbessern, sie könnte aber auch zu Mobbing und weiterem Hass führen. Auch gibt es sowohl sesshafte, wie auch fahrende Gruppen, beide mit anderen Problemen.</p>
+<p>Die Sache ist sehr komplex und nicht mit Einzelmaßnahmen grundlegend verbesserbar. Im Prinzip bräuchte jede größere Ansammlung eine Art Entwicklungshelfer, der/diejenige könnte dann z.B. darauf hinwirken, dass Waschmaschinen und Trockner für die ganze Gemeinschaft gekauft werden und kontrollieren, dass alle Kinder nicht nur (sauber) in die Schule kommen, sondern auch Pausenbrote mitbekommen etc. und das Ganze auf Hilfe-, nicht auf Zwangsbasis. Auch wenn gesetzlicher Zwang (etwa bei Kinderhochzeiten)  nicht ausbleiben kann.</p>
+<p>Aber für all das bräuchte man Geld und das gibt es in den armen europäisch-neoliberalen Gesellschaften nicht, zumindest nicht für diese Menschen...</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364828269848406">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364833354653690" name="1364833354653690"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/tst">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/tst" class="author ">TST</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364833354653690">
+                  01.04.2013 |
+                  18:22</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Endlich mal ein nicht ganz so verklärter Artikel von einem Mann der sich durch eigene Ansicht seine romantische Ideologie hat relativieren lassen.</p>
+<p>Das Problem ist eben vielschichtig. Es hat extrem viel mit extremer Armut zu tun. Es hat auch mit Rassismus zu tun. Aber es hat auch etwas mit einem Kastenwesen zu tun, welches unter den Roma nach wie vor vorhanden ist. Die Bettlerbanden sind defacto organisierte Kriminalität. Die Roma-Barone leihen den niederen Kasten kleine Summen Geld zu extremen Wucherzinsen, welche diese natürlich niemals zurück zahlen können. Hieraus folgt dann eine Art Schuld-Sklaverei in der die Familien der Schuldsklaven Europaweit zum betteln geschickt werden und wenn diese pro Tag nicht x Euro abliefern bekommt ihnen dies nicht gut. Diese Barone haben selbstredend keinerlei Interesse daran, dass es diesen Menschen besser geht. Aber dann kommen naive Leute (Entwicklungshelfer, EU-Vertreter, Verbandsvertreter, etc) mit Helfersyndrom und Gutmenschenethik dorthin und fragen diese Barone, wieviel Geld sie ihnen denn geben könnten, damit es den Menschen dort besser geht. Kein Witz, sondern ein absoluter Aufreger für Leute mit etwas Ahnung, da so die ganze Roma-Politik funktioniert. Es fehlt definitiv nicht am Geld!</p>
+<p> </p>
+<p>Da wollte die slowakische Regierung spezielle Internate für die Romakinder einrichten, um sie aus den Slams zu holen und vor Mobbing zu schützen. Und was passiert? Alle Gutmenschen in Europa haben einen Entrüstungssturm losgetreten, so dass die slowakische Regierung gezwungen war diesen Plan fallen zu lassen. Folge: die Romakinder gehen auch weiterhin nicht zur Schule und können weder lesen, schreiben noch über 3 hinaus zählen. Aber dann soll man ihnen Arbeit geben und sie "integrieren"...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364833354653690">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364835609495020" name="1364835609495020"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364835609495020">
+                  01.04.2013 |
+                  19:00</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364833354653690">
+                    <span data-in_reply_to="1364833354653690" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ja, die Antirassisten kapieren oft nicht, dass Rassismus ein polares Problem ist, welches nicht allein von einer Seite ausgeht, sondern dass es in erster Linie eine Art Abstoßungsprozess ist, der durch unterschiedliche Lebensweisen, unterschiedliche Bildung und unterschiedliche Mentalitäten und Wohlstand ausgelöst oder zumindest verstärkt wird.</p>
+<p>Will man die rassistische Bewertung loswerden, reicht es eben nicht, Abgrenzung mit Gewalt zu verhindern (siehe auch <a href="http://www.tagesspiegel.de/meinung/schule-und-migration-die-schwierigkeit-mit-den-multikulti-klassen/7037830.html">Berlins Migrantenklassen</a>) oder gar lediglich die Begriffe zu ändern (Roma statt Zigeuner, Schwarze statt Neger), es hilft auch nicht, die Abgrenzer als rückständige Rassisten zu beschimpfen, denn oft wird deren Rassismus durch ganz bodenständige Probleme hervorgerufen. Sowas führt sofort zu Ausweichbewegungen und Trotzreaktionen.</p>
+<p>Will man Rassismus bekämpfen, muss man ehrlich an den ärgsten Problemstellen ansetzen, wobei eine zeitweise Separierung, evtl. sogar sinnvoll sein kann. Allerdings würde ich sie trotzdem immer zu vermeiden suchen, da eine Verfestigung solcher Strukturen auch wieder zu Problemen führt. Besser wäre es z.B., die Kinder mit Integrationshelfern auf verschiedene Schulen der Gegend zu verteilen und das Lehrpersonal entsprechend zu schulen. Die Konzentration der Kinder sollte nirgends zu hoch sein und es muss sichergestellt werden, dass man sie nicht mobbt.</p>
+<p>Das ist sicher nicht einfach und nicht billig, aber für machbar halte ich es dennoch. Zumindest wenn man auch dafür Sorge trägt, dass die Kinder sich durch ihr Verhalten (Gruppenbildung) und Auftreten (z.B. Hygiene) nicht selbst wieder ins Abseits manövrieren.</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364835609495020">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364836749508079" name="1364836749508079"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/oberham">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/oberham" class="author ">Oberham</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364836749508079">
+                  01.04.2013 |
+                  19:19</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364805699598895">
+                    <span data-in_reply_to="1364805699598895" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>*****</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364836749508079">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364848664248990" name="1364848664248990"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rotkehlchen123">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rotkehlchen123" class="author ">Rotkehlchen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364848664248990">
+                  01.04.2013 |
+                  22:37</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Not und Armut führen oft dazu, dass sich Menschen etwas nehmen. In Köln froren nach dem Krieg Menschen Gliedmaßen ab und Kardinal Frings ermutigte die Katholiken sogar, sich das zu nehmen was sie unbedingt brauchen und durch inständiges Bitten und Betteln nicht bekommen konnten. Die Kölner nannten es dann Klütten fringsen, wenn sie Kohle mitgehen ließen.</p>
+<p>Aber heute erleben wir die sagenhaft armen Menschen bei den Rumänen. Und es löst Hass und Wut aus, wenn einem was genommen wird. Ein fruchtbarer Boden zum Schürren rassistischer Ressentiments.</p>
+<p>Da möchte ich mal die Politiker einflussreicher Parteien mal erleben, die endlich mal dagegen halten und sich nicht heimlich darüber freuen, dass von eigenen Fehlern abgelenkt wird. Schließlich ist es doch die Art der Casino-Wirtscahft oder der Monopoly-Wirtschaft, die diese Menschen so arm machte.</p>
+<p>Ethik und Geist fehlt unseren Politikern, doch mal auszusprechen, dass Handel fair und zum beiderseitigen Vorteil sein muss. Ich nehme mal ein einfaches Beispiel: Ein Land hat Öl und das andere Mineralien wie Gold und Platin. Da macht Handel beiderseits Sinn. Und nie sollte der Handelspartner an die Wand gespielt werden. Handel ist besonders gut, wenn nicht einer dabei Pleite geht.</p>
+<p>Und an Lehman Brothers Inc. sehen wir doch, dass derjenige, der seine Handelspartner bis zum Knockout schröpft, darüber selber pleite geht. Wir müssen uns doch nur mal den Schwachsinn vorstellen, dass da angebliche Wirtschaftsspezialisten jedes Jahr bei sinkenden Gehältern die Gewinne aus Immobilien jedes Jahr um 20 % steigern wollten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364848664248990">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364888430550976" name="1364888430550976"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/justizverfolgung">
+                
+                  <img src="http://www.freitag.de/autoren/justizverfolgung/@@images/9368516c-177d-437c-8044-0083834ab3c5.jpeg" alt="justizverfolgung" title="justizverfolgung" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/justizverfolgung" class="author ">justizverfolgung</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364888430550976">
+                  02.04.2013 |
+                  09:40</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Zigeuner grosszügig aufzunehmen, wäre eine ideale Gelegenheit, dem bejammerten Geburtenrückgang im Lande entgegenzuwirken, auch ästhetisch könnte die Bevölkerung nur gewinnen, und eine wirklich europäische und tolerante nicht-rassistischen Gruppe wäre eine Bereicherung für das deutsche Vaterland.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364888430550976">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364888609277436" name="1364888609277436"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/justizverfolgung">
+                
+                  <img src="http://www.freitag.de/autoren/justizverfolgung/@@images/9368516c-177d-437c-8044-0083834ab3c5.jpeg" alt="justizverfolgung" title="justizverfolgung" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/justizverfolgung" class="author ">justizverfolgung</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364888609277436">
+                  02.04.2013 |
+                  09:43</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364848664248990">
+                    <span data-in_reply_to="1364848664248990" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Tausende Beispiele, offene Türen, in einer Nussschale, Kapitalismus muss weg, wer das nicht will, soll sich arrangieren.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364888609277436">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364902954341334" name="1364902954341334"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/freddy-schlimm">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/freddy-schlimm" class="author ">Freddy Schlimm</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364902954341334">
+                  02.04.2013 |
+                  13:42</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@Justizverfolgung: Großartige Idee! Am besten gehen Sie mit gutem Beispiel voran. Wie viele Zigeuner haben Sie bisher in Ihr Haus bzw. Ihre Wohnung aufgenommen?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364902954341334">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364909611471882" name="1364909611471882"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/anne-monen">
+                
+                  <img src="http://www.freitag.de/autoren/anne-monen/@@images/4794e42c-3beb-4905-a8cc-c7dc386ff7a7.jpeg" alt="anne mohnen" title="anne mohnen" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/anne-monen" class="author ">anne mohnen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364909611471882">
+                  02.04.2013 |
+                  15:33</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wieder ein beherzter Artikel über die Roma; ein Artikel, der  die Probleme benennt, versucht, diese historisch und sozial zu verorten und dabei nichts romantisiert. Das ist eine ehrliche Basis für Empathie:</p>
+<p>"Wer von der Armut nicht reden will, soll von der Diskriminierung schweigen."</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364909611471882">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364910455411931" name="1364910455411931"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rotkehlchen123">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rotkehlchen123" class="author ">Rotkehlchen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364910455411931">
+                  02.04.2013 |
+                  15:47</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@Justizverfolgung udn Freddy Schlimm:</p>
+<p>Die Menschen auf dem Bild sind wirklich schön. Und wenn der Kontakt zur deutschen Bevöölkerung auch bewusst mal gefördert wird, wird es einige geben, die auch Frauen und Männer der Sinti und Roma als Freund_innen und Ehepartner_innen haben wollen.</p>
+<p>Was soll da der Spott, weiviele in das eigene Haus aufgenommen werden? Das wird dann ganz leicht und natürlich sein. Um nicht zu sagen heftig gewollt. Und das ist anstrebenswert und nicht diejenigen, die mit Leidensmiene jemanden aufnehmen und für ihre "Liebe" bezahlt werden wollen.</p>
+<p>Wenn ich mal diese Kinder auf dem Bild betrachte: Wer sorgt dafür, dass sie in Deutschland von Kindergarten bis Schule und vielleicht auch Hochschule integriert werden? Wer sorgt dafür, dass sie sich als Fachkräfte ausbilden lassen können?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364910455411931">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364911233165383" name="1364911233165383"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/abghoul">
+                
+                  <img src="http://www.freitag.de/autoren/abghoul/@@images/f7e19f27-3cc5-4b59-a94d-06f4caf60e7e.jpeg" alt="abghoul" title="abghoul" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/abghoul" class="author ">abghoul</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364911233165383">
+                  02.04.2013 |
+                  16:00</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Auf Platte", wie so herumzigeunern wohl hierzulande genannt wird, dauert es nicht lange bis ein schlechter Geruch zum treuen Kumpanen wird. Und dem Geruch ist echt egal wo wer herkommt. Das wird Rumänien nicht anders sein.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364911233165383">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364913411696732" name="1364913411696732"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rheinhold2000">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rheinhold2000" class="author ">rheinhold2000</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364913411696732">
+                  02.04.2013 |
+                  16:36</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364910455411931">
+                    <span data-in_reply_to="1364910455411931" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Wenn ich mal diese Kinder auf dem Bild betrachte: Wer sorgt dafür, dass sie in Deutschland von Kindergarten bis Schule und vielleicht auch Hochschule integriert werden? Wer sorgt dafür, dass sie sich als Fachkräfte ausbilden lassen können?"</p>
+<p>Als Hauptschullehrer an einer sozialen Brennpunktschule sind ca. 20% meiner Schüler Sinti und Roma. In den Auffangklassen ca. 80%. Wir arbeiten dran. Und ich bin da eher optimistisch. Übrigens empfinde ich diese neue Minderheit durchaus als spannend.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364913411696732">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364913544127073" name="1364913544127073"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rheinhold2000">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rheinhold2000" class="author ">rheinhold2000</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364913544127073">
+                  02.04.2013 |
+                  16:39</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364902954341334">
+                    <span data-in_reply_to="1364902954341334" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"@Justizverfolgung: Großartige Idee! Am besten gehen Sie mit gutem Beispiel voran. Wie viele Zigeuner haben Sie bisher in Ihr Haus bzw. Ihre Wohnung aufgenommen?"</p>
+<p>das brauchts nicht. hier im ruhrgebiet stehen jede menge wohnungen leer</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364913544127073">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364922061079338" name="1364922061079338"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364922061079338">
+                  02.04.2013 |
+                  19:01</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364910455411931">
+                    <span data-in_reply_to="1364910455411931" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wie naiv bist du denn?</p>
+<p><strong><em>"wird es einige geben, die auch Frauen und Männer der Sinti und Roma als Freund_innen und Ehepartner_innen haben wollen"</em></strong></p>
+<p>Klar gibt es Vermischung, aber es gäbe kaum die Probleme in Osteuropa, wenn sie in nennenswerten Umfang stattfände, nicht? Und in Bulgarien z.B. ist an der Hautfarbe oft gar nicht zu unterscheiden, ob es sich um Zigeuner handelt oder nicht, da viele dunklere Hauttöne verbreitet sind.</p>
+<p>Nein, diese Leute haben eine eigene Kultur, und auch Armut und Bildungsstand verhindern Vermischung recht effektiv.</p>
+<p>Was tatsächlich passiert ist <a href="http://www.spiegel.de/panorama/gesellschaft/roma-kinder-in-berlin-aufstieg-ins-elend-a-767147.html">Ausbeutung, Prostitution von Männern und Frauen</a>, der Nachwuchs ganzer Roma-Dörfer soll z.B. in Berlin anschaffen. Darüber hinaus aggressives Betteln, Diebstähle usw. und ehe wir uns versehen, steigt auch hier wieder der Rassismus. Ein großes Herz hat oft nur derjenige der nicht betroffen ist.</p>
+<p>Ab <a href="http://www.focus.de/politik/ausland/eu/eu-arbeitsfreizuegigkeit-bundesagentur-erwartet-starke-zuwanderung-aus-bulgarien-und-rumaenien_aid_950989.html">2014 gilt die komplette AN-Freizügigkeit</a> (auch für Bulgarien und Rumänien), dann werden wir die entsprechenden sozialen Randgruppen noch viel hautnäher "erleben" können, ohne dass deutsche Behörden auch nur ansatzweise darauf vorbereitet wären, geschweige denn Geld dafür bekommen (<a href="http://www.heise.de/tp/blogs/8/153821">und H4 gibts für Nicht-Deutsche nicht mehr, was auch verständlich ist, sonst kommen die alle her)</a>. Die Arbeitgeber reiben sich die Hände über ausbeutbares Fußvolk, welches die Löhne drückt, bei der Bevölkerung wird das (mal wieder) als Problem aufschlagen.</p>
+<p>Freuen dürfen sich auch die Freier, Dank EU und Elendsprostitution in diesem neoliberalen europäischen Schei**verbund, rutschen die Rotlichtszenen zunehmend ab:</p>
+<p><a href="http://www.spiegel.de/politik/deutschland/elendsprostitution-in-berlin-die-freier-warten-immer-auf-eine-die-noch-weiter-unten-ist-a-512770.html">http://www.spiegel.de/politik/deutschland/elendsprostitution-in-berlin-die-freier-warten-immer-auf-eine-die-noch-weiter-unten-ist-a-512770.html</a></p>
+<p>Eine Euro-Job mal anders. Diese Menschen können einem nur leid tun.</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364922061079338">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364923042212079" name="1364923042212079"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rotkehlchen123">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rotkehlchen123" class="author ">Rotkehlchen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364923042212079">
+                  02.04.2013 |
+                  19:17</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>@Rupert Rauch</p>
+<p>Derzeit dürfte es wirklich nur eine Minderheit sein, die derart gut integriert wird. Schade eigentlich. Aber positive Utopien sollen dazu dienen, an dem ziel zu arbeiten.</p>
+<p>Ein Anfang für solche Möglichkeiten ist allerdings, wenn Reinhold2000 diese Kinder in seiner Klasse hat. Integration nenne ich das und nicht Vermischung, wie Du das tust.</p>
+<p>Wenn unter anderem Deutschland mitbeschlossen hat, dass Rumänien und Bulgarien in Kürze Vollmitglieder der EU werden, hat das normaler Weise zur Folge, dass die hierhin kommen, um zunächst einmal von Dumpinglöhnen zu leben. Ab dem zeitpunkt haben die auch einen ganz normalen Anspruch auf Leistungen nach dem SGB II (Hartz IV). Udn das haben auch deutsche Politiker bewusst so gewollt.</p>
+<p>Und jetzt Du: Was sagst Du denn dazu? Wirft es Dein Weltbild aus den Fugen?</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364923042212079">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364924167915763" name="1364924167915763"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364924167915763">
+                  02.04.2013 |
+                  19:36</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364923042212079">
+                    <span data-in_reply_to="1364923042212079" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><em><strong>"Derzeit dürfte es wirklich nur eine Minderheit sein, die derart gut integriert wird. Schade eigentlich. Aber positive Utopien sollen dazu dienen, an dem ziel zu arbeiten."</strong></em></p>
+<p><strong><em></em></strong>Soll(T)en, die Politik läuft gerade in die andere Richtung.</p>
+<p> </p>
+<p><strong><em>"in Anfang für solche Möglichkeiten ist allerdings, wenn Reinhold2000 diese Kinder in seiner Klasse hat. Integration nenne ich das und nicht Vermischung"</em></strong></p>
+<p>Ob es Integration ist, wird durch das Ergebnis bestimmt, nicht ob die gemeinsam eine Schule besuchen. Bei einer Konzentration wie in Osteuropa, bekommst du ganz schnell ähnliche Probleme, wie hier mit den bekannten anatolischen Minderheiten...</p>
+<p> </p>
+<p><strong><em>"Wenn unter anderem Deutschland mitbeschlossen hat, dass Rumänien und Bulgarien in Kürze Vollmitglieder der EU werden, hat das normaler Weise zur Folge, dass die hierhin kommen, um zunächst einmal von Dumpinglöhnen zu leben."</em></strong></p>
+<p>Kein Problem für dich?</p>
+<p><strong><em>"Ab dem zeitpunkt haben die auch einen ganz normalen Anspruch auf Leistungen nach dem SGB II (Hartz IV). Udn das haben auch deutsche Politiker bewusst so gewollt."</em></strong></p>
+<p>Nein haben sie nicht (wie ich mit obigen Link belegt habe). Wie soll das auch gehen. D hungert den Rest der EU aus und fängt die Leute dann hier auf? So blöd sind nichtmal deutsche Politiker. Wir reden hier von Bevölkerungsbewegungen im Millionenbereich.</p>
+<p>So gut und nützlich kultureller Austausch ist, die Entwicklung derzeit ist einfach krank und wird nicht ohne negative Folgen bleiben.</p>
+<p><strong><em>"Und jetzt Du: Was sagst Du denn dazu? Wirft es Dein Weltbild aus den Fugen?"</em></strong></p>
+<p>Du hast kein einziges neues Argument gebracht, inwiefern sollte das mein Weltbild irgendwie beeinflussen? Ich halte dich einfach für gnadenlos naiv und gutmenschelnd. Solche Leute darf es auch geben, nur in die Politik sollten sie besser nicht gehen, sie vergrößern Probleme meist eher, statt sie zu lösen.</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364924167915763">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364924721366740" name="1364924721366740"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/justizverfolgung">
+                
+                  <img src="http://www.freitag.de/autoren/justizverfolgung/@@images/9368516c-177d-437c-8044-0083834ab3c5.jpeg" alt="justizverfolgung" title="justizverfolgung" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/justizverfolgung" class="author ">justizverfolgung</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364924721366740">
+                  02.04.2013 |
+                  19:45</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Ich halte dich einfach für gnadenlos naiv und gutmenschelnd. Solche Leute darf es auch geben, nur in die Politik sollten sie besser nicht gehen, sie vergrößern Probleme meist eher, statt sie zu lösen."</p>
+<p> </p>
+<p>ich spare mir den weiteren kommentar.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364924721366740">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364924851799469" name="1364924851799469"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/justizverfolgung">
+                
+                  <img src="http://www.freitag.de/autoren/justizverfolgung/@@images/9368516c-177d-437c-8044-0083834ab3c5.jpeg" alt="justizverfolgung" title="justizverfolgung" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/justizverfolgung" class="author ">justizverfolgung</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364924851799469">
+                  02.04.2013 |
+                  19:47</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364924167915763">
+                    <span data-in_reply_to="1364924167915763" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"Ich halte dich einfach für gnadenlos naiv und gutmenschelnd. Solche Leute darf es auch geben, nur in die Politik sollten sie besser nicht gehen, sie vergrößern Probleme meist eher, statt sie zu lösen."</p>
+<p> </p>
+<p>ich spare mir den weiteren kommentar.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364924851799469">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364927010731333" name="1364927010731333"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rotkehlchen123">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rotkehlchen123" class="author ">Rotkehlchen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364927010731333">
+                  02.04.2013 |
+                  20:23</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Was Hartz IV betrifft noch einmal: Wenn Bulgarien und Rumänien Vollmitglieder der EU sind, brauchen diese Menschen in Kürze keine Arbeitserlaubnis mehr und können Hartz IV schon im ersten Aufenthaltsjahr in Deutschland beziehen. Ergibt sich übrigens auch schon aus einem vor Jahren entschiedenen Rechtsfall einer polnischen EU-Bürgerin in Deutschland. Sie bekommt entgegen der Ansicht der Behörde Hartz IV, auch wenn sie nie in Deutschland gearbeitet hat:</p>
+<p><strong>Bundessozialgericht, Aktenzeichen B 14 AS 138/11 R</strong></p>
+<p><strong><strong>Das muss im Sozialhaushalt als nicht all zu kleiner Posten <strong>berücksichtigt werden. </strong>Wenn es nun einmal <strong>nach derzeitiger Gesetzeslage <strong>in Deutschla<strong>nd un<strong>d der <strong>EU <strong>so ist und das den Politiker_innen vor Jahren bekannt <strong>wurde, haben die Lohndumping und soziale Konflikte in Deutschland <strong>wahrscheinlich bewusst in Kauf genommen<strong><strong>.</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong><br /></strong></strong></p>
+<p><strong><strong>Ich finde es falsch, wenn da Länder in die EU aufgenommen werden, die eine vollkommen andere Wirtschaftskraft haben als die eh schon zum <strong>Teil sehr armen anderen Länder<strong> Europas. Es ist schlecht für diese Länder, wie sich auch an Griechen<strong>land<strong> oder Zypern zeigt</strong></strong>. Speziell in Deutschland treffen<strong> <strong>Migranten zudem </strong>auf eine zun<strong>ehmende rechtsextreme Gewalt.</strong></strong></strong></strong></strong></strong></p>
+<p><strong><strong><strong><strong><strong><strong>Diese <strong>M<strong>igranten aber können nichts für die Fehlentscheidungen von Politi<strong>ker_innen aus dem eigenen Land und aus der EU. Sie sind die Opfer <strong>der Arbeit hochdotierter und fehlgeleite<strong>ter <strong>schlechtmensch<strong>elnder Politiker<strong>, d<strong>ie dann Mindestlöhne abl<strong>ehnen und in Wahrheit nur Lohndumping vorantreiben und mutmaßlich vorantreiben wollen.</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364927010731333">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364944542804709" name="1364944542804709"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/freddy-schlimm">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/freddy-schlimm" class="author ">Freddy Schlimm</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364944542804709">
+                  03.04.2013 |
+                  01:15</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364913411696732">
+                    <span data-in_reply_to="1364913411696732" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sehr spannend. Tagsüber an einer sozialen Brennpunktschule. Und nach Feierabend, am Wochenende und in den Ferien in einem bürgerlichen Viertel? Und wo gehen die eigenen Kinder - falls vorhanden - zur Schule?</p>
+<p>Um ehrliche Antwort wird gebeten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364944542804709">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364944978539269" name="1364944978539269"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/freddy-schlimm">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/freddy-schlimm" class="author ">Freddy Schlimm</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364944978539269">
+                  03.04.2013 |
+                  01:22</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364913544127073">
+                    <span data-in_reply_to="1364913544127073" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Na, toll! Leerstehende Bruchbuden werden zu Wuchermieten mit Zigeunern gefüllt. Die Mieten und den Unterhalt übernehmen die klammen Kommunen. Die guten  Menschen predigen weiter Toleranz, bleiben in ihren Vierteln aber lieber unter sich, nennen sich Europäer, aber sie bleiben Deutsche. Linksgrüne Herrenmenschen|Innen eben.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364944978539269">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364945570537757" name="1364945570537757"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/freddy-schlimm">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/freddy-schlimm" class="author ">Freddy Schlimm</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364945570537757">
+                  03.04.2013 |
+                  01:32</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364910455411931">
+                    <span data-in_reply_to="1364910455411931" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Was für ein widerlicher Rassismus in gutbürgerlichen Deutschen doch immer noch steckt. Erst war der Rassismus braun, jetzt ist er grün. Erst waren die Zigeuner der letzte Dreck, intime Beziehungen der Herrenmenschen mit ihnen galten als Rassenschande, jetzt sollen sie zur Verschönerung der hässlichen deutschen Rasse dienen.  Vielleicht wollen oder dürfen die Zigeuner sich gar nicht mit Deutschen einlassen. Vielleicht wollen sie nur unser Geld, dass sie dann zum großen Teil an ihre Clan-Chefs abgeben müssen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364945570537757">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364976192488099" name="1364976192488099"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rotkehlchen123">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rotkehlchen123" class="author ">Rotkehlchen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364976192488099">
+                  03.04.2013 |
+                  10:03</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Ach, Freddy Schlimm. Das klingt bei Dir alles ziemlich verwirrt und wiedersprüchlich. Zunächst einmal die Fakten: Da hat doch schon ein Lehrer gepostet, dass da viele Roma-Kinder bei ihm in der Hauptschule sind. Wenn die mit allen dortigen Kindern unterrichtet werden, bilden sich ganz natürlich auch unabhängig von der Herkunft Freundschaften - und das ob es den Eltern dieser Kinder passt oder nicht. Und das ist gut so. Um nichts anderes ging es.</p>
+<p>Und für viele hört dann leider der Spaß auf, wenn es um Partnerschaften geht. Ich habe mal ein türkisch-griechisches Paar gekannt, dass nervös war, wenn die jeweiligen ansosnten angeblich so weltoffenen Eltern etwas davon erführen. Der absolute Belastungstest für eine gelungene Integration ist deswegen für mich erst erreicht, wenn Roma auch in der Hinsicht voll anerkannt sind - ohne Zwang etwas zu tun oder zu unterlassen.</p>
+<p>Wer sich hier grün geäußert hat, ist mir absolut nicht ersichtlich. Herrenmenschen, weil Roma als schön bezeichnet werden und freiwillige Partnerschaften als wünschenswert? Was für ein Unfug. Deutsche sehen ohnehin sehr unterschiedlich aus und haben auch eine selber schon sehr unterschiedliche Herkunft. Auch da gibt es freilich schöne Menschen. In wen die sich verlieben ist deren Sache.</p>
+<p>Aber ich will mal ganz bewusst einen Schritt weitergehen: Jede Freundschaft ist ein Gewinn für die Welt.</p>
+<p>Die Behauptung aber, dass die "nur" unser Geld wollten und das dann größtenteils an Clanchefs abgeben müssten, sehe ich dann aber doch als rassistisch gefärbt an. Jeder Mensch braucht zukm Leben in Deutschland Geld. Innerhalb jeder funktionierenden und nicht verrrohten menschlichen Gemeinschaft wird es gegenseitige Unterstüzung und Fürsorge geben. Genau das wird auch bei den Roma laufen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364976192488099">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364980904605808" name="1364980904605808"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rheinhold2000">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rheinhold2000" class="author ">rheinhold2000</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364980904605808">
+                  03.04.2013 |
+                  11:21</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364944978539269">
+                    <span data-in_reply_to="1364944978539269" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Mieten hier sind eher moderat. Und ist doch gut, dass jemand die Mieten und den Unterhalt übernimmt. Die Menschen müssen ja irgendwo auch wohnen. und was hast du gegen Toleranz predigen. Willst du Intoleranz predigen? Und ich bezeichne mich noch nichtmal als Europäer. ich bin Mensch.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364980904605808">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364980984997619" name="1364980984997619"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rheinhold2000">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rheinhold2000" class="author ">rheinhold2000</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364980984997619">
+                  03.04.2013 |
+                  11:23</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364944542804709">
+                    <span data-in_reply_to="1364944542804709" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>"</p>
+<p>Sehr spannend. Tagsüber an einer sozialen Brennpunktschule. Und nach Feierabend, am Wochenende und in den Ferien in einem bürgerlichen Viertel? Und wo gehen die eigenen Kinder - falls vorhanden - zur Schule?</p>
+<p>Um ehrliche Antwort wird gebeten."</p>
+<p>Ich wohne in der Nähe der Schule.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364980984997619">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364984589579831" name="1364984589579831"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mochinho">
+                
+                  <img src="http://www.freitag.de/autoren/mochinho/@@images/6e5937e9-cc5e-4135-bf8e-ea198c1416b8.jpeg" alt="Mochinho" title="Mochinho" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mochinho" class="author ">Mochinho</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364984589579831">
+                  03.04.2013 |
+                  12:23</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Auch ich danke für diesen Artikel. Er beobachtet sehr gut die Gegenwart auch in unserem Staat. So kann nach der Einführung des Staatsziels des Schutzes der Sinti und Roma in die Landesverfassung Schleswig-Holsteins danach gefragt werden, ob und welche Erfolge der Staat damit erreicht.</p>
+<p>Des Weiteren kann man gar nicht oft genug Ressentiments geißeln und Vorurteile abzubauen helfen. Dies wird einem z.B. wieder bewusst, wenn man die letzte Einwohnerinnen- und Einwohnerversammlung in Barth in Mecklenburg-Vorpommern Revue passieren lässt: In der Gemeinde sollen Asyl Suchende untergebracht werden; die Gemeinde ist zur Aufnahme verpflichtet. Aus den Reihen der Einwohnerinnen und Einwohnern wurden Vorbehalte gegen Sinti und Roma geäußert. Der Bürgermeister stand ziemlich allein da, obwohl er das Recht auf seiner Seite hatte.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364984589579831">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364988829161980" name="1364988829161980"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rotkehlchen123">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rotkehlchen123" class="author ">Rotkehlchen</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364988829161980">
+                  03.04.2013 |
+                  13:33</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Der Schutz einer Minderheit ist in der Landesverfassung von Schleswig-Holstein vorgesehen? Ich wusste es bislang nicht. Aber ich finde das wundervoll. Ich habe den Artikel mal hier hineinkopiert:</p>
+<p> </p>
+<p><em>Artikel 5</em> <em> Nationale Minderheiten und Volksgruppen</em></p>
+<p><em><a></a>(1) Das Bekenntnis zu einer nationalen Minderheit ist frei; es entbindet nicht von den allgemeinen staatsbürgerlichen Pflichten.</em></p>
+<p><a></a><em>(2) Die kulturelle Eigenständigkeit und die politische Mitwirkung nationaler Minderheiten und Volksgruppen stehen unter dem Schutz des Landes, der Gemeinden und Gemeindeverbände. Die nationale dänische Minderheit, die Minderheit der deutschen Sinti und Roma und die friesische Volksgruppe haben Anspruch auf Schutz und Förderung.</em></p>
+<p>Eine Landesverfassung, die den Schutz verspricht und sei es auch nur als Staatsziel, würde ich aber nicht unterschätzen wollen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut#1364988829161980">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/der-freitag/der-geruch-der-armut/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/der-freitag">der Freitag</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/der-freitag">
+          <img src="http://www.freitag.de/autoren/der-freitag/@@images/50c1cea0-2a14-47a6-8687-3435f86755e3.png" alt="der Freitag" title="der Freitag" height="65" width="65" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2012</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">24295</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">103</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/der-freitag/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Norbert Mappes-Niediek</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/die-woelfe-kehren-zurueck">
+              <span class="catchword">Umbruch</span>
+              Die Wölfe kehren zurück </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/die-woelfe-kehren-zurueck">
+              <span class="comment-count" title=" 23 mal kommentiert">23</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/die-mimikry-des-militars">
+              <span class="catchword">Tribunal</span>
+              Die Mimikry des Militärs</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/die-mimikry-des-militars">
+              <span class="comment-count" title=" 14 mal kommentiert">14</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nur-das-beiboot-dumpelt-noch-auf-dem-ozean">
+              <span class="catchword">Serbien</span>
+              Nur das Beiboot dümpelt noch auf dem Ozean</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nur-das-beiboot-dumpelt-noch-auf-dem-ozean">
+              <span class="comment-count" title=" 1 mal kommentiert">1</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364997182" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364997182" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364997182" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="catchword">1963</span>
+              Das Kuckucksei </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="author group-authors">Georg Fülberth</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="catchword">Finanzkrise</span>
+              Der Rubel rollt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="author group-authors">Dierk Hirschel</span>
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364997182" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364997182" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364997182" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    img: "http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut/@@images/cc254b01-2e46-49b7-aa92-d60cf9c9af8e.jpeg",
+    objectid: "775d91f4c4154ec2b3ae9d5a98d7f28e",
+    title: "Der Geruch der Armut  ",
+    url: "http://www.freitag.de/autoren/der-freitag/der-geruch-der-armut",
+    text: "Roma in Osteuropa werden als Volk wahrgenommen, als Minderheit diskriminiert und geächtet. Minderheitenpolitik allein wird ihren nicht helfen, so gut die auch gemeint ist",
+    created_at: "1364799600"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>

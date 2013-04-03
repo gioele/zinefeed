@@ -1,0 +1,1277 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Wed, 03 Apr 2013 13:59:40 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+X-Cache-Operation: plone.app.caching.moderateCaching
+Content-Language: de
+Expires: Sun, 06 Apr 2003 13:59:40 GMT
+Vary: X-Anonymous
+ETag: "||3360530|de|0|freitag_util_layout|0|1364974135.76"
+X-Cache-Rule: plone.content.itemView
+X-Varnish-Action: FETCH (deliver)
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Content-Length: 73511
+Accept-Ranges: bytes
+X-Varnish: 557706127
+Via: 1.1 varnish
+X-Varnish-Age: 0
+Age: 0
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>1933 ǀ Alles Lüge  — der Freitag</title><!-- Favicon for browser bars --><!-- Touch icons --><!-- For third-generation iPad with high-resolution Retina display: --><!-- For iPhone with high-resolution Retina display: --><!-- For first- and second-generation iPad: --><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><!-- JS LIBS --><!-- FREITAG JS --><base href="http://www.freitag.de/autoren/der-freitag/alles-luege" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="Mit dem Ermächtigungsgesetz wird Adolf Hitler nicht nur durch die NSDAP, sondern auch durch die demokratischen Parteien der Mitte mit diktatorischer Macht versehen" /><meta name="viewport" content="width=1000" /><meta name="google-site-verification" content="18FJF_TGC6jy2e9KULkTr9swgdCBq9YbgcMesPDJVjc" /><link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.freitag.de/autoren/der-freitag/alles-luege/" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-70a2f9683f87ff7076840161ce0f68d4.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsboilerplate-cachekey-0629f0dc8054938b106a3df371543b39.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetssocialshareprivacy-cachekey-0dbddbc132cf7504a7fc2cb7c47a0f94.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsadvertorial-cachekey-8419a40984c85d49ff182e84e2338483.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsrunning_text-cachekey-3a11e4955f97482c2014406288a620c6.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetserror_page-cachekey-939197c5d0567b313d3ade3f5a0aab97.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsnotifications-cachekey-33928014af1ea5328947f412ba9762c9.css" /><link rel="stylesheet" type="text/css" href="http://www.freitag.de/portal_css/freitag_util_layout/themefreitag.themestylesheetsfloat_along-cachekey-cb6eadf8ae9de24cc2f3213b477f2528.css" /><link rel="shortcut icon" type="image/x-icon" href="http://www.freitag.de/++theme++freitag.theme/images/favicon.ico" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon-precomposed" href="http://www.freitag.de/++theme++freitag.theme/images/apple-touch-icon-precomposed.png" /><link rel="search" href="http://www.freitag.de/@@search" title="Website durchsuchen" /><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjqueryjquery-1.7.2.min-cachekey-6bbd587414308ea37974ee8d06a14c85.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-1.8.20.custom.min-cachekey-f5d190b29f66a120e7d133269d5568e8.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-uijquery-ui-i18n-cachekey-8da368ff4bb919939f0a3140c2b1a2a4.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsmodernizrmodernizr-2.5.3.min-cachekey-55a078ab03da59f2b65c3ae51fd95894.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/resourcefreitag.util.layoutjavascriptslibsjquery-validatejquery.validate-1.9.0.min-cachekey-e2d9b8a4a346d507a0db43fe0ac85c4f.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/plone_javascript_variables-cachekey-18716b054cabbf31d50fc0ec67eed9fd.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsexposeforms-cachekey-d98a97a70efbc6b01fd877e33050f4fe.js"></script><script type="text/javascript" src="http://www.freitag.de/portal_javascripts/freitag_util_layout/themefreitag.themejavascriptsdiscussion-cachekey-010653c626999a84443bc5ecb3ba668c.js"></script></head><body class="template-view portaltype-freitag-article-article site-website section-autoren"><div id="toolbar">
+
+  <div id="toolbar-global">
+    <div class="inner">
+      <div class="box">
+        <div id="engagement">
+      
+<ul id="user-actions"><li id="personaltools-join">
+    <a href="http://www.freitag.de/registrator">Registrieren</a>
+  </li>
+  <li id="personaltools-login">
+    <a href="http://www.freitag.de/login">Einloggen</a>
+  </li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="portal-messages">
+    <div class="inner">
+      <div class="box"><dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl></div>
+    </div>
+  </div>
+
+  <div id="toolbar-local">
+    <div class="inner">
+      <div class="box">
+        <div id="local-info">
+          </div>
+        <div id="local-action-menus">
+      
+
+
+
+
+
+
+    </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- End #toolbar --><div id="banners">
+  <div id="banner-top">
+        <div id="urban_banner">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1670&amp;ord=1364997579" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1670&amp;ord=1364997579" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1670&amp;ord=1364997579" alt="Hier klicken!" border="0" width="870" height="180" /></a>
+</noscript>
+
+
+</div>
+
+    </div>
+
+  <div id="banner-right">
+    <div class="inner">
+        <div id="urban_sky">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1671&amp;ord=1364997579" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1671&amp;ord=1364997579" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1671&amp;ord=1364997579" alt="Hier klicken!" border="0" width="200" height="1000" /></a>
+</noscript>
+
+
+</div>
+
+<div id="urban_layer">
+
+  <script src="http://urban.adspirit.de/adscript.php?pid=1672&amp;ord=1364997579" type="text/javascript"></script></div>
+
+    </div>
+  </div>
+</div><div id="page-wrapper">
+  <header id="page-header"><div class="inner">
+      <div id="header-top">
+        <div id="logo-header">
+          <h1>
+            <a id="logo" href="http://www.freitag.de">der Freitag</a>
+            <span id="claim" class="">Politik</span>
+          </h1>
+        </div>
+        <div id="issue">
+          <a target="_blank" href="http://abo.freitag.de">
+            <img src="/++theme++freitag.theme/images/abo.jpg" alt="Abo" /></a>
+        </div>
+      </div>
+      <div id="navigation">
+        <div id="primary-navigation">
+          <nav id="formats"><ul><li id="siteaction-guardian"><a href="http://www.freitag.de/autoren/the-guardian" title="Guardian">Guardian</a></li>
+    <li id="siteaction-authors"><a href="http://www.freitag.de/autoren" title="Autoren">Autoren</a></li>
+    <li id="siteaction-latest_activity"><a href="http://www.freitag.de/@@logbuch" title="Logbuch">Logbuch</a></li>
+  </ul></nav><nav id="sections"><ul><li class="menu">
+        <a href="http://www.freitag.de" style="">Startseite</a>
+        
+      </li>
+    
+    
+      <li class="menu active">
+        <a href="http://www.freitag.de/politik" style="">Politik</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/politik/inland" style="">Inland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/ausland" style="">Ausland</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/politik/netzpolitik" style="">Netzpolitik</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/kultur" style="">Kultur</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/kultur/literatur" style="">Literatur</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/medien" style="">Medien</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/film" style="">Film</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/kunst" style="">Kunst</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/buehne-und-musik" style="">Bühne &amp; Musik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/debatte" style="">Debatte</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/kultur/wissen" style="">Wissen</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu">
+        <a href="http://www.freitag.de/alltag" style="">Alltag</a>
+        <div class="submenu">
+          <ul><li>
+                <a href="http://www.freitag.de/alltag/im-portraet" style="">Im Porträt</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/gesellschaftskritik" style="">Gesellschaftskritik</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/frauen-und-maenner" style="">Frauen und Männer</a>
+              </li>
+            
+            
+              <li>
+                <a href="http://www.freitag.de/alltag/schoener-leben" style="">Schöner Leben</a>
+              </li>
+            
+          </ul></div>
+      </li>
+    
+    
+      <li class="menu community">
+        <a href="http://www.freitag.de/community" style="">Community</a>
+        
+      </li>
+    
+  </ul></nav></div>
+        <div id="secondary-navigation">
+          <nav id="shops"><ul><li>
+      <a title="Salon" href="http://www.freitag.de/autoren/freitag-salon">
+        Salon
+      </a>
+    </li>
+    <li class="menu products">
+      <a class="label" href="http://www.freitag.de/#">Produkt der Woche</a>
+      <div class="submenu">
+        <ul><li>
+            <a href="http://www.freitag.de/buch-der-woche">Buch der Woche</a>
+          </li>
+          <li>
+            <a href="http://www.freitag.de/album-der-woche">Album der Woche</a>
+          </li>
+        </ul></div>
+    </li>
+    <li>
+      <a href="http://www.freitag.de/kiosk-finder">Kiosk-Finder</a>
+    </li>
+    <li class="menu shops">
+      <a class="label" href="http://www.freitag.de/#">Shops</a>
+      <div class="submenu">
+        <ul><li>
+            <a target="_blank" href="http://freitag.onlinefilm.org/">
+              Filmothek
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://derfreitag.spreadshirt.de/">
+              Kollektion
+            </a>
+          </li>
+        </ul></div>
+    </li>
+  </ul></nav><div id="search">
+            <div id="current-date">03. April 2013</div>
+            <form name="searchform" id="search-form" action="http://www.freitag.de/@@search">
+
+    <input name="SearchableText" class="text" type="text" value="" /><input class="button" type="submit" name="SubmitSearch" value="Suche" /></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><div id="page-content">
+
+      
+
+        
+
+          <div id="main-wrapper">
+
+            
+            
+            <div id="focus">
+
+              <div id="sidekick">
+                <div class="inner">
+                  
+
+  <aside id="article-keywords" class="non-contained"><header><h1>Schlagworte</h1>
+      </header><div class="keywords running-text">
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=zeitgeschichte">zeitgeschichte</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=nsdap. ermächtigungsgesetz">nsdap. ermächtigungsgesetz</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=hitler">hitler</a>,
+          
+          
+              <a href="http://www.freitag.de/@@search?Subject:list=spd">spd</a>
+          
+      </div>
+  </aside><aside id="background" class="non-contained"><header><h1>Info</h1>
+      </header><div class="running-text">
+          <p>Wolfgang Wippermann schrieb zuletzt über NS-Kader bei der Urania in Westberlin</p>
+<p> </p>
+<h1>AUSGABE</h1>
+<p>Dieser Artikel erschien in <strong>Ausgabe 12/13</strong> vom 21.03.2013</p>
+      </div>
+  </aside><aside id="toolbox"><header><h1>Tools</h1>
+  </header><a class="comment" href="#commenting">Kommentieren</a>
+</aside><aside id="social-media"><header><h1>
+      Social Media
+    </h1>
+  </header><div id="socialshareprivacy"></div>
+
+</aside></div>
+              </div>
+
+              <div id="main">
+                <div class="inner">
+
+                  
+
+                    <div id="content-header">
+                      
+                    </div>
+
+                    
+
+    <article id="principal"><header><span class="author">Wolfgang Wippermann</span>
+        <div class="additional-info">
+          <span class="date">27.03.2013</span> |
+          <span class="time">09:00</span>
+          <span class="comment-count" title=" 16 mal kommentiert">16</span>
+        </div>
+      </header><div class="running-text article">
+        <h1>Alles Lüge </h1>
+
+        <p class="description">
+          <span class="catchword">1933</span>
+          Mit dem Ermächtigungsgesetz wird Adolf Hitler nicht nur durch die NSDAP, sondern auch durch die demokratischen Parteien der Mitte mit diktatorischer Macht versehen
+        </p>
+
+        
+          <div id="main-image">
+            <img src="http://www.freitag.de/autoren/der-freitag/alles-luege/@@images/a683a507-8c29-4445-8922-89466f0b6ec4.jpeg" alt="Alles Lüge " title="Alles Lüge " height="282" width="445" /><p class="credit">Foto: Scherl / Süddeutsche</p>
+          </div>
+        
+
+        <div class="text"><p>Bonn ist nicht Weimar! Die westdeutsche ist eine „wehrhafte Demokratie.“ Sie verteidigt sich gegen alle Angriffe der antidemokratischen Extremisten von links und rechts. Notfalls auch mit antidemokratischen Methoden, durch Parteiverbote und Radikalenerlasse – diese politischen Grundmaximen der Bundesrepublik basieren auf der historischen Annahme, dass die Weimarer Republik von linken und rechten Extremisten zerstört worden sei. Extremistische Antidemokraten hätten Hitler ermächtigt.</p>
+<p>Alles Lüge! Die schrittweise Zerstörung der Weimarer Demokratie erfolgte mit der Zustimmung und durch aktive Beihilfe auch der demokratischen Parteien. Dieser Prozess begann bereits 1928, als die nach wie vor mächtigen Ruhrindustriellen die 1918 vereinbarte Sozialpartnerschaft aufkündigten, indem sie mehr als 200.000 Arbeiter beim Ruhreisen-Streik widerrechtlich aussperrten. Es sollte ein Exempel statuiert werden. Das rheinisch-westfälische Unternehmerlager wollte geforderten Tariferhöhungen von 15 Pfennigen pro Arbeitsstunde nicht zustimmen, weil es befürchtete, dadurch würden die Gewerkschaften im Verbund mit der Reichsregierung unter SPD-Kanzler Hermann Müller zu stark. Die Repressionen wurden von allen demokratischen Parteien klaglos hingenommen. Seitdem war die Weimarer keine soziale Demokratie mehr. Seit 1930 war sie auch keine parlamentarische Demokratie mehr. Regiert wurde nicht mit dem Parlament, sondern gegen dasselbe mithilfe des Verfassungsartikels 48, der den Reichspräsidenten Hindenburg zu einer autoritären Regierung durch Erlass von Notverordnungen ermächtigte. Davon profitierten vorgeblich demokratische Politiker wie der 1930 ins Amt gekommene Kanzler Heinrich Brüning von der Zentrumspartei. Hindenburgs Vorgehen tolerierte auch die SPD.</p>
+<h2>Selbst entmachtet</h2>
+<p>Am 30. Januar 1933 fanden sich dann die Konservativen bereit, eine Allianz mit der NSDAP einzugehen. Offen erklärtes Ziel der Koalitionsregierung aus Deutsch-Nationaler Volkspartei (DNVP) und NSDAP war die völlige Zerstörung der Demokratie. Dennoch gab es von Seiten der demokratischen Parteien keinerlei Protest. Zum Widerstand aufgerufen hat allein die KPD. Doch die galt als antidemokratisch und wurde schon am 28. Februar 1933 unter Berufung auf die Reichstagsbrandverordnung verboten. Am 23. März 1933 erfolgte dann die endgültige Ermächtigung Hitlers. Dies geschah durch das „Gesetz zur Behebung der Not von Volk und Reich“. Es erlaubte der damaligen Regierung, Gesetze (auch verfassungsändernde) ohne Zustimmung des Parlaments zu erlassen. Damit hatte sich der Reichstag selbst entmachtet. Ein einmaliger Vorgang, wie es ihn in der Parlamentsgeschichte noch nie gegeben hatte.</p>
+<p>Doch damit war es nicht getan. Die Entmachtung der Legislative war keinesfalls nur das Werk von Antidemokraten, sondern auch der Demokraten. Neben den Abgeordneten der NSDAP und der Deutsch-Nationalen Volkspartei stimmten am 23. März auch das katholische Zentrum und liberale Parteien dem Ermächtigungsgesetz zu. Anschließend durften sie sich bis Mitte 1933 selbst auflösen und von der Bildfläche verschwinden. Sie hatten Hitler ermächtigt und sich selbst entmachtet.</p>
+<p>Beides war und ist durch nichts und niemanden zu legitimieren. Doch das war auch nicht nötig. CDU und FDP, die nach 1945 die Nachfolge des Zentrums, der liberalen Parteien (und der Konservativen!) antraten, mussten sich für das Fehlverhalten ihrer Vorgänger nicht rechtfertigen. Sie konnten einfach verschweigen, wie im März 1933 die Weimarer Demokratie auch durch den Beitrag ihrer Vorgängerparteien entsorgt wurde. Sie sind an diesem Verdrängen von Geschichte auch von der Nachkriegs-SPD nicht gehindert worden. Was erstaunt, schließlich war es die SPD-Fraktion, die dem Ermächtigungsgesetz nicht zugestimmt hatte. Mutig, aber nicht mutig genug. Mit diesem Nein war nämlich kein entschiedenes Ja zur Demokratie verbunden, denn von Widerstand war keine Rede. Den überließ man zunächst den Kommunisten. Sozialdemokratische Abgeordnete des nach der Wahl vom 5. März 1933 gebildeten Reichstags haben noch nicht einmal das Schicksal der bereits verfolgten und aus dem Parlament verbannten kommunistischen Kollegen beklagt. Fehlte der Mut?</p>
+<p>Später wurde dieses fatale Schweigen vom Parteivorsitzenden Otto Wels offen eingestanden, aber zugleich mit dem Hinweis entschuldigt, man sei schließlich völlig „wehrlos“ gewesen. Tatsächlich? War die SPD wirklich „wehrlos“? Wenn ja, dann doch wohl durch eigene Schuld. Die Partei verfügte mit dem zwei Millionen Mitglieder zählenden Reichsbanner über eine Wehrorganisation, die durchaus fähig gewesen wäre, sich einer Zerstörung der Weimarer Republik durch die NSDAP entgegenzustellen. Sie hätte freilich die dazu nötigen Waffen von der bis Mitte 1932 sozialdemokratisch geführten preußischen Polizei erhalten müssen.</p>
+<p>Der "Preußenschlag"</p>
+<p>Wäre und hätte! Dieses schöne sozialdemokratische Abwehrkonzept ist nämlich nicht realisiert worden. Schuld daran waren keineswegs die Konservativen und die notorisch antidemokratischen Nationalsozialisten, sondern Ex- oder Pseudodemokraten wie der Reichskanzler Franz von Papen, der unter Berufung auf Diktaturartikel 48 der Weimarer Reichsverfassung die sozialdemokratischen Befehlshaber der preußischen Polizei einfach absetzte und durch Kommissare ersetzte. Die Rede ist vom „Preußenschlag“ am 20. Juli 1932 gegen die rechtmäßige preußische Landesregierung. Dabei wurden außer Ministerpräsident Otto Braun und Innenminister Carl Severing (beide SPD) alle sozialdemokratischen Polizeipräsidenten in Preußen ihrer Ämter enthoben. Ein glatter Verfassungsbruch. Dennoch reichte die SPD nur eine absehbar erfolglose Klage beim Reichsgericht ein und verzichtete auf eine Mobilisierung des Reichsbanners, weil dies zu einem Bürgerkrieg führen könne, der nicht zu gewinnen sei, argumentierte die Parteiführung.</p>
+<p>Wiederum hätte und wäre! Denn sicher war das alles keineswegs. Was zählt, sind die Fakten: Die SPD hat sich selber „wehrlos“ gemacht. Dies schon am 20. Juli 1932, nicht erst am 30. Januar 1933, als das immer noch bestehende Reichsbanner wiederum nicht zum Widerstand aufgerufen wurde. Das Sündenregister der SPD ist damit keineswegs erschöpft. Keine zwei Monate nach ihrem Nein zum Ermächtigungsgesetz Hitlers sagten die noch im Reichstag verbliebenen Sozialdemokraten am 17. Mai 1933 dann immerhin Ja zu Hitlers heuchlerischer Friedensrede, als er sein außenpolitisches Programm verkündete.</p>
+<p>Diese würdelose Anbiederung ihrer Genossen im Reichstag war emigrierten Sozialdemokraten zu viel. Sie gründeten im Prager Exil eine neue sozialdemokratische Partei, die SOPADE. Die von der SPD abgespaltene SOPADE war es, die schließlich am 18. Juni 1933 dazu aufrief, die „Ketten zu zerbrechen“ und endlich Widerstand zu leisten. Zu Recht, denn die SPD wurde am 22. Juni 1933 verboten.</p>
+<p>Die Sozialdemokraten haben es nach 1945 vermieden, das absolute Fehlverhalten der bürgerlichen Parteien beim Votum zum Ermächtigungsgesetz anzuprangern. Schließlich saß man selber gewissermaßen in einem Glashaus, aus dem man tunlichst keine Steine werfen soll – gemeint ist die Mitschuld an der Zerstörung der Demokratie von Weimar.</p>
+<p>Für die Ermächtigung Hitlers waren jedoch die übrigen demokratischen Parteien verantwortlich. Dazu sollten sich ihre Nachfolgerinnen bekennen. Sie – und die Sozialdemokraten! – sollten aufhören, „falsch Zeugnis“ zu reden: Hitler ist nicht nur durch die NSDAP, sondern auch durch die demokratischen Parteien der Mitte ermächtigt worden. Das Konzept der „wehrhaften Demokratie“ ist falsch. Die Demokratie kann auch durch Demokraten abgebaut und zerstört werden. <strong></strong></p></div>
+
+        
+      </div>
+
+    </article><div id="content-footer">
+                      
+                    </div>
+
+                    <div id="interaction">
+                      
+  <div id="comments">
+
+    <h3>
+      <span class="comment-count-label">Kommentare</span>
+      <span class="comment-count">
+        (16)
+      </span>
+    </h3>
+
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364375031700944" name="1364375031700944"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/thinktankgirl">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/thinktankgirl" class="author ">thinktankgirl</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364375031700944">
+                  27.03.2013 |
+                  10:03</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>*****</p>
+<p>Schöner Artikel!</p>
+<p>Eine Selbstentmachtung eines Parlaments haben wir letztes Jahr mit der Verabschiedung des ESM-Vertrages erlebt.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364375031700944">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364380357877947" name="1364380357877947"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/raju">
+                
+                  <img src="http://www.freitag.de/autoren/raju/@@images/75cec991-7554-4b45-bb27-c2a8af43fb18.jpeg" alt="antares56" title="antares56" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/raju" class="author ">antares56</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364380357877947">
+                  27.03.2013 |
+                  11:32</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Das sind alles bekannte Tatsachen. Und viele junge Menschen heutzutage wissen nichts davon. Die SPD verdrängt ihr Versagen, die anderen (FDP/CDU/CSU) haben nach dem Krieg oft und gerne auch Alt-Nazis in ihre Reihen aufgenommen. Die Kriegsverbrecher der deutschen Wirtschaft und der Banken wurden auch nie richtig zur Rechenschaft gezogen, im Gegenteil, unter Adenauer durften sie fast alle wieder weitermachen.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364380357877947">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364384401248773" name="1364384401248773"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rechercheuse">
+                
+                  <img src="http://www.freitag.de/++theme++freitag.theme/images/avatar_tile.png" alt="Avatar" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rechercheuse" class="author ">rechercheuse</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364384401248773">
+                  27.03.2013 |
+                  12:40</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364380357877947">
+                    <span data-in_reply_to="1364380357877947" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>und die westalliierten sahen die probleme vor allem im osten ...</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364384401248773">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364386074590450" name="1364386074590450"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mcmac">
+                
+                  <img src="http://www.freitag.de/autoren/mcmac/@@images/0e5a2044-77b2-4420-a4e0-0a8f0e3beee7.jpeg" alt="mcmac" title="mcmac" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mcmac" class="author ">mcmac</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364386074590450">
+                  27.03.2013 |
+                  13:07</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sehr guter Beitrag, Danke!</p>
+<p>Passend dazu &amp; frisch in die "Anstalt" eingeliefert gestern Abend...</p>
+<p><iframe src="http://www.youtube.com/embed/7uPprYymRc8?start=1196" width="380" height="214" frameborder="0"></iframe></p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364386074590450">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364393314757374" name="1364393314757374"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/aqua-jedi">
+                
+                  <img src="http://www.freitag.de/autoren/aqua-jedi/@@images/983abd7c-bb32-4bd6-9828-9bd84fbd5472.jpeg" alt="Aqua-Jedi" title="Aqua-Jedi" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/aqua-jedi" class="author ">Aqua-Jedi</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364393314757374">
+                  27.03.2013 |
+                  15:08</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p><strong>Die SPDler können nicht anders. Man darf ihnen das nicht vorwerfen. Man muss sie nur richtig erkennen und einschätzen.</strong></p>
+<p>Die SPD ist von Anfang an durch das Gedankengut Lassalles, seiner Anfhänger und Nachfolger geprägt worden, bis heute. Daher ist ihnen eine Obrigkeits- und rechtsgläubigkeit inne. Sie können und wollen nicht zwischen Naturrecht und gesetztem Recht unterscheiden. </p>
+<p><a href="http://de.wikipedia.org/wiki/Positives_Recht">http://de.wikipedia.org/wiki/Positives_Recht</a></p>
+<p>Sie vermochten deshalb auch nicht 1918 die Gunst der Stunde zu nutzen, um zusammen mit revolutionären Kräften eine gute Verfassung auszuarbeiten und durchzusetzen. Die Weimarer Verfassung hatte deshalb von Anfang an Schwächen, die ihre Gegener (Großjunker, Adlige, Militaristen, Industriebarone und Finanzkapitalisten) ausnutzten, um die Weimarer Republik von innen zu zerstören. Die Ebertsche Republik holte sich diese Kräfte des untergegangenen Kaiserreichs sogar mit ins Boot und in Amt und Würden, anstelle sie ein für alle mal fortzujagen.</p>
+<p>Konsequenterweise machten die SPDler deshalb nach der Erfahrung der NS-Diktatur weiter wie bisher, obschon des Heidelberger Programm der SPD von 1925 ihnen einen anderen Weg wies. </p>
+<p><a href="http://www.1000dokumente.de/index.html?c=dokument_de&amp;dokument=0004_spd&amp;object=pdf&amp;st=HEIDELBERGER%20PROGRAMM&amp;l=de">http://www.1000dokumente.de/index.html?c=dokument_de&amp;dokument=0004_spd&amp;object=pdf&amp;st=HEIDELBERGER%20PROGRAMM&amp;l=de</a></p>
+<p>Sie berichtigten das Heidelberger Programm insofern, als dass das Godesberger Programm von 1959 ganz auf der Höhe des Adenauerschen Antikommunismus war und alle nachfolgenden Programme der SPD ebenso.</p>
+<p><em>"Zu Unrecht berufen sich die Kommunisten auf sozialistische Traditionen. In Wirklichkeit haben sie das sozialistische Gedankengut verfälscht. Die Sozialisten wollen Freiheit und Gerechtigkeit verwirklichen, während die Kommunisten die Zerrissenheit der Gesellschaft ausnutzen, um die Diktatur ihrer Partei zu errichten."</em></p>
+<p><a href="http://www.hdg.de/lemo/html/dokumente/DieZuspitzungDesKaltenKrieges_programmGodesbergerProgramm/index.html">http://www.hdg.de/lemo/html/dokumente/DieZuspitzungDesKaltenKrieges_programmGodesbergerProgramm/index.html</a></p>
+<p>Aus dieser Haltung heraus fürchten und bekämpfen rechte SPDler deshalb jegliche Diskussionen um ein politisches Streikrecht, welches den Bürgern als Notwehr dienen könnte.</p>
+<p><a href="http://www.nrhz.de/flyer/beitrag.php?id=18874">http://www.nrhz.de/flyer/beitrag.php?id=18874</a></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364393314757374">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364398287241831" name="1364398287241831"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/oswaldo">
+                
+                  <img src="http://www.freitag.de/autoren/oswaldo/@@images/fc897b24-bdfc-445b-bc05-7f99fd77085a.jpeg" alt="Andreas Kuntz" title="Andreas Kuntz" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/oswaldo" class="author ">Andreas Kuntz</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364398287241831">
+                  27.03.2013 |
+                  16:31</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Schöner Beitrag.</p>
+<p>Was Sie über die bürgerlichen Parteien und die SPD schreiben, kann man nur unterstreichen.</p>
+<p>Was Sie dem Leser allerdings aufgrund ihrer großen Sympathie für die KPD verschweigen, ist die Tatsache, dass Nazis und Kommunisten ab 1932 zusammen eine negative Mehrheit im Reichstag hatten - die sich in <em>einem</em> einig war: die Weimarer Republik nicht zu wollen. Dagegen, dagegen, dagegen... Es stimmt einfach nicht, dass man in der KPD-Fraktion, in der etwa auch ein Walter Ulbricht saß, die größten Anhänger des bürgerlichen Staates von Weimar gefunden hätte.</p>
+<p>Eigentlich müsste die historische Deutung Weimar dahin gehen, dass <em>keine</em> politische Kraft die Republik gewollt oder gar verteidigt hätte - gefolgt von der Frage, warum das so war.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364398287241831">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364398346332707" name="1364398346332707"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/oswaldo">
+                
+                  <img src="http://www.freitag.de/autoren/oswaldo/@@images/fc897b24-bdfc-445b-bc05-7f99fd77085a.jpeg" alt="Andreas Kuntz" title="Andreas Kuntz" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/oswaldo" class="author ">Andreas Kuntz</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364398346332707">
+                  27.03.2013 |
+                  16:32</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364398287241831">
+                    <span data-in_reply_to="1364398287241831" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>(historische Deutung Weimar<strong>s</strong>)</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364398346332707">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364420137097810" name="1364420137097810"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/columbus">
+                
+                  <img src="http://www.freitag.de/autoren/columbus/@@images/39a8569d-3afc-49d1-8b2c-a7e04067f236.jpeg" alt="Columbus" title="Columbus" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/columbus" class="author ">Columbus</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364420137097810">
+                  27.03.2013 |
+                  22:35</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sehr treffende und aktuelle Erinnerung an die größte Schlappe der Demokratie in Deutschland und ihren zweijährigen Vorlauf. </p>
+<p>Ihre Botschaft ist aktuell. Heute geht es um die soziale Marktwirtschaft und überhaupt darum, dass eine funktionierende Demokratie mehr als nur die Fitnessfaktoren für den internationalen Kapitalmarkt ausmachen.</p>
+<p>Was Angela Merkel tatsächlich mit dem Begriff der <strong>"marktkonformen Demokratie"</strong> meinte, das wissen wir nicht. Ich halte sie zwar nicht, im Gegensatz zu manchem Leitartikler, für eine Person die vom Ende her denkt, sondern eher für jemanden, der vom Augenblick und von Tag zu Tag, für sich lebt, aber in diesem Moment, mit diesem Schlagwort, hat sie schon viel verraten.</p>
+<p>Es tröstet wenig, dass der rhetorisch begabtere SPD-Kanzler Schröder, seine Ego-Ertüchtigungsstrategie lieber nicht so  direkt bezeichnen wollte und lieber mit Politikerfreund Blair den "dritten Weg" suchte, der dann bei der Zahl vier endete.</p>
+<p> Jedenfalls ist mit dem Begriff der  "marktkonformen Demokratie" die radikale Umkehr der Machtverhältnisse völlig eindeutig formuliert. Der weite Weg von der demokratischen Wirtschaftsordnung zur "marktkonformen Demokratie", das wird die moderne Geschichtserzählung der nächsten Jahre sein.</p>
+<p>Hoffentlich hilft das Wissen um diesen Epochenwandel den Europäern, sich am eigenen Schopfe aus dem Sumpf zu ziehen und genügend Partner zu finden, dieses Verhängnis auch global abzulehnen.</p>
+<p>Beste Grüße</p>
+<p>Christoph Leusch</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364420137097810">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364437642368685" name="1364437642368685"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/rupert-rauch">
+                
+                  <img src="http://www.freitag.de/autoren/rupert-rauch/@@images/d6f4baee-2ac2-4ea0-a199-bbafec1a72b3.png" alt="Rupert Rauch" title="Rupert Rauch" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/rupert-rauch" class="author ">Rupert Rauch</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364437642368685">
+                  28.03.2013 |
+                  03:27</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Wichtiger Artikel! Vielen Dank.</p>
+<p>Besonders perfide ist dann, wenn einem von Parteigängern, ein Recht auf mehr demokratische Mitsprache, ausgerechnet mit einem Verweis auf die Weimarer Republik abgesprochen wird. Das Volk ist dumm, Parteien weise und weitsichtig. Hahahaha.</p>
+<p>Witzigerweise haben sich die Parteien gerade mal wieder entmachtet, diesmal nicht zugunsten von rechten Spinnern, sondern zugunsten von liberalen Finanzfaschisten. Die Folgen sind jetzt schon verheerend und könnten durchaus auch wieder rechte Spinner an die Macht bringen...</p>
+<p> </p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364437642368685">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364489594410643" name="1364489594410643"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/thomasca">
+                
+                  <img src="http://www.freitag.de/autoren/thomasca/@@images/c3f7bf71-d479-4331-9b72-03c18d6f1fd1.jpeg" alt="thomasca" title="thomasca" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/thomasca" class="author ">thomasca</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364489594410643">
+                  28.03.2013 |
+                  17:53</a>
+                <div class="comment-antecessor">
+                  
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die sich heute als christlich, bürgerlich bezeichnen sind mit verantwortlich für die Katastrophe des Jahrhunderts, mit Millionen Toten und der Vernichtung des gesamten deutschen Vermögens. Es ist nicht zu glauben, das die geichen heute davon sprechen, das Europa jetzt deutsch spricht und sich ermächtigen lassen eine Finanzdiktatur zu errichten. Die SPD ist diesmal leider dabei.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364489594410643">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364562090860747" name="1364562090860747"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mylai68x">
+                
+                  <img src="http://www.freitag.de/autoren/mylai68x/@@images/45535d33-6452-4890-b58b-e1a86a621471.jpeg" alt="Mylai68x" title="Mylai68x" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mylai68x" class="author ">Mylai68x</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364562090860747">
+                  29.03.2013 |
+                  14:01</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364380357877947">
+                    <span data-in_reply_to="1364380357877947" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vergessen sie nicht die Frage nach der Souveränität. Die Besatzer waren an weiterer Entnazifizierung im kalten Krieg nicht mehr interessiert. Sie selbst rekrutierten Nazis und Kriegsverbrecher rücksichtslos in ihrem Geheimdienst, Untergrundarmee "stay behind", Wissenschaft usw. Selbst in der DDR konnten hohe Ex-SS Angehörige wieder in Staatsdiensten landen, auch wenn sie später ausgeschlossen wurden. Siehe  <a href="http://de.wikipedia.org/wiki/Karl-Heinz_Bartsch">http://de.wikipedia.org/wiki/Karl-Heinz_Bartsch</a></p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364562090860747">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364562405542534" name="1364562405542534"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mylai68x">
+                
+                  <img src="http://www.freitag.de/autoren/mylai68x/@@images/45535d33-6452-4890-b58b-e1a86a621471.jpeg" alt="Mylai68x" title="Mylai68x" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mylai68x" class="author ">Mylai68x</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364562405542534">
+                  29.03.2013 |
+                  14:06</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364489594410643">
+                    <span data-in_reply_to="1364489594410643" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sie haben den Beitrag nicht richtig gelesen. Die SPD war damals schon dabei, da ihre antikommunistische Einstellung stärker war als die antinationalistische. Sie wähnten die Nationalsozialisten als geringeres Übel. Nur weil einer eine mutige Rede gehalten hat, ist das noch lange kein Alibi für die (A)sozialdemokratische Partei Deutschlands.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364562405542534">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364562476361414" name="1364562476361414"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mylai68x">
+                
+                  <img src="http://www.freitag.de/autoren/mylai68x/@@images/45535d33-6452-4890-b58b-e1a86a621471.jpeg" alt="Mylai68x" title="Mylai68x" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mylai68x" class="author ">Mylai68x</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364562476361414">
+                  29.03.2013 |
+                  14:07</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364489594410643">
+                    <span data-in_reply_to="1364489594410643" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Sie haben den Beitrag nicht richtig gelesen. Die SPD war damals schon dabei, da ihre antikommunistische Einstellung stärker war als die antinationalistische. Sie wähnten die Nationalsozialisten als geringeres Übel. Nur weil einer eine mutige Rede gehalten hat, ist das noch lange kein Alibi für die (A)sozialdemokratische Partei Deutschlands.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364562476361414">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364562795721630" name="1364562795721630"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mylai68x">
+                
+                  <img src="http://www.freitag.de/autoren/mylai68x/@@images/45535d33-6452-4890-b58b-e1a86a621471.jpeg" alt="Mylai68x" title="Mylai68x" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mylai68x" class="author ">Mylai68x</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364562795721630">
+                  29.03.2013 |
+                  14:13</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364489594410643">
+                    <span data-in_reply_to="1364489594410643" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Vergessen sie nicht, dass ein Witz über den Arsch unserer Kanzlerin, der schwer zu besteigen wäre (Berlusconi) vor 100 jahren noch zu einer Kriegserklärung geführt hätte.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364562795721630">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364563227390470" name="1364563227390470"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mylai68x">
+                
+                  <img src="http://www.freitag.de/autoren/mylai68x/@@images/45535d33-6452-4890-b58b-e1a86a621471.jpeg" alt="Mylai68x" title="Mylai68x" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mylai68x" class="author ">Mylai68x</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364563227390470">
+                  29.03.2013 |
+                  14:20</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364393314757374">
+                    <span data-in_reply_to="1364393314757374" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Danke für diese klaren Fakten.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364563227390470">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+    
+      
+      <div class="comment-wrapper">
+        
+        <article class="comment " id="1364563923553013" name="1364563923553013"><div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/autoren/mylai68x">
+                
+                  <img src="http://www.freitag.de/autoren/mylai68x/@@images/45535d33-6452-4890-b58b-e1a86a621471.jpeg" alt="Mylai68x" title="Mylai68x" height="50" width="50" /></a>
+            </div>
+            <div class="box">
+              <header><a href="http://www.freitag.de/autoren/mylai68x" class="author ">Mylai68x</a>
+                
+                <a class="date" href="http://www.freitag.de/autoren/der-freitag/alles-luege#1364563923553013">
+                  29.03.2013 |
+                  14:32</a>
+                <div class="comment-antecessor">
+                  <a class="antecessor" href="#1364375031700944">
+                    <span data-in_reply_to="1364375031700944" class="author">
+                      @
+                      Referenzkommentar
+                    </span>
+                    <span class="date">22.01.2011</span>
+                  </a>
+                  <div class="tooltip">
+                    <div class="inner running-text comment"></div>
+                  </div>
+                </div>
+              </header><div class="running-text comment">
+                <p>Die Verantwortlichen haben aber dazu gelernt, nach Vorbild eines Jahrhundert Jahre alten Finanzimperium/system. Wer die Macht ausüben will, darf nie in den Vordergrund treten. Er lässt andere die Drecksarbeit machen. Hitler war auch nichts anderes als ein Instrument, das allerdings entglitten ist. Man hat zweimal an ihm verdient, erst an der Aufrüstung und dann an der Vernichtung. Hoffentlich kommt es nicht nochmal soweit? Siehe Saddam. Hinterlassen werden wie immer Zerstörung, Opfer, Armut, Chaos und Bürgerkrieg.</p>
+              </div>
+              <footer class="objectcontrol"><a class="login-to-reply" title="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." href="http://www.freitag.de/login?came_from=http://www.freitag.de/autoren/der-freitag/alles-luege#1364563923553013">Loggen Sie sich ein, um einen Kommentar zu hinterlassen.</a>
+                
+              </footer></div>
+          </div>
+        </article></div>
+    
+    
+  </div>
+
+  <div id="commenting">
+
+    
+
+    
+
+      <form method="get" action="http://www.freitag.de/login">
+        <div class="formControls">
+          <input type="hidden" name="came_from" value="http%3A//www.freitag.de/autoren/der-freitag/alles-luege/view" /><input class="standalone" type="submit" value="Loggen Sie sich ein, um einen Kommentar zu hinterlassen." /></div>
+      </form>
+
+      
+
+    
+
+  </div>
+
+
+
+
+
+<div id="plista_widget_belowArticle"></div>
+
+
+
+                    </div>
+
+                  
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div id="breakout">
+            <div class="inner">
+              <aside id="member-profile" class="author group-authors"><h1>
+    <a href="http://www.freitag.de/autoren/der-freitag">der Freitag</a>
+    
+  </h1>
+  <div class="inner member">
+    <header class="imagebox"><div class="image">
+        <a href="http://www.freitag.de/autoren/der-freitag">
+          <img src="http://www.freitag.de/autoren/der-freitag/@@images/50c1cea0-2a14-47a6-8687-3435f86755e3.png" alt="der Freitag" title="der Freitag" height="65" width="65" /></a>
+        
+      </div>
+      
+    </header><div class="details">
+      
+      <div class="member_since">
+        Mitglied seit:
+        <span class="detail">15.06.2012</span>
+      </div>
+      
+      <div class="number_of_articles">
+        <a title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">Beiträge</a>:
+        <a class="detail" title="Beiträge" href="http://www.freitag.de/autoren/der-freitag">24295</a>
+      </div>
+      <div class="number_of_comments">
+        <a title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">Kommentare</a>:
+        <a class="detail" title="Kommentare" href="http://www.freitag.de/autoren/der-freitag/@@kommentare">103</a>
+      </div>
+      
+      
+      <div class="connections-readers">
+        <a title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">Leser</a>:
+        <a class="detail" title="Leser" href="http://www.freitag.de/autoren/der-freitag/@@leser">19</a>
+      </div>
+    </div>
+    <div class="actions">
+      
+      
+      <div class="action rss">
+        <a href="http://www.freitag.de/autoren/der-freitag/RSS">
+           RSS-Feed abonnieren
+        </a>
+      </div>
+    </div>
+  </div>
+</aside><aside id="product-teasers" class="accordion"><div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Buch der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                <img src="http://www.freitag.de/buch-der-woche/die-machtmaschine/@@images/98954acd-333c-4b7b-90a4-24abc92d04b2.jpeg" alt="Die Machtmaschine" title="Die Machtmaschine" height="176" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Die Machtmaschine</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine"><span>Sascha Adamek</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">
+                    <p>Heyne 2013<br />352 Seiten. Gebunden.<br />19,99 €</p>
+<p>eBook: 15,99 €<br />Format: EPUB (DRM)</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/buch-der-woche/die-machtmaschine">Sascha Adamek ist einer bislang unerkannten Gewalt auf der Spur, die im Verborgenen massiv Einfluss auf die Politik nimmt: Hinter der verschwommenen Matrix politischer und wirtschaftlicher Netzwerke wird die Dimension des Privaten und der menschliche Makel rücksichtslos als Machtfaktor ausgespielt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="product accordion-item">
+      <header><h1>
+          <a class="accordion-trigger" href="http://www.freitag.de/album-der-woche/little-french-songs">Album der Woche</a>
+        </h1>
+      </header><div class="main accordion-slider">
+        <div class="inner">
+          <div class="imagebox">
+            <div class="image">
+              <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                <img src="http://www.freitag.de/album-der-woche/little-french-songs/@@images/a06d10ad-0995-415a-b71d-6b1ecbacdd4e.jpeg" alt="Little French Songs" title="Little French Songs" height="110" width="110" /></a>
+            </div>
+            <div class="box">
+              <div class="meta">
+                <h2>
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Little French Songs</span></a>
+                </h2>
+                <div class="artist">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs"><span>Carla Bruni</span></a>
+                </div>
+                <div class="info">
+                  <a href="http://www.freitag.de/album-der-woche/little-french-songs">
+                    <p>VÖ: 29.03.2013<br />Laufzeit: 33 Min. 57 Sek.<br />Barclay/Universal<br />15,99 €</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="description">
+            <a href="http://www.freitag.de/album-der-woche/little-french-songs">Nachdem Carla Bruni kürzlich, quasi als Vorgeschmack, bereits den Song "Mon Raymond" live vor einem begeisterten ECHO-Publikum darbot, erscheint nun endlich das mittlerweile vierte Studioalbum "Little French Songs" der französischen Sängerin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside><aside id="author-articles" class="imagelisting"><header><h1>Weitere Beiträge von Wolfgang Wippermann</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-goethe-freund">
+              <span class="catchword">1953</span>
+              Der Goethe-Freund </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-goethe-freund">
+              <span class="comment-count" title=" 6 mal kommentiert">6</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/als-spion-geaechtet">
+              <span class="catchword">1942</span>
+              Als Spion geächtet  </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/als-spion-geaechtet">
+              <span class="comment-count" title=" 9 mal kommentiert">9</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-neffe-des-kardinals">
+              <span class="catchword">1992</span>
+              Der Neffe des Kardinals </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-neffe-des-kardinals">
+              <span class="comment-count" title=" 10 mal kommentiert">10</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_1" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1673&amp;ord=1364997580" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1673&amp;ord=1364997580" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1673&amp;ord=1364997580" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside><aside id="department-articles" class="imagelisting"><header><h1>Weitere Beiträge im Ressort</h1>
+  </header><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="catchword">BRICS-Gipfel</span>
+              Nicht alles gelingt sofort </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/nicht-alles-gelingt-sofort">
+              <span class="author group-authors">Michael Krätke </span>
+              
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="catchword">1963</span>
+              Das Kuckucksei </a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/das-kuckucksei">
+              <span class="author group-authors">Georg Fülberth</span>
+              <span class="comment-count" title=" 3 mal kommentiert">3</span>
+            </a>
+          </footer></div>
+      </article><article><div class="text">
+          <h2>
+            <a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="catchword">Finanzkrise</span>
+              Der Rubel rollt</a>
+           </h2>
+          <footer><a href="http://www.freitag.de/autoren/der-freitag/der-rubel-rollt">
+              <span class="author group-authors">Dierk Hirschel</span>
+              <span class="comment-count" title=" 11 mal kommentiert">11</span>
+            </a>
+          </footer></div>
+      </article></aside><aside id="urban_contentad_2" class="advertisement"><header><span>Anzeige</span>
+  </header><script src="http://urban.adspirit.de/adscript.php?pid=1674&amp;ord=1364997580" type="text/javascript"></script><noscript>
+ <a href="http://urban.adspirit.de/adnoclick.php?pid=1674&amp;ord=1364997580" target="_top">
+  <img src="http://urban.adspirit.de/adnoscript.php?pid=1674&amp;ord=1364997580" alt="Hier klicken!" border="0" width="300" height="250" /></a>
+</noscript>
+
+
+</aside></div>
+          </div>
+
+        
+
+      
+
+    </div>
+
+  <footer id="page-footer"><div class="inner">
+      <!-- This should be in viewlets at some point, use freitag.util.layout.portal_footer viewlet manager -->
+      <div id="footer-top">
+        <div id="logo-footer">
+          <h1>
+            <a class="logo" href="http://freitag.de">der Freitag - Das Meinungsmedium</a>
+          </h1>
+        </div>
+      </div>
+      <div id="footer-bottom">
+        <nav id="service"><ul id="portal-siteactions"><li id="siteaction-contact"><a href="http://www.freitag.de/kontakt" title="Kontakt" accesskey="9">Kontakt</a></li>
+    <li id="siteaction-impressum"><a href="http://www.freitag.de/impressum" title="Impressum" accesskey="">Impressum</a></li>
+    <li id="siteaction-datenschutz"><a href="http://www.freitag.de/datenschutz" title="Datenschutz" accesskey="">Datenschutz</a></li>
+    <li id="siteaction-netiquette"><a href="http://www.freitag.de/netiquette" title="Netiquette" accesskey="">Netiquette</a></li>
+    <li id="siteaction-media"><a href="http://www.freitag.de/media" title="Media" accesskey="">Media</a></li>
+    <li id="siteaction-faq"><a href="http://www.freitag.de/faq" title="FAQ" accesskey="">FAQ</a></li>
+    <li id="siteaction-agb"><a href="http://www.freitag.de/agb" title="AGB" accesskey="">AGB</a></li>
+    <li id="siteaction-rss"><a href="http://www.freitag.de/rss" title="RSS" accesskey="">RSS</a></li>
+    <li id="siteaction-kiosk_finder"><a href="http://www.freitag.de/kiosk-finder" title="Kiosk-Finder" accesskey="">Kiosk-Finder</a></li>
+    <li id="siteaction-newsletter"><a href="http://eepurl.com/tEq0D" title="Newsletter" accesskey="">Newsletter</a></li>
+</ul></nav><div id="copyright">
+          © der Freitag Mediengesellschaft mbH &amp; Co. KG
+        </div>
+      </div>
+    </div>
+  </footer></div><div id="body-footer">
+        <script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4401985-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><!-- SZM VERSION="1.5" --><script type="text/javascript">
+<!--
+var IVW="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" />");
+//-->
+</script><noscript>
+<img src="http://freitag.ivwbox.de/cgi-bin/ivw/CP/Politik" width="1" height="1" /></noscript>
+<!-- /SZM -->
+
+<!--SZMFRABO VERSION="1.2" -->
+<script cp="text/javascript">
+<!--
+var szmvars="freitag//CP//Politik";
+// -->
+</script><script src="http://freitag.ivwbox.de/2004/01/survey.js" cp="text/javascript">
+</script><!-- /SZMFRABO --><script type="text/javascript" src="http://static.plista.com/freitag.de_v1.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+PLISTA.items.push({
+    category: "Politik",
+    img: "http://www.freitag.de/autoren/der-freitag/alles-luege/@@images/f7609a2d-11df-4694-aa98-1d4d6c1aba4c.jpeg",
+    objectid: "01ae7a2a1ee94a1e9bd39248da669681",
+    title: "Alles Lüge ",
+    url: "http://www.freitag.de/autoren/der-freitag/alles-luege",
+    text: "Mit dem Ermächtigungsgesetz wird Adolf Hitler nicht nur durch die NSDAP, sondern auch durch die demokratischen Parteien der Mitte mit diktatorischer Macht versehen",
+    created_at: "1364371200"
+});
+PLISTA.partner.init();
+/* ]]> */
+</script><!-- Google Code for Freitag Allgemein --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019494758;
+var google_conversion_label = "iR-GCKq29wEQ5oKR5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019494758/?value=0&amp;label=iR-GCKq29wEQ5oKR5gM&amp;guid=ON&amp;script=0" /></div>
+</noscript>
+
+    </div></body></html>
